@@ -1,0 +1,39 @@
+# shapefiles
+*.cpg
+*.dbf
+*.prj
+*.shp
+*.sbn
+*.xml
+*.shx
+*.sbx
+
+# database dumpfiles 
+*.dat
+*.dat.gz
+*.gz
+*.dat
+
+# archives
+.zip
+.tar
+.tar.gz
+.tar.bz2
+.rar
+.7z
+.gz 
+
+# common binaries
+*.xlsx
+*.xls
+*.doc
+*.docx
+*.ppt
+*.pptx
+*.sqlite
+*.db
+*.ddb
+*.parquet
+
+# mac files
+.DS_Store
