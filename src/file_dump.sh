@@ -28,11 +28,8 @@ ogr2ogr -f "GeoJSON" ./data/final/house_districts.geojson PG:"host=$PG_HOST user
 # senate_districts
 ogr2ogr -f "GeoJSON" ./data/final/senate_districts.geojson PG:"host=$PG_HOST user=$PG_USER dbname=$PG_DB" -sql "SELECT * FROM l2_senate_districts"
 
-# places
-ogr2ogr -f "GeoJSON" ./data/final/places.geojson PG:"host=$PG_HOST user=$PG_USER dbname=$PG_DB" -sql "SELECT * FROM l2_places"
-
 # pumas
-ogr2ogr -f "GeoJSON" ./data/final/pumas.geojson PG:"host=$PG_HOST user=$PG_USER dbname=$PG_DB" -sql "SELECT * FROM l1_pumas"
+ogr2ogr -f "GeoJSON" ./data/intermediate/pumas.geojson PG:"host=$PG_HOST user=$PG_USER dbname=$PG_DB" -sql "SELECT * FROM l1_pumas"
 
 
 
@@ -61,8 +58,7 @@ psql -h "$PG_HOST" -p "$PG_PORT" -U "$PG_USER" -d "$PG_DB" -c "\COPY l2_taxes TO
 # # lookup tables
 
 # # lookup_rca_electric_certificates
-psql -h "$PG_HOST" -p "$PG_PORT" -U "$PG_USER" -d "$PG_DB" -c "\COPY lookup_rca_electric_certificates TO ./data/final/lookup_rca_electric_certificates.csv DELIMITER ',' CSV HEADER;"
-
+psql -h "$PG_HOST" -p "$PG_PORT" -U "$PG_USER" -d "$PG_DB" -c "\COPY lookup_rca_electric_certificates TO ./data/intermediate/lookup_rca_electric_certificates.csv DELIMITER ',' CSV HEADER;"
 
 
 
@@ -77,7 +73,3 @@ psql -h "$PG_HOST" -p "$PG_PORT" -U "$PG_USER" -d "$PG_DB" -c "\COPY communities
 psql -h "$PG_HOST" -p "$PG_PORT" -U "$PG_USER" -d "$PG_DB" -c "\COPY communities_school_districts TO ./data/final/communities_school_districts.csv DELIMITER ',' CSV HEADER;"
 
 
-
-# # # views
-# # example communities generation
-# psql -h "$PG_HOST" -p "$PG_PORT" -U "$PG_USER" -d "$PG_DB" -c "\COPY (SELECT * FROM example_communities_generation) TO ~/Desktop/example_communities_generation.csv DELIMITER ',' CSV HEADER;"
