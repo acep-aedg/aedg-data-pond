@@ -57,9 +57,20 @@ psql -h "$PG_HOST" -p "$PG_PORT" -U "$PG_USER" -d "$PG_DB" -c "\COPY l2_taxes TO
 
 
 
-# # relations
 
-# # communities_districts (RENAME communities_legislative_districts)
+# # lookup tables
+
+# # lookup_rca_electric_certificates
+psql -h "$PG_HOST" -p "$PG_PORT" -U "$PG_USER" -d "$PG_DB" -c "\COPY lookup_rca_electric_certificates TO ./data/final/lookup_rca_electric_certificates.csv DELIMITER ',' CSV HEADER;"
+
+
+
+
+
+
+# # join tables
+
+# # communities_legislative_districts
 psql -h "$PG_HOST" -p "$PG_PORT" -U "$PG_USER" -d "$PG_DB" -c "\COPY communities_legislative_districts TO ./data/final/communities_legislative_districts.csv DELIMITER ',' CSV HEADER;"
 
 # communities_school_districts
@@ -68,5 +79,5 @@ psql -h "$PG_HOST" -p "$PG_PORT" -U "$PG_USER" -d "$PG_DB" -c "\COPY communities
 
 
 # # # views
-# example communities generation
-psql -h "$PG_HOST" -p "$PG_PORT" -U "$PG_USER" -d "$PG_DB" -c "\COPY (SELECT * FROM example_communities_generation) TO ~/Desktop/example_communities_generation.csv DELIMITER ',' CSV HEADER;"
+# # example communities generation
+# psql -h "$PG_HOST" -p "$PG_PORT" -U "$PG_USER" -d "$PG_DB" -c "\COPY (SELECT * FROM example_communities_generation) TO ~/Desktop/example_communities_generation.csv DELIMITER ',' CSV HEADER;"
