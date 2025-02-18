@@ -52,6 +52,12 @@ psql -h "$PG_HOST" -p "$PG_PORT" -U "$PG_USER" -d "$PG_DB" -c "\COPY l2_employme
 # taxes
 psql -h "$PG_HOST" -p "$PG_PORT" -U "$PG_USER" -d "$PG_DB" -c "\COPY l2_taxes TO ./data/final/taxes.csv DELIMITER ',' CSV HEADER;"
 
+# generation
+psql -h "$PG_HOST" -p "$PG_PORT" -U "$PG_USER" -d "$PG_DB" -c "\COPY l3_yearly_generation TO ./data/final/yearly_generation.csv DELIMITER ',' CSV HEADER;"
+
+# capacity
+psql -h "$PG_HOST" -p "$PG_PORT" -U "$PG_USER" -d "$PG_DB" -c "\COPY l3_capacity TO ./data/final/capacity.csv DELIMITER ',' CSV HEADER;"
+
 
 
 
