@@ -66,6 +66,12 @@ psql -h "$PG_HOST" -p "$PG_PORT" -U "$PG_USER" -d "$PG_DB" -c "\COPY l3_capacity
 # # lookup_rca_electric_certificates
 psql -h "$PG_HOST" -p "$PG_PORT" -U "$PG_USER" -d "$PG_DB" -c "\COPY lookup_rca_electric_certificates TO ./data/intermediate/lookup_rca_electric_certificates.csv DELIMITER ',' CSV HEADER;"
 
+# # lookup_eia_plants_grids
+psql -h "$PG_HOST" -p "$PG_PORT" -U "$PG_USER" -d "$PG_DB" -c "\COPY lookup_eia_plants_grids TO ./data/intermediate/lookup_eia_plants_grids.csv DELIMITER ',' CSV HEADER;"
+
+# # lookup_fips_codes_grids
+psql -h "$PG_HOST" -p "$PG_PORT" -U "$PG_USER" -d "$PG_DB" -c "\COPY lookup_fips_codes_grids TO ./data/intermediate/lookup_fips_codes_grids.csv DELIMITER ',' CSV HEADER;"
+
 
 
 

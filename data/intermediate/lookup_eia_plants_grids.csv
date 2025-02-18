@@ -1,0 +1,147 @@
+plant_id_eia,plant_name_eia,utility_id_eia,utility_name_eia,grid_id
+1,Sand Point,63560,"Sand Point Generating, LLC",187
+62,Annex Creek,213,Alaska Electric Light & Power Co.,222
+63,Gold Creek,213,Alaska Electric Light & Power Co.,222
+64,Lemon Creek,213,Alaska Electric Light & Power Co.,222
+65,Salmon Creek 1,213,Alaska Electric Light & Power Co.,222
+66,Skagway,219,Alaska Power Co,32
+69,Haines,219,Alaska Power Co,32
+70,Swan Lake,60123,Southeast Alaska Power Agency,217
+71,Terror Lake Microgrid,10433,Kodiak Electric Assn Inc,223
+75,Hank Nikkels Plant 1,3522,Chugach Electric Assn Inc,215
+77,Eklutna,3522,Chugach Electric Assn Inc,215
+78,Snettisham,213,Alaska Electric Light & Power Co.,222
+79,Aurora Energy LLC,986,Aurora Energy LLC,215
+84,Ketchikan,10210,Ketchikan City of,217
+85,S W Bailey,10210,Ketchikan City of,217
+90,Snake River,13642,Nome Joint Utility Systems,159
+91,Petersburg,14856,Petersburg City of,217
+92,Seward,16955,Seward City of,215
+93,Riley#03a,17271,Sitka City & Borough of,219
+95,Wrangell,21015,Wrangell City of,217
+96,Beluga,3522,Chugach Electric Assn Inc,215
+109,Dillingham,13870,Nushagak Electric Coop Inc,169
+313,Green Lake,17271,Sitka City & Borough of,219
+390,Solomon Gulch,4329,Copper Valley Elec Assn Inc,216
+406,Tok,219,Alaska Power Co,15
+421,Craig,219,Alaska Power Co,23
+423,Hydaburg,219,Alaska Power Co,23
+789,Orca,40215,Cordova Electric Coop Inc,14
+6281,Kodiak Microgrid,10433,Kodiak Electric Assn Inc,223
+6283,Seldovia,19558,Homer Electric Assn Inc,215
+6285,North Pole,7353,Golden Valley Elec Assn Inc,215
+6286,Fairbanks,7353,Golden Valley Elec Assn Inc,215
+6288,Healy,7353,Golden Valley Elec Assn Inc,215
+6291,Cooper Lake,3522,Chugach Electric Assn Inc,215
+6292,Bernice Lake,19558,Homer Electric Assn Inc,215
+6293,International,3522,Chugach Electric Assn Inc,215
+6299,Unalakleet,40548,Unalakleet Valley Elec Coop,194
+6301,Naknek,13201,Naknek Electric Assn Inc,150
+6302,Purple Lake,12385,Metlakatla Power & Light,225
+6304,Kotzebue,10451,Kotzebue Electric Assn Inc,135
+6305,Glennallen,4329,Copper Valley Elec Assn Inc,216
+6306,Valdez,4329,Copper Valley Elec Assn Inc,216
+6311,Chevak,221,Alaska Village Elec Coop Inc,40
+6314,Emmonak,221,Alaska Village Elec Coop Inc,45
+6319,Hooper Bay,221,Alaska Village Elec Coop Inc,50
+6323,Kiana,221,Alaska Village Elec Coop Inc,57
+6329,Mountain Village,221,Alaska Village Elec Coop Inc,75
+6330,Noorvik,221,Alaska Village Elec Coop Inc,67
+6338,St Mary's,221,Alaska Village Elec Coop Inc,75
+6341,Selawik,221,Alaska Village Elec Coop Inc,78
+6345,Shishmaref,221,Alaska Village Elec Coop Inc,81
+6348,Togiak,221,Alaska Village Elec Coop Inc,86
+6555,McGrath,12119,McGrath Light & Power Co,143
+6559,George M Sullivan,3522,Chugach Electric Assn Inc,215
+6566,Bethel,221,Alaska Village Elec Coop Inc,34
+6580,Beaver Falls,10210,Ketchikan City of,217
+6581,Silvis,10210,Ketchikan City of,217
+6637,Yakutat,221,Alaska Village Elec Coop Inc,91
+6702,Pelican,29297,Pelican Utility District,172
+6801,Indian River,17271,Sitka City & Borough of,219
+7042,Humpback Creek,40215,Cordova Electric Coop Inc,14
+7112,Centennial,12385,Metlakatla Power & Light,225
+7168,Chester Lake,12385,Metlakatla Power & Light,225
+7169,Northway,219,Alaska Power Co,12
+7173,Barrow,1276,Barrow Utils & Elec Coop Inc,221
+7174,Gwitchyaa Zhee,7833,Gwitchyaa Zhee Utility Co,119
+7182,Aniak,4959,Aniak Light & Power Co Inc,93
+7183,I-N-N Electric,9188,I-N-N Electric Coop Inc,123
+7250,Auke Bay,213,Alaska Electric Light & Power Co.,222
+7367,Bradley Lake,19558,Homer Electric Assn Inc,215
+7414,Thorne Bay Plant,219,Alaska Power Co,23
+7437,Galena Electric Util,6915,Galena Electric Utility,115
+7462,Angoon,18963,Tlingit & Haida Region El Auth,125
+7463,Hoonah,18963,Tlingit & Haida Region El Auth,128
+7464,Kake,18963,Tlingit & Haida Region El Auth,129
+7482,NSB Atquasuk Utility,26616,North Slope Borough of,161
+7483,NSB Kaktovik Utility,26616,North Slope Borough of,162
+7484,NSB Nuiqsut Utility,26616,North Slope Borough of,163
+7485,NSB Point Hope Util,26616,North Slope Borough of,164
+7486,NSB Point Lay Util,26616,North Slope Borough of,165
+7487,NSB Anaktuvuk Pass,26616,North Slope Borough of,160
+7488,NSB Wainwright Util,26616,North Slope Borough of,166
+7493,King Cove,9897,King Cove City of,131
+7502,Dutch Harbor,19454,Unalaska City of,195
+7503,Unalaska Power Mod,19454,Unalaska City of,195
+7723,Nymans Plant Microgrid,10433,Kodiak Electric Assn Inc,223
+7751,Goat Lake Hydro,219,Alaska Power Co,32
+7752,Black Bear Lake,219,Alaska Power Co,23
+7841,Valdez Co-Gen,4329,Copper Valley Elec Assn Inc,216
+7862,Power Creek,40215,Cordova Electric Coop Inc,14
+50308,Utility Plants Section,56389,Doyon Utilities,215
+50392,Eielson Air Force Base Central,22199,U S Air Force-Eielson AFB,215
+50711,University of Alaska Fairbanks,19511,University of Alaska,215
+52184,Tesoro Alaska Petroleum,18617,Tesoro Alaska Co,215
+54305,Westward Seafoods Inc,20523,Westward Seafoods Inc,195
+54422,Unisea Incorporated G 2,19553,Unisea Inc,195
+54834,Fort Greely,19272,U S Army-Fort Greely,215
+55966,Nikiski Combined Cycle,19558,Homer Electric Assn Inc,215
+56146,False Island,219,Alaska Power Co,23
+56265,South Fork,219,Alaska Power Co,215
+56325,Delta Power,7353,Golden Valley Elec Assn Inc,215
+56542,Kasidaya Creek Hydro,219,Alaska Power Co,32
+57036,Southcentral Power Plant,3522,Chugach Electric Assn Inc,215
+57051,Noatak,221,Alaska Village Elec Coop Inc,66
+57052,Savoonga,221,Alaska Village Elec Coop Inc,76
+57053,Alakanuk,221,Alaska Village Elec Coop Inc,45
+57054,Upper Kalskag,221,Alaska Village Elec Coop Inc,52
+57055,Stebbins,221,Alaska Village Elec Coop Inc,84
+57056,Scammon Bay,221,Alaska Village Elec Coop Inc,77
+57057,Quinhagak,221,Alaska Village Elec Coop Inc,71
+57058,Pilot Station,221,Alaska Village Elec Coop Inc,70
+57059,Koyuk,221,Alaska Village Elec Coop Inc,60
+57060,Elim,221,Alaska Village Elec Coop Inc,43
+57062,Gambell,221,Alaska Village Elec Coop Inc,46
+57063,Shungnak,221,Alaska Village Elec Coop Inc,149
+57064,Kotlik,221,Alaska Village Elec Coop Inc,59
+57065,Kivalina,221,Alaska Village Elec Coop Inc,58
+57066,Kasigluk,221,Alaska Village Elec Coop Inc,55
+57067,Toksook Bay,221,Alaska Village Elec Coop Inc,88
+57085,Lake Dorothy,213,Alaska Electric Light & Power Co.,222
+57187,Pillar Mountain,10433,Kodiak Electric Assn Inc,223
+57206,Soldotna,19558,Homer Electric Assn Inc,215
+57583,Battery Energy Storage System,7353,Golden Valley Elec Assn Inc,215
+57935,Eva Creek Wind,7353,Golden Valley Elec Assn Inc,215
+58117,TNSG South Plant,57494,TDX North Slope Generating Inc.,224
+58278,TNSG North Plant,57494,TDX North Slope Generating Inc.,224
+58380,JBER Landfill Gas Power Plant,58368,"Doyon Utilities, LLC",215
+58405,ESS Battery,10433,Kodiak Electric Assn Inc,223
+58425,Fire Island Wind,58422,Fire Island Wind LLC,215
+58511,Delta Wind Farm,58488,Alaska Environmental Power,215
+58977,Whitman,10210,Ketchikan City of,217
+58982,Allison Creek Hydro,4329,Copper Valley Elec Assn Inc,216
+58989,Eklutna Generation Station,11824,Matanuska Electric Assn Inc,215
+59037,Reynolds Creek,60222,"Haida Energy, Inc.",23
+59793,Industrial Plant,213,Alaska Electric Light & Power Co.,222
+60243,Ambler,221,Alaska Village Elec Coop Inc,35
+60244,Marshall,221,Alaska Village Elec Coop Inc,61
+60245,New Stuyahok,221,Alaska Village Elec Coop Inc,65
+60250,Swampy Acres,10433,Kodiak Electric Assn Inc,223
+60260,Brevig Mission,221,Alaska Village Elec Coop Inc,39
+60563,Flywheel Energy Storage System,10433,Kodiak Electric Assn Inc,223
+61166,Tyee Lake Hydroelectric Facility,60123,Southeast Alaska Power Agency,217
+61684,Klawock Power Generation Station,219,Alaska Power Co,23
+61685,Slana Generating Station ,219,Alaska Power Co,26
+62714,Eyak Service Center BESS,40215,Cordova Electric Coop Inc,14
+65767,Gustavus,219,Alaska Power Co,118
