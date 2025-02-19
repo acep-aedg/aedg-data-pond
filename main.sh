@@ -7,7 +7,7 @@ start_time=$(date +%s.%N)
 # Set PostgreSQL credentials and target database name (password stored in .pgpass)
 export PG_HOST="localhost"      
 export PG_PORT="5432"           
-export PG_USER="aedg"     
+export PG_USER="aedg_read_only"     
 export PG_DB="aedg_db"    # Database name to delete tables from
 
 # Ensure the .pgpass file exists and has correct permissions
