@@ -58,6 +58,9 @@ psql -h "$PG_HOST" -p "$PG_PORT" -U "$PG_USER" -d "$PG_DB" -c "\COPY l3_yearly_g
 # capacity
 psql -h "$PG_HOST" -p "$PG_PORT" -U "$PG_USER" -d "$PG_DB" -c "\COPY l3_capacity TO ./data/final/capacity.csv DELIMITER ',' CSV HEADER;"
 
+# grids
+psql -h "$PG_HOST" -p "$PG_PORT" -U "$PG_USER" -d "$PG_DB" -c "\COPY l2_grids TO ./data/final/grids.csv DELIMITER ',' CSV HEADER;"
+
 
 
 
