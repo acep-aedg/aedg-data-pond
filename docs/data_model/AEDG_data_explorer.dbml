@@ -4,20 +4,21 @@
 
 Table communities {
   id integer [primary key]
-  label varchar
-  village_corp_id integer
-  regional_corp_id integer
-  borough_id integer
-  grid_id integer
   fips_code varchar [note: "Federal Information Processing Series (FIPS)"]
+  name varchar
+  regional_corporation_fips_code integer
+  borough_fips_code integer
+  grid_id integer
   ansi_code varchar [note: "American National Standards Institute (ANSI)"]
   dcra_code varchar [note: "Alaska Division of Community and Regional Affairs (DCRA)"]
   latitude double
   longitude double
-  location geometry
   pce_eligible bool
   pce_active bool
+  geometry geometry
+  village_corp_id integer [note: "nope?"]
 }
+
 
 // Socioeconomic
 
@@ -33,9 +34,9 @@ Table transportation {
   coastal bool
   road_or_ferry bool
   description varchar
-  asofdate bigint
 }
 Ref: transportation.community_fips_code - communities.fips_code
+
 
 Table population_ages{
   // from DBT census.l1_populations_ages
@@ -47,6 +48,13 @@ Table population_ages{
   all_the_data double
 }
 Ref: population_ages.community_fips_code - communities.fips_code
+
+Table populations {
+  id integer [primary key] 
+  fips_code integer [note: "community?"]
+  total_population integer
+}
+Ref: populations.fips_code - communities.fips_code
 
 Table taxes {
   // AEDG link to "Alaska Taxable Database" is 404. 
@@ -96,8 +104,8 @@ Table schools {
   id integer [primary key]
   community_fips_code varchar
   school_district varchar
-  enrollment integer
-  enrollment_year year
+  enrollment integer [note: "don't have yet"]
+  enrollment_year year [note: "don't have yet"]
 }
 Ref: schools.community_fips_code - communities.fips_code 
 
@@ -119,45 +127,6 @@ Ref: communities_pce.community_fips_code > communities.fips_code
 //Ref: community_pce.utility_id - electric_utility.id
 
 
-Table pce_monthly {
-   id integer [primary key]
-   pce_id integer
-   month integer
-   year year
-   all_the_data double
-}
-
-Table pce_annual {
-   id integer [primary key]
-   pce_id integer
-   year year
-   all_the_data double
-}
-Ref: pce_monthly.pce_id > communities_pce.pce_community_name 
-Ref: pce_annual.pce_id > communities_pce.pce_community_name 
-
-
-Table interties {
-  id integer [primary key]
-  grid_id integer [note: "grids might have many interies"]
-  intertie_name varchar
-  intertie_id varchar
-  intertie_month integer
-  intertie_year varchar
-  data_source varchar
-  community_name varchar
-  operator_name varchar [note: "operator_id in original"]
-  gnis integer
-  latitude double
-  longitude double
-  aea_energy_region_id integer
-  calendar datetime
-}
-//Ref: intertie.operator_name - electric_utility.utility_name_pce
-//Ref: intertie.grid_id > grid.id
-Ref: interties.operator_name - communities_pce.pce_operator_name
-
-
 Table fuel_price_reports {
   // DOL places table
   id integer [primary key]
@@ -165,4 +134,22 @@ Table fuel_price_reports {
   all_the_data double
 }
 Ref: fuel_price_reports.community_fips_code > communities.fips_code
+
+Table capacity {
+  id integer [primary key]
+  grid_id integer
+  capacity_mw double
+  fuel_type varchar [note: "should be a normalized table of standard terms"]
+  year integer
+}
+Ref: communities.grid_id > capacity.grid_id
+
+Table yearly_generation {
+  id integer [primary key]
+  grid_id integer
+  net_generation_mwh integer
+  fuel_type varchar [note: "should be a normalized table of standard terms"]
+  year integer
+}
+Ref: communities.grid_id > yearly_generation.grid_id
 

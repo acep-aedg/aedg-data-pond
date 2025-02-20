@@ -6,26 +6,27 @@
 
 Table communities {
   id integer [primary key]
-  label varchar
+  fips_code varchar [note: "Federal Information Processing Series (FIPS)"]
+  name varchar
   regional_corporation_fips_code integer
   borough_fips_code integer
   grid_id integer
-  fips_code varchar [note: "Federal Information Processing Series (FIPS)"]
   ansi_code varchar [note: "American National Standards Institute (ANSI)"]
   dcra_code varchar [note: "Alaska Division of Community and Regional Affairs (DCRA)"]
   latitude double
   longitude double
   pce_eligible bool
   pce_active bool
-  geometry Point
+  geometry geometry
+  village_corp_id integer [note: "nope?"]
 }
 
 Table boroughs {
   // borough or census areas (which are statistical divisions of the unorganized borough)
   id integer [primary key]
-  label varchar [note: 'either borough or census area']
+  name varchar [note: 'either borough or census area']
   fips_code varchar
-  census_area bool [note: 'if false then is a borough.']
+  is_census_area bool [note: 'if false then is a borough.']
   geometry Polygon
 }
 Ref: communities.borough_fips_code - boroughs.fips_code 
@@ -40,8 +41,10 @@ Ref: communities.fips_code - village_corporations.community_fips_code
 
 Table regional_corporations {
   id integer [primary key]
-  label varchar
+  name varchar
   fips_code varchar
+  arealand integer 
+  areawater integer
   geometry Polygon
 }
 Ref: communities.regional_corporation_fips_code - regional_corporations.fips_code 
@@ -50,14 +53,14 @@ Table house_districts {
   id integer [primary key]
   house_district integer
   geometry Polygon
-  updated timestamp [note: 'when redistricted']
+  updated timestamp [note: 'when redistricted. nope?']
 }
 
 Table senate_districts {
   id integer [primary key]
   senate_district character
   geometry Polygon
-  updated timestamp [note: 'when redistricted']
+  updated timestamp [note: 'when redistricted. nope?']
 }
 
 Table legislative_community {
@@ -87,7 +90,9 @@ Table electric_utilities {
   utility_id_pce integer [note: "all missing so can't use"]
   utility_name_pce varchar
   grid_id integer [note: "railbelt = many uts on same grid"]
+  is_ipp bool
 }
+
 Table electric_service_areas{
   id integer [primary key]
   community_fips_code varchar
@@ -97,51 +102,41 @@ Table electric_service_areas{
 Ref: electric_service_areas.utility_id > electric_utilities.id 
 Ref: electric_service_areas.community_fips_code > communities.fips_code
 
-Table independent_power_producers {
-  id integer [primary key]
-  community_fips_code integer
-  label varchar
-  fuel varchar [note: 'solar, wind, diesel, hydro, or whatever']
-  tribal bool
-  operational bool [note: 'as opposed to in planning stages']
-  power_plant_id integer
-}
-Ref: independent_power_producers.community_fips_code - communities.fips_code
-
-Table ipp_utility_sales {
-  id integer [primary key]
-  independent_power_producer_id integer
-  utility_id integer
-  sales double
-  kw_hours double
-}
-Ref: ipp_utility_sales.independent_power_producer_id - independent_power_producers.id
-Ref: ipp_utility_sales.utility_id - electric_utilities.id
-
 Table grids {
 //  railbelt = many utilities on one grid
 //  AVEC = 1 utility with many (micro) grids
   id integer [primary key]
-  microgrid bool []
-  capacity integer [note: "megawatts MW"]
-  operator_id integer
-  geometry MultiLine
+  name varchar
+  //microgrid bool []
+  //capacity integer [note: "megawatts MW"]
+  //operator_id integer
+  //geometry MultiLine
 }
 Ref: plants.grid_id - grids.id
-Ref: grids.operator_id - electric_utilities.id
+//Ref: grids.operator_id - electric_utilities.id
 Ref: communities.grid_id > grids.id
 
 
-Table sum_generation {
+Table interties {
   id integer [primary key]
-  grid_id integer [note: "generation is by grid"]
-  utility_id_eia integer [note: "null for pce"]
-  utility_name_pce integer [note: "null for eia"]
-  all_the_data double
+  grid_id integer [note: "grids might have many interies"]
+  intertie_name varchar
+  intertie_id varchar
+  intertie_month integer
+  intertie_year varchar
+  data_source varchar
+  community_name varchar
+  operator_name varchar [note: "operator_id in original"]
+  gnis integer
+  latitude double
+  longitude double
+  aea_energy_region_id integer
+  calendar datetime
 }
-Ref: sum_generation.utility_id_eia - electric_utilities.utility_id_eia
-Ref: sum_generation.utility_name_pce - electric_utilities.utility_name_pce
-Ref: sum_generation.grid_id - grids.id
+//Ref: intertie.operator_name - electric_utility.utility_name_pce
+Ref: interties.grid_id > grids.id
+Ref: interties.operator_name - communities_pce.pce_operator_name
+
 
 // Energy tables associated with reports
 
