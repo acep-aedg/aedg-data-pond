@@ -1,0 +1,247 @@
+// Use DBML to define your database structure
+// Docs: https://dbml.dbdiagram.io/docs
+
+
+// Geography
+
+Table communities {
+  id integer [primary key]
+  label varchar
+  regional_corporation_fips_code integer
+  borough_fips_code integer
+  grid_id integer
+  fips_code varchar [note: "Federal Information Processing Series (FIPS)"]
+  ansi_code varchar [note: "American National Standards Institute (ANSI)"]
+  dcra_code varchar [note: "Alaska Division of Community and Regional Affairs (DCRA)"]
+  latitude double
+  longitude double
+  pce_eligible bool
+  pce_active bool
+  geometry Point
+}
+
+Table boroughs {
+  // borough or census areas (which are statistical divisions of the unorganized borough)
+  id integer [primary key]
+  label varchar [note: 'either borough or census area']
+  fips_code varchar
+  census_area bool [note: 'if false then is a borough.']
+  geometry Polygon
+}
+Ref: communities.borough_fips_code - boroughs.fips_code 
+
+Table village_corporations {
+  id integer [primary key]
+  community_fips_code varchar
+  label varchar
+  geometry Point
+}
+Ref: communities.fips_code - village_corporations.community_fips_code
+
+Table regional_corporations {
+  id integer [primary key]
+  label varchar
+  fips_code varchar
+  geometry Polygon
+}
+Ref: communities.regional_corporation_fips_code - regional_corporations.fips_code 
+
+Table house_districts {
+  id integer [primary key]
+  house_district integer
+  geometry Polygon
+  updated timestamp [note: 'when redistricted']
+}
+
+Table senate_districts {
+  id integer [primary key]
+  senate_district character
+  geometry Polygon
+  updated timestamp [note: 'when redistricted']
+}
+
+Table legislative_community {
+  id integer [primary key]
+  community_fips_code varchar
+  house_district integer
+  senate_district char
+  election_region integer
+}
+Ref: legislative_community.community_fips_code - communities.fips_code
+Ref: legislative_community.house_district - house_districts.house_district 
+Ref: legislative_community.senate_district - senate_districts.senate_district 
+
+
+// Energy
+
+Table electric_utilities {
+  id integer [primary key]
+  label varchar
+  cpcn_certificate_number integer [note: 'RCA Certificate of Public Convenience and Necessity (CPCN) number']
+  cpcn_certificate_name varchar [note: 'RCA name']
+  regulatory_status_id integer
+  certificate bool
+  ownership_type_id integer
+  utility_id_eia integer
+  utility_name_eia varchar
+  utility_id_pce integer [note: "all missing so can't use"]
+  utility_name_pce varchar
+  grid_id integer [note: "railbelt = many uts on same grid"]
+}
+Table electric_service_areas{
+  id integer [primary key]
+  community_fips_code varchar
+  utility_id integer
+  geometry MultiPolygon [note: 'Dream for future. RCA knows but not published in spatial format?']
+}
+Ref: electric_service_areas.utility_id > electric_utilities.id 
+Ref: electric_service_areas.community_fips_code > communities.fips_code
+
+Table independent_power_producers {
+  id integer [primary key]
+  community_fips_code integer
+  label varchar
+  fuel varchar [note: 'solar, wind, diesel, hydro, or whatever']
+  tribal bool
+  operational bool [note: 'as opposed to in planning stages']
+  power_plant_id integer
+}
+Ref: independent_power_producers.community_fips_code - communities.fips_code
+
+Table ipp_utility_sales {
+  id integer [primary key]
+  independent_power_producer_id integer
+  utility_id integer
+  sales double
+  kw_hours double
+}
+Ref: ipp_utility_sales.independent_power_producer_id - independent_power_producers.id
+Ref: ipp_utility_sales.utility_id - electric_utilities.id
+
+Table grids {
+//  railbelt = many utilities on one grid
+//  AVEC = 1 utility with many (micro) grids
+  id integer [primary key]
+  microgrid bool []
+  capacity integer [note: "megawatts MW"]
+  operator_id integer
+  geometry MultiLine
+}
+Ref: plants.grid_id - grids.id
+Ref: grids.operator_id - electric_utilities.id
+Ref: communities.grid_id > grids.id
+
+
+Table sum_generation {
+  id integer [primary key]
+  grid_id integer [note: "generation is by grid"]
+  utility_id_eia integer [note: "null for pce"]
+  utility_name_pce integer [note: "null for eia"]
+  all_the_data double
+}
+Ref: sum_generation.utility_id_eia - electric_utilities.utility_id_eia
+Ref: sum_generation.utility_name_pce - electric_utilities.utility_name_pce
+Ref: sum_generation.grid_id - grids.id
+
+// Energy tables associated with reports
+
+Table utility_regulatory_statuses {
+  id integer [primary key]
+  name varchar [note: "Not regulated, Regulated, Regulated rate exemption"]
+}
+
+Table utility_ownership_types {
+  id integer [primary key]
+  name varchar [note: "Private Electric Utility, Private Electric Utility, Electric Co-op"]
+
+}
+
+Ref: electric_utilities.regulatory_status_id - utility_regulatory_statuses.id
+Ref: electric_utilities.ownership_type_id - utility_ownership_types.id
+
+Table plants {
+  id integer [primary key]
+  name varchar
+  intertied bool
+  akeps_region_id integer
+  plant_id_eia integer
+  plant_name_eia varchar
+  grid_id integer [note: "one grid many plants"]
+  utility_id_eia integer
+  mover_id integer [note: "plant has one type of engine"]
+  plant_fuel_id integer [note: "plant could use different fuels"]
+  geometry Point 
+}
+Ref: plants.utility_id_eia > electric_utilities.utility_id_eia
+
+// Disabled because communities/utilties have PCE status
+//Table plant_pce_status { 
+//  id integer [primary key]
+//  name varchar
+//}
+//Ref: plant.plant_pce_status_id - plant_pce_status.id
+
+Table fuel_types {
+  // Type of fuel used to generate electricity. 
+  // DFO=Distillate Fuel Oil, RFO=Residual Fuel Oil, JF=Jet Fuel, 
+  // NA=Naphtha, NG=Natural Gas, SUB=Sub-bituminous Coal, WC=Waste Coal, 
+  // HAGO=Heavy Atmospheric Gas Oil.
+  id integer [primary key]
+  name varchar
+  abbreviation varchar
+  physical_units varchar [note: "Gallon"]
+  conversion_factor_mmbtu double
+  emmission_factor double
+}
+
+Table plant_fuels {
+  // Plants could have multiple fuels
+  id integer [primary key]
+  plant_id integer
+  fuel_id integer
+}
+Ref: plants.id - plant_fuels.plant_id
+Ref: fuel_types.id - plant_fuels.fuel_id
+
+Table prime_movers {
+  // Type of prime mover (engine) used to generate 
+  // electricity. CA=Combined Cycle, steam part; 
+  // CT=Combined Cycle, turbine part; GT=Gas Turbine; 
+  // IC=Internal Combustion Engine; ST= Steam Turbine; 
+  // OT=Other.
+  id integer [primary key]
+  abbreviation varchar
+  description varchar
+}
+
+Table plant_movers {
+  // plants can have multiple boilers or whatever
+  id integer [primary key]
+  plant_id integer
+  mover_id integer
+}
+Ref: plants.id - plant_movers.plant_id
+Ref: prime_movers.id - plant_movers.mover_id
+
+
+Table communities_pce {
+  // separate rows for each report with multiple
+  // communities filing together
+  // some from Jesse's identities table
+  id integer [primary key]
+  community_fips_code varchar
+  pce_community_code integer [note: "AKA PJ Code, Acct, PCE ID, etc"]
+  pce_community_name varchar [note: "can contain multiple community names"]
+  pce_operator_name varchar [note: "utility but maybe different string"]
+  utility_id integer
+  interconnected bool
+}
+Ref: communities_pce.community_fips_code > communities.fips_code
+Ref: communities_pce.utility_id - electric_utilities.id
+
+
+// Aggregated Data will be generated within the app
+// as a super-set of all the community data
+
+
+

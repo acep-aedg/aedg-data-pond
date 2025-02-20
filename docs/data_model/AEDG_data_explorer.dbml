@@ -1,0 +1,168 @@
+
+
+// Geography
+
+Table communities {
+  id integer [primary key]
+  label varchar
+  village_corp_id integer
+  regional_corp_id integer
+  borough_id integer
+  grid_id integer
+  fips_code varchar [note: "Federal Information Processing Series (FIPS)"]
+  ansi_code varchar [note: "American National Standards Institute (ANSI)"]
+  dcra_code varchar [note: "Alaska Division of Community and Regional Affairs (DCRA)"]
+  latitude double
+  longitude double
+  location geometry
+  pce_eligible bool
+  pce_active bool
+}
+
+// Socioeconomic
+
+Table transportation {
+  // from DBT dcra.l1_transportation with booleans
+  id integer [primary key]
+  community_fips_code varchar
+  airport bool
+  harbordock bool
+  stateferry bool
+  cargobarge  bool
+  roadconnection bool
+  coastal bool
+  road_or_ferry bool
+  description varchar
+  asofdate bigint
+}
+Ref: transportation.community_fips_code - communities.fips_code
+
+Table population_ages{
+  // from DBT census.l1_populations_ages
+  id integer [primary key]
+  community_fips_code varchar
+  e_pop_age_total integer
+  m_pop_age_total double
+  e_pop_age_under_5 integer
+  all_the_data double
+}
+Ref: population_ages.community_fips_code - communities.fips_code
+
+Table taxes {
+  // AEDG link to "Alaska Taxable Database" is 404. 
+  // Find replacement?
+  id integer [primary key]
+  community_fips_code varchar
+  property_tax double
+  sales_tax double
+  other_tax double
+  total_tax double
+  tax_per_capita double
+  tax_year year
+}
+Ref: taxes.community_fips_code - communities.fips_code
+
+Table dol_places {
+  // DOL places table
+  id integer [primary key]
+  community_fips_code varchar
+  //totalpop double
+  white double
+  black double
+  native double
+  asian double
+  pacisland double
+  other double
+  two_plus double
+  hispanic double
+  natalncomb double
+  grpqtrs double
+  houseunits double
+  vacant double
+  occupied double
+}
+Ref: dol_places.community_fips_code - communities.fips_code
+
+Table employment {
+  id integer [primary key]
+  community_fips_code varchar
+  residents_employed integer
+  unemployment_claimants integer
+  measurement_year year
+}
+Ref: employment.community_fips_code - communities.fips_code 
+
+Table schools {
+  id integer [primary key]
+  community_fips_code varchar
+  school_district varchar
+  enrollment integer
+  enrollment_year year
+}
+Ref: schools.community_fips_code - communities.fips_code 
+
+// Energy 
+
+Table communities_pce {
+  // separate rows for each report with multiple
+  // communities filing together
+  // some from Jesse's identities table
+  id integer [primary key]
+  community_fips_code varchar
+  pce_community_code integer [note: "AKA PJ Code, Acct, PCE ID, etc"]
+  pce_community_name varchar [note: "can contain multiple community names"]
+  pce_operator_name varchar [note: "utility but maybe different string"]
+  utility_id integer
+  interconnected bool
+}
+Ref: communities_pce.community_fips_code > communities.fips_code
+//Ref: community_pce.utility_id - electric_utility.id
+
+
+Table pce_monthly {
+   id integer [primary key]
+   pce_id integer
+   month integer
+   year year
+   all_the_data double
+}
+
+Table pce_annual {
+   id integer [primary key]
+   pce_id integer
+   year year
+   all_the_data double
+}
+Ref: pce_monthly.pce_id > communities_pce.pce_community_name 
+Ref: pce_annual.pce_id > communities_pce.pce_community_name 
+
+
+Table interties {
+  id integer [primary key]
+  grid_id integer [note: "grids might have many interies"]
+  intertie_name varchar
+  intertie_id varchar
+  intertie_month integer
+  intertie_year varchar
+  data_source varchar
+  community_name varchar
+  operator_name varchar [note: "operator_id in original"]
+  gnis integer
+  latitude double
+  longitude double
+  aea_energy_region_id integer
+  calendar datetime
+}
+//Ref: intertie.operator_name - electric_utility.utility_name_pce
+//Ref: intertie.grid_id > grid.id
+Ref: interties.operator_name - communities_pce.pce_operator_name
+
+
+Table fuel_price_reports {
+  // DOL places table
+  id integer [primary key]
+  community_fips_code varchar
+  all_the_data double
+}
+Ref: fuel_price_reports.community_fips_code > communities.fips_code
+
