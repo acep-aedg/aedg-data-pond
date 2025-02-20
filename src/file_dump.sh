@@ -88,3 +88,14 @@ psql -h "$PG_HOST" -p "$PG_PORT" -U "$PG_USER" -d "$PG_DB" -c "\COPY communities
 psql -h "$PG_HOST" -p "$PG_PORT" -U "$PG_USER" -d "$PG_DB" -c "\COPY communities_school_districts TO ./data/final/communities_school_districts.csv DELIMITER ',' CSV HEADER;"
 
 
+
+
+
+# # de-normalized views for public consumption
+
+# public_communities_monthly_generation
+psql -h "$PG_HOST" -p "$PG_PORT" -U "$PG_USER" -d "$PG_DB" -c "\COPY (SELECT * FROM public_communities_monthly_generation) TO ./data/public/public_communities_monthly_generation.csv DELIMITER ',' CSV HEADER;"
+
+
+# public_communities_yearly_generation
+psql -h "$PG_HOST" -p "$PG_PORT" -U "$PG_USER" -d "$PG_DB" -c "\COPY (SELECT * FROM public_communities_yearly_generation) TO ./data/public/public_communities_yearly_generation.csv DELIMITER ',' CSV HEADER;"
