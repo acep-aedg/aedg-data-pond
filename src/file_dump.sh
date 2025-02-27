@@ -7,6 +7,9 @@ rm ./data/intermediate/*.geojson
 rm ./data/final/*.csv
 rm ./data/final/*.geojson
 
+rm ./data/public/*.csv
+rm ./data/public/*.geojson
+
 
 # # # GeoJSONs
 
@@ -52,8 +55,12 @@ psql -h "$PG_HOST" -p "$PG_PORT" -U "$PG_USER" -d "$PG_DB" -c "\COPY l2_employme
 # taxes
 psql -h "$PG_HOST" -p "$PG_PORT" -U "$PG_USER" -d "$PG_DB" -c "\COPY l2_taxes TO ./data/final/taxes.csv DELIMITER ',' CSV HEADER;"
 
-# generation
-psql -h "$PG_HOST" -p "$PG_PORT" -U "$PG_USER" -d "$PG_DB" -c "\COPY l3_yearly_generation TO ./data/final/yearly_generation.csv DELIMITER ',' CSV HEADER;"
+# yearly_generation
+psql -h "$PG_HOST" -p "$PG_PORT" -U "$PG_USER" -d "$PG_DB" -c "\COPY l2_es_yearly_generation TO ./data/final/yearly_generation.csv DELIMITER ',' CSV HEADER;"
+
+# monthly_generation
+psql -h "$PG_HOST" -p "$PG_PORT" -U "$PG_USER" -d "$PG_DB" -c "\COPY l2_es_monthly_generation TO ./data/final/monthly_generation.csv DELIMITER ',' CSV HEADER;"
+
 
 # capacity
 psql -h "$PG_HOST" -p "$PG_PORT" -U "$PG_USER" -d "$PG_DB" -c "\COPY l3_capacity TO ./data/final/capacity.csv DELIMITER ',' CSV HEADER;"
