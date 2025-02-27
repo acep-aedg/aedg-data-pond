@@ -34,6 +34,7 @@ Table transportation {
   coastal bool
   road_or_ferry bool
   description varchar
+  as_of_date date
 }
 Ref: transportation.community_fips_code - communities.fips_code
 
@@ -152,4 +153,3 @@ Table yearly_generation {
   year integer
 }
 Ref: communities.grid_id > yearly_generation.grid_id
-

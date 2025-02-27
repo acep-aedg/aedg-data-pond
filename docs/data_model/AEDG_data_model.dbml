@@ -53,14 +53,14 @@ Table house_districts {
   id integer [primary key]
   house_district integer
   geometry Polygon
-  updated timestamp [note: 'when redistricted. nope?']
+  as_of_date date [note: 'when redistricted']
 }
 
 Table senate_districts {
   id integer [primary key]
   senate_district character
   geometry Polygon
-  updated timestamp [note: 'when redistricted. nope?']
+  as_of_date date [note: 'when redistricted']
 }
 
 Table legislative_community {
@@ -77,30 +77,33 @@ Ref: legislative_community.senate_district - senate_districts.senate_district
 
 // Energy
 
-Table electric_utilities {
+Table electric_operators {
+  // From Neil
   id integer [primary key]
-  label varchar
-  cpcn_certificate_number integer [note: 'RCA Certificate of Public Convenience and Necessity (CPCN) number']
-  cpcn_certificate_name varchar [note: 'RCA name']
-  regulatory_status_id integer
-  certificate bool
-  ownership_type_id integer
-  utility_id_eia integer
-  utility_name_eia varchar
-  utility_id_pce integer [note: "all missing so can't use"]
-  utility_name_pce varchar
-  grid_id integer [note: "railbelt = many uts on same grid"]
-  is_ipp bool
+  aea_operator_id	varchar [note: 'AEA-001']
+  pce_utility_code	varchar [note: 'AKHI']
+  eia_operator_id	integer [note: '24486']
+  rca_cpcn integer [note: '499']
+  operator_name	varchar [note: 'Akhiok, City']
+  sector_id integer
+  sector_name	varchar [note: '"Electric Utility" vs "Commercial NAICS Non-Cogen" etc']
+  sector_number	integer
+  operator_rca_regulatory_status_name	varchar [note: 'Unregulated']
+  operator_utility_certificate bool
+  operator_utility_type_name varchar [note: 'Electric Co-op']	
+  operator_cpcn_status varchar [note: 'Active']
+  pce_eligible bool
+  power_generation_end_use varchar [note: 'Retail or Wholesale']
+  notes	varchar
 }
 
 Table electric_service_areas{
+  // service areas are defined by KML files posted on RCA website
   id integer [primary key]
-  community_fips_code varchar
-  utility_id integer
+  rca_cpcn integer
   geometry MultiPolygon [note: 'Dream for future. RCA knows but not published in spatial format?']
 }
-Ref: electric_service_areas.utility_id > electric_utilities.id 
-Ref: electric_service_areas.community_fips_code > communities.fips_code
+Ref: electric_service_areas.rca_cpcn > electric_operators.rca_cpcn 
 
 Table grids {
 //  railbelt = many utilities on one grid
@@ -142,17 +145,17 @@ Ref: interties.operator_name - communities_pce.pce_operator_name
 
 Table utility_regulatory_statuses {
   id integer [primary key]
-  name varchar [note: "Not regulated, Regulated, Regulated rate exemption"]
+  regulatory_status varchar [note: "Not regulated, Regulated, Regulated rate exemption"]
 }
 
-Table utility_ownership_types {
+Table operator_type_name {
   id integer [primary key]
-  name varchar [note: "Private Electric Utility, Private Electric Utility, Electric Co-op"]
+  operator_type varchar [note: "Private Electric Utility, Private Electric Utility, Electric Co-op"]
 
 }
 
-Ref: electric_utilities.regulatory_status_id - utility_regulatory_statuses.id
-Ref: electric_utilities.ownership_type_id - utility_ownership_types.id
+Ref: electric_operators.operator_rca_regulatory_status_name - utility_regulatory_statuses.id
+Ref: electric_operators.operator_utility_type_name - operator_type_name.id
 
 Table plants {
   id integer [primary key]
@@ -162,12 +165,12 @@ Table plants {
   plant_id_eia integer
   plant_name_eia varchar
   grid_id integer [note: "one grid many plants"]
-  utility_id_eia integer
+  eia_operator_id integer
   mover_id integer [note: "plant has one type of engine"]
   plant_fuel_id integer [note: "plant could use different fuels"]
   geometry Point 
 }
-Ref: plants.utility_id_eia > electric_utilities.utility_id_eia
+Ref: plants.eia_operator_id > electric_operators.eia_operator_id
 
 // Disabled because communities/utilties have PCE status
 //Table plant_pce_status { 
@@ -228,15 +231,11 @@ Table communities_pce {
   pce_community_code integer [note: "AKA PJ Code, Acct, PCE ID, etc"]
   pce_community_name varchar [note: "can contain multiple community names"]
   pce_operator_name varchar [note: "utility but maybe different string"]
-  utility_id integer
+  aea_operator_id integer
   interconnected bool
 }
 Ref: communities_pce.community_fips_code > communities.fips_code
-Ref: communities_pce.utility_id - electric_utilities.id
-
-
-// Aggregated Data will be generated within the app
-// as a super-set of all the community data
+Ref: communities_pce.aea_operator_id - electric_operators.aea_operator_id
 
 
 
