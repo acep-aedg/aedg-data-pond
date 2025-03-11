@@ -54,5 +54,19 @@ These are denormalized versions of the internal files - joined in ways to make t
 
 Using these files, to answer questions such as "What is the electrical capacity of the grid that serves Ketchikan?", a user would download `public_communities_capacity.csv` and filter to "Ketchikan" using their favorite tool.  [TODO: create `public_communities_capacity.csv`]
 
+
+## Workflow
+
+We have adopted tagged releases to structure integration into the Rails app. Tags are prefixed with the letter "v" and have 2 digits - i.e. v[major].[minor].
+
+- Prior to the v1.0 release, minor releases will include schemas changes as required for development; tables will be added as data types are available.
+- Post v1.0, schema changes and revisions that would break the Rails app will constitute major revisions, and minor revisions will consist of table updates with new data
+
+To add or revise data, utilize a branch and PR with review. When the data are consistent enough to integrate into Rails, tag a release. These releases are intended to correspond to Jira versions and should consist of needed, identified, and documented changes.
+
+Data should be validated for internal consistency prior to posting. For instance, community id is required in all applicable tables and cannot be Null because it is the basic building block of AEDG. The full list of validation steps is currently being developed and will be posted when it is available.
+
+Additional data quality guidelines are also being developed.
+
 ##### TODO:
 * Add license
