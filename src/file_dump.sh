@@ -1,108 +1,57 @@
-rm ./data/raw/*.csv
-rm ./data/raw/*.geojson
+#!/bin/bash
 
-rm ./data/intermediate/*.csv
-rm ./data/intermediate/*.geojson
+# Define an array of directories and file types to remove
+declare -a dirs=("raw" "intermediate" "final" "public")
+declare -a types=("csv" "geojson")
 
-rm ./data/final/*.csv
-rm ./data/final/*.geojson
+# Remove files
+for dir in "${dirs[@]}"; do
+  for type in "${types[@]}"; do
+    rm ./data/$dir/*.$type
+  done
+done
 
-rm ./data/public/*.csv
-rm ./data/public/*.geojson
+# Function to convert Postgres table to GeoJSON
+export_to_geojson() {
+  local output_dir=$1
+  local filename=$2
+  local table_name=$3
+  ogr2ogr -f "GeoJSON" ./data/$output_dir/$filename.geojson PG:"host=$PG_HOST user=$PG_USER dbname=$PG_DB" -sql "SELECT * FROM $table_name"
+}
 
+# Convert tables to GeoJSON
+export_to_geojson "final" "communities" "l3_communities"
+export_to_geojson "final" "regional_corporations" "l2_regional_corporations"
+export_to_geojson "final" "village_corporations" "l2_village_corporations"
+export_to_geojson "final" "boroughs" "l2_boroughs"
+export_to_geojson "final" "house_districts" "l2_house_districts"
+export_to_geojson "final" "senate_districts" "l2_senate_districts"
+export_to_geojson "intermediate" "pumas" "l1_pumas"
 
-# # # GeoJSONs
+# Function to export Postgres table to CSV
+export_to_csv() {
+  local output_dir=$1
+  local filename=$2
+  local table_name=$3
+  psql -h "$PG_HOST" -p "$PG_PORT" -U "$PG_USER" -d "$PG_DB" -c "\COPY $table_name TO ./data/$output_dir/$filename.csv DELIMITER ',' CSV HEADER;"
+}
 
-# communities
-ogr2ogr -f "GeoJSON" ./data/final/communities.geojson PG:"host=$PG_HOST user=$PG_USER dbname=$PG_DB" -sql "SELECT * FROM l3_communities"
+# Export tables to CSV
+export_to_csv "final" "populations_ages_sexes" "l2_populations_ages_sexes" 
+export_to_csv "final" "populations" "l2_populations" 
+export_to_csv "final" "transportation" "l2_transportation" 
+export_to_csv "final" "employment" "l2_employment" 
+export_to_csv "final" "taxes" "l2_taxes"
+export_to_csv "final" "yearly_generation" "l2_es_yearly_generation"
+export_to_csv "final" "monthly_generation" "l2_es_monthly_generation" 
+export_to_csv "final" "capacity" "l2_es_capacity" 
+export_to_csv "final" "grids" "l2_grids" 
+export_to_csv "final" "communities_legislative_districts" "communities_legislative_districts" 
+export_to_csv "final" "communities_school_districts" "communities_school_districts" 
+export_to_csv "intermediate" "lookup_rca_electric_certificates" "lookup_rca_electric_certificates" 
+export_to_csv "intermediate" "lookup_eia_plants_grids" "lookup_eia_plants_grids" 
+export_to_csv "intermediate" "lookup_fips_codes_grids" "lookup_fips_codes_grids" 
 
-# regional_corporations
-ogr2ogr -f "GeoJSON" ./data/final/regional_corporations.geojson PG:"host=$PG_HOST user=$PG_USER dbname=$PG_DB" -sql "SELECT * FROM l2_regional_corporations"
-
-# village_corporations
-ogr2ogr -f "GeoJSON" ./data/final/village_corporations.geojson PG:"host=$PG_HOST user=$PG_USER dbname=$PG_DB" -sql "SELECT * FROM l2_village_corporations"
-
-# boroughs
-ogr2ogr -f "GeoJSON" ./data/final/boroughs.geojson PG:"host=$PG_HOST user=$PG_USER dbname=$PG_DB" -sql "SELECT * FROM l2_boroughs"
-
-# house_districts
-ogr2ogr -f "GeoJSON" ./data/final/house_districts.geojson PG:"host=$PG_HOST user=$PG_USER dbname=$PG_DB" -sql "SELECT * FROM l2_house_districts"
-
-# senate_districts
-ogr2ogr -f "GeoJSON" ./data/final/senate_districts.geojson PG:"host=$PG_HOST user=$PG_USER dbname=$PG_DB" -sql "SELECT * FROM l2_senate_districts"
-
-# pumas
-ogr2ogr -f "GeoJSON" ./data/intermediate/pumas.geojson PG:"host=$PG_HOST user=$PG_USER dbname=$PG_DB" -sql "SELECT * FROM l1_pumas"
-
-
-
-
-
-# # CSVs
-
-# populations_ages_sexes
-psql -h "$PG_HOST" -p "$PG_PORT" -U "$PG_USER" -d "$PG_DB" -c "\COPY l2_populations_ages_sexes TO ./data/final/populations_ages_sexes.csv DELIMITER ',' CSV HEADER;"
-
-# populations
-psql -h "$PG_HOST" -p "$PG_PORT" -U "$PG_USER" -d "$PG_DB" -c "\COPY l2_populations TO ./data/final/populations.csv DELIMITER ',' CSV HEADER;"
-
-# transportation
-psql -h "$PG_HOST" -p "$PG_PORT" -U "$PG_USER" -d "$PG_DB" -c "\COPY l2_transportation TO ./data/final/transportation.csv DELIMITER ',' CSV HEADER;"
-
-# employment
-psql -h "$PG_HOST" -p "$PG_PORT" -U "$PG_USER" -d "$PG_DB" -c "\COPY l2_employment TO ./data/final/employment.csv DELIMITER ',' CSV HEADER;"
-
-# taxes
-psql -h "$PG_HOST" -p "$PG_PORT" -U "$PG_USER" -d "$PG_DB" -c "\COPY l2_taxes TO ./data/final/taxes.csv DELIMITER ',' CSV HEADER;"
-
-# yearly_generation
-psql -h "$PG_HOST" -p "$PG_PORT" -U "$PG_USER" -d "$PG_DB" -c "\COPY l2_es_yearly_generation TO ./data/final/yearly_generation.csv DELIMITER ',' CSV HEADER;"
-
-# monthly_generation
-psql -h "$PG_HOST" -p "$PG_PORT" -U "$PG_USER" -d "$PG_DB" -c "\COPY l2_es_monthly_generation TO ./data/final/monthly_generation.csv DELIMITER ',' CSV HEADER;"
-
-
-# capacity
-psql -h "$PG_HOST" -p "$PG_PORT" -U "$PG_USER" -d "$PG_DB" -c "\COPY l2_es_capacity TO ./data/final/capacity.csv DELIMITER ',' CSV HEADER;"
-
-# grids
-psql -h "$PG_HOST" -p "$PG_PORT" -U "$PG_USER" -d "$PG_DB" -c "\COPY l2_grids TO ./data/final/grids.csv DELIMITER ',' CSV HEADER;"
-
-
-
-
-# # lookup tables
-
-# # lookup_rca_electric_certificates
-psql -h "$PG_HOST" -p "$PG_PORT" -U "$PG_USER" -d "$PG_DB" -c "\COPY lookup_rca_electric_certificates TO ./data/intermediate/lookup_rca_electric_certificates.csv DELIMITER ',' CSV HEADER;"
-
-# # lookup_eia_plants_grids
-psql -h "$PG_HOST" -p "$PG_PORT" -U "$PG_USER" -d "$PG_DB" -c "\COPY lookup_eia_plants_grids TO ./data/intermediate/lookup_eia_plants_grids.csv DELIMITER ',' CSV HEADER;"
-
-# # lookup_fips_codes_grids
-psql -h "$PG_HOST" -p "$PG_PORT" -U "$PG_USER" -d "$PG_DB" -c "\COPY lookup_fips_codes_grids TO ./data/intermediate/lookup_fips_codes_grids.csv DELIMITER ',' CSV HEADER;"
-
-
-
-
-
-# # join tables
-
-# # communities_legislative_districts
-psql -h "$PG_HOST" -p "$PG_PORT" -U "$PG_USER" -d "$PG_DB" -c "\COPY communities_legislative_districts TO ./data/final/communities_legislative_districts.csv DELIMITER ',' CSV HEADER;"
-
-# communities_school_districts
-psql -h "$PG_HOST" -p "$PG_PORT" -U "$PG_USER" -d "$PG_DB" -c "\COPY communities_school_districts TO ./data/final/communities_school_districts.csv DELIMITER ',' CSV HEADER;"
-
-
-
-
-
-# # de-normalized views for public consumption
-
-# public_communities_monthly_generation
+# Export de-normalized views for public consumption (note: views are special, need the SELECT * query nested in the COPY command)
 psql -h "$PG_HOST" -p "$PG_PORT" -U "$PG_USER" -d "$PG_DB" -c "\COPY (SELECT * FROM public_communities_monthly_generation) TO ./data/public/public_communities_monthly_generation.csv DELIMITER ',' CSV HEADER;"
-
-
-# public_communities_yearly_generation
 psql -h "$PG_HOST" -p "$PG_PORT" -U "$PG_USER" -d "$PG_DB" -c "\COPY (SELECT * FROM public_communities_yearly_generation) TO ./data/public/public_communities_yearly_generation.csv DELIMITER ',' CSV HEADER;"
