@@ -1,4 +1,4 @@
-communities_fips_code,house_district,senate_district,election_region
+community_fips_code,house_district,senate_district,election_region
 0216360,1,A,1
 0267570,1,A,1
 0284000,1,A,1
