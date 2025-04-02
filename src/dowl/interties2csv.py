@@ -1,7 +1,7 @@
 """Quickie script to read Grids from workbook Excel file and write to CSV file
 
 source .venv/bin/activate 
-python grids2csv.py
+python interties2csv.py
 """
 
 from pathlib import Path

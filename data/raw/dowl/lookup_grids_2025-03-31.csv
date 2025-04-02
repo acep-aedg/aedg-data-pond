@@ -1,0 +1,235 @@
+community,grid_id,ak_grid_id,grid_name,connection_year,termination_year
+Akhiok,1,AK-GR-001,Akhiok_grid,0,9999
+Akiachak,2,AK-GR-002,Akiachak_grid,0,9999
+Akiak,3,AK-GR-003,Akiak_grid,0,9999
+Akutan,4,AK-GR-004,Akutan_grid,0,9999
+Allakaket,5,AK-GR-005,Allakaket_grid,0,9999
+Alatna,5,AK-GR-005,Allakaket_grid,0,9999
+Bettles,7,AK-GR-007,Bettles_grid,0,9999
+Evansville,7,AK-GR-007,Bettles_grid,0,9999
+Eagle,9,AK-GR-009,Eagle_grid,0,9999
+Eagle Village,9,AK-GR-009,Eagle_grid,0,9999
+Healy Lake,11,AK-GR-011,HealyLake_grid,0,9999
+Northway,12,AK-GR-012,Northway_grid,0,9999
+Northway Village,12,AK-GR-012,Northway_grid,0,9999
+Northway Junction,12,AK-GR-012,Northway_grid,0,9999
+Cordova,14,AK-GR-014,Cordova_grid,1990,9999
+Eyak,14,AK-GR-014,Cordova_grid,1990,9999
+Tok,15,AK-GR-015,Tok_grid,1975,9999
+Tanacross,15,AK-GR-015,Tok_grid,1975,9999
+Dot Lake,15,AK-GR-015,Tok_grid,1975,9999
+Dot Lake Village,15,AK-GR-015,Tok_grid,1975,9999
+Tetlin,15,AK-GR-015,Tok_grid,2008,9999
+Craig,23,AK-GR-023,PrinceofWalesIs_grid,1987,9999
+Klawock,23,AK-GR-023,PrinceofWalesIs_grid,1987,9999
+Kasaan,23,AK-GR-023,PrinceofWalesIs_grid,1999,9999
+Thorne Bay,23,AK-GR-023,PrinceofWalesIs_grid,1999,9999
+Hollis,23,AK-GR-023,PrinceofWalesIs_grid,2004,9999
+Hydaburg,23,AK-GR-023,PrinceofWalesIs_grid,2006,9999
+Coffman Cove,23,AK-GR-023,PrinceofWalesIs_grid,2011,9999
+Naukati Bay,23,AK-GR-023,PrinceofWalesIs_grid,2015,9999
+Slana,26,AK-GR-026,Slana_grid,0,9999
+Chistochina,26,AK-GR-026,Slana_grid,2010,9999
+Mentasta Lake,26,AK-GR-026,Slana_grid,2012,9999
+Haines,32,AK-GR-032,Haines_grid,1993,9999
+Covenant Life,32,AK-GR-032,Haines_grid,1993,9999
+Klukwan,32,AK-GR-032,Haines_grid,1993,9999
+Chilkat Valley,32,AK-GR-032,Haines_grid,1993,9999
+Bethel,34,AK-GR-034,Bethel_grid,1980,9999
+Napakiak,34,AK-GR-034,Bethel_grid,1980,9999
+Oscarville,34,AK-GR-034,Bethel_grid,1988,9999
+Ambler,35,AK-GR-035,Ambler_grid,0,9999
+Anvik,36,AK-GR-036,Anvik_grid,0,9999
+Brevig Mission,39,AK-GR-039,BrevigMission_grid,0,9999
+Chevak,40,AK-GR-040,Chevak_grid,0,9999
+Eek,41,AK-GR-041,Eek_grid,0,9999
+Elim,43,AK-GR-043,Elim_grid,0,9999
+Emmonak,45,AK-GR-045,Emmonak_grid,0,9999
+Alakanuk,45,AK-GR-045,Emmonak_grid,2016,9999
+Gambell,46,AK-GR-046,Gambell_grid,0,9999
+Goodnews Bay,47,AK-GR-047,GoodnewsBay_grid,0,9999
+Grayling,48,AK-GR-048,Grayling_grid,0,9999
+Holy Cross,49,AK-GR-049,HolyCross_grid,0,9999
+Hooper Bay,50,AK-GR-050,HooperBay_grid,0,9999
+Huslia,51,AK-GR-051,Huslia_grid,0,9999
+Kalskag,52,AK-GR-052,UpperKalskag_grid,0,9999
+Lower Kalskag,52,AK-GR-052,UpperKalskag_grid,2005,9999
+Kaltag,54,AK-GR-054,Kaltag_grid,0,9999
+Kasigluk,55,AK-GR-055,Kasigluk_grid,0,9999
+Nunapitchuk,55,AK-GR-055,Kasigluk_grid,2006,9999
+Kiana,57,AK-GR-057,Kiana_grid,0,9999
+Kivalina,58,AK-GR-058,Kivalina_grid,0,9999
+Kotlik,59,AK-GR-059,Kotlik_grid,0,9999
+Koyuk,60,AK-GR-060,Koyuk_grid,0,9999
+Marshall,61,AK-GR-061,Marshall_grid,0,9999
+Mekoryuk,62,AK-GR-062,Mekoryuk_grid,0,9999
+Minto,63,AK-GR-063,Minto_grid,0,9999
+Mountain Village,64,AK-GR-064,MountainVillage_grid,0,2020
+New Stuyahok,65,AK-GR-065,NewStuyahok_grid,0,9999
+Ekwok,65,AK-GR-065,NewStuyahok_grid,2016,9999
+Noatak,66,AK-GR-066,Noatak_grid,0,9999
+Noorvik,67,AK-GR-067,Noorvik_grid,0,9999
+Nulato,68,AK-GR-068,Nulato_grid,0,9999
+Old Harbor,69,AK-GR-069,OldHarbor_grid,0,9999
+Pilot Station,70,AK-GR-070,PilotStation_grid,0,9999
+Quinhagak,71,AK-GR-071,Quinhagak_grid,0,9999
+Russian Mission,72,AK-GR-072,RussianMission_grid,0,9999
+Saint Mary's,75,AK-GR-075,SaintMarys_grid,1985,9999
+Andreafsky,75,AK-GR-075,SaintMarys_grid,1985,9999
+Pitkas Point,75,AK-GR-075,SaintMarys_grid,1985,9999
+Mountain Village,75,AK-GR-075,SaintMarys_grid,2020,9999
+Savoonga,76,AK-GR-076,Savoonga_grid,0,9999
+Scammon Bay,77,AK-GR-077,ScammonBay_grid,0,9999
+Selawik,78,AK-GR-078,Selawik_grid,0,9999
+Shageluk,79,AK-GR-079,Shageluk_grid,0,9999
+Shaktoolik,80,AK-GR-080,Shaktoolik_grid,0,9999
+Shishmaref,81,AK-GR-081,Shishmaref_grid,0,9999
+Stebbins,84,AK-GR-084,Stebbins_grid,0,9999
+Saint Michael,84,AK-GR-084,Stebbins_grid,2015,9999
+Teller,85,AK-GR-085,Teller_grid,0,9999
+Togiak,86,AK-GR-086,Togiak_grid,0,9999
+Twin Hills,86,AK-GR-086,Togiak_grid,2020,9999
+Toksook Bay,88,AK-GR-088,ToksookBay_grid,0,9999
+Tununak,88,AK-GR-088,ToksookBay_grid,2006,9999
+Nightmute,88,AK-GR-088,ToksookBay_grid,2008,9999
+Tooksook Bay,88,AK-GR-088,ToksookBay_grid,2008,9999
+Wales,90,AK-GR-090,Wales_grid,0,9999
+Yakutat,91,AK-GR-091,Yakutat_grid,0,9999
+Karluk,92,AK-GR-092,Karluk_grid,0,9999
+Aniak,93,AK-GR-093,Aniak_grid,0,9999
+Arctic Village,94,AK-GR-094,ArcticVillage_grid,0,9999
+Atka,95,AK-GR-095,Atka_grid,0,9999
+Atmautluak,96,AK-GR-096,Atmautluak_grid,0,9999
+Beaver,97,AK-GR-097,Beaver_grid,0,9999
+Birch Creek,98,AK-GR-098,BirchCreek_grid,0,9999
+Buckland,99,AK-GR-099,Buckland_grid,0,9999
+Chalkyitsik,100,AK-GR-100,Chalkyitsik_grid,0,9999
+Chenega Bay,101,AK-GR-101,Chenega_grid,0,9999
+Chignik Lagoon,102,AK-GR-102,ChignikLagoon_grid,0,9999
+Chignik Lake,103,AK-GR-103,ChignikLake_grid,0,9999
+Chignik,104,AK-GR-104,Chignik_grid,0,9999
+Chitina,105,AK-GR-105,Chitina_grid,0,9999
+Circle,106,AK-GR-106,Circle_grid,0,9999
+Clark's Point,107,AK-GR-107,ClarksPoint_grid,0,9999
+Diomede,110,AK-GR-110,Diomede_grid,0,9999
+Egegik,111,AK-GR-111,Egegik_grid,0,9999
+Elfin Cove,112,AK-GR-112,ElfinCove_grid,0,9999
+False Pass,113,AK-GR-113,FalsePass_grid,0,9999
+Cold Bay,114,AK-GR-114,ColdBay_grid,0,9999
+Galena,115,AK-GR-115,Galena_grid,0,9999
+Central,116,AK-GR-116,Central_grid,0,9999
+Golovin,117,AK-GR-117,Golovin_grid,0,9999
+Gustavus,118,AK-GR-118,Gustavus_grid,0,9999
+Fort Yukon,119,AK-GR-119,FortYukon_grid,0,9999
+Hughes,120,AK-GR-120,Hughes_grid,0,9999
+Igiugig,121,AK-GR-121,Igiugig_grid,0,9999
+Iliamna,123,AK-GR-123,Newhalen_grid,1983,9999
+Newhalen,123,AK-GR-123,Newhalen_grid,1983,9999
+Nondalton,123,AK-GR-123,Newhalen_grid,1983,9999
+Angoon,125,AK-GR-125,Angoon_grid,0,9999
+Hoonah,128,AK-GR-128,Hoonah_grid,0,9999
+Kake,129,AK-GR-129,Kake_grid,0,9999
+Deering,130,AK-GR-130,Deering_grid,0,9999
+King Cove,131,AK-GR-131,KingCove_grid,0,9999
+Kipnuk,132,AK-GR-132,Kipnuk_grid,0,9999
+Kokhanok,134,AK-GR-134,Kokhanok_grid,0,9999
+Kotzebue,135,AK-GR-135,Kotzebue_grid,0,9999
+Koyukuk,136,AK-GR-136,Koyukuk_grid,0,9999
+Kwethluk,137,AK-GR-137,Kwethluk_grid,0,9999
+Kwigillingok,138,AK-GR-138,Kwigillingok_grid,0,9999
+Larsen Bay,139,AK-GR-139,LarsenBay_grid,0,9999
+Levelock,140,AK-GR-140,Levelock_grid,0,9999
+Lime Village,141,AK-GR-141,LimeVillage_grid,0,9999
+Manokotak,142,AK-GR-142,Manokotak_grid,0,9999
+McGrath,143,AK-GR-143,McGrath_grid,0,9999
+Chuathbaluk,144,AK-GR-144,Chuathbaluk_grid,0,9999
+Crooked Creek,145,AK-GR-145,CrookedCreek_grid,0,9999
+Red Devil,146,AK-GR-146,RedDevil_grid,0,9999
+Sleetmute,147,AK-GR-147,Sleetmute_grid,0,9999
+Stony River,148,AK-GR-148,StonyRiver_grid,0,9999
+Shungnak,149,AK-GR-149,Shungnak_grid,1980,9999
+Kobuk,149,AK-GR-149,Shungnak_grid,1980,9999
+Naknek,150,AK-GR-150,Naknek_grid,0,9999
+South Naknek,150,AK-GR-150,Naknek_grid,0,9999
+King Salmon,150,AK-GR-150,Naknek_grid,0,9999
+Napaskiak,153,AK-GR-153,Napaskiak_grid,0,9999
+Chefornak,154,AK-GR-154,Chefornak_grid,0,9999
+Perryville,155,AK-GR-155,Perryville_grid,0,9999
+Nelson Lagoon,156,AK-GR-156,NelsonLagoon_grid,0,9999
+Koliganek,157,AK-GR-157,Koliganek_grid,0,9999
+Nikolai,158,AK-GR-158,Nikolai_grid,0,9999
+Nome,159,AK-GR-159,Nome_grid,0,9999
+Anaktuvuk Pass,160,AK-GR-160,AnaktuvukPass_grid,0,9999
+Atqasuk,161,AK-GR-161,Atqasuk_grid,0,9999
+Kaktovik,162,AK-GR-162,Kaktovik_grid,0,9999
+Nuiqsut,163,AK-GR-163,Nuiqsut_grid,0,9999
+Point Hope,164,AK-GR-164,PointHope_grid,0,9999
+Point Lay,165,AK-GR-165,PointLay_grid,0,9999
+Wainwright,166,AK-GR-166,Wainwright_grid,0,9999
+Nunam Iqua,167,AK-GR-167,NunamIqua_grid,0,9999
+Dillingham,169,AK-GR-169,Dillingham_grid,0,9999
+Aleknagik,169,AK-GR-169,Dillingham_grid,0,9999
+Ouzinkie,170,AK-GR-170,Ouzinkie_grid,0,9999
+Pedro Bay,171,AK-GR-171,PedroBay_grid,0,9999
+Pelican,172,AK-GR-172,Pelican_grid,0,9999
+Pilot Point,173,AK-GR-173,PilotPoint_grid,0,9999
+Platinum,174,AK-GR-174,Platinum_grid,0,9999
+Port Heiden,175,AK-GR-175,PortHeiden_grid,0,9999
+Kongiganak,176,AK-GR-176,Kongiganak_grid,0,9999
+Rampart,177,AK-GR-177,Rampart_grid,0,9999
+Ruby,178,AK-GR-178,Ruby_grid,0,9999
+Saint George,179,AK-GR-179,SaintGeorge_grid,0,9999
+Saint Paul,180,AK-GR-180,SaintPaul_grid,0,9999
+Stevens Village,181,AK-GR-181,StevensVillage_grid,0,9999
+Takotna,182,AK-GR-182,Takotna_grid,0,9999
+Port Alsworth,183,AK-GR-183,PortAlsworth_grid,0,9999
+Tanana,184,AK-GR-184,Tanana_grid,0,9999
+Tatitlek,185,AK-GR-185,Tatitlek_grid,0,9999
+Adak,186,AK-GR-186,Adak_grid,0,9999
+Sand Point,187,AK-GR-187,SandPoint_grid,0,9999
+Manley Hot Springs,188,AK-GR-188,ManleyHotSprings_grid,0,9999
+Tenakee Springs,189,AK-GR-189,TenakeeSprings_grid,0,9999
+Tuluksak,190,AK-GR-190,Tuluksak_grid,0,9999
+Tuntutuliak,191,AK-GR-191,Tuntutuliak_grid,0,9999
+Twin Hills,192,AK-GR-192,TwinHills_grid,0,2020
+Nikolski,193,AK-GR-193,Nikolski_grid,0,9999
+Unalakleet,194,AK-GR-194,Unalakleet_grid,0,9999
+Unalaska,195,AK-GR-195,Unalaska_grid,0,9999
+Newtok,196,AK-GR-196,Newtok_grid,0,9999
+Venetie,197,AK-GR-197,Venetie_grid,0,9999
+White Mountain,198,AK-GR-198,WhiteMountain_grid,0,9999
+Kobuk,199,AK-GR-199,Kobuk_grid,0,9999
+Tununak,200,AK-GR-200,Tununak_grid,0,2006
+Nightmute,201,AK-GR-201,Nightmute_grid,0,2008
+Saint Michael,202,AK-GR-202,SaintMichael_grid,0,2015
+Pitkas Point,203,AK-GR-203,PitkasPoint_grid,0,9999
+Nunapitchuk,204,AK-GR-204,Nunapitchuk_grid,0,2006
+Lower Kalskag,205,AK-GR-205,LowerKalskag_grid,0,2005
+Chistochina,206,AK-GR-206,Chistochina_grid,0,2010
+Coffman Cove,207,AK-GR-207,CoffmanCove_grid,0,2011
+Ekwok,208,AK-GR-208,Ekwok_grid,0,2016
+Hollis,209,AK-GR-209,Hollis_grid,0,2004
+Hydaburg,210,AK-GR-210,Hydaburg_grid,0,2006
+Naukati Bay,211,AK-GR-211,NaukatiBay_grid,0,2015
+Tetlin,212,AK-GR-212,Tetlin_grid,0,2008
+Whale Pass,213,AK-GR-213,WhalePass_grid,0,9999
+Mentasta Lake,214,AK-GR-214,MentastaLake_grid,0,2012
+Ketchikan,217,AK-GR-217,SEAPA_grid,2009,9999
+Petersburg,217,AK-GR-217,SEAPA_grid,2009,9999
+Wrangell,217,AK-GR-217,SEAPA_grid,2009,9999
+Alakanuk,218,AK-GR-218,Alakanuk_grid,0,2016
+Sitka,219,AK-GR-219,Sitka_grid,0,9999
+Utqiagvik,221,AK-GR-221,Utqiagvik_grid,0,9999
+Juneau,222,AK-GR-222,Juneau_grid,0,9999
+Douglas,222,AK-GR-222,Juneau_grid,0,9999
+Kodiak,223,AK-GR-223,Kodiak_grid,0,9999
+Kodiak Station,223,AK-GR-223,Kodiak_grid,0,9999
+Port Lions,223,AK-GR-223,Kodiak_grid,0,9999
+Chiniak,223,AK-GR-223,Kodiak_grid,0,9999
+Woody Island,223,AK-GR-223,Kodiak_grid,0,9999
+Deadhorse,224,AK-GR-224,Deadhorse_grid,0,9999
+Metlakatla,225,AK-GR-225,Metlakatla_grid,0,9999
+Paxson,226,AK-GR-226,Paxson_grid,0,9999
+Ketchikan,227,AK-GR-227,Ketchikan_grid,0,9999
+Wrangell,228,AK-GR-228,WrangellPetersburg_grid,1981,9999
+Petersburg,228,AK-GR-228,WrangellPetersburg_grid,1981,9999
