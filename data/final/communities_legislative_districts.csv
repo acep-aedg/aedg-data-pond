@@ -1,4 +1,4 @@
-communities_fips_code,house_district,senate_district,election_region
+community_fips_code,house_district,senate_district,election_region
 0200065,37,S,4
 0200650,5,C,1
 0200760,38,S,4
