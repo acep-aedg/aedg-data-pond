@@ -37,6 +37,7 @@ export_to_csv() {
 }
 
 # Export tables to CSV
+export_to_csv "final" "fuel_prices" "l3_fuel_prices"
 export_to_csv "final" "populations_ages_sexes" "l2_populations_ages_sexes" 
 export_to_csv "final" "populations" "l2_populations" 
 export_to_csv "final" "transportation" "l2_transportation" 
