@@ -3,7 +3,8 @@
 source .venv/bin/activate 
 python operators2csv.py
 
-2025-04-17 updated to use "FINAL" workbook
+2025-04-17 updated to use "FINAL" workbook which had more tabs (Communities and Sales
+Reporting) but the same data for Operators and Plants (and Interties) 
 """
 
 from pathlib import Path

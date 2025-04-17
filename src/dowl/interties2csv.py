@@ -5,8 +5,8 @@ python interties2csv.py
 
 2025-04-17: use operators2csv.py instead
 Early version used a previously delivered version that was posted with the 
-Energy Statistics workbooks in GitHub. A later delivery included interties
-with the Operators and Plants (and Sales Reporting and Communities)
+Energy Statistics workbooks in GitHub. A later delivery included Interties
+(unchanged values) with the Operators and Plants (and Sales Reporting and Communities).
 """
 
 from pathlib import Path
