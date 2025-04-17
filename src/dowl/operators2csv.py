@@ -1,7 +1,9 @@
-"""Quickie script to read Operators and Plants from Excel file and write to CSV files
+"""Script to read Operators and Plants from Excel file and write to CSV files
 
 source .venv/bin/activate 
 python operators2csv.py
+
+2025-04-17 updated to use "FINAL" workbook
 """
 
 from pathlib import Path
@@ -11,14 +13,18 @@ import pandas as pd
 def main():
     print("Hello from dowl!")
 
-    filename = "Tables_Operators&Plants_2025-03-10.xlsx"
+    filename = "AEDG LOOKUP TABLES_FINAL.xlsx"
     data_dir = Path(__file__).parents[2] / "data" / "raw" / "dowl"
     sheets = {
         "LOOKUP OPERATOR 2025-03-07": "lookup_operator_2025-03-07.csv",
-        "LOOKUP PLANTS 2025-03-10": "lookup_plants_2025-03-10.csv"
+        "LOOKUP PLANTS 2025-03-10": "lookup_plants_2025-03-10.csv",
+        "LOOKUP SalesReport 2025-03-03": "lookup_salesreport_2025-03-03.csv",
+        "LOOKUP INTERTIES 2024-02-23": "lookup_interties_2024-02-23.csv",
+        "LOOKUP Communities": "lookup_communities_2024-02-23.csv"
     }
     # standardize column names
     renames ={
+        # Operator
         "AK_operator Id": "ak_operator_id",
         "PCE_utility_code": "pce_utility_code",	
         "CPCN": "cpcn",
@@ -27,6 +33,7 @@ def main():
         "EIA_sector__number": "eia_sector_number", # we don't know what this is
         "operator__utility_type_name": "operator_utility_type_name",
         "Power Generation End Use": "power_generation_end_use",
+        # Plants
         "AK Plant ID": "ak_plant_id",
         "PCE reporting ID": "pce_reporting_id",
         "OPERATOR_AK_operator Id": "operator_ak_operator_id",
@@ -37,7 +44,29 @@ def main():
         "Grid Primary voltage 2 (kV)": "grid_primary_voltage2_kv",
         "Phases": "phases",
         "Latitude": "latitude",
-        "Notes": "notes"
+        "Longitude": "longitude",
+        "Notes": "notes",
+        # Sales
+        "Sales Reporting ID": "sales_reporting_id",
+        "Reporting Name": "reporting_name",
+        "OPERATOR_AK-OP Operator ID": "operator_ak_operator_id",
+        "OPERATOR_EIA operator Number": "operator_eia_operator_id",	
+        "OPERATOR_PCE Reporting ID": "operator_pce_reporting_id",
+        "OPERATOR_RCA CPCN": "operator_cpcn",
+        "OPERATOR_Operator Name": "operator_name",
+        "Index Community": "index_community",
+        "GNIS": "gnis",
+        "Communities reported": "communities_reported",
+        # Interties
+        'Intertie Unique ID Name': 'intertie_unique_id_name', 
+        'Current ID': 'current_id',
+        'Communities Intertied': 'communities_intertied', 
+        'Month of interite': 'month_of_intertie', 
+        'Year of intertie': 'year_of_intertie',
+        'AEA energy region': 'aea_energy_region', 
+        'Source': 'source',
+        # Communities - most have right format
+        "PCE ID": "pce_reporting_id"
     }
     
     # operators
@@ -57,8 +86,6 @@ def main():
             data_dir / outname,
             index=False
         )
-
-
 
 
 if __name__ == "__main__":
