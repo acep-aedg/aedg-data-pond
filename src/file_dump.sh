@@ -50,9 +50,9 @@ export_to_csv "final" "grids" "l2_grids"
 export_to_csv "final" "communities_legislative_districts" "communities_legislative_districts" 
 export_to_csv "final" "communities_school_districts" "communities_school_districts" 
 export_to_csv "final" "communities_grids" "communities_grids" 
+export_to_csv "final" "communities_reporting_entities" "communities_reporting_entities"
 export_to_csv "intermediate" "lookup_rca_electric_certificates" "lookup_rca_electric_certificates" 
 export_to_csv "intermediate" "lookup_eia_plants_grids" "lookup_eia_plants_grids" 
-export_to_csv "intermediate" "lookup_fips_codes_sales_reporting_ids" "lookup_fips_codes_sales_reporting_ids"
 
 # Export de-normalized views for public consumption (note: views are special, need the SELECT * query nested in the COPY command)
 psql -h "$PG_HOST" -p "$PG_PORT" -U "$PG_USER" -d "$PG_DB" -c "\COPY (SELECT * FROM public_communities_monthly_generation) TO ./data/public/public_communities_monthly_generation.csv DELIMITER ',' CSV HEADER;"
