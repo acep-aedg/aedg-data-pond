@@ -52,6 +52,7 @@ export_to_csv "final" "communities_school_districts" "communities_school_distric
 export_to_csv "final" "communities_grids" "communities_grids" 
 export_to_csv "final" "communities_reporting_entities" "communities_reporting_entities"
 export_to_csv "final" "reporting_entities" "l2_reporting_entities"
+export_to_csv "final" "electric_rates" "l2_electric_rates"
 
 export_to_csv "intermediate" "lookup_rca_electric_certificates" "lookup_rca_electric_certificates" 
 export_to_csv "intermediate" "lookup_eia_plants_grids" "lookup_eia_plants_grids" 
