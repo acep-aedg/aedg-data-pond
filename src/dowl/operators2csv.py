@@ -17,18 +17,18 @@ def main():
     filename = "AEDG LOOKUP TABLES_FINAL.xlsx"
     data_dir = Path(__file__).parents[2] / "data" / "raw" / "dowl"
     sheets = {
+        "LOOKUP Communities": "lookup_communities_2024-02-23.csv",
+        "LOOKUP INTERTIES 2024-02-23": "lookup_interties_2024-02-23.csv",
         "LOOKUP OPERATOR 2025-03-07": "lookup_operator_2025-03-07.csv",
         "LOOKUP PLANTS 2025-03-10": "lookup_plants_2025-03-10.csv",
         "LOOKUP SalesReport 2025-03-03": "lookup_salesreport_2025-03-03.csv",
-        "LOOKUP INTERTIES 2024-02-23": "lookup_interties_2024-02-23.csv",
-        "LOOKUP Communities": "lookup_communities_2024-02-23.csv"
     }
     # standardize column names
     renames ={
         # Operator
         "AK_operator Id": "ak_operator_id",
         "PCE_utility_code": "pce_utility_code",	
-        "CPCN": "cpcn",
+        "CPCN": "rca_cpcn",
         "Operator_name": "operator_name",
         "EIA_sector__name": "eia_sector_name",
         "EIA_sector__number": "eia_sector_number", # we don't know what this is
@@ -51,12 +51,12 @@ def main():
         "Sales Reporting ID": "sales_reporting_id",
         "Reporting Name": "reporting_name",
         "OPERATOR_AK-OP Operator ID": "operator_ak_operator_id",
-        "OPERATOR_EIA operator Number": "operator_eia_operator_id",	
-        "OPERATOR_PCE Reporting ID": "operator_pce_reporting_id",
-        "OPERATOR_RCA CPCN": "operator_cpcn",
-        "OPERATOR_Operator Name": "operator_name",
+        "OPERATOR_EIA operator Number": "eia_operator_id",	
+        "OPERATOR_PCE Reporting ID": "pce_reporting_id",
+        "OPERATOR_RCA CPCN": "rca_cpcn",
+        "OPERATOR_Operator Name": "operator_operator_name",
         "Index Community": "index_community",
-        "GNIS": "gnis",
+        "GNIS": "gnis_feature_id",
         "Communities reported": "communities_reported",
         # Interties
         'Intertie Unique ID Name': 'intertie_unique_id_name', 
@@ -67,7 +67,18 @@ def main():
         'AEA energy region': 'aea_energy_region', 
         'Source': 'source',
         # Communities - most have right format
-        "PCE ID": "pce_reporting_id"
+        "PCE ID": "pce_reporting_id",
+        "census_area__id": "census_area_id",
+        "census_area__census_code": "census_area_census_code",
+        "census_area__county_code": "census_area_county_code",
+        "census_area__gnis_feature_id": "census_area_gnis_feature_id",
+        "census_area__historical": "census_area_historical",
+        "census_area__name": "census_area_name",
+        "census_area__notes": "census_area_notes",
+        "aea_energy_region__id": "aea_energy_region_id",
+        "aea_energy_region__name": "aea_energy_region",
+        "alaska_native_regional_corporation__id": "alaska_native_regional_corporation_id",
+        "alaska_native_regional_corporation__name": "alaska_native_regional_corporation_name",
     }
     
     # operators
@@ -87,6 +98,10 @@ def main():
             data_dir / outname,
             index=False
         )
+
+        # for the data dictionary
+        for col in df.columns:
+            print(col, outname)
 
 
 if __name__ == "__main__":

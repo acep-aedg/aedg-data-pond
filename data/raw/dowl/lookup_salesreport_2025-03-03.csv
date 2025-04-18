@@ -1,4 +1,4 @@
-sales_reporting_id,reporting_name,operator_ak_operator_id,operator_eia_operator_id,operator_pce_reporting_id,operator_cpcn,operator_name,intertie_current_intertie_id,intertie_current_intertie_name,index_community,gnis,latitude,longitude,aea_energy_region,communities_reported,notes
+sales_reporting_id,reporting_name,operator_ak_operator_id,eia_operator_id,pce_reporting_id,rca_cpcn,operator_operator_name,intertie_current_intertie_id,intertie_current_intertie_name,index_community,gnis_feature_id,latitude,longitude,aea_energy_region,communities_reported,notes
 SR-1,Alaska Electric Light&Power Co,AK-OP-133,213,,1,Alaska Electric Light&Power Co,222-0000,Juneau_grid,Juneau,1404263.0,58.3019444,-134.4197222,Southeast,"Juneau, Douglas, Greens Creek (Industrial)",
 SR-10,TDX North Slope Generating Co,AK-OP-117,19277,,227,TDX North Slope Generating Co,224_0000,Deadhorse_grid,Deadhorse,1866941.0,70.2055556,-148.5116667,North Slope,Deadhorse,
 SR-100,Koyuk,AK-OP-006,221,331420.0,169,Alaska Village Electric Cooperative,060-0000,Koyuk_grid,Koyuk,1404981.0,64.9319444,-161.1569444,Bering Straits,Koyuk,

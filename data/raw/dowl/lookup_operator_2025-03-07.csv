@@ -1,4 +1,4 @@
-ak_operator_id,pce_utility_code,eia_operator_id,cpcn,operator_name,eia_sector_name,eia_sector_number,operator_rca_regulatory_status_name,operator_utility_type_name,operator_cpcn_status,pce_eligible,power_generation_end_use,notes
+ak_operator_id,pce_utility_code,eia_operator_id,rca_cpcn,operator_name,eia_sector_name,eia_sector_number,operator_rca_regulatory_status_name,operator_utility_type_name,operator_cpcn_status,pce_eligible,power_generation_end_use,notes
 AK-OP-001,AKHI, ,449.0,"Akhiok, City of",Electric Utility,1.0,Not Regulated,Public Electric Utility,Active,1.0,Retail,
 AK-OP-002,AKIA, ,635.0,Akiak City Council,Electric Utility,1.0,Not Regulated,Public Electric Utility,Active,1.0,Retail,
 AK-OP-003,AKIANCE,192,412.0,Akiachak Native Community,Electric Utility,1.0,Not Regulated,Private Electric Utility,Active,1.0,Retail,
