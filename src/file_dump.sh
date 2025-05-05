@@ -20,7 +20,7 @@ export_to_geojson() {
 }
 
 # Convert tables to GeoJSON
-export_to_geojson "final" "communities" "l3_communities"
+export_to_geojson "final" "communities" "l4_communities"
 export_to_geojson "final" "regional_corporations" "l2_regional_corporations"
 export_to_geojson "final" "village_corporations" "l2_village_corporations"
 export_to_geojson "final" "boroughs" "l2_boroughs"
@@ -49,14 +49,14 @@ export_to_csv "final" "capacity" "l2_es_capacity"
 export_to_csv "final" "grids" "l2_grids" 
 export_to_csv "final" "communities_legislative_districts" "communities_legislative_districts" 
 export_to_csv "final" "communities_school_districts" "communities_school_districts" 
-export_to_csv "final" "communities_grids" "l2_communities_grids" 
+export_to_csv "final" "communities_grids" "communities_grids" 
 export_to_csv "final" "communities_reporting_entities" "communities_reporting_entities"
 export_to_csv "final" "reporting_entities" "l2_reporting_entities"
 export_to_csv "final" "electric_rates" "l2_electric_rates"
 
 export_to_csv "intermediate" "lookup_rca_electric_certificates" "lookup_rca_electric_certificates" 
-export_to_csv "intermediate" "lookup_eia_plants_grids" "lookup_eia_plants_grids" 
 
 # Export de-normalized views for public consumption (note: views are special, need the SELECT * query nested in the COPY command)
-psql -h "$PG_HOST" -p "$PG_PORT" -U "$PG_USER" -d "$PG_DB" -c "\COPY (SELECT * FROM public_communities_monthly_generation) TO ./data/public/public_communities_monthly_generation.csv DELIMITER ',' CSV HEADER;"
-psql -h "$PG_HOST" -p "$PG_PORT" -U "$PG_USER" -d "$PG_DB" -c "\COPY (SELECT * FROM public_communities_yearly_generation) TO ./data/public/public_communities_yearly_generation.csv DELIMITER ',' CSV HEADER;"
+export_to_csv "public" "public_communities_monthly_generation" "(SELECT * FROM public_communities_monthly_generation)"
+export_to_csv "public" "public_communities_yearly_generation" "(SELECT * FROM public_communities_yearly_generation)"
+
