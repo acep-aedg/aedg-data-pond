@@ -26,7 +26,7 @@ export_to_geojson "final" "village_corporations" "l2_village_corporations"
 export_to_geojson "final" "boroughs" "l2_boroughs"
 export_to_geojson "final" "house_districts" "l2_house_districts"
 export_to_geojson "final" "senate_districts" "l2_senate_districts"
-export_to_geojson "intermediate" "pumas" "l1_pumas"
+export_to_geojson "intermediate" "pumas" "l2_pumas"
 
 # Function to export Postgres table to CSV
 export_to_csv() {
@@ -37,6 +37,7 @@ export_to_csv() {
 }
 
 # Export tables to CSV
+export_to_csv "final" "fuel_prices" "l3_fuel_prices"
 export_to_csv "final" "populations_ages_sexes" "l2_populations_ages_sexes" 
 export_to_csv "final" "populations" "l2_populations" 
 export_to_csv "final" "transportation" "l2_transportation" 
@@ -48,9 +49,13 @@ export_to_csv "final" "capacity" "l2_es_capacity"
 export_to_csv "final" "grids" "l2_grids" 
 export_to_csv "final" "communities_legislative_districts" "communities_legislative_districts" 
 export_to_csv "final" "communities_school_districts" "communities_school_districts" 
+export_to_csv "final" "communities_grids" "l2_communities_grids" 
+export_to_csv "final" "communities_reporting_entities" "communities_reporting_entities"
+export_to_csv "final" "reporting_entities" "l2_reporting_entities"
+export_to_csv "final" "electric_rates" "l2_electric_rates"
+
 export_to_csv "intermediate" "lookup_rca_electric_certificates" "lookup_rca_electric_certificates" 
 export_to_csv "intermediate" "lookup_eia_plants_grids" "lookup_eia_plants_grids" 
-export_to_csv "intermediate" "lookup_fips_codes_grids" "lookup_fips_codes_grids" 
 
 # Export de-normalized views for public consumption (note: views are special, need the SELECT * query nested in the COPY command)
 psql -h "$PG_HOST" -p "$PG_PORT" -U "$PG_USER" -d "$PG_DB" -c "\COPY (SELECT * FROM public_communities_monthly_generation) TO ./data/public/public_communities_monthly_generation.csv DELIMITER ',' CSV HEADER;"
