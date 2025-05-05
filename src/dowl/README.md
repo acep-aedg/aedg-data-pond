@@ -31,3 +31,13 @@ Then I altered `uv`'s `hello.py` script to become `operators2csv.py`
 % source .venv/bin/activate
 % python operators2csv.py
 ```
+
+## Input data files
+
+Input data files are Excel workbooks delivered by Neil to Liz via email (Vanessa cc'd). These
+files were not put in the data pond because `.xlsx` files are gitignored. Instead,
+they are stashed in the AEDG Shared Google Drive and should be copied locally when you want
+to run the scripts.
+
+The scripts were developed to work with a data delivery in March 2025, and then adapted to 
+the "FINAL" data delivery in April 2025.

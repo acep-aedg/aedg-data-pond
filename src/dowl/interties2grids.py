@@ -111,8 +111,8 @@ def main():
     print("Hello from dowl!")
 
     data_dir = Path(__file__).parents[2] / "data" / "raw" / "dowl"
-    infile = "lookup_interties_2023-11-08.csv"
-    outfile = "lookup_grids_2025-03-31.csv"
+    infile = "lookup_interties_2024-02-23.csv"
+    outfile = "lookup_grids_2025-04-17.csv"
 
     # read
     df = pd.read_csv(
