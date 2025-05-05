@@ -1,0 +1,118 @@
+
+boroughs
+    notes: final table relatively unmodified from source table
+    entity: DCRA? Census?
+    description: Census Areas 2016 Includes 2010 census data, also includes updated Petersburg Borough Boundary and Wade Hampton name Change to Kusilvak Census Area.As of July 2021 adopted as master Feature Class of ongoing rework to get a comprehensive State boundary set for these entities. Census data fields deleted at this time as they are available elsewhereAs of Nov 2022 New FC name and attributes names to reflect better usage - New in GISS CDO as Borough_Census_Area Master - originally in GISP CDO only as Community BoroughsDesigned to replace legacy FCs:GISS CDO Boro_CensusAreasGISS CDO Community_Master_BoroughsGISS CDO Community_Master_BoroughsCensusAreasThough technically boundaries of Census Areas are maintained by US Census - but if Alaska DCRA Local Boundary Commission Borough boundaries are adjusted - they impact adjacent Census Areas.
+    url: https://maps.commerce.alaska.gov/server/rest/services/Community_Related/Community_Locations_and_Boundaries/MapServer/3
+
+capacity
+    notes:
+    entity: ACEP?
+    description: Derived from the Energy Statistics Infrastructure XLSX file.
+    url: https://github.com/acep-uaf/ak-energy-statistics-2011_2021/raw/refs/heads/main/workbooks/Energy_Stats_Infrastructure_2021.xlsx
+
+communities_legislative_districts
+    notes: This is a Join Table derived from 2 different tables - a DCRA source table and the community_fips_code pulled from the AEDG communities table. Joined via string match of community name.
+    entity: DCRA
+    description: 
+    url: https://maps.commerce.alaska.gov/server/rest/services/Govt_Related/Govt_House_and_Senate_Districts/MapServer/0
+
+communities_school_districts
+    notes: Derived from joining source data from DEED to AEDG communities table via spatial function (community points within polygon)
+    entity: DEED
+    description: <DIV STYLE="text-align:Left;"><P STYLE="margin:0 0 0 0;"><SPAN>Alaska school district boundaries and addresses. Replacing former School District geometries (as of Nov 3, 2022). Each school district boundary (geometry, not attributes) is derived from one of three sources. </SPAN></P><DIV><P><SPAN>1. Borough and Census Area Boundaries (as a proxy for school districts in the organized borough). </SPAN><SPAN>https://dcra-cdo-dcced.opendata.arcgis.com/datasets/DCCED::alaska-borough-and-census-area-boundaries/about</SPAN></P><P><SPAN>2. Regional Educational Attendance Area Boundaries (school districts in the unorganized borough). A Regional Educational Attendance Area (REAA) is an educational area that is established in an unorganized borough of the state established by AS 14.08.031(a). REAA elections administered by the Division of Elections. This dataset is revised for recasting of REAA sections using 2020 Census data. The 2020 version is the first time REAA boundaries were fully created using Geographic Information System (GIS) technology. Revised for the 2022 move of the city of Rampart from Yukon Flats to Yukon-Koyukuk. </SPAN></P><P><SPAN>3. City Boundaries - Boundaries are based on the actual certificates issued by the Local Boundary Commission. https://dcra-cdo-dcced.opendata.arcgis.com/datasets/DCCED::city-boundaries/about</SPAN></P><P><SPAN>For more information, see https://education.alaska.gov/DOE_Rolodex/SchoolCalendar/DistrictAndSchoolInfo/DistrictDetails</SPAN></P></DIV></DIV>
+    url: https://maps.commerce.alaska.gov/server/rest/services/Education_Related/School_Districts_and_REAAs/MapServer/0
+
+communities
+    notes: by far the most complicated and important table in the database. built using 11 different tables. skeleton of this table was derived from DCRA communities table. explaining is best done column by column. 
+    entity: DCRA
+    description:
+    url: https://maps.commerce.alaska.gov/server/rest/services/Community_Related/Community_Locations_and_Boundaries/MapServer/0
+
+employment
+    notes: derived from DCRA employment dataset, joined to AEDG communities table via string match of community name, which was then dropped to normalize.
+    entity: DCRA
+    description:
+    url: https://maps.commerce.alaska.gov/server/rest/services/Economics_Related/Economics_Employment_Wages/MapServer/0
+
+grids
+    notes: derived from Energy Statistics Interties XLSX file, tab 'LOOKUP INTERTIES 2023-11-08'
+    entity: ACEP?
+    description:
+    url: https://github.com/acep-uaf/ak-energy-statistics-2011_2021/raw/refs/heads/main/workbooks/Energy_Stats_Infrastructure_2021.xlsx
+
+house_districts
+    notes: relatively unaltered from source, date changed from awful to human readable
+    entity: DCRA
+    description:
+    url: https://maps.commerce.alaska.gov/server/rest/services/Govt_Related/Govt_House_and_Senate_Districts/MapServer/2
+
+monthly_generation
+    notes: derived from the Energy Stats workbooks generation data
+    entity: ACEP?
+    description:
+    url: https://github.com/acep-uaf/ak-energy-statistics-2011_2021/raw/refs/heads/main/workbooks/Energy_Stats_Generation_Tables.xlsx
+
+populations_ages_sexes
+    notes: ultimately derived from the US Census's American Community Survey, this data was sourced via DCRA
+    entity: US Census? 
+    description: Population by age in Alaskan communities for the most recent 5-year American Community Survey (ACS) interval. GIS data shows the median age of each community. This data has been visualized in a Geographic Information Systems (GIS) format and is provided as a service in the DCRA Information Portal by the Alaska Department of Commerce, Community, and Economic Development Division of Community and Regional Affairs (SOA DCCED DCRA), Research and Analysis section. SOA DCCED DCRA Research and Analysis is not the authoritative source for this data. For more information and for questions about this data, see US Census - The Significance of Age and Sex Data and Alaska DOLWD ACS Data
+    url: https://maps.commerce.alaska.gov/server/rest/services/Demographics/Alaska_American_Community_Survey/MapServer/5
+    url: https://maps.commerce.alaska.gov/server/rest/services/Demographics/Alaska_American_Community_Survey/MapServer/0
+    parent_url: https://maps.commerce.alaska.gov/server/rest/services/Demographics/Alaska_American_Community_Survey/MapServer
+
+populations
+    notes: derived from DCCED Certified Populations dataset. Like Census data but certified?
+    entity: DCRA
+    description:
+    url: https://maps.commerce.alaska.gov/server/rest/services/Demographics/Population_DCCED_CityCDPBorough/MapServer/0
+
+regional_corporations
+    notes: derived from Census data
+    entity: US Census
+    description: Alaska Native Regional Corporations (ANRC); January 1, 2024 vintage
+    url: https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/AIANNHA/MapServer/0
+
+senate_districts
+    notes: relatively unaltered from source, date changed from awful to human readable
+    entity: DCRA
+    description:
+    url: https://maps.commerce.alaska.gov/server/rest/services/Govt_Related/Govt_House_and_Senate_Districts/MapServer/1
+
+taxes
+    notes: relatively unmodified, columns dropped, community_fips_code added by joining table lookup_fips_codes_dcra_codes using column dcra_code
+    entity: DCRA
+    description:
+    url: https://maps.commerce.alaska.gov/server/rest/services/Economics_Related/Economics_Taxes/MapServer/0
+
+transportation
+    notes: community_fips_code added via dcra_code, columns dropped and remaining changed to boolean, date changed from awful to human readable
+    entity: DCRA
+    description:
+    url: https://maps.commerce.alaska.gov/server/rest/services/Transportation/Transportation_Overview/MapServer/0
+
+village_corporations
+    notes: currently undergoing patching due to data quality issues
+    entity: DCRA
+    description:
+    url: https://maps.commerce.alaska.gov/server/rest/services/ANCSA/ANCSA_14c_Plats/MapServer/0
+
+yearly_generation
+    notes: derived from the Energy Stats workbooks generation data
+    entity: ACEP?
+    description:
+    url: https://github.com/acep-uaf/ak-energy-statistics-2011_2021/raw/refs/heads/main/workbooks/Energy_Stats_Generation_Tables.xlsx
+
+
+public_communities_monthly_generation
+    notes: derived from Energy Stats and AEDG communities tables
+    entity: ACEP? DCRA?
+    description:
+    url: 
+
+public_communities_yearly_generation
+    notes: derived from Energy Stats and AEDG communities tables
+    entity: ACEP? DCRA?
+    description:
+    url: 
+    
