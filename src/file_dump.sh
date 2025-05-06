@@ -50,7 +50,6 @@ export_to_csv "final" "grids" "l2_grids"
 export_to_csv "final" "communities_legislative_districts" "communities_legislative_districts" 
 export_to_csv "final" "communities_school_districts" "communities_school_districts" 
 export_to_csv "final" "communities_grids" "communities_grids" 
-export_to_csv "final" "communities_reporting_entities" "communities_reporting_entities"
 export_to_csv "final" "reporting_entities" "l2_reporting_entities"
 export_to_csv "final" "electric_rates" "l2_electric_rates"
 
