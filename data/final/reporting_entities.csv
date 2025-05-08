@@ -1,4 +1,4 @@
-aea_reporting_id,grid_id,utility_name,year
+id,grid_id,name,year
 1,222,Alaska Electric Light & Power Co.,2021
 3,215,Chugach Electric Assn Inc,2021
 4,215,Golden Valley Elec Assn Inc,2021
@@ -8,20 +8,19 @@ aea_reporting_id,grid_id,utility_name,year
 8,215,Matanuska Electric Assn Inc,2021
 10,224,TDX North Slope Generating Co,2021
 11,186,TDX Adak Generating LLC,2021
-12,1,"Akhiok, City of",2021
+12,1,City of Akhiok,2021
 13,2,Akiachak Native Community,2021
 14,3,Akiak City Council,2021
-15,4,"Akutan, City of",2021
+15,4,City of Akutan,2021
 16,45,Alaska Village Electric Cooperative,2021
 17,5,Alaska Power & Telephone Company,2021
 18,35,Alaska Village Electric Cooperative,2021
 19,160,North Slope Borough Power & Light,2021
 20,125,Inside Passage Electric,2021
-20,125,"Inside Passage Elec Coop, Inc",2021
 21,93,Aniak Light & Power,2021
 22,36,Alaska Village Electric Cooperative,2021
 23,94,Arctic Village Electric Company,2021
-24,95,"Atka, City of",2021
+24,95,City of Atka,2021
 25,96,Atmautluak Tribal Utilities,2021
 26,161,North Slope Borough Power & Light,2021
 27,97,Beaver Joint Utilities,2021
@@ -29,13 +28,13 @@ aea_reporting_id,grid_id,utility_name,year
 29,7,Alaska Power & Telephone Company,2021
 30,98,Birch Creek Electric Company,2021
 31,39,Alaska Village Electric Cooperative,2021
-32,99,"Buckland, City of",2021
+32,99,City of Buckland,2021
 33,116,Gold Country Energy,2021
 34,100,Chalkyitsik Village Council,2021
 35,154,Naterkaq Light Plant (City of Chefornak),2021
 36,101,Chenega Ira Council,2021
 37,40,Alaska Village Electric Cooperative,2021
-38,104,"Chignik, City of",2021
+38,104,City of Chignik,2021
 39,102,Chignik Lagoon Power Utility,2021
 40,103,Chignik Lake Electric Utility,2021
 41,32,Inside Passage Electric,2021
@@ -43,7 +42,7 @@ aea_reporting_id,grid_id,utility_name,year
 43,105,Chitina Electric Inc,2021
 44,144,Middle Kuskokwim Electric,2021
 45,106,Circle Electric Utility,2021
-46,107,"Clark's Point, City of",2021
+46,107,City of Clark's Point,2021
 47,23,Alaska Power & Telephone Company,2021
 48,114,G & K Inc,2021
 49,14,Cordova Electric Cooperative,2021
@@ -60,9 +59,9 @@ aea_reporting_id,grid_id,utility_name,year
 60,112,Elfin Cove Utility Commission,2021
 61,43,Alaska Village Electric Cooperative,2021
 62,45,Alaska Village Electric Cooperative,2021
-63,113,"False Pass, City of",2021
+63,113,City of False Pass,2021
 64,119,Gwitchyaa Zhee Utilities Company,2021
-65,115,"Galena, City of",2021
+65,115,City of Galena,2021
 66,46,Alaska Village Electric Cooperative,2021
 67,117,Golovin Power Utilities,2021
 68,47,Alaska Village Electric Cooperative,2021
@@ -78,7 +77,7 @@ aea_reporting_id,grid_id,utility_name,year
 78,51,Alaska Village Electric Cooperative,2021
 79,23,Alaska Power & Telephone Company,2021
 80,121,Igiugig Electric Company,2021
-81,123,"I-N-N Electric Coop, Inc",2021
+81,123,I-N-N Electric Coop Inc,2021
 82,129,Inside Passage Electric,2021
 83,162,North Slope Borough Power & Light,2021
 84,52,Alaska Village Electric Cooperative,2021
@@ -97,7 +96,7 @@ aea_reporting_id,grid_id,utility_name,year
 98,59,Alaska Village Electric Cooperative,2021
 99,135,Kotzebue Electric Association,2021
 100,60,Alaska Village Electric Cooperative,2021
-101,136,"Koyukuk, City of",2021
+101,136,City of Koyukuk,2021
 102,137,Kwethluk Incorporated d/b/a Kuiggluum Kallugvia,2021
 103,138,Kwigillingok Power Company,2021
 105,140,Levelock Electrical Coop,2021
@@ -119,7 +118,7 @@ aea_reporting_id,grid_id,utility_name,year
 121,65,Alaska Village Electric Cooperative,2021
 122,196,Ungusraq Power Company,2021
 123,88,Alaska Village Electric Cooperative,2021
-124,158,"Nikolai, City of",2021
+124,158,City of Nikolai,2021
 125,193,Umnak Power Company,2021
 126,66,Alaska Village Electric Cooperative,2021
 127,159,Nome Joint Utility Systems,2021
@@ -130,7 +129,7 @@ aea_reporting_id,grid_id,utility_name,year
 132,167,Nunam Iqua Electric Company,2021
 133,55,Alaska Village Electric Cooperative,2021
 134,69,Alaska Village Electric Cooperative,2021
-135,170,"Ouzinkie, City of",2021
+135,170,City of Ouzinkie,2021
 136,171,Pedro Bay Village Council,2021
 137,172,Pelican Utility,2021
 139,173,Pilot Point Electric Utility,2021
@@ -143,9 +142,9 @@ aea_reporting_id,grid_id,utility_name,year
 147,71,Alaska Village Electric Cooperative,2021
 148,177,Rampart Village Council,2021
 149,146,Middle Kuskokwim Electric,2021
-150,178,"Ruby, City of",2021
+150,178,City of Ruby,2021
 151,72,Alaska Village Electric Cooperative,2021
-152,179,"Saint George, City of",2021
+152,179,City of Saint George,2021
 153,75,Alaska Village Electric Cooperative,2021
 154,84,Alaska Village Electric Cooperative,2021
 155,180,Saint Paul Municipal Electric,2021
@@ -166,7 +165,7 @@ aea_reporting_id,grid_id,utility_name,year
 171,184,Tanana Power Company Inc,2021
 172,185,Tatitlek Village Ira Council,2021
 173,85,Alaska Village Electric Cooperative,2021
-174,189,"Tenakee Springs, City of",2021
+174,189,City of Tenakee Springs,2021
 175,15,Alaska Power & Telephone Company,2021
 176,23,Alaska Power & Telephone Company,2021
 177,86,Alaska Village Electric Cooperative,2021
@@ -176,17 +175,17 @@ aea_reporting_id,grid_id,utility_name,year
 182,88,Alaska Village Electric Cooperative,2021
 183,192,Twin Hills Village Council,2021
 184,194,Unalakleet Valley Electric Cooperative,2021
-185,195,"Unalaska, City of",2021
+185,195,City of Unalaska,2021
 186,197,Venetie Village Electric,2021
 187,166,North Slope Borough Power & Light,2021
 188,90,Alaska Village Electric Cooperative,2021
 189,213,Alaska Power & Telephone Company,2021
-190,198,"White Mountain, City of",2021
+190,198,City of White Mountain,2021
 191,91,Alaska Village Electric Cooperative,2021
-192,216,"Copper Valley Elec Assn, Inc",2021
-193,219,City & Borough of Sitka - (AK),2021
-194,221,"Barrow Utils & Elec Coop, Inc",2021
+192,216,Copper Valley Elec Assn Inc,2021
+193,219,City & Borough of Sitka,2021
+194,221,Barrow Utils & Elec Coop Inc,2021
 195,225,Metlakatla Power & Light,2021
-198,217,Petersburg Borough - (AK),2021
-199,215,City of Seward - (AK),2021
-200,217,City of Wrangell - (AK),2021
+198,217,Petersburg Borough,2021
+199,215,City of Seward,2021
+200,217,City of Wrangell,2021

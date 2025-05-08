@@ -1,4 +1,4 @@
-aea_reporting_id,year,residential_rate,commercial_rate,industrial_rate
+reporting_entity_id,year,residential_rate,commercial_rate,industrial_rate
 1,2021,0.12,0.10,0.11
 3,2021,0.21,0.16,0.14
 4,2021,0.27,0.26,0.18
@@ -17,7 +17,6 @@ aea_reporting_id,year,residential_rate,commercial_rate,industrial_rate
 18,2021,0.26,0.64,
 19,2021,0.15,0.15,
 20,2021,0.29,0.63,
-20,2021,,,
 21,2021,0.34,0.70,
 22,2021,0.26,,
 23,2021,0.27,1.00,
