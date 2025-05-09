@@ -1,0 +1,1300 @@
+fips_code,name,grid_id,capacity_mw,fuel_type_code,fuel_type_name,year
+0200065,Adak,186,,,,
+0200650,Akhiok,1,0.3,DFO,Distillate Fuel Oil,2021
+0200760,Akiachak,2,1.5,DFO,Distillate Fuel Oil,2021
+0200870,Akiak,3,0.9,DFO,Distillate Fuel Oil,2021
+0201090,Akutan,4,0.1,WAT,Water at Hydroelectric Turbine,2021
+0201090,Akutan,4,0.4,DFO,Distillate Fuel Oil,2021
+0201200,Alakanuk,45,0.4,WND,Wind,2021
+0201200,Alakanuk,45,3.2,DFO,Distillate Fuel Oil,2021
+0201305,Alatna,5,,,,
+0201390,Alcan Border,,,,,
+0201420,Aleknagik,169,11.0,DFO,Distillate Fuel Oil,2021
+0201560,Aleneva,,,,,
+0201860,Allakaket,5,,,,
+0201970,Ambler,35,1.1,DFO,Distillate Fuel Oil,2021
+0202080,Anaktuvuk Pass,160,2.7,DFO,Distillate Fuel Oil,2021
+0203110,Anchor Point,215,60.0,WO,Waste Oil,2021
+0203110,Anchor Point,215,44.5,WND,Wind,2021
+0203110,Anchor Point,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0203110,Anchor Point,215,1.9,SUN,Solar,2021
+0203110,Anchor Point,215,104.8,SUB,Subbituminous Coal,2021
+0203110,Anchor Point,215,1403.7,NG,Natural Gas,2021
+0203110,Anchor Point,215,89.5,MWH,Electricity used for Energy Storage,2021
+0203110,Anchor Point,215,90.0,LIG,Lignite Coal,2021
+0203110,Anchor Point,215,11.5,LFG,Landfill Gas,2021
+0203110,Anchor Point,215,231.9,DFO,Distillate Fuel Oil,2021
+0203000,Anchorage,215,60.0,WO,Waste Oil,2021
+0203000,Anchorage,215,44.5,WND,Wind,2021
+0203000,Anchorage,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0203000,Anchorage,215,1.9,SUN,Solar,2021
+0203000,Anchorage,215,104.8,SUB,Subbituminous Coal,2021
+0203000,Anchorage,215,1403.7,NG,Natural Gas,2021
+0203000,Anchorage,215,89.5,MWH,Electricity used for Energy Storage,2021
+0203000,Anchorage,215,90.0,LIG,Lignite Coal,2021
+0203000,Anchorage,215,11.5,LFG,Landfill Gas,2021
+0203000,Anchorage,215,231.9,DFO,Distillate Fuel Oil,2021
+0203220,Anderson,215,60.0,WO,Waste Oil,2021
+0203220,Anderson,215,44.5,WND,Wind,2021
+0203220,Anderson,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0203220,Anderson,215,1.9,SUN,Solar,2021
+0203220,Anderson,215,104.8,SUB,Subbituminous Coal,2021
+0203220,Anderson,215,1403.7,NG,Natural Gas,2021
+0203220,Anderson,215,89.5,MWH,Electricity used for Energy Storage,2021
+0203220,Anderson,215,90.0,LIG,Lignite Coal,2021
+0203220,Anderson,215,11.5,LFG,Landfill Gas,2021
+0203220,Anderson,215,231.9,DFO,Distillate Fuel Oil,2021
+0203440,Angoon,125,1.5,DFO,Distillate Fuel Oil,2021
+0203550,Aniak,93,2.2,DFO,Distillate Fuel Oil,2021
+0203880,Anvik,36,0.4,DFO,Distillate Fuel Oil,2021
+0203990,Arctic Village,94,0.4,DFO,Distillate Fuel Oil,2021
+0204210,Atka,95,0.3,WAT,Water at Hydroelectric Turbine,2021
+0204210,Atka,95,0.3,DFO,Distillate Fuel Oil,2021
+0204430,Atmautluak,96,1.1,DFO,Distillate Fuel Oil,2021
+0204500,Atqasuk,161,3.2,DFO,Distillate Fuel Oil,2021
+0204670,Attu Station,,,,,
+0205000,Badger,215,60.0,WO,Waste Oil,2021
+0205000,Badger,215,44.5,WND,Wind,2021
+0205000,Badger,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0205000,Badger,215,1.9,SUN,Solar,2021
+0205000,Badger,215,104.8,SUB,Subbituminous Coal,2021
+0205000,Badger,215,1403.7,NG,Natural Gas,2021
+0205000,Badger,215,89.5,MWH,Electricity used for Energy Storage,2021
+0205000,Badger,215,90.0,LIG,Lignite Coal,2021
+0205000,Badger,215,11.5,LFG,Landfill Gas,2021
+0205000,Badger,215,231.9,DFO,Distillate Fuel Oil,2021
+0205585,Bear Creek,215,60.0,WO,Waste Oil,2021
+0205585,Bear Creek,215,44.5,WND,Wind,2021
+0205585,Bear Creek,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0205585,Bear Creek,215,1.9,SUN,Solar,2021
+0205585,Bear Creek,215,104.8,SUB,Subbituminous Coal,2021
+0205585,Bear Creek,215,1403.7,NG,Natural Gas,2021
+0205585,Bear Creek,215,89.5,MWH,Electricity used for Energy Storage,2021
+0205585,Bear Creek,215,90.0,LIG,Lignite Coal,2021
+0205585,Bear Creek,215,11.5,LFG,Landfill Gas,2021
+0205585,Bear Creek,215,231.9,DFO,Distillate Fuel Oil,2021
+0205750,Beaver,97,0.3,DFO,Distillate Fuel Oil,2021
+0206245,Beluga,215,60.0,WO,Waste Oil,2021
+0206245,Beluga,215,44.5,WND,Wind,2021
+0206245,Beluga,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0206245,Beluga,215,1.9,SUN,Solar,2021
+0206245,Beluga,215,104.8,SUB,Subbituminous Coal,2021
+0206245,Beluga,215,1403.7,NG,Natural Gas,2021
+0206245,Beluga,215,89.5,MWH,Electricity used for Energy Storage,2021
+0206245,Beluga,215,90.0,LIG,Lignite Coal,2021
+0206245,Beluga,215,11.5,LFG,Landfill Gas,2021
+0206245,Beluga,215,231.9,DFO,Distillate Fuel Oil,2021
+0206520,Bethel,34,0.9,WND,Wind,2021
+0206520,Bethel,34,12.9,DFO,Distillate Fuel Oil,2021
+0206630,Bettles,7,0.6,DFO,Distillate Fuel Oil,2021
+0206850,Big Delta,215,60.0,WO,Waste Oil,2021
+0206850,Big Delta,215,44.5,WND,Wind,2021
+0206850,Big Delta,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0206850,Big Delta,215,1.9,SUN,Solar,2021
+0206850,Big Delta,215,104.8,SUB,Subbituminous Coal,2021
+0206850,Big Delta,215,1403.7,NG,Natural Gas,2021
+0206850,Big Delta,215,89.5,MWH,Electricity used for Energy Storage,2021
+0206850,Big Delta,215,90.0,LIG,Lignite Coal,2021
+0206850,Big Delta,215,11.5,LFG,Landfill Gas,2021
+0206850,Big Delta,215,231.9,DFO,Distillate Fuel Oil,2021
+0207070,Big Lake,215,60.0,WO,Waste Oil,2021
+0207070,Big Lake,215,44.5,WND,Wind,2021
+0207070,Big Lake,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0207070,Big Lake,215,1.9,SUN,Solar,2021
+0207070,Big Lake,215,104.8,SUB,Subbituminous Coal,2021
+0207070,Big Lake,215,1403.7,NG,Natural Gas,2021
+0207070,Big Lake,215,89.5,MWH,Electricity used for Energy Storage,2021
+0207070,Big Lake,215,90.0,LIG,Lignite Coal,2021
+0207070,Big Lake,215,11.5,LFG,Landfill Gas,2021
+0207070,Big Lake,215,231.9,DFO,Distillate Fuel Oil,2021
+0207620,Birch Creek,98,,,,
+0208740,Brevig Mission,39,1.0,DFO,Distillate Fuel Oil,2021
+0209600,Buckland,99,0.2,WND,Wind,2021
+0209600,Buckland,99,0.0,SUN,Solar,2021
+0209600,Buckland,99,0.3,MWH,Electricity used for Energy Storage,2021
+0209600,Buckland,99,1.2,DFO,Distillate Fuel Oil,2021
+0209657,Buffalo Soapstone,215,60.0,WO,Waste Oil,2021
+0209657,Buffalo Soapstone,215,44.5,WND,Wind,2021
+0209657,Buffalo Soapstone,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0209657,Buffalo Soapstone,215,1.9,SUN,Solar,2021
+0209657,Buffalo Soapstone,215,104.8,SUB,Subbituminous Coal,2021
+0209657,Buffalo Soapstone,215,1403.7,NG,Natural Gas,2021
+0209657,Buffalo Soapstone,215,89.5,MWH,Electricity used for Energy Storage,2021
+0209657,Buffalo Soapstone,215,90.0,LIG,Lignite Coal,2021
+0209657,Buffalo Soapstone,215,11.5,LFG,Landfill Gas,2021
+0209657,Buffalo Soapstone,215,231.9,DFO,Distillate Fuel Oil,2021
+0209710,Butte,215,60.0,WO,Waste Oil,2021
+0209710,Butte,215,44.5,WND,Wind,2021
+0209710,Butte,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0209710,Butte,215,1.9,SUN,Solar,2021
+0209710,Butte,215,104.8,SUB,Subbituminous Coal,2021
+0209710,Butte,215,1403.7,NG,Natural Gas,2021
+0209710,Butte,215,89.5,MWH,Electricity used for Energy Storage,2021
+0209710,Butte,215,90.0,LIG,Lignite Coal,2021
+0209710,Butte,215,11.5,LFG,Landfill Gas,2021
+0209710,Butte,215,231.9,DFO,Distillate Fuel Oil,2021
+0210150,Cantwell,215,60.0,WO,Waste Oil,2021
+0210150,Cantwell,215,44.5,WND,Wind,2021
+0210150,Cantwell,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0210150,Cantwell,215,1.9,SUN,Solar,2021
+0210150,Cantwell,215,104.8,SUB,Subbituminous Coal,2021
+0210150,Cantwell,215,1403.7,NG,Natural Gas,2021
+0210150,Cantwell,215,89.5,MWH,Electricity used for Energy Storage,2021
+0210150,Cantwell,215,90.0,LIG,Lignite Coal,2021
+0210150,Cantwell,215,11.5,LFG,Landfill Gas,2021
+0210150,Cantwell,215,231.9,DFO,Distillate Fuel Oil,2021
+0211690,Central,116,0.3,DFO,Distillate Fuel Oil,2021
+0211800,Chalkyitsik,100,0.3,DFO,Distillate Fuel Oil,2021
+0212350,Chase,215,60.0,WO,Waste Oil,2021
+0212350,Chase,215,44.5,WND,Wind,2021
+0212350,Chase,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0212350,Chase,215,1.9,SUN,Solar,2021
+0212350,Chase,215,104.8,SUB,Subbituminous Coal,2021
+0212350,Chase,215,1403.7,NG,Natural Gas,2021
+0212350,Chase,215,89.5,MWH,Electricity used for Energy Storage,2021
+0212350,Chase,215,90.0,LIG,Lignite Coal,2021
+0212350,Chase,215,11.5,LFG,Landfill Gas,2021
+0212350,Chase,215,231.9,DFO,Distillate Fuel Oil,2021
+0212680,Chefornak,154,0.3,WND,Wind,2021
+0212680,Chefornak,154,0.9,DFO,Distillate Fuel Oil,2021
+0212920,Chena Ridge,215,60.0,WO,Waste Oil,2021
+0212920,Chena Ridge,215,44.5,WND,Wind,2021
+0212920,Chena Ridge,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0212920,Chena Ridge,215,1.9,SUN,Solar,2021
+0212920,Chena Ridge,215,104.8,SUB,Subbituminous Coal,2021
+0212920,Chena Ridge,215,1403.7,NG,Natural Gas,2021
+0212920,Chena Ridge,215,89.5,MWH,Electricity used for Energy Storage,2021
+0212920,Chena Ridge,215,90.0,LIG,Lignite Coal,2021
+0212920,Chena Ridge,215,11.5,LFG,Landfill Gas,2021
+0212920,Chena Ridge,215,231.9,DFO,Distillate Fuel Oil,2021
+0212970,Chenega,101,0.5,DFO,Distillate Fuel Oil,2021
+0213230,Chevak,40,0.4,WND,Wind,2021
+0213230,Chevak,40,1.8,DFO,Distillate Fuel Oil,2021
+0213340,Chickaloon,215,60.0,WO,Waste Oil,2021
+0213340,Chickaloon,215,44.5,WND,Wind,2021
+0213340,Chickaloon,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0213340,Chickaloon,215,1.9,SUN,Solar,2021
+0213340,Chickaloon,215,104.8,SUB,Subbituminous Coal,2021
+0213340,Chickaloon,215,1403.7,NG,Natural Gas,2021
+0213340,Chickaloon,215,89.5,MWH,Electricity used for Energy Storage,2021
+0213340,Chickaloon,215,90.0,LIG,Lignite Coal,2021
+0213340,Chickaloon,215,11.5,LFG,Landfill Gas,2021
+0213340,Chickaloon,215,231.9,DFO,Distillate Fuel Oil,2021
+0213450,Chicken,,,,,
+0213550,Chignik,104,0.1,WAT,Water at Hydroelectric Turbine,2021
+0213550,Chignik,104,0.6,DFO,Distillate Fuel Oil,2021
+0213670,Chignik Lagoon,102,0.2,WND,Wind,2021
+0213670,Chignik Lagoon,102,0.5,DFO,Distillate Fuel Oil,2021
+0213780,Chignik Lake,103,0.4,DFO,Distillate Fuel Oil,2021
+0213860,Chiniak,223,9.0,WND,Wind,2021
+0213860,Chiniak,223,33.6,WAT,Water at Hydroelectric Turbine,2021
+0213860,Chiniak,223,5.0,MWH,Electricity used for Energy Storage,2021
+0213860,Chiniak,223,37.2,DFO,Distillate Fuel Oil,2021
+0213890,Chisana,,,,,
+0214000,Chistochina,26,1.1,DFO,Distillate Fuel Oil,2021
+0214110,Chitina,105,0.4,DFO,Distillate Fuel Oil,2021
+0214330,Chuathbaluk,144,0.2,DFO,Distillate Fuel Oil,2021
+0214880,Circle,106,0.3,DFO,Distillate Fuel Oil,2021
+0215320,Clam Gulch,215,60.0,WO,Waste Oil,2021
+0215320,Clam Gulch,215,44.5,WND,Wind,2021
+0215320,Clam Gulch,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0215320,Clam Gulch,215,1.9,SUN,Solar,2021
+0215320,Clam Gulch,215,104.8,SUB,Subbituminous Coal,2021
+0215320,Clam Gulch,215,1403.7,NG,Natural Gas,2021
+0215320,Clam Gulch,215,89.5,MWH,Electricity used for Energy Storage,2021
+0215320,Clam Gulch,215,90.0,LIG,Lignite Coal,2021
+0215320,Clam Gulch,215,11.5,LFG,Landfill Gas,2021
+0215320,Clam Gulch,215,231.9,DFO,Distillate Fuel Oil,2021
+0215430,Clark's Point,107,0.3,DFO,Distillate Fuel Oil,2021
+0216360,Coffman Cove,23,11.5,WAT,Water at Hydroelectric Turbine,2021
+0216360,Coffman Cove,23,15.1,DFO,Distillate Fuel Oil,2021
+0216420,Cohoe,215,60.0,WO,Waste Oil,2021
+0216420,Cohoe,215,44.5,WND,Wind,2021
+0216420,Cohoe,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0216420,Cohoe,215,1.9,SUN,Solar,2021
+0216420,Cohoe,215,104.8,SUB,Subbituminous Coal,2021
+0216420,Cohoe,215,1403.7,NG,Natural Gas,2021
+0216420,Cohoe,215,89.5,MWH,Electricity used for Energy Storage,2021
+0216420,Cohoe,215,90.0,LIG,Lignite Coal,2021
+0216420,Cohoe,215,11.5,LFG,Landfill Gas,2021
+0216420,Cohoe,215,231.9,DFO,Distillate Fuel Oil,2021
+0216530,Cold Bay,114,,,,
+0216630,Coldfoot,,,,,
+0216750,College,215,60.0,WO,Waste Oil,2021
+0216750,College,215,44.5,WND,Wind,2021
+0216750,College,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0216750,College,215,1.9,SUN,Solar,2021
+0216750,College,215,104.8,SUB,Subbituminous Coal,2021
+0216750,College,215,1403.7,NG,Natural Gas,2021
+0216750,College,215,89.5,MWH,Electricity used for Energy Storage,2021
+0216750,College,215,90.0,LIG,Lignite Coal,2021
+0216750,College,215,11.5,LFG,Landfill Gas,2021
+0216750,College,215,231.9,DFO,Distillate Fuel Oil,2021
+0217190,Cooper Landing,215,60.0,WO,Waste Oil,2021
+0217190,Cooper Landing,215,44.5,WND,Wind,2021
+0217190,Cooper Landing,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0217190,Cooper Landing,215,1.9,SUN,Solar,2021
+0217190,Cooper Landing,215,104.8,SUB,Subbituminous Coal,2021
+0217190,Cooper Landing,215,1403.7,NG,Natural Gas,2021
+0217190,Cooper Landing,215,89.5,MWH,Electricity used for Energy Storage,2021
+0217190,Cooper Landing,215,90.0,LIG,Lignite Coal,2021
+0217190,Cooper Landing,215,11.5,LFG,Landfill Gas,2021
+0217190,Cooper Landing,215,231.9,DFO,Distillate Fuel Oil,2021
+0217300,Copper Center,216,5.3,WO,Waste Oil,2021
+0217300,Copper Center,216,18.5,WAT,Water at Hydroelectric Turbine,2021
+0217300,Copper Center,216,17.8,DFO,Distillate Fuel Oil,2021
+0217410,Cordova,14,7.2,WAT,Water at Hydroelectric Turbine,2021
+0217410,Cordova,14,1.0,MWH,Electricity used for Energy Storage,2021
+0217410,Cordova,14,10.7,DFO,Distillate Fuel Oil,2021
+0217670,Covenant Life,32,9.8,WAT,Water at Hydroelectric Turbine,2021
+0217670,Covenant Life,32,14.9,DFO,Distillate Fuel Oil,2021
+0217740,Craig,23,11.5,WAT,Water at Hydroelectric Turbine,2021
+0217740,Craig,23,15.1,DFO,Distillate Fuel Oil,2021
+0217850,Crooked Creek,145,0.3,DFO,Distillate Fuel Oil,2021
+0217960,Crown Point,215,60.0,WO,Waste Oil,2021
+0217960,Crown Point,215,44.5,WND,Wind,2021
+0217960,Crown Point,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0217960,Crown Point,215,1.9,SUN,Solar,2021
+0217960,Crown Point,215,104.8,SUB,Subbituminous Coal,2021
+0217960,Crown Point,215,1403.7,NG,Natural Gas,2021
+0217960,Crown Point,215,89.5,MWH,Electricity used for Energy Storage,2021
+0217960,Crown Point,215,90.0,LIG,Lignite Coal,2021
+0217960,Crown Point,215,11.5,LFG,Landfill Gas,2021
+0217960,Crown Point,215,231.9,DFO,Distillate Fuel Oil,2021
+0218510,Deering,130,0.1,WND,Wind,2021
+0218510,Deering,130,0.0,SUN,Solar,2021
+0218510,Deering,130,0.3,MWH,Electricity used for Energy Storage,2021
+0218510,Deering,130,0.4,DFO,Distillate Fuel Oil,2021
+0218620,Delta Junction,215,60.0,WO,Waste Oil,2021
+0218620,Delta Junction,215,44.5,WND,Wind,2021
+0218620,Delta Junction,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0218620,Delta Junction,215,1.9,SUN,Solar,2021
+0218620,Delta Junction,215,104.8,SUB,Subbituminous Coal,2021
+0218620,Delta Junction,215,1403.7,NG,Natural Gas,2021
+0218620,Delta Junction,215,89.5,MWH,Electricity used for Energy Storage,2021
+0218620,Delta Junction,215,90.0,LIG,Lignite Coal,2021
+0218620,Delta Junction,215,11.5,LFG,Landfill Gas,2021
+0218620,Delta Junction,215,231.9,DFO,Distillate Fuel Oil,2021
+0218675,Deltana,215,60.0,WO,Waste Oil,2021
+0218675,Deltana,215,44.5,WND,Wind,2021
+0218675,Deltana,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0218675,Deltana,215,1.9,SUN,Solar,2021
+0218675,Deltana,215,104.8,SUB,Subbituminous Coal,2021
+0218675,Deltana,215,1403.7,NG,Natural Gas,2021
+0218675,Deltana,215,89.5,MWH,Electricity used for Energy Storage,2021
+0218675,Deltana,215,90.0,LIG,Lignite Coal,2021
+0218675,Deltana,215,11.5,LFG,Landfill Gas,2021
+0218675,Deltana,215,231.9,DFO,Distillate Fuel Oil,2021
+0218805,Denali Park,215,60.0,WO,Waste Oil,2021
+0218805,Denali Park,215,44.5,WND,Wind,2021
+0218805,Denali Park,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0218805,Denali Park,215,1.9,SUN,Solar,2021
+0218805,Denali Park,215,104.8,SUB,Subbituminous Coal,2021
+0218805,Denali Park,215,1403.7,NG,Natural Gas,2021
+0218805,Denali Park,215,89.5,MWH,Electricity used for Energy Storage,2021
+0218805,Denali Park,215,90.0,LIG,Lignite Coal,2021
+0218805,Denali Park,215,11.5,LFG,Landfill Gas,2021
+0218805,Denali Park,215,231.9,DFO,Distillate Fuel Oil,2021
+0218925,Diamond Ridge,215,60.0,WO,Waste Oil,2021
+0218925,Diamond Ridge,215,44.5,WND,Wind,2021
+0218925,Diamond Ridge,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0218925,Diamond Ridge,215,1.9,SUN,Solar,2021
+0218925,Diamond Ridge,215,104.8,SUB,Subbituminous Coal,2021
+0218925,Diamond Ridge,215,1403.7,NG,Natural Gas,2021
+0218925,Diamond Ridge,215,89.5,MWH,Electricity used for Energy Storage,2021
+0218925,Diamond Ridge,215,90.0,LIG,Lignite Coal,2021
+0218925,Diamond Ridge,215,11.5,LFG,Landfill Gas,2021
+0218925,Diamond Ridge,215,231.9,DFO,Distillate Fuel Oil,2021
+0218950,Dillingham,169,11.0,DFO,Distillate Fuel Oil,2021
+0219060,Diomede,110,0.5,DFO,Distillate Fuel Oil,2021
+0219720,Dot Lake,15,5.2,DFO,Distillate Fuel Oil,2021
+0219750,Dot Lake Village,15,5.2,DFO,Distillate Fuel Oil,2021
+0220020,Dry Creek,,,,,
+0220380,Eagle,9,0.0,SUN,Solar,2021
+0220380,Eagle,9,0.5,DFO,Distillate Fuel Oil,2021
+0220600,Eagle Village,9,0.0,SUN,Solar,2021
+0220600,Eagle Village,9,0.5,DFO,Distillate Fuel Oil,2021
+0220716,Eareckson Station,,,,,
+0220970,Edna Bay,,,,,
+0221040,Eek,41,1.1,DFO,Distillate Fuel Oil,2021
+0221150,Egegik,111,1.0,DFO,Distillate Fuel Oil,2021
+0221370,Eielson AFB,215,60.0,WO,Waste Oil,2021
+0221370,Eielson AFB,215,44.5,WND,Wind,2021
+0221370,Eielson AFB,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0221370,Eielson AFB,215,1.9,SUN,Solar,2021
+0221370,Eielson AFB,215,104.8,SUB,Subbituminous Coal,2021
+0221370,Eielson AFB,215,1403.7,NG,Natural Gas,2021
+0221370,Eielson AFB,215,89.5,MWH,Electricity used for Energy Storage,2021
+0221370,Eielson AFB,215,90.0,LIG,Lignite Coal,2021
+0221370,Eielson AFB,215,11.5,LFG,Landfill Gas,2021
+0221370,Eielson AFB,215,231.9,DFO,Distillate Fuel Oil,2021
+0221810,Ekwok,65,1.2,DFO,Distillate Fuel Oil,2021
+0222140,Elfin Cove,112,,,,
+0222250,Elim,43,1.3,DFO,Distillate Fuel Oil,2021
+0222910,Emmonak,45,0.4,WND,Wind,2021
+0222910,Emmonak,45,3.2,DFO,Distillate Fuel Oil,2021
+0223460,Ester,215,60.0,WO,Waste Oil,2021
+0223460,Ester,215,44.5,WND,Wind,2021
+0223460,Ester,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0223460,Ester,215,1.9,SUN,Solar,2021
+0223460,Ester,215,104.8,SUB,Subbituminous Coal,2021
+0223460,Ester,215,1403.7,NG,Natural Gas,2021
+0223460,Ester,215,89.5,MWH,Electricity used for Energy Storage,2021
+0223460,Ester,215,90.0,LIG,Lignite Coal,2021
+0223460,Ester,215,11.5,LFG,Landfill Gas,2021
+0223460,Ester,215,231.9,DFO,Distillate Fuel Oil,2021
+0223720,Eureka Roadhouse,,,,,
+0223790,Evansville,7,0.6,DFO,Distillate Fuel Oil,2021
+0223900,Excursion Inlet,,,,,
+0224230,Fairbanks,215,60.0,WO,Waste Oil,2021
+0224230,Fairbanks,215,44.5,WND,Wind,2021
+0224230,Fairbanks,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0224230,Fairbanks,215,1.9,SUN,Solar,2021
+0224230,Fairbanks,215,104.8,SUB,Subbituminous Coal,2021
+0224230,Fairbanks,215,1403.7,NG,Natural Gas,2021
+0224230,Fairbanks,215,89.5,MWH,Electricity used for Energy Storage,2021
+0224230,Fairbanks,215,90.0,LIG,Lignite Coal,2021
+0224230,Fairbanks,215,11.5,LFG,Landfill Gas,2021
+0224230,Fairbanks,215,231.9,DFO,Distillate Fuel Oil,2021
+0224660,False Pass,113,,,,
+0225000,Farm Loop,215,60.0,WO,Waste Oil,2021
+0225000,Farm Loop,215,44.5,WND,Wind,2021
+0225000,Farm Loop,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0225000,Farm Loop,215,1.9,SUN,Solar,2021
+0225000,Farm Loop,215,104.8,SUB,Subbituminous Coal,2021
+0225000,Farm Loop,215,1403.7,NG,Natural Gas,2021
+0225000,Farm Loop,215,89.5,MWH,Electricity used for Energy Storage,2021
+0225000,Farm Loop,215,90.0,LIG,Lignite Coal,2021
+0225000,Farm Loop,215,11.5,LFG,Landfill Gas,2021
+0225000,Farm Loop,215,231.9,DFO,Distillate Fuel Oil,2021
+0224980,Farmers Loop,215,60.0,WO,Waste Oil,2021
+0224980,Farmers Loop,215,44.5,WND,Wind,2021
+0224980,Farmers Loop,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0224980,Farmers Loop,215,1.9,SUN,Solar,2021
+0224980,Farmers Loop,215,104.8,SUB,Subbituminous Coal,2021
+0224980,Farmers Loop,215,1403.7,NG,Natural Gas,2021
+0224980,Farmers Loop,215,89.5,MWH,Electricity used for Energy Storage,2021
+0224980,Farmers Loop,215,90.0,LIG,Lignite Coal,2021
+0224980,Farmers Loop,215,11.5,LFG,Landfill Gas,2021
+0224980,Farmers Loop,215,231.9,DFO,Distillate Fuel Oil,2021
+0225220,Ferry,215,60.0,WO,Waste Oil,2021
+0225220,Ferry,215,44.5,WND,Wind,2021
+0225220,Ferry,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0225220,Ferry,215,1.9,SUN,Solar,2021
+0225220,Ferry,215,104.8,SUB,Subbituminous Coal,2021
+0225220,Ferry,215,1403.7,NG,Natural Gas,2021
+0225220,Ferry,215,89.5,MWH,Electricity used for Energy Storage,2021
+0225220,Ferry,215,90.0,LIG,Lignite Coal,2021
+0225220,Ferry,215,11.5,LFG,Landfill Gas,2021
+0225220,Ferry,215,231.9,DFO,Distillate Fuel Oil,2021
+0225550,Fishhook,215,60.0,WO,Waste Oil,2021
+0225550,Fishhook,215,44.5,WND,Wind,2021
+0225550,Fishhook,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0225550,Fishhook,215,1.9,SUN,Solar,2021
+0225550,Fishhook,215,104.8,SUB,Subbituminous Coal,2021
+0225550,Fishhook,215,1403.7,NG,Natural Gas,2021
+0225550,Fishhook,215,89.5,MWH,Electricity used for Energy Storage,2021
+0225550,Fishhook,215,90.0,LIG,Lignite Coal,2021
+0225550,Fishhook,215,11.5,LFG,Landfill Gas,2021
+0225550,Fishhook,215,231.9,DFO,Distillate Fuel Oil,2021
+0225880,Flat,,,,,
+0226100,Fort Greely,215,60.0,WO,Waste Oil,2021
+0226100,Fort Greely,215,44.5,WND,Wind,2021
+0226100,Fort Greely,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0226100,Fort Greely,215,1.9,SUN,Solar,2021
+0226100,Fort Greely,215,104.8,SUB,Subbituminous Coal,2021
+0226100,Fort Greely,215,1403.7,NG,Natural Gas,2021
+0226100,Fort Greely,215,89.5,MWH,Electricity used for Energy Storage,2021
+0226100,Fort Greely,215,90.0,LIG,Lignite Coal,2021
+0226100,Fort Greely,215,11.5,LFG,Landfill Gas,2021
+0226100,Fort Greely,215,231.9,DFO,Distillate Fuel Oil,2021
+0226760,Fort Yukon,119,2.8,DFO,Distillate Fuel Oil,2021
+0226835,Four Mile Road,215,60.0,WO,Waste Oil,2021
+0226835,Four Mile Road,215,44.5,WND,Wind,2021
+0226835,Four Mile Road,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0226835,Four Mile Road,215,1.9,SUN,Solar,2021
+0226835,Four Mile Road,215,104.8,SUB,Subbituminous Coal,2021
+0226835,Four Mile Road,215,1403.7,NG,Natural Gas,2021
+0226835,Four Mile Road,215,89.5,MWH,Electricity used for Energy Storage,2021
+0226835,Four Mile Road,215,90.0,LIG,Lignite Coal,2021
+0226835,Four Mile Road,215,11.5,LFG,Landfill Gas,2021
+0226835,Four Mile Road,215,231.9,DFO,Distillate Fuel Oil,2021
+0226870,Fox,215,60.0,WO,Waste Oil,2021
+0226870,Fox,215,44.5,WND,Wind,2021
+0226870,Fox,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0226870,Fox,215,1.9,SUN,Solar,2021
+0226870,Fox,215,104.8,SUB,Subbituminous Coal,2021
+0226870,Fox,215,1403.7,NG,Natural Gas,2021
+0226870,Fox,215,89.5,MWH,Electricity used for Energy Storage,2021
+0226870,Fox,215,90.0,LIG,Lignite Coal,2021
+0226870,Fox,215,11.5,LFG,Landfill Gas,2021
+0226870,Fox,215,231.9,DFO,Distillate Fuel Oil,2021
+0226910,Fox River,215,60.0,WO,Waste Oil,2021
+0226910,Fox River,215,44.5,WND,Wind,2021
+0226910,Fox River,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0226910,Fox River,215,1.9,SUN,Solar,2021
+0226910,Fox River,215,104.8,SUB,Subbituminous Coal,2021
+0226910,Fox River,215,1403.7,NG,Natural Gas,2021
+0226910,Fox River,215,89.5,MWH,Electricity used for Energy Storage,2021
+0226910,Fox River,215,90.0,LIG,Lignite Coal,2021
+0226910,Fox River,215,11.5,LFG,Landfill Gas,2021
+0226910,Fox River,215,231.9,DFO,Distillate Fuel Oil,2021
+0227090,Fritz Creek,215,60.0,WO,Waste Oil,2021
+0227090,Fritz Creek,215,44.5,WND,Wind,2021
+0227090,Fritz Creek,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0227090,Fritz Creek,215,1.9,SUN,Solar,2021
+0227090,Fritz Creek,215,104.8,SUB,Subbituminous Coal,2021
+0227090,Fritz Creek,215,1403.7,NG,Natural Gas,2021
+0227090,Fritz Creek,215,89.5,MWH,Electricity used for Energy Storage,2021
+0227090,Fritz Creek,215,90.0,LIG,Lignite Coal,2021
+0227090,Fritz Creek,215,11.5,LFG,Landfill Gas,2021
+0227090,Fritz Creek,215,231.9,DFO,Distillate Fuel Oil,2021
+0227145,Funny River,215,60.0,WO,Waste Oil,2021
+0227145,Funny River,215,44.5,WND,Wind,2021
+0227145,Funny River,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0227145,Funny River,215,1.9,SUN,Solar,2021
+0227145,Funny River,215,104.8,SUB,Subbituminous Coal,2021
+0227145,Funny River,215,1403.7,NG,Natural Gas,2021
+0227145,Funny River,215,89.5,MWH,Electricity used for Energy Storage,2021
+0227145,Funny River,215,90.0,LIG,Lignite Coal,2021
+0227145,Funny River,215,11.5,LFG,Landfill Gas,2021
+0227145,Funny River,215,231.9,DFO,Distillate Fuel Oil,2021
+0227420,Gakona,,,,,
+0227530,Galena,115,3.9,DFO,Distillate Fuel Oil,2021
+0227640,Gambell,46,0.3,WND,Wind,2021
+0227640,Gambell,46,2.0,DFO,Distillate Fuel Oil,2021
+0227700,Game Creek,,,,,
+0228200,Gateway,215,60.0,WO,Waste Oil,2021
+0228200,Gateway,215,44.5,WND,Wind,2021
+0228200,Gateway,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0228200,Gateway,215,1.9,SUN,Solar,2021
+0228200,Gateway,215,104.8,SUB,Subbituminous Coal,2021
+0228200,Gateway,215,1403.7,NG,Natural Gas,2021
+0228200,Gateway,215,89.5,MWH,Electricity used for Energy Storage,2021
+0228200,Gateway,215,90.0,LIG,Lignite Coal,2021
+0228200,Gateway,215,11.5,LFG,Landfill Gas,2021
+0228200,Gateway,215,231.9,DFO,Distillate Fuel Oil,2021
+0228590,Glacier View,216,5.3,WO,Waste Oil,2021
+0228590,Glacier View,216,18.5,WAT,Water at Hydroelectric Turbine,2021
+0228590,Glacier View,216,17.8,DFO,Distillate Fuel Oil,2021
+0228740,Glennallen,216,5.3,WO,Waste Oil,2021
+0228740,Glennallen,216,18.5,WAT,Water at Hydroelectric Turbine,2021
+0228740,Glennallen,216,17.8,DFO,Distillate Fuel Oil,2021
+0229130,Goldstream,215,60.0,WO,Waste Oil,2021
+0229130,Goldstream,215,44.5,WND,Wind,2021
+0229130,Goldstream,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0229130,Goldstream,215,1.9,SUN,Solar,2021
+0229130,Goldstream,215,104.8,SUB,Subbituminous Coal,2021
+0229130,Goldstream,215,1403.7,NG,Natural Gas,2021
+0229130,Goldstream,215,89.5,MWH,Electricity used for Energy Storage,2021
+0229130,Goldstream,215,90.0,LIG,Lignite Coal,2021
+0229130,Goldstream,215,11.5,LFG,Landfill Gas,2021
+0229130,Goldstream,215,231.9,DFO,Distillate Fuel Oil,2021
+0229180,Golovin,117,0.7,DFO,Distillate Fuel Oil,2021
+0229290,Goodnews Bay,47,0.6,DFO,Distillate Fuel Oil,2021
+0230060,Grayling,48,0.4,DFO,Distillate Fuel Oil,2021
+0230500,Gulkana,216,5.3,WO,Waste Oil,2021
+0230500,Gulkana,216,18.5,WAT,Water at Hydroelectric Turbine,2021
+0230500,Gulkana,216,17.8,DFO,Distillate Fuel Oil,2021
+0230940,Gustavus,118,0.8,WAT,Water at Hydroelectric Turbine,2021
+0230940,Gustavus,118,1.4,DFO,Distillate Fuel Oil,2021
+0231050,Haines,32,9.8,WAT,Water at Hydroelectric Turbine,2021
+0231050,Haines,32,14.9,DFO,Distillate Fuel Oil,2021
+0231270,Halibut Cove,215,60.0,WO,Waste Oil,2021
+0231270,Halibut Cove,215,44.5,WND,Wind,2021
+0231270,Halibut Cove,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0231270,Halibut Cove,215,1.9,SUN,Solar,2021
+0231270,Halibut Cove,215,104.8,SUB,Subbituminous Coal,2021
+0231270,Halibut Cove,215,1403.7,NG,Natural Gas,2021
+0231270,Halibut Cove,215,89.5,MWH,Electricity used for Energy Storage,2021
+0231270,Halibut Cove,215,90.0,LIG,Lignite Coal,2021
+0231270,Halibut Cove,215,11.5,LFG,Landfill Gas,2021
+0231270,Halibut Cove,215,231.9,DFO,Distillate Fuel Oil,2021
+0231710,Happy Valley,215,60.0,WO,Waste Oil,2021
+0231710,Happy Valley,215,44.5,WND,Wind,2021
+0231710,Happy Valley,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0231710,Happy Valley,215,1.9,SUN,Solar,2021
+0231710,Happy Valley,215,104.8,SUB,Subbituminous Coal,2021
+0231710,Happy Valley,215,1403.7,NG,Natural Gas,2021
+0231710,Happy Valley,215,89.5,MWH,Electricity used for Energy Storage,2021
+0231710,Happy Valley,215,90.0,LIG,Lignite Coal,2021
+0231710,Happy Valley,215,11.5,LFG,Landfill Gas,2021
+0231710,Happy Valley,215,231.9,DFO,Distillate Fuel Oil,2021
+0231765,Harding-Birch Lakes,215,60.0,WO,Waste Oil,2021
+0231765,Harding-Birch Lakes,215,44.5,WND,Wind,2021
+0231765,Harding-Birch Lakes,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0231765,Harding-Birch Lakes,215,1.9,SUN,Solar,2021
+0231765,Harding-Birch Lakes,215,104.8,SUB,Subbituminous Coal,2021
+0231765,Harding-Birch Lakes,215,1403.7,NG,Natural Gas,2021
+0231765,Harding-Birch Lakes,215,89.5,MWH,Electricity used for Energy Storage,2021
+0231765,Harding-Birch Lakes,215,90.0,LIG,Lignite Coal,2021
+0231765,Harding-Birch Lakes,215,11.5,LFG,Landfill Gas,2021
+0231765,Harding-Birch Lakes,215,231.9,DFO,Distillate Fuel Oil,2021
+0232150,Healy,215,60.0,WO,Waste Oil,2021
+0232150,Healy,215,44.5,WND,Wind,2021
+0232150,Healy,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0232150,Healy,215,1.9,SUN,Solar,2021
+0232150,Healy,215,104.8,SUB,Subbituminous Coal,2021
+0232150,Healy,215,1403.7,NG,Natural Gas,2021
+0232150,Healy,215,89.5,MWH,Electricity used for Energy Storage,2021
+0232150,Healy,215,90.0,LIG,Lignite Coal,2021
+0232150,Healy,215,11.5,LFG,Landfill Gas,2021
+0232150,Healy,215,231.9,DFO,Distillate Fuel Oil,2021
+0232310,Healy Lake,11,0.1,DFO,Distillate Fuel Oil,2021
+0232550,Hobart Bay,,,,,
+0232810,Hollis,23,11.5,WAT,Water at Hydroelectric Turbine,2021
+0232810,Hollis,23,15.1,DFO,Distillate Fuel Oil,2021
+0233030,Holy Cross,49,0.6,DFO,Distillate Fuel Oil,2021
+0233140,Homer,215,60.0,WO,Waste Oil,2021
+0233140,Homer,215,44.5,WND,Wind,2021
+0233140,Homer,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0233140,Homer,215,1.9,SUN,Solar,2021
+0233140,Homer,215,104.8,SUB,Subbituminous Coal,2021
+0233140,Homer,215,1403.7,NG,Natural Gas,2021
+0233140,Homer,215,89.5,MWH,Electricity used for Energy Storage,2021
+0233140,Homer,215,90.0,LIG,Lignite Coal,2021
+0233140,Homer,215,11.5,LFG,Landfill Gas,2021
+0233140,Homer,215,231.9,DFO,Distillate Fuel Oil,2021
+0233360,Hoonah,128,0.5,WAT,Water at Hydroelectric Turbine,2021
+0233360,Hoonah,128,2.0,DFO,Distillate Fuel Oil,2021
+0233470,Hooper Bay,50,0.3,WND,Wind,2021
+0233470,Hooper Bay,50,2.2,DFO,Distillate Fuel Oil,2021
+0233580,Hope,215,60.0,WO,Waste Oil,2021
+0233580,Hope,215,44.5,WND,Wind,2021
+0233580,Hope,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0233580,Hope,215,1.9,SUN,Solar,2021
+0233580,Hope,215,104.8,SUB,Subbituminous Coal,2021
+0233580,Hope,215,1403.7,NG,Natural Gas,2021
+0233580,Hope,215,89.5,MWH,Electricity used for Energy Storage,2021
+0233580,Hope,215,90.0,LIG,Lignite Coal,2021
+0233580,Hope,215,11.5,LFG,Landfill Gas,2021
+0233580,Hope,215,231.9,DFO,Distillate Fuel Oil,2021
+0233800,Houston,215,60.0,WO,Waste Oil,2021
+0233800,Houston,215,44.5,WND,Wind,2021
+0233800,Houston,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0233800,Houston,215,1.9,SUN,Solar,2021
+0233800,Houston,215,104.8,SUB,Subbituminous Coal,2021
+0233800,Houston,215,1403.7,NG,Natural Gas,2021
+0233800,Houston,215,89.5,MWH,Electricity used for Energy Storage,2021
+0233800,Houston,215,90.0,LIG,Lignite Coal,2021
+0233800,Houston,215,11.5,LFG,Landfill Gas,2021
+0233800,Houston,215,231.9,DFO,Distillate Fuel Oil,2021
+0233910,Hughes,120,0.1,SUN,Solar,2021
+0233910,Hughes,120,0.3,MWH,Electricity used for Energy Storage,2021
+0233910,Hughes,120,0.4,DFO,Distillate Fuel Oil,2021
+0234350,Huslia,51,0.8,DFO,Distillate Fuel Oil,2021
+0234460,Hydaburg,23,11.5,WAT,Water at Hydroelectric Turbine,2021
+0234460,Hydaburg,23,15.1,DFO,Distillate Fuel Oil,2021
+0234570,Hyder,,,,,
+0234790,Igiugig,121,0.0,WAT,Water at Hydroelectric Turbine,2021
+0234790,Igiugig,121,0.1,MWH,Electricity used for Energy Storage,2021
+0234790,Igiugig,121,0.2,DFO,Distillate Fuel Oil,2021
+0235120,Iliamna,123,0.8,WAT,Water at Hydroelectric Turbine,2021
+0235120,Iliamna,123,0.9,DFO,Distillate Fuel Oil,2021
+0235890,Ivanof Bay,,,,,
+0236400,Juneau,222,106.6,WAT,Water at Hydroelectric Turbine,2021
+0236400,Juneau,222,147.7,DFO,Distillate Fuel Oil,2021
+0236540,Kachemak,215,60.0,WO,Waste Oil,2021
+0236540,Kachemak,215,44.5,WND,Wind,2021
+0236540,Kachemak,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0236540,Kachemak,215,1.9,SUN,Solar,2021
+0236540,Kachemak,215,104.8,SUB,Subbituminous Coal,2021
+0236540,Kachemak,215,1403.7,NG,Natural Gas,2021
+0236540,Kachemak,215,89.5,MWH,Electricity used for Energy Storage,2021
+0236540,Kachemak,215,90.0,LIG,Lignite Coal,2021
+0236540,Kachemak,215,11.5,LFG,Landfill Gas,2021
+0236540,Kachemak,215,231.9,DFO,Distillate Fuel Oil,2021
+0236770,Kake,129,0.5,WAT,Water at Hydroelectric Turbine,2021
+0236770,Kake,129,3.1,DFO,Distillate Fuel Oil,2021
+0236990,Kaktovik,162,2.6,DFO,Distillate Fuel Oil,2021
+0237250,Kalifornsky,215,60.0,WO,Waste Oil,2021
+0237250,Kalifornsky,215,44.5,WND,Wind,2021
+0237250,Kalifornsky,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0237250,Kalifornsky,215,1.9,SUN,Solar,2021
+0237250,Kalifornsky,215,104.8,SUB,Subbituminous Coal,2021
+0237250,Kalifornsky,215,1403.7,NG,Natural Gas,2021
+0237250,Kalifornsky,215,89.5,MWH,Electricity used for Energy Storage,2021
+0237250,Kalifornsky,215,90.0,LIG,Lignite Coal,2021
+0237250,Kalifornsky,215,11.5,LFG,Landfill Gas,2021
+0237250,Kalifornsky,215,231.9,DFO,Distillate Fuel Oil,2021
+0237430,Kaltag,54,0.0,SUN,Solar,2021
+0237430,Kaltag,54,0.8,DFO,Distillate Fuel Oil,2021
+0237540,Karluk,92,0.2,DFO,Distillate Fuel Oil,2021
+0237650,Kasaan,23,11.5,WAT,Water at Hydroelectric Turbine,2021
+0237650,Kasaan,23,15.1,DFO,Distillate Fuel Oil,2021
+0237975,Kasigluk,55,0.3,WND,Wind,2021
+0237975,Kasigluk,55,3.0,DFO,Distillate Fuel Oil,2021
+0238090,Kasilof,215,60.0,WO,Waste Oil,2021
+0238090,Kasilof,215,44.5,WND,Wind,2021
+0238090,Kasilof,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0238090,Kasilof,215,1.9,SUN,Solar,2021
+0238090,Kasilof,215,104.8,SUB,Subbituminous Coal,2021
+0238090,Kasilof,215,1403.7,NG,Natural Gas,2021
+0238090,Kasilof,215,89.5,MWH,Electricity used for Energy Storage,2021
+0238090,Kasilof,215,90.0,LIG,Lignite Coal,2021
+0238090,Kasilof,215,11.5,LFG,Landfill Gas,2021
+0238090,Kasilof,215,231.9,DFO,Distillate Fuel Oil,2021
+0238420,Kenai,215,60.0,WO,Waste Oil,2021
+0238420,Kenai,215,44.5,WND,Wind,2021
+0238420,Kenai,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0238420,Kenai,215,1.9,SUN,Solar,2021
+0238420,Kenai,215,104.8,SUB,Subbituminous Coal,2021
+0238420,Kenai,215,1403.7,NG,Natural Gas,2021
+0238420,Kenai,215,89.5,MWH,Electricity used for Energy Storage,2021
+0238420,Kenai,215,90.0,LIG,Lignite Coal,2021
+0238420,Kenai,215,11.5,LFG,Landfill Gas,2021
+0238420,Kenai,215,231.9,DFO,Distillate Fuel Oil,2021
+0238910,Kenny Lake,216,5.3,WO,Waste Oil,2021
+0238910,Kenny Lake,216,18.5,WAT,Water at Hydroelectric Turbine,2021
+0238910,Kenny Lake,216,17.8,DFO,Distillate Fuel Oil,2021
+0238970,Ketchikan,217,63.3,WAT,Water at Hydroelectric Turbine,2021
+0238970,Ketchikan,217,47.3,DFO,Distillate Fuel Oil,2021
+0239300,Kiana,57,1.2,DFO,Distillate Fuel Oil,2021
+0239410,King Cove,131,1.2,WAT,Water at Hydroelectric Turbine,2021
+0239410,King Cove,131,1.8,DFO,Distillate Fuel Oil,2021
+0239630,King Salmon,150,16.5,DFO,Distillate Fuel Oil,2021
+0239740,Kipnuk,132,0.6,WND,Wind,2021
+0239740,Kipnuk,132,1.4,DFO,Distillate Fuel Oil,2021
+0239960,Kivalina,58,1.1,DFO,Distillate Fuel Oil,2021
+0240400,Klawock,23,11.5,WAT,Water at Hydroelectric Turbine,2021
+0240400,Klawock,23,15.1,DFO,Distillate Fuel Oil,2021
+0240510,Klukwan,32,9.8,WAT,Water at Hydroelectric Turbine,2021
+0240510,Klukwan,32,14.9,DFO,Distillate Fuel Oil,2021
+0240670,Knik River,215,60.0,WO,Waste Oil,2021
+0240670,Knik River,215,44.5,WND,Wind,2021
+0240670,Knik River,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0240670,Knik River,215,1.9,SUN,Solar,2021
+0240670,Knik River,215,104.8,SUB,Subbituminous Coal,2021
+0240670,Knik River,215,1403.7,NG,Natural Gas,2021
+0240670,Knik River,215,89.5,MWH,Electricity used for Energy Storage,2021
+0240670,Knik River,215,90.0,LIG,Lignite Coal,2021
+0240670,Knik River,215,11.5,LFG,Landfill Gas,2021
+0240670,Knik River,215,231.9,DFO,Distillate Fuel Oil,2021
+0240645,Knik-Fairview,215,60.0,WO,Waste Oil,2021
+0240645,Knik-Fairview,215,44.5,WND,Wind,2021
+0240645,Knik-Fairview,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0240645,Knik-Fairview,215,1.9,SUN,Solar,2021
+0240645,Knik-Fairview,215,104.8,SUB,Subbituminous Coal,2021
+0240645,Knik-Fairview,215,1403.7,NG,Natural Gas,2021
+0240645,Knik-Fairview,215,89.5,MWH,Electricity used for Energy Storage,2021
+0240645,Knik-Fairview,215,90.0,LIG,Lignite Coal,2021
+0240645,Knik-Fairview,215,11.5,LFG,Landfill Gas,2021
+0240645,Knik-Fairview,215,231.9,DFO,Distillate Fuel Oil,2021
+0240840,Kobuk,149,0.2,SUN,Solar,2021
+0240840,Kobuk,149,0.2,MWH,Electricity used for Energy Storage,2021
+0240840,Kobuk,149,1.7,DFO,Distillate Fuel Oil,2021
+0240950,Kodiak,223,9.0,WND,Wind,2021
+0240950,Kodiak,223,33.6,WAT,Water at Hydroelectric Turbine,2021
+0240950,Kodiak,223,5.0,MWH,Electricity used for Energy Storage,2021
+0240950,Kodiak,223,37.2,DFO,Distillate Fuel Oil,2021
+0241210,Kodiak Station,223,9.0,WND,Wind,2021
+0241210,Kodiak Station,223,33.6,WAT,Water at Hydroelectric Turbine,2021
+0241210,Kodiak Station,223,5.0,MWH,Electricity used for Energy Storage,2021
+0241210,Kodiak Station,223,37.2,DFO,Distillate Fuel Oil,2021
+0241280,Kokhanok,134,0.2,WND,Wind,2021
+0241280,Kokhanok,134,0.6,DFO,Distillate Fuel Oil,2021
+0241500,Koliganek,157,0.7,DFO,Distillate Fuel Oil,2021
+0241610,Kongiganak,176,0.5,WND,Wind,2021
+0241610,Kongiganak,176,0.3,MWH,Electricity used for Energy Storage,2021
+0241610,Kongiganak,176,1.9,DFO,Distillate Fuel Oil,2021
+0241720,Kotlik,59,1.4,DFO,Distillate Fuel Oil,2021
+0241830,Kotzebue,135,3.3,WND,Wind,2021
+0241830,Kotzebue,135,0.8,SUN,Solar,2021
+0241830,Kotzebue,135,1.2,MWH,Electricity used for Energy Storage,2021
+0241830,Kotzebue,135,11.8,DFO,Distillate Fuel Oil,2021
+0241940,Koyuk,60,1.0,DFO,Distillate Fuel Oil,2021
+0242050,Koyukuk,136,0.1,DFO,Distillate Fuel Oil,2021
+0242160,Kupreanof,217,63.3,WAT,Water at Hydroelectric Turbine,2021
+0242160,Kupreanof,217,47.3,DFO,Distillate Fuel Oil,2021
+0242380,Kwethluk,137,1.1,DFO,Distillate Fuel Oil,2021
+0242490,Kwigillingok,138,0.5,WND,Wind,2021
+0242490,Kwigillingok,138,0.3,MWH,Electricity used for Energy Storage,2021
+0242490,Kwigillingok,138,1.0,DFO,Distillate Fuel Oil,2021
+0242805,Lake Louise,,,,,
+0242820,Lake Minchumina,,,,,
+0243040,Larsen Bay,139,0.5,WAT,Water at Hydroelectric Turbine,2021
+0243260,Lazy Mountain,215,60.0,WO,Waste Oil,2021
+0243260,Lazy Mountain,215,44.5,WND,Wind,2021
+0243260,Lazy Mountain,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0243260,Lazy Mountain,215,1.9,SUN,Solar,2021
+0243260,Lazy Mountain,215,104.8,SUB,Subbituminous Coal,2021
+0243260,Lazy Mountain,215,1403.7,NG,Natural Gas,2021
+0243260,Lazy Mountain,215,89.5,MWH,Electricity used for Energy Storage,2021
+0243260,Lazy Mountain,215,90.0,LIG,Lignite Coal,2021
+0243260,Lazy Mountain,215,11.5,LFG,Landfill Gas,2021
+0243260,Lazy Mountain,215,231.9,DFO,Distillate Fuel Oil,2021
+0243810,Levelock,140,0.2,DFO,Distillate Fuel Oil,2021
+0244030,Lime Village,141,0.0,SUN,Solar,2021
+0244580,Livengood,,,,,
+0245020,Loring,,,,,
+0245295,Lowell Point,215,60.0,WO,Waste Oil,2021
+0245295,Lowell Point,215,44.5,WND,Wind,2021
+0245295,Lowell Point,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0245295,Lowell Point,215,1.9,SUN,Solar,2021
+0245295,Lowell Point,215,104.8,SUB,Subbituminous Coal,2021
+0245295,Lowell Point,215,1403.7,NG,Natural Gas,2021
+0245295,Lowell Point,215,89.5,MWH,Electricity used for Energy Storage,2021
+0245295,Lowell Point,215,90.0,LIG,Lignite Coal,2021
+0245295,Lowell Point,215,11.5,LFG,Landfill Gas,2021
+0245295,Lowell Point,215,231.9,DFO,Distillate Fuel Oil,2021
+0245460,Lower Kalskag,52,1.1,DFO,Distillate Fuel Oil,2021
+0245700,Lutak,32,9.8,WAT,Water at Hydroelectric Turbine,2021
+0245700,Lutak,32,14.9,DFO,Distillate Fuel Oil,2021
+0246780,Manley Hot Springs,188,0.2,DFO,Distillate Fuel Oil,2021
+0246890,Manokotak,142,0.6,DFO,Distillate Fuel Oil,2021
+0247000,Marshall,61,1.2,DFO,Distillate Fuel Oil,2021
+0245790,McCarthy,,,,,
+0246010,McGrath,143,1.6,DFO,Distillate Fuel Oil,2021
+0247735,Meadow Lakes,215,60.0,WO,Waste Oil,2021
+0247735,Meadow Lakes,215,44.5,WND,Wind,2021
+0247735,Meadow Lakes,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0247735,Meadow Lakes,215,1.9,SUN,Solar,2021
+0247735,Meadow Lakes,215,104.8,SUB,Subbituminous Coal,2021
+0247735,Meadow Lakes,215,1403.7,NG,Natural Gas,2021
+0247735,Meadow Lakes,215,89.5,MWH,Electricity used for Energy Storage,2021
+0247735,Meadow Lakes,215,90.0,LIG,Lignite Coal,2021
+0247735,Meadow Lakes,215,11.5,LFG,Landfill Gas,2021
+0247735,Meadow Lakes,215,231.9,DFO,Distillate Fuel Oil,2021
+0247990,Mekoryuk,62,0.2,WND,Wind,2021
+0247990,Mekoryuk,62,0.7,DFO,Distillate Fuel Oil,2021
+0248200,Mendeltna,216,5.3,WO,Waste Oil,2021
+0248200,Mendeltna,216,18.5,WAT,Water at Hydroelectric Turbine,2021
+0248200,Mendeltna,216,17.8,DFO,Distillate Fuel Oil,2021
+0248540,Mentasta Lake,26,1.1,DFO,Distillate Fuel Oil,2021
+0248590,Mertarvik,196,0.4,DFO,Distillate Fuel Oil,2021
+0248870,Metlakatla,225,5.2,WAT,Water at Hydroelectric Turbine,2021
+0248870,Metlakatla,225,1.0,MWH,Electricity used for Energy Storage,2021
+0248870,Metlakatla,225,3.3,DFO,Distillate Fuel Oil,2021
+0249200,Mill Bay,223,9.0,WND,Wind,2021
+0249200,Mill Bay,223,33.6,WAT,Water at Hydroelectric Turbine,2021
+0249200,Mill Bay,223,5.0,MWH,Electricity used for Energy Storage,2021
+0249200,Mill Bay,223,37.2,DFO,Distillate Fuel Oil,2021
+0249530,Minto,63,0.7,DFO,Distillate Fuel Oil,2021
+0250080,Moose Creek,215,60.0,WO,Waste Oil,2021
+0250080,Moose Creek,215,44.5,WND,Wind,2021
+0250080,Moose Creek,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0250080,Moose Creek,215,1.9,SUN,Solar,2021
+0250080,Moose Creek,215,104.8,SUB,Subbituminous Coal,2021
+0250080,Moose Creek,215,1403.7,NG,Natural Gas,2021
+0250080,Moose Creek,215,89.5,MWH,Electricity used for Energy Storage,2021
+0250080,Moose Creek,215,90.0,LIG,Lignite Coal,2021
+0250080,Moose Creek,215,11.5,LFG,Landfill Gas,2021
+0250080,Moose Creek,215,231.9,DFO,Distillate Fuel Oil,2021
+0250190,Moose Pass,215,60.0,WO,Waste Oil,2021
+0250190,Moose Pass,215,44.5,WND,Wind,2021
+0250190,Moose Pass,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0250190,Moose Pass,215,1.9,SUN,Solar,2021
+0250190,Moose Pass,215,104.8,SUB,Subbituminous Coal,2021
+0250190,Moose Pass,215,1403.7,NG,Natural Gas,2021
+0250190,Moose Pass,215,89.5,MWH,Electricity used for Energy Storage,2021
+0250190,Moose Pass,215,90.0,LIG,Lignite Coal,2021
+0250190,Moose Pass,215,11.5,LFG,Landfill Gas,2021
+0250190,Moose Pass,215,231.9,DFO,Distillate Fuel Oil,2021
+0250800,Mosquito Lake,32,9.8,WAT,Water at Hydroelectric Turbine,2021
+0250800,Mosquito Lake,32,14.9,DFO,Distillate Fuel Oil,2021
+0251180,Mountain Village,75,0.9,WND,Wind,2021
+0251180,Mountain Village,75,4.6,DFO,Distillate Fuel Oil,2021
+0251455,Mud Bay,32,9.8,WAT,Water at Hydroelectric Turbine,2021
+0251455,Mud Bay,32,14.9,DFO,Distillate Fuel Oil,2021
+0251960,Nabesna,,,,,
+0252060,Naknek,150,16.5,DFO,Distillate Fuel Oil,2021
+0252210,Nanwalek,,,,,
+0252390,Napakiak,34,0.9,WND,Wind,2021
+0252390,Napakiak,34,12.9,DFO,Distillate Fuel Oil,2021
+0252720,Napaskiak,153,0.6,DFO,Distillate Fuel Oil,2021
+0252845,Naukati Bay,23,11.5,WAT,Water at Hydroelectric Turbine,2021
+0252845,Naukati Bay,23,15.1,DFO,Distillate Fuel Oil,2021
+0252915,Nelchina,216,5.3,WO,Waste Oil,2021
+0252915,Nelchina,216,18.5,WAT,Water at Hydroelectric Turbine,2021
+0252915,Nelchina,216,17.8,DFO,Distillate Fuel Oil,2021
+0252940,Nelson Lagoon,156,0.2,DFO,Distillate Fuel Oil,2021
+0253050,Nenana,215,60.0,WO,Waste Oil,2021
+0253050,Nenana,215,44.5,WND,Wind,2021
+0253050,Nenana,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0253050,Nenana,215,1.9,SUN,Solar,2021
+0253050,Nenana,215,104.8,SUB,Subbituminous Coal,2021
+0253050,Nenana,215,1403.7,NG,Natural Gas,2021
+0253050,Nenana,215,89.5,MWH,Electricity used for Energy Storage,2021
+0253050,Nenana,215,90.0,LIG,Lignite Coal,2021
+0253050,Nenana,215,11.5,LFG,Landfill Gas,2021
+0253050,Nenana,215,231.9,DFO,Distillate Fuel Oil,2021
+0253710,New Stuyahok,65,1.2,DFO,Distillate Fuel Oil,2021
+0253270,Newhalen,123,0.8,WAT,Water at Hydroelectric Turbine,2021
+0253270,Newhalen,123,0.9,DFO,Distillate Fuel Oil,2021
+0253820,Newtok,196,0.4,DFO,Distillate Fuel Oil,2021
+0253930,Nightmute,88,0.1,WND,Wind,2021
+0253930,Nightmute,88,2.7,DFO,Distillate Fuel Oil,2021
+0254050,Nikiski,215,60.0,WO,Waste Oil,2021
+0254050,Nikiski,215,44.5,WND,Wind,2021
+0254050,Nikiski,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0254050,Nikiski,215,1.9,SUN,Solar,2021
+0254050,Nikiski,215,104.8,SUB,Subbituminous Coal,2021
+0254050,Nikiski,215,1403.7,NG,Natural Gas,2021
+0254050,Nikiski,215,89.5,MWH,Electricity used for Energy Storage,2021
+0254050,Nikiski,215,90.0,LIG,Lignite Coal,2021
+0254050,Nikiski,215,11.5,LFG,Landfill Gas,2021
+0254050,Nikiski,215,231.9,DFO,Distillate Fuel Oil,2021
+0254085,Nikolaevsk,215,60.0,WO,Waste Oil,2021
+0254085,Nikolaevsk,215,44.5,WND,Wind,2021
+0254085,Nikolaevsk,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0254085,Nikolaevsk,215,1.9,SUN,Solar,2021
+0254085,Nikolaevsk,215,104.8,SUB,Subbituminous Coal,2021
+0254085,Nikolaevsk,215,1403.7,NG,Natural Gas,2021
+0254085,Nikolaevsk,215,89.5,MWH,Electricity used for Energy Storage,2021
+0254085,Nikolaevsk,215,90.0,LIG,Lignite Coal,2021
+0254085,Nikolaevsk,215,11.5,LFG,Landfill Gas,2021
+0254085,Nikolaevsk,215,231.9,DFO,Distillate Fuel Oil,2021
+0254150,Nikolai,158,0.2,DFO,Distillate Fuel Oil,2021
+0254260,Nikolski,193,,,,
+0254480,Ninilchik,215,60.0,WO,Waste Oil,2021
+0254480,Ninilchik,215,44.5,WND,Wind,2021
+0254480,Ninilchik,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0254480,Ninilchik,215,1.9,SUN,Solar,2021
+0254480,Ninilchik,215,104.8,SUB,Subbituminous Coal,2021
+0254480,Ninilchik,215,1403.7,NG,Natural Gas,2021
+0254480,Ninilchik,215,89.5,MWH,Electricity used for Energy Storage,2021
+0254480,Ninilchik,215,90.0,LIG,Lignite Coal,2021
+0254480,Ninilchik,215,11.5,LFG,Landfill Gas,2021
+0254480,Ninilchik,215,231.9,DFO,Distillate Fuel Oil,2021
+0254700,Noatak,66,1.3,DFO,Distillate Fuel Oil,2021
+0254920,Nome,159,1.8,WND,Wind,2021
+0254920,Nome,159,16.6,DFO,Distillate Fuel Oil,2021
+0255030,Nondalton,123,0.8,WAT,Water at Hydroelectric Turbine,2021
+0255030,Nondalton,123,0.9,DFO,Distillate Fuel Oil,2021
+0255140,Noorvik,67,0.0,SUN,Solar,2021
+0255140,Noorvik,67,1.6,DFO,Distillate Fuel Oil,2021
+0255745,North Lakes,215,60.0,WO,Waste Oil,2021
+0255745,North Lakes,215,44.5,WND,Wind,2021
+0255745,North Lakes,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0255745,North Lakes,215,1.9,SUN,Solar,2021
+0255745,North Lakes,215,104.8,SUB,Subbituminous Coal,2021
+0255745,North Lakes,215,1403.7,NG,Natural Gas,2021
+0255745,North Lakes,215,89.5,MWH,Electricity used for Energy Storage,2021
+0255745,North Lakes,215,90.0,LIG,Lignite Coal,2021
+0255745,North Lakes,215,11.5,LFG,Landfill Gas,2021
+0255745,North Lakes,215,231.9,DFO,Distillate Fuel Oil,2021
+0255910,North Pole,215,60.0,WO,Waste Oil,2021
+0255910,North Pole,215,44.5,WND,Wind,2021
+0255910,North Pole,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0255910,North Pole,215,1.9,SUN,Solar,2021
+0255910,North Pole,215,104.8,SUB,Subbituminous Coal,2021
+0255910,North Pole,215,1403.7,NG,Natural Gas,2021
+0255910,North Pole,215,89.5,MWH,Electricity used for Energy Storage,2021
+0255910,North Pole,215,90.0,LIG,Lignite Coal,2021
+0255910,North Pole,215,11.5,LFG,Landfill Gas,2021
+0255910,North Pole,215,231.9,DFO,Distillate Fuel Oil,2021
+0256220,Northway,12,1.1,DFO,Distillate Fuel Oil,2021
+0256320,Nuiqsut,163,2.2,NG,Natural Gas,2021
+0256320,Nuiqsut,163,2.2,DFO,Distillate Fuel Oil,2021
+0256350,Nulato,68,1.0,DFO,Distillate Fuel Oil,2021
+0256600,Nunam Iqua,167,1.7,DFO,Distillate Fuel Oil,2021
+0256680,Nunapitchuk,55,0.3,WND,Wind,2021
+0256680,Nunapitchuk,55,3.0,DFO,Distillate Fuel Oil,2021
+0257340,Old Harbor,69,1.0,DFO,Distillate Fuel Oil,2021
+0258330,Oscarville,34,0.9,WND,Wind,2021
+0258330,Oscarville,34,12.9,DFO,Distillate Fuel Oil,2021
+0258550,Ouzinkie,170,0.1,WAT,Water at Hydroelectric Turbine,2021
+0258550,Ouzinkie,170,0.3,DFO,Distillate Fuel Oil,2021
+0258660,Palmer,215,60.0,WO,Waste Oil,2021
+0258660,Palmer,215,44.5,WND,Wind,2021
+0258660,Palmer,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0258660,Palmer,215,1.9,SUN,Solar,2021
+0258660,Palmer,215,104.8,SUB,Subbituminous Coal,2021
+0258660,Palmer,215,1403.7,NG,Natural Gas,2021
+0258660,Palmer,215,89.5,MWH,Electricity used for Energy Storage,2021
+0258660,Palmer,215,90.0,LIG,Lignite Coal,2021
+0258660,Palmer,215,11.5,LFG,Landfill Gas,2021
+0258660,Palmer,215,231.9,DFO,Distillate Fuel Oil,2021
+0259320,Paxson,226,,,,
+0259540,Pedro Bay,171,0.2,DFO,Distillate Fuel Oil,2021
+0259650,Pelican,172,1.4,WAT,Water at Hydroelectric Turbine,2021
+0259650,Pelican,172,1.0,DFO,Distillate Fuel Oil,2021
+0260200,Perryville,155,0.0,WND,Wind,2021
+0260200,Perryville,155,0.5,DFO,Distillate Fuel Oil,2021
+0260310,Petersburg,217,63.3,WAT,Water at Hydroelectric Turbine,2021
+0260310,Petersburg,217,47.3,DFO,Distillate Fuel Oil,2021
+0260460,Petersville,,,,,
+0260640,Pilot Point,173,0.2,WND,Wind,2021
+0260640,Pilot Point,173,0.3,DFO,Distillate Fuel Oil,2021
+0260750,Pilot Station,70,1.5,DFO,Distillate Fuel Oil,2021
+0260860,Pitkas Point,75,0.9,WND,Wind,2021
+0260860,Pitkas Point,75,4.6,DFO,Distillate Fuel Oil,2021
+0261080,Platinum,174,0.1,DFO,Distillate Fuel Oil,2021
+0261120,Pleasant Valley,215,60.0,WO,Waste Oil,2021
+0261120,Pleasant Valley,215,44.5,WND,Wind,2021
+0261120,Pleasant Valley,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0261120,Pleasant Valley,215,1.9,SUN,Solar,2021
+0261120,Pleasant Valley,215,104.8,SUB,Subbituminous Coal,2021
+0261120,Pleasant Valley,215,1403.7,NG,Natural Gas,2021
+0261120,Pleasant Valley,215,89.5,MWH,Electricity used for Energy Storage,2021
+0261120,Pleasant Valley,215,90.0,LIG,Lignite Coal,2021
+0261120,Pleasant Valley,215,11.5,LFG,Landfill Gas,2021
+0261120,Pleasant Valley,215,231.9,DFO,Distillate Fuel Oil,2021
+0261190,Point Baker,,,,,
+0261630,Point Hope,164,3.1,DFO,Distillate Fuel Oil,2021
+0261700,Point Lay,165,2.4,DFO,Distillate Fuel Oil,2021
+0261788,Point MacKenzie,215,60.0,WO,Waste Oil,2021
+0261788,Point MacKenzie,215,44.5,WND,Wind,2021
+0261788,Point MacKenzie,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0261788,Point MacKenzie,215,1.9,SUN,Solar,2021
+0261788,Point MacKenzie,215,104.8,SUB,Subbituminous Coal,2021
+0261788,Point MacKenzie,215,1403.7,NG,Natural Gas,2021
+0261788,Point MacKenzie,215,89.5,MWH,Electricity used for Energy Storage,2021
+0261788,Point MacKenzie,215,90.0,LIG,Lignite Coal,2021
+0261788,Point MacKenzie,215,11.5,LFG,Landfill Gas,2021
+0261788,Point MacKenzie,215,231.9,DFO,Distillate Fuel Oil,2021
+0261825,Point Possession,,,,,
+0262125,Pope-Vannoy Landing,,,,,
+0262510,Port Alexander,,,,,
+0262620,Port Alsworth,183,0.8,DFO,Distillate Fuel Oil,2021
+0263170,Port Clarence,,,,,
+0263280,Port Graham,,,,,
+0263390,Port Heiden,175,0.7,DFO,Distillate Fuel Oil,2021
+0263610,Port Lions,223,9.0,WND,Wind,2021
+0263610,Port Lions,223,33.6,WAT,Water at Hydroelectric Turbine,2021
+0263610,Port Lions,223,5.0,MWH,Electricity used for Energy Storage,2021
+0263610,Port Lions,223,37.2,DFO,Distillate Fuel Oil,2021
+0263870,Port Protection,,,,,
+0262285,Portage Creek,,,,,
+0264240,Primrose,215,60.0,WO,Waste Oil,2021
+0264240,Primrose,215,44.5,WND,Wind,2021
+0264240,Primrose,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0264240,Primrose,215,1.9,SUN,Solar,2021
+0264240,Primrose,215,104.8,SUB,Subbituminous Coal,2021
+0264240,Primrose,215,1403.7,NG,Natural Gas,2021
+0264240,Primrose,215,89.5,MWH,Electricity used for Energy Storage,2021
+0264240,Primrose,215,90.0,LIG,Lignite Coal,2021
+0264240,Primrose,215,11.5,LFG,Landfill Gas,2021
+0264240,Primrose,215,231.9,DFO,Distillate Fuel Oil,2021
+0264380,Prudhoe Bay,224,33.2,NG,Natural Gas,2021
+0264380,Prudhoe Bay,224,0.3,DFO,Distillate Fuel Oil,2021
+0264600,Quinhagak,71,0.3,WND,Wind,2021
+0264600,Quinhagak,71,1.3,DFO,Distillate Fuel Oil,2021
+0264820,Rampart,177,0.3,DFO,Distillate Fuel Oil,2021
+0264930,Red Devil,146,,,,
+0264980,Red Dog Mine,,,,,
+0265345,Ridgeway,215,60.0,WO,Waste Oil,2021
+0265345,Ridgeway,215,44.5,WND,Wind,2021
+0265345,Ridgeway,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0265345,Ridgeway,215,1.9,SUN,Solar,2021
+0265345,Ridgeway,215,104.8,SUB,Subbituminous Coal,2021
+0265345,Ridgeway,215,1403.7,NG,Natural Gas,2021
+0265345,Ridgeway,215,89.5,MWH,Electricity used for Energy Storage,2021
+0265345,Ridgeway,215,90.0,LIG,Lignite Coal,2021
+0265345,Ridgeway,215,11.5,LFG,Landfill Gas,2021
+0265345,Ridgeway,215,231.9,DFO,Distillate Fuel Oil,2021
+0265590,Ruby,178,0.5,DFO,Distillate Fuel Oil,2021
+0265700,Russian Mission,72,0.9,DFO,Distillate Fuel Oil,2021
+0265800,Saint George,179,0.1,WND,Wind,2021
+0265800,Saint George,179,0.8,DFO,Distillate Fuel Oil,2021
+0266140,Saint Mary's,75,0.9,WND,Wind,2021
+0266140,Saint Mary's,75,4.6,DFO,Distillate Fuel Oil,2021
+0266360,Saint Michael,84,2.8,DFO,Distillate Fuel Oil,2021
+0266470,Saint Paul,180,0.2,WND,Wind,2021
+0266470,Saint Paul,180,2.7,DFO,Distillate Fuel Oil,2021
+0266510,Salamatof,215,60.0,WO,Waste Oil,2021
+0266510,Salamatof,215,44.5,WND,Wind,2021
+0266510,Salamatof,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0266510,Salamatof,215,1.9,SUN,Solar,2021
+0266510,Salamatof,215,104.8,SUB,Subbituminous Coal,2021
+0266510,Salamatof,215,1403.7,NG,Natural Gas,2021
+0266510,Salamatof,215,89.5,MWH,Electricity used for Energy Storage,2021
+0266510,Salamatof,215,90.0,LIG,Lignite Coal,2021
+0266510,Salamatof,215,11.5,LFG,Landfill Gas,2021
+0266510,Salamatof,215,231.9,DFO,Distillate Fuel Oil,2021
+0266550,Salcha,215,60.0,WO,Waste Oil,2021
+0266550,Salcha,215,44.5,WND,Wind,2021
+0266550,Salcha,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0266550,Salcha,215,1.9,SUN,Solar,2021
+0266550,Salcha,215,104.8,SUB,Subbituminous Coal,2021
+0266550,Salcha,215,1403.7,NG,Natural Gas,2021
+0266550,Salcha,215,89.5,MWH,Electricity used for Energy Storage,2021
+0266550,Salcha,215,90.0,LIG,Lignite Coal,2021
+0266550,Salcha,215,11.5,LFG,Landfill Gas,2021
+0266550,Salcha,215,231.9,DFO,Distillate Fuel Oil,2021
+0267020,Sand Point,187,1.0,WND,Wind,2021
+0267020,Sand Point,187,2.9,DFO,Distillate Fuel Oil,2021
+0267460,Savoonga,76,0.2,WND,Wind,2021
+0267460,Savoonga,76,1.5,DFO,Distillate Fuel Oil,2021
+0267570,Saxman,217,63.3,WAT,Water at Hydroelectric Turbine,2021
+0267570,Saxman,217,47.3,DFO,Distillate Fuel Oil,2021
+0267680,Scammon Bay,77,1.1,DFO,Distillate Fuel Oil,2021
+0268230,Selawik,78,0.3,WND,Wind,2021
+0268230,Selawik,78,2.3,DFO,Distillate Fuel Oil,2021
+0268340,Seldovia,215,60.0,WO,Waste Oil,2021
+0268340,Seldovia,215,44.5,WND,Wind,2021
+0268340,Seldovia,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0268340,Seldovia,215,1.9,SUN,Solar,2021
+0268340,Seldovia,215,104.8,SUB,Subbituminous Coal,2021
+0268340,Seldovia,215,1403.7,NG,Natural Gas,2021
+0268340,Seldovia,215,89.5,MWH,Electricity used for Energy Storage,2021
+0268340,Seldovia,215,90.0,LIG,Lignite Coal,2021
+0268340,Seldovia,215,11.5,LFG,Landfill Gas,2021
+0268340,Seldovia,215,231.9,DFO,Distillate Fuel Oil,2021
+0268370,Seldovia Village,215,60.0,WO,Waste Oil,2021
+0268370,Seldovia Village,215,44.5,WND,Wind,2021
+0268370,Seldovia Village,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0268370,Seldovia Village,215,1.9,SUN,Solar,2021
+0268370,Seldovia Village,215,104.8,SUB,Subbituminous Coal,2021
+0268370,Seldovia Village,215,1403.7,NG,Natural Gas,2021
+0268370,Seldovia Village,215,89.5,MWH,Electricity used for Energy Storage,2021
+0268370,Seldovia Village,215,90.0,LIG,Lignite Coal,2021
+0268370,Seldovia Village,215,11.5,LFG,Landfill Gas,2021
+0268370,Seldovia Village,215,231.9,DFO,Distillate Fuel Oil,2021
+0268560,Seward,215,60.0,WO,Waste Oil,2021
+0268560,Seward,215,44.5,WND,Wind,2021
+0268560,Seward,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0268560,Seward,215,1.9,SUN,Solar,2021
+0268560,Seward,215,104.8,SUB,Subbituminous Coal,2021
+0268560,Seward,215,1403.7,NG,Natural Gas,2021
+0268560,Seward,215,89.5,MWH,Electricity used for Energy Storage,2021
+0268560,Seward,215,90.0,LIG,Lignite Coal,2021
+0268560,Seward,215,11.5,LFG,Landfill Gas,2021
+0268560,Seward,215,231.9,DFO,Distillate Fuel Oil,2021
+0268670,Shageluk,79,0.4,DFO,Distillate Fuel Oil,2021
+0268890,Shaktoolik,80,0.2,WND,Wind,2021
+0268890,Shaktoolik,80,0.8,DFO,Distillate Fuel Oil,2021
+0269770,Shishmaref,81,1.4,DFO,Distillate Fuel Oil,2021
+0270100,Shungnak,149,0.2,SUN,Solar,2021
+0270100,Shungnak,149,0.2,MWH,Electricity used for Energy Storage,2021
+0270100,Shungnak,149,1.7,DFO,Distillate Fuel Oil,2021
+0270320,Silver Springs,216,5.3,WO,Waste Oil,2021
+0270320,Silver Springs,216,18.5,WAT,Water at Hydroelectric Turbine,2021
+0270320,Silver Springs,216,17.8,DFO,Distillate Fuel Oil,2021
+0270540,Sitka,219,34.5,WAT,Water at Hydroelectric Turbine,2021
+0270540,Sitka,219,25.6,DFO,Distillate Fuel Oil,2021
+0270760,Skagway,32,9.8,WAT,Water at Hydroelectric Turbine,2021
+0270760,Skagway,32,14.9,DFO,Distillate Fuel Oil,2021
+0270870,Skwentna,,,,,
+0270930,Slana,26,1.1,DFO,Distillate Fuel Oil,2021
+0271090,Sleetmute,147,0.3,DFO,Distillate Fuel Oil,2021
+0271640,Soldotna,215,60.0,WO,Waste Oil,2021
+0271640,Soldotna,215,44.5,WND,Wind,2021
+0271640,Soldotna,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0271640,Soldotna,215,1.9,SUN,Solar,2021
+0271640,Soldotna,215,104.8,SUB,Subbituminous Coal,2021
+0271640,Soldotna,215,1403.7,NG,Natural Gas,2021
+0271640,Soldotna,215,89.5,MWH,Electricity used for Energy Storage,2021
+0271640,Soldotna,215,90.0,LIG,Lignite Coal,2021
+0271640,Soldotna,215,11.5,LFG,Landfill Gas,2021
+0271640,Soldotna,215,231.9,DFO,Distillate Fuel Oil,2021
+0272135,South Lakes,215,60.0,WO,Waste Oil,2021
+0272135,South Lakes,215,44.5,WND,Wind,2021
+0272135,South Lakes,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0272135,South Lakes,215,1.9,SUN,Solar,2021
+0272135,South Lakes,215,104.8,SUB,Subbituminous Coal,2021
+0272135,South Lakes,215,1403.7,NG,Natural Gas,2021
+0272135,South Lakes,215,89.5,MWH,Electricity used for Energy Storage,2021
+0272135,South Lakes,215,90.0,LIG,Lignite Coal,2021
+0272135,South Lakes,215,11.5,LFG,Landfill Gas,2021
+0272135,South Lakes,215,231.9,DFO,Distillate Fuel Oil,2021
+0272190,South Naknek,150,16.5,DFO,Distillate Fuel Oil,2021
+0272230,South Van Horn,215,60.0,WO,Waste Oil,2021
+0272230,South Van Horn,215,44.5,WND,Wind,2021
+0272230,South Van Horn,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0272230,South Van Horn,215,1.9,SUN,Solar,2021
+0272230,South Van Horn,215,104.8,SUB,Subbituminous Coal,2021
+0272230,South Van Horn,215,1403.7,NG,Natural Gas,2021
+0272230,South Van Horn,215,89.5,MWH,Electricity used for Energy Storage,2021
+0272230,South Van Horn,215,90.0,LIG,Lignite Coal,2021
+0272230,South Van Horn,215,11.5,LFG,Landfill Gas,2021
+0272230,South Van Horn,215,231.9,DFO,Distillate Fuel Oil,2021
+0272960,Stebbins,84,2.8,DFO,Distillate Fuel Oil,2021
+0272985,Steele Creek,215,60.0,WO,Waste Oil,2021
+0272985,Steele Creek,215,44.5,WND,Wind,2021
+0272985,Steele Creek,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0272985,Steele Creek,215,1.9,SUN,Solar,2021
+0272985,Steele Creek,215,104.8,SUB,Subbituminous Coal,2021
+0272985,Steele Creek,215,1403.7,NG,Natural Gas,2021
+0272985,Steele Creek,215,89.5,MWH,Electricity used for Energy Storage,2021
+0272985,Steele Creek,215,90.0,LIG,Lignite Coal,2021
+0272985,Steele Creek,215,11.5,LFG,Landfill Gas,2021
+0272985,Steele Creek,215,231.9,DFO,Distillate Fuel Oil,2021
+0273070,Sterling,215,60.0,WO,Waste Oil,2021
+0273070,Sterling,215,44.5,WND,Wind,2021
+0273070,Sterling,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0273070,Sterling,215,1.9,SUN,Solar,2021
+0273070,Sterling,215,104.8,SUB,Subbituminous Coal,2021
+0273070,Sterling,215,1403.7,NG,Natural Gas,2021
+0273070,Sterling,215,89.5,MWH,Electricity used for Energy Storage,2021
+0273070,Sterling,215,90.0,LIG,Lignite Coal,2021
+0273070,Sterling,215,11.5,LFG,Landfill Gas,2021
+0273070,Sterling,215,231.9,DFO,Distillate Fuel Oil,2021
+0273290,Stevens Village,181,0.3,DFO,Distillate Fuel Oil,2021
+0273400,Stony River,148,0.1,DFO,Distillate Fuel Oil,2021
+0273950,Sunrise,215,60.0,WO,Waste Oil,2021
+0273950,Sunrise,215,44.5,WND,Wind,2021
+0273950,Sunrise,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0273950,Sunrise,215,1.9,SUN,Solar,2021
+0273950,Sunrise,215,104.8,SUB,Subbituminous Coal,2021
+0273950,Sunrise,215,1403.7,NG,Natural Gas,2021
+0273950,Sunrise,215,89.5,MWH,Electricity used for Energy Storage,2021
+0273950,Sunrise,215,90.0,LIG,Lignite Coal,2021
+0273950,Sunrise,215,11.5,LFG,Landfill Gas,2021
+0273950,Sunrise,215,231.9,DFO,Distillate Fuel Oil,2021
+0274340,Susitna,,,,,
+0274350,Susitna North,215,60.0,WO,Waste Oil,2021
+0274350,Susitna North,215,44.5,WND,Wind,2021
+0274350,Susitna North,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0274350,Susitna North,215,1.9,SUN,Solar,2021
+0274350,Susitna North,215,104.8,SUB,Subbituminous Coal,2021
+0274350,Susitna North,215,1403.7,NG,Natural Gas,2021
+0274350,Susitna North,215,89.5,MWH,Electricity used for Energy Storage,2021
+0274350,Susitna North,215,90.0,LIG,Lignite Coal,2021
+0274350,Susitna North,215,11.5,LFG,Landfill Gas,2021
+0274350,Susitna North,215,231.9,DFO,Distillate Fuel Oil,2021
+0274525,Sutton-Alpine,215,60.0,WO,Waste Oil,2021
+0274525,Sutton-Alpine,215,44.5,WND,Wind,2021
+0274525,Sutton-Alpine,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0274525,Sutton-Alpine,215,1.9,SUN,Solar,2021
+0274525,Sutton-Alpine,215,104.8,SUB,Subbituminous Coal,2021
+0274525,Sutton-Alpine,215,1403.7,NG,Natural Gas,2021
+0274525,Sutton-Alpine,215,89.5,MWH,Electricity used for Energy Storage,2021
+0274525,Sutton-Alpine,215,90.0,LIG,Lignite Coal,2021
+0274525,Sutton-Alpine,215,11.5,LFG,Landfill Gas,2021
+0274525,Sutton-Alpine,215,231.9,DFO,Distillate Fuel Oil,2021
+0274610,Takotna,182,0.2,DFO,Distillate Fuel Oil,2021
+0274830,Talkeetna,215,60.0,WO,Waste Oil,2021
+0274830,Talkeetna,215,44.5,WND,Wind,2021
+0274830,Talkeetna,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0274830,Talkeetna,215,1.9,SUN,Solar,2021
+0274830,Talkeetna,215,104.8,SUB,Subbituminous Coal,2021
+0274830,Talkeetna,215,1403.7,NG,Natural Gas,2021
+0274830,Talkeetna,215,89.5,MWH,Electricity used for Energy Storage,2021
+0274830,Talkeetna,215,90.0,LIG,Lignite Coal,2021
+0274830,Talkeetna,215,11.5,LFG,Landfill Gas,2021
+0274830,Talkeetna,215,231.9,DFO,Distillate Fuel Oil,2021
+0275050,Tanacross,15,5.2,DFO,Distillate Fuel Oil,2021
+0275077,Tanaina,215,60.0,WO,Waste Oil,2021
+0275077,Tanaina,215,44.5,WND,Wind,2021
+0275077,Tanaina,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0275077,Tanaina,215,1.9,SUN,Solar,2021
+0275077,Tanaina,215,104.8,SUB,Subbituminous Coal,2021
+0275077,Tanaina,215,1403.7,NG,Natural Gas,2021
+0275077,Tanaina,215,89.5,MWH,Electricity used for Energy Storage,2021
+0275077,Tanaina,215,90.0,LIG,Lignite Coal,2021
+0275077,Tanaina,215,11.5,LFG,Landfill Gas,2021
+0275077,Tanaina,215,231.9,DFO,Distillate Fuel Oil,2021
+0275160,Tanana,184,1.6,DFO,Distillate Fuel Oil,2021
+0275380,Tatitlek,185,,,,
+0275480,Tazlina,216,5.3,WO,Waste Oil,2021
+0275480,Tazlina,216,18.5,WAT,Water at Hydroelectric Turbine,2021
+0275480,Tazlina,216,17.8,DFO,Distillate Fuel Oil,2021
+0275930,Teller,85,1.1,DFO,Distillate Fuel Oil,2021
+0276260,Tenakee Springs,189,0.2,WAT,Water at Hydroelectric Turbine,2021
+0276260,Tenakee Springs,189,0.2,DFO,Distillate Fuel Oil,2021
+0276590,Tetlin,15,5.2,DFO,Distillate Fuel Oil,2021
+0277140,Thorne Bay,23,11.5,WAT,Water at Hydroelectric Turbine,2021
+0277140,Thorne Bay,23,15.1,DFO,Distillate Fuel Oil,2021
+0277690,Togiak,86,2.6,DFO,Distillate Fuel Oil,2021
+0277800,Tok,15,5.2,DFO,Distillate Fuel Oil,2021
+0278240,Toksook Bay,88,0.1,WND,Wind,2021
+0278240,Toksook Bay,88,2.7,DFO,Distillate Fuel Oil,2021
+0278297,Tolsona,216,5.3,WO,Waste Oil,2021
+0278297,Tolsona,216,18.5,WAT,Water at Hydroelectric Turbine,2021
+0278297,Tolsona,216,17.8,DFO,Distillate Fuel Oil,2021
+0278350,Tonsina,,,,,
+0278680,Trapper Creek,215,60.0,WO,Waste Oil,2021
+0278680,Trapper Creek,215,44.5,WND,Wind,2021
+0278680,Trapper Creek,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0278680,Trapper Creek,215,1.9,SUN,Solar,2021
+0278680,Trapper Creek,215,104.8,SUB,Subbituminous Coal,2021
+0278680,Trapper Creek,215,1403.7,NG,Natural Gas,2021
+0278680,Trapper Creek,215,89.5,MWH,Electricity used for Energy Storage,2021
+0278680,Trapper Creek,215,90.0,LIG,Lignite Coal,2021
+0278680,Trapper Creek,215,11.5,LFG,Landfill Gas,2021
+0278680,Trapper Creek,215,231.9,DFO,Distillate Fuel Oil,2021
+0278790,Tuluksak,190,0.5,DFO,Distillate Fuel Oil,2021
+0279120,Tuntutuliak,191,0.5,WND,Wind,2021
+0279120,Tuntutuliak,191,0.3,MWH,Electricity used for Energy Storage,2021
+0279120,Tuntutuliak,191,1.7,DFO,Distillate Fuel Oil,2021
+0279230,Tununak,88,0.1,WND,Wind,2021
+0279230,Tununak,88,2.7,DFO,Distillate Fuel Oil,2021
+0279780,Twin Hills,86,2.6,DFO,Distillate Fuel Oil,2021
+0279830,Two Rivers,215,60.0,WO,Waste Oil,2021
+0279830,Two Rivers,215,44.5,WND,Wind,2021
+0279830,Two Rivers,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0279830,Two Rivers,215,1.9,SUN,Solar,2021
+0279830,Two Rivers,215,104.8,SUB,Subbituminous Coal,2021
+0279830,Two Rivers,215,1403.7,NG,Natural Gas,2021
+0279830,Two Rivers,215,89.5,MWH,Electricity used for Energy Storage,2021
+0279830,Two Rivers,215,90.0,LIG,Lignite Coal,2021
+0279830,Two Rivers,215,11.5,LFG,Landfill Gas,2021
+0279830,Two Rivers,215,231.9,DFO,Distillate Fuel Oil,2021
+0279890,Tyonek,215,60.0,WO,Waste Oil,2021
+0279890,Tyonek,215,44.5,WND,Wind,2021
+0279890,Tyonek,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0279890,Tyonek,215,1.9,SUN,Solar,2021
+0279890,Tyonek,215,104.8,SUB,Subbituminous Coal,2021
+0279890,Tyonek,215,1403.7,NG,Natural Gas,2021
+0279890,Tyonek,215,89.5,MWH,Electricity used for Energy Storage,2021
+0279890,Tyonek,215,90.0,LIG,Lignite Coal,2021
+0279890,Tyonek,215,11.5,LFG,Landfill Gas,2021
+0279890,Tyonek,215,231.9,DFO,Distillate Fuel Oil,2021
+0280100,Ugashik,,,,,
+0280660,Unalakleet,194,0.6,WND,Wind,2021
+0280660,Unalakleet,194,1.9,DFO,Distillate Fuel Oil,2021
+0280770,Unalaska,195,0.2,WH,Waste Heat,2021
+0280770,Unalaska,195,47.1,DFO,Distillate Fuel Oil,2021
+0281320,Upper Kalskag,52,1.1,DFO,Distillate Fuel Oil,2021
+0281920,Utqiagvik,221,20.3,NG,Natural Gas,2021
+0282200,Valdez,216,5.3,WO,Waste Oil,2021
+0282200,Valdez,216,18.5,WAT,Water at Hydroelectric Turbine,2021
+0282200,Valdez,216,17.8,DFO,Distillate Fuel Oil,2021
+0282420,Venetie,197,0.5,DFO,Distillate Fuel Oil,2021
+0282750,Wainwright,166,3.0,DFO,Distillate Fuel Oil,2021
+0282860,Wales,90,0.5,DFO,Distillate Fuel Oil,2021
+0283080,Wasilla,215,60.0,WO,Waste Oil,2021
+0283080,Wasilla,215,44.5,WND,Wind,2021
+0283080,Wasilla,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0283080,Wasilla,215,1.9,SUN,Solar,2021
+0283080,Wasilla,215,104.8,SUB,Subbituminous Coal,2021
+0283080,Wasilla,215,1403.7,NG,Natural Gas,2021
+0283080,Wasilla,215,89.5,MWH,Electricity used for Energy Storage,2021
+0283080,Wasilla,215,90.0,LIG,Lignite Coal,2021
+0283080,Wasilla,215,11.5,LFG,Landfill Gas,2021
+0283080,Wasilla,215,231.9,DFO,Distillate Fuel Oil,2021
+0284000,Whale Pass,213,0.6,DFO,Distillate Fuel Oil,2021
+0284070,White Mountain,198,0.4,DFO,Distillate Fuel Oil,2021
+0284120,Whitestone,215,60.0,WO,Waste Oil,2021
+0284120,Whitestone,215,44.5,WND,Wind,2021
+0284120,Whitestone,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0284120,Whitestone,215,1.9,SUN,Solar,2021
+0284120,Whitestone,215,104.8,SUB,Subbituminous Coal,2021
+0284120,Whitestone,215,1403.7,NG,Natural Gas,2021
+0284120,Whitestone,215,89.5,MWH,Electricity used for Energy Storage,2021
+0284120,Whitestone,215,90.0,LIG,Lignite Coal,2021
+0284120,Whitestone,215,11.5,LFG,Landfill Gas,2021
+0284120,Whitestone,215,231.9,DFO,Distillate Fuel Oil,2021
+0284200,Whitestone Logging Camp,,,,,
+0284510,Whittier,215,60.0,WO,Waste Oil,2021
+0284510,Whittier,215,44.5,WND,Wind,2021
+0284510,Whittier,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0284510,Whittier,215,1.9,SUN,Solar,2021
+0284510,Whittier,215,104.8,SUB,Subbituminous Coal,2021
+0284510,Whittier,215,1403.7,NG,Natural Gas,2021
+0284510,Whittier,215,89.5,MWH,Electricity used for Energy Storage,2021
+0284510,Whittier,215,90.0,LIG,Lignite Coal,2021
+0284510,Whittier,215,11.5,LFG,Landfill Gas,2021
+0284510,Whittier,215,231.9,DFO,Distillate Fuel Oil,2021
+0285280,Willow,215,60.0,WO,Waste Oil,2021
+0285280,Willow,215,44.5,WND,Wind,2021
+0285280,Willow,215,191.6,WAT,Water at Hydroelectric Turbine,2021
+0285280,Willow,215,1.9,SUN,Solar,2021
+0285280,Willow,215,104.8,SUB,Subbituminous Coal,2021
+0285280,Willow,215,1403.7,NG,Natural Gas,2021
+0285280,Willow,215,89.5,MWH,Electricity used for Energy Storage,2021
+0285280,Willow,215,90.0,LIG,Lignite Coal,2021
+0285280,Willow,215,11.5,LFG,Landfill Gas,2021
+0285280,Willow,215,231.9,DFO,Distillate Fuel Oil,2021
+0285290,Willow Creek,216,5.3,WO,Waste Oil,2021
+0285290,Willow Creek,216,18.5,WAT,Water at Hydroelectric Turbine,2021
+0285290,Willow Creek,216,17.8,DFO,Distillate Fuel Oil,2021
+0285610,Wiseman,,,,,
+0285680,Womens Bay,223,9.0,WND,Wind,2021
+0285680,Womens Bay,223,33.6,WAT,Water at Hydroelectric Turbine,2021
+0285680,Womens Bay,223,5.0,MWH,Electricity used for Energy Storage,2021
+0285680,Womens Bay,223,37.2,DFO,Distillate Fuel Oil,2021
+0286380,Wrangell,217,63.3,WAT,Water at Hydroelectric Turbine,2021
+0286380,Wrangell,217,47.3,DFO,Distillate Fuel Oil,2021
+0286490,Yakutat,91,4.2,DFO,Distillate Fuel Oil,2021
