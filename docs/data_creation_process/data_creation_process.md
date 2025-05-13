@@ -10,7 +10,7 @@ After our datasets were identified, we cataloged data server URLs for each datas
 ### Data cleaning and verification
 Before we could use the data, we needed to make sure it was clean and validated. Column names were standardized, values were calculated and converted, and data tests were written in order to ensure best available data.
 
-### Combined / aggregated data sets
-Once the data was cleaned and validated, we wrote code to subset, aggregate, and transform the tables into the datasets used in the Alaska Energy Data Gateway. 
+### Combined and aggregated data sets
+Once the data was cleaned and validated, we wrote code to subset, aggregate, and transform the tables into the datasets used in the Alaska Energy Data Gateway. Data about data, known as metadata, was added to each dataset in order to provide a short description and context about sources, units, publication year, authors, and license.
 
 
