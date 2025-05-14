@@ -56,9 +56,9 @@ export_to_csv "final" "sales" "l3_es_annual_sales"
 export_to_csv "intermediate" "lookup_rca_electric_certificates" "lookup_rca_electric_certificates" 
 
 # Export de-normalized views for public consumption (note: views are special, need the SELECT * query nested in the COPY command)
-export_to_csv "public" "public_communities_monthly_generation" "(SELECT * FROM public_communities_monthly_generation)"
-export_to_csv "public" "public_communities_yearly_generation" "(SELECT * FROM public_communities_yearly_generation)"
-export_to_csv "public" "public_communities_capacity" "(SELECT * FROM public_communities_capacity)"
-export_to_csv "public" "public_communities_fuel_prices" "(SELECT * FROM public_communities_fuel_prices)"
+export_to_csv "public" "public_monthly_generation" "(SELECT * FROM public_monthly_generation)"
+export_to_csv "public" "public_yearly_generation" "(SELECT * FROM public_yearly_generation)"
+export_to_csv "public" "public_capacity" "(SELECT * FROM public_capacity)"
+export_to_csv "public" "public_fuel_prices" "(SELECT * FROM public_fuel_prices)"
 export_to_csv "public" "public_communities" "(SELECT * FROM public_communities)"
 
