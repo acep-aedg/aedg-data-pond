@@ -60,4 +60,5 @@ export_to_csv "public" "public_communities_monthly_generation" "(SELECT * FROM p
 export_to_csv "public" "public_communities_yearly_generation" "(SELECT * FROM public_communities_yearly_generation)"
 export_to_csv "public" "public_communities_capacity" "(SELECT * FROM public_communities_capacity)"
 export_to_csv "public" "public_communities_fuel_prices" "(SELECT * FROM public_communities_fuel_prices)"
+export_to_csv "public" "public_communities" "(SELECT * FROM public_communities)"
 
