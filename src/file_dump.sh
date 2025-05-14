@@ -61,4 +61,5 @@ export_to_csv "public" "public_yearly_generation" "(SELECT * FROM public_yearly_
 export_to_csv "public" "public_capacity" "(SELECT * FROM public_capacity)"
 export_to_csv "public" "public_fuel_prices" "(SELECT * FROM public_fuel_prices)"
 export_to_csv "public" "public_communities" "(SELECT * FROM public_communities)"
+export_to_csv "public" "public_transportation" "(SELECT * FROM public_transportation)"
 
