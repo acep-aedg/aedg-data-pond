@@ -22,7 +22,6 @@ export_to_geojson() {
 # Convert tables to GeoJSON
 export_to_geojson "final" "communities" "l4_communities"
 export_to_geojson "final" "regional_corporations" "l2_regional_corporations"
-export_to_geojson "final" "village_corporations" "l2_village_corporations"
 export_to_geojson "final" "boroughs" "l2_boroughs"
 export_to_geojson "final" "house_districts" "l2_house_districts"
 export_to_geojson "final" "senate_districts" "l2_senate_districts"
@@ -57,6 +56,14 @@ export_to_csv "final" "sales" "l3_es_annual_sales"
 export_to_csv "intermediate" "lookup_rca_electric_certificates" "lookup_rca_electric_certificates" 
 
 # Export de-normalized views for public consumption (note: views are special, need the SELECT * query nested in the COPY command)
-export_to_csv "public" "public_communities_monthly_generation" "(SELECT * FROM public_communities_monthly_generation)"
-export_to_csv "public" "public_communities_yearly_generation" "(SELECT * FROM public_communities_yearly_generation)"
+export_to_csv "public" "public_capacity" "(SELECT * FROM public_capacity)"
+export_to_csv "public" "public_communities" "(SELECT * FROM public_communities)"
+export_to_csv "public" "public_employment" "(SELECT * FROM public_employment)"
+export_to_csv "public" "public_fuel_prices" "(SELECT * FROM public_fuel_prices)"
+export_to_csv "public" "public_monthly_generation" "(SELECT * FROM public_monthly_generation)"
+export_to_csv "public" "public_populations_ages_sexes" "(SELECT * FROM public_populations_ages_sexes)"
+export_to_csv "public" "public_rates" "(SELECT * FROM public_rates)"
+export_to_csv "public" "public_taxes" "(SELECT * FROM public_taxes)"
+export_to_csv "public" "public_transportation" "(SELECT * FROM public_transportation)"
+export_to_csv "public" "public_yearly_generation" "(SELECT * FROM public_yearly_generation)"
 
