@@ -66,5 +66,3 @@ export_to_csv "public" "public_rates" "(SELECT * FROM public_rates)"
 export_to_csv "public" "public_taxes" "(SELECT * FROM public_taxes)"
 export_to_csv "public" "public_transportation" "(SELECT * FROM public_transportation)"
 export_to_csv "public" "public_yearly_generation" "(SELECT * FROM public_yearly_generation)"
-
-export_to_csv "intermediate" "communities_multiple_election_districts" "(SELECT * FROM communities_multiple_election_districts)"
