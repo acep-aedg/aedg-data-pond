@@ -1,17 +1,19 @@
 # Welcome
 
-Welcome to the data repository for the Alaska Energy Data Gateway (AEDG) development work being conducted by the Alaska Center for Energy and Power.   
+Welcome to the data repository for the Alaska Energy Data Gateway (AEDG). Energy-related data are stored here in multiple directories for use in AEDG. The unifying hub is the PostGIS data that AEDG's [Extract-Load-Transform (ELT) pipeline](https://github.com/acep-aedg/aedg-etl-2024) (permissions may be required) has created. A script in this repository pulls normalized tables and denormalized views from that database and writes the files found here. Formats and uses are described below.
+
+The second source of files here is AEDG's [metadata generation process](https://github.com/acep-aedg/aedg-metadata). That system uses Python code to generate JSON metadata files conforming to the [OEMetadata standard](https://openenergyplatform.github.io/oemetadata/latest/). The resulting metadata files are then copied here to create documentation for individual data files.
 
 ## Serving multiple purposes
 
-This repository currently serves two distinct purposes. 
+This repository currently serves two distinct purposes.
 
 1. This repository is a transfer point between the [Extract-Load-Transform (ELT) pipeline](https://github.com/acep-aedg/aedg-etl-2024) (permissions may be required) and the Rails web app that displays data at the community level. [TODO: add link when it is available]. These files are for **internal** development work.
 2. This repository is also intended to provide long-term public access to the data available via the AEDG. This includes storage of the original (or slightly corrected) source files and user-friendly versions of data that can be applied to other purposes. These files are designed to face **external** users.
 
 As the system matures, we will develop an alternative method of transfering internal files. However, for the time being, these are CSV and GeoJSON versions of normalized database tables; these files will not be intuitively accessible by humans. 
 
-The best form for the external files adhere to the Findable-Accessible-Interoperable-Reuseable (FAIR) principles, a goal not required for our internal development work. 
+The best form for the external files adhere to the Findable-Accessible-Interoperable-Reuseable (FAIR) principles, a goal not required for our internal development work.
 
 ## File formats
 
@@ -50,10 +52,9 @@ For instance, in order to answer questions such as "What is the electrical capac
 
 #### `public/`
 
-These are denormalized versions of the internal files - joined in ways to make the data more user friendly. These are the files that will be available via the Data Explorer portion of the AEDG. [TODO: add link when available.]
+These are denormalized versions of the internal database tables - joined in ways to make the data more user friendly. These files are available via the Data Explorer portion of the AEDG. [TODO: add link when it goes into production.] These files are accompanied by OEMetadata files that document the schema (i.e. data dictionary) and sources of the data.
 
-Using these files, to answer questions such as "What is the electrical capacity of the grid that serves Ketchikan?", a user would download `public_communities_capacity.csv` and filter to "Ketchikan" using their favorite tool.  [TODO: create `public_communities_capacity.csv`]
-
+Using these files, to answer questions such as "What is the electrical capacity of the grid that serves Ketchikan?", a user would download `public_capacity.csv` and filter to "Ketchikan" using their favorite tool.
 
 ## Workflow
 

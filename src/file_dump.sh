@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define an array of directories and file types to remove
-declare -a dirs=("raw" "intermediate" "final" "public")
+declare -a dirs=("intermediate" "final" "public")
 declare -a types=("csv" "geojson")
 
 # Remove files
