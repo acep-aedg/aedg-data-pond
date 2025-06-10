@@ -1,0 +1,397 @@
+{
+    "@context": "",
+    "name": "public_populations_ages_sexes",
+    "title": "American Community Survey Populations",
+    "description": "Summary of the total population of each community with categorizations by age and sex.\n",
+    "@id": "",
+    "resources": [
+        {
+            "@id": "",
+            "name": "public_populations_ages_sexes",
+            "topics": [
+                "Social"
+            ],
+            "title": "American Community Survey Populations",
+            "path": "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/public/public_populations_ages_sexes.csv",
+            "description": "Total populations were measured by the U. S. Census and associated with communities by the Alaska Division of Community and Regional Affairs (DCRA). This dataset includes population size by sex in Alaskan communities for the most recent 5-year American Community Survey (ACS) intervals. It also includes population by age. The 5-year interval data sets are published approximately 1/2 a period later than the End Year listed.\n",
+            "languages": [
+                "en-US"
+            ],
+            "keywords": [
+                "total population",
+                "age",
+                "sex",
+                "population conditions",
+                "survey",
+                "census"
+            ],
+            "publicationDate": "2025-05-22",
+            "context": {
+                "title": "Alaska Energy Data Gateway v3.0",
+                "homepage": "https://akenergygateway.alaska.edu/",
+                "publisher": "Alaska Center for Energy and Power (ACEP) at the University of Alaska Fairbanks (UAF)",
+                "fundingAgency": "State of Alaska"
+            },
+            "spatial": {
+                "extent": {
+                    "name": "Alaska",
+                    "boundingBox": [
+                        -187.55,
+                        51.21,
+                        -130.0,
+                        71.35
+                    ],
+                    "crs": "OGC:CRS84"
+                }
+            },
+            "temporal": {
+                "referenceDate": "2025-06-01",
+                "timeseries": [
+                    {
+                        "start": "2019",
+                        "end": "2023",
+                        "alignment": "right",
+                        "aggregationType": "current"
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "title": "Places (Cities and CDPs) Shapefile",
+                    "authors": [
+                        "United States Census Bureau",
+                        "Alaska Department of Labor and Workforce Development (DOLWD)"
+                    ],
+                    "description": "This is an ESRI Shapefile for use in GIS software that contains place data from the 2020 US Census for Alaska. The definition of places includes all incorporated cities as well as Census Designated Places (CDPs). Each geographic unit is identified using Federal Information Processing Standards (FIPS) numbers. Coordinate System: North American Datum 1983 Alaska Albers. Source: 2020 US Census, PL94-171 Redistricting File; 2020 US Census Tiger Shapefiles. Documentation of field names: https://live.laborstats.alaska.gov/cen/maps/gis/Places2020.pdf. The Alaska Department of Labor and Workforce Development has had a cooperative agreement with the U.S. Census Bureau since 1981 to assist with geographic programs and help Alaskans find Census Bureau data.\nAEDG uses this list to define canonical community locations to use in spatial joins and relations, to associate places with FIPS codes, and to establish total community population.\n",
+                    "publicationYear": "2020",
+                    "path": "https://live.laborstats.alaska.gov/article/maps-gis-data",
+                    "sourceLicenses": []
+                },
+                {
+                    "title": "Alaska Communities",
+                    "authors": [
+                        "Alaska Division of Community and Regional Affairs (DCRA)"
+                    ],
+                    "description": "The Alaska Communities dataset is the reference list of place locations, represented as points, used by the Alaska Division of Community and Regional Affairs (DCRA). In includes community locations but for historical reasons, it is a mix of Communities, Places of Interest, Borough/Census Area as well as Alaska centroid. DCRA uses it to link communities to their internal key GUID used elsewhere in their systems.\nAEDG uses this list to define canonical community names since, as free text, these can vary in different contexts, and to establish locations to use in spatial joins and relations.\n",
+                    "publicationYear": "2023",
+                    "path": "https://maps.commerce.alaska.gov/server/rest/services/Community_Related/Community_Locations_and_Boundaries/MapServer/0",
+                    "sourceLicenses": []
+                },
+                {
+                    "title": "American Community Survey Population Characteristics, Age",
+                    "authors": [
+                        "United States Census Bureau",
+                        "Alaska Division of Community and Regional Affairs (DCRA)"
+                    ],
+                    "description": "Population by age in Alaskan communities for the most recent 5-year American Community Survey (ACS) interval. GIS data shows the median age of each community. This data has been visualized in a Geographic Information Systems (GIS) format and is provided as a service in the DCRA Information Portal by the Alaska Department of Commerce, Community, and Economic Development Division of Community and Regional Affairs (SOA DCCED DCRA), Research and Analysis section. SOA DCCED DCRA Research and Analysis is not the authoritative source for this data. For more information and for questions about this data, see: US Census - The Significance of Age and Sex Data and Alaska DOLWD ACS Data\nAEDG uses this dataset to associate places (point locations) with population divided into age ranges.\n",
+                    "publicationYear": "2022",
+                    "path": "https://maps.commerce.alaska.gov/server/rest/services/Demographics/Alaska_American_Community_Survey/MapServer/5",
+                    "sourceLicenses": [
+                        {
+                            "name": "public-domain",
+                            "title": "U.S. Public Domain",
+                            "path": "http://www.usa.gov/publicdomain/label/1.0/",
+                            "instruction": "Data and content created by government employees within the scope of their employment are not subject\nto domestic copyright protection under 17 U.S.C. \u00a7 105. Government works are by default in the U.S.\nPublic Domain. You cannot use government materials in a way that implies endorsement by a government agency, official, or employee. You also cannot use federal government trademarks or federal government agency logos without permission - https://resources.data.gov/open-licenses/.\n"
+                        }
+                    ]
+                },
+                {
+                    "title": "American Community Survey Population Characteristics, Sex",
+                    "authors": [
+                        "United States Census Bureau",
+                        "Alaska Division of Community and Regional Affairs (DCRA)"
+                    ],
+                    "description": "Population size by sex in Alaskan communities for the most recent 5-year American Community Survey (ACS) intervals. GIS data shows the male to female ratio of each community. This data has been visualized in a Geographic Information Systems (GIS) format and is provided as a service in the DCRA Information Portal by the Alaska Department of Commerce, Community, and Economic Development Division of Community and Regional Affairs (SOA DCCED DCRA), Research and Analysis section. SOA DCCED DCRA Research and Analysis is not the authoritative source for this data. For more information and for questions about this data, see: US Census - The Significance of Age and Sex Data.\nAEDG uses this dataset to associate places (point locations) with population divided into male and female.\n",
+                    "publicationYear": "2022",
+                    "path": "https://maps.commerce.alaska.gov/server/rest/services/Demographics/Alaska_American_Community_Survey/MapServer/0",
+                    "sourceLicenses": [
+                        {
+                            "name": "public-domain",
+                            "title": "U.S. Public Domain",
+                            "path": "http://www.usa.gov/publicdomain/label/1.0/",
+                            "instruction": "Data and content created by government employees within the scope of their employment are not subject\nto domestic copyright protection under 17 U.S.C. \u00a7 105. Government works are by default in the U.S.\nPublic Domain. You cannot use government materials in a way that implies endorsement by a government agency, official, or employee. You also cannot use federal government trademarks or federal government agency logos without permission - https://resources.data.gov/open-licenses/.\n"
+                        }
+                    ]
+                }
+            ],
+            "licenses": [
+                {
+                    "name": "CC-SA-4.0",
+                    "title": "Creative Commons Attribution-ShareAlike 4.0 International",
+                    "path": "https://creativecommons.org/licenses/by-sa/4.0/",
+                    "instruction": "You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.\n",
+                    "attribution": "Alaska Center for Energy and Power, University of Alaska Fairbanks"
+                }
+            ],
+            "contributors": [
+                {
+                    "organization": "Alaska Center for Energy and Power (ACEP) at the University of Alaska Fairbanks (UAF)",
+                    "roles": [
+                        "DataCurator"
+                    ],
+                    "date": "2025-05-22",
+                    "object": "data via https://github.com/acep-aedg/aedg-etl-2024",
+                    "comment": "1. Identified data source and integrated it into the data pipeline.\n2. Complied community names, locations, and FIPS identifiers for AEDG\n3. Joined population data with AEDG communities to create this dataset\n",
+                    "path": "https://www.uaf.edu/acep/"
+                },
+                {
+                    "organization": "Alaska Center for Energy and Power (ACEP) at the University of Alaska Fairbanks (UAF)",
+                    "roles": [
+                        "DataCurator"
+                    ],
+                    "date": "2025-05-22",
+                    "object": "metadata via https://github.com/acep-aedg/aedg-metadata",
+                    "comment": "Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.\n",
+                    "path": "https://www.uaf.edu/acep/"
+                }
+            ],
+            "type": "table",
+            "format": "CSV",
+            "encoding": "",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "fips_code",
+                        "long_name": "FIPS Code",
+                        "description": "5-digit Federal Information Processing Series (FIPS) code identifier for places and boroughs (counties), assigned and maintained by the Census Bureau",
+                        "type": "string",
+                        "nullable": false,
+                        "unit": null
+                    },
+                    {
+                        "name": "name",
+                        "long_name": "Community Name",
+                        "description": "Name of the community",
+                        "type": "string",
+                        "nullable": false,
+                        "unit": null
+                    },
+                    {
+                        "name": "start_year",
+                        "long_name": "Start Year",
+                        "description": "Beginning of the data collection period",
+                        "type": "integer",
+                        "nullable": false,
+                        "unit": null
+                    },
+                    {
+                        "name": "end_year",
+                        "long_name": "End Year",
+                        "description": "End of the data collection period",
+                        "type": "integer",
+                        "nullable": false,
+                        "unit": null
+                    },
+                    {
+                        "name": "is_most_recent",
+                        "long_name": "Most Recent Population",
+                        "description": "Answers the question: Is this the most recent population estimate? (\"1\" for yes, and \"0\" for no)",
+                        "type": "integer",
+                        "nullable": true,
+                        "unit": null
+                    },
+                    {
+                        "name": "estimated_pop_age_total",
+                        "long_name": "Estimated Total Population",
+                        "description": "Estimated total population",
+                        "type": "number",
+                        "nullable": true,
+                        "unit": null
+                    },
+                    {
+                        "name": "estimated_pop_age_under_5",
+                        "long_name": "Estimated Population Under 5",
+                        "description": "Estimated population under 5 years old",
+                        "type": "number",
+                        "nullable": true,
+                        "unit": null
+                    },
+                    {
+                        "name": "estimated_pop_age_5_9",
+                        "long_name": "Estimated Population 5-9 Years Old",
+                        "description": "Estimated population between ages 5-9 years old",
+                        "type": "number",
+                        "nullable": true,
+                        "unit": null
+                    },
+                    {
+                        "name": "estimated_pop_age_10_14",
+                        "long_name": "Estimated Population 10-14 Years Old",
+                        "description": "Estimated population between ages 10-14 years old",
+                        "type": "number",
+                        "nullable": true,
+                        "unit": null
+                    },
+                    {
+                        "name": "estimated_pop_age_15_19",
+                        "long_name": "Estimated Population 15-19 Years Old",
+                        "description": "Estimated population between ages 15-19 years old",
+                        "type": "number",
+                        "nullable": true,
+                        "unit": null
+                    },
+                    {
+                        "name": "estimated_pop_age_20_24",
+                        "long_name": "Estimated Population 20-24 Years Old",
+                        "description": "Estimated population between ages 20-24 years old",
+                        "type": "number",
+                        "nullable": true,
+                        "unit": null
+                    },
+                    {
+                        "name": "estimated_pop_age_25_34",
+                        "long_name": "Estimated Population 25-34 Years Old",
+                        "description": "Estimated population between ages 25-34 years old",
+                        "type": "number",
+                        "nullable": true,
+                        "unit": null
+                    },
+                    {
+                        "name": "estimated_pop_age_35_44",
+                        "long_name": "Estimated Population 35-44 Years Old",
+                        "description": "Estimated population between ages 35-44 years old",
+                        "type": "number",
+                        "nullable": true,
+                        "unit": null
+                    },
+                    {
+                        "name": "estimated_pop_age_45_54",
+                        "long_name": "Estimated Population 45-54 Years Old",
+                        "description": "Estimated population between ages 45-54 years old",
+                        "type": "number",
+                        "nullable": true,
+                        "unit": null
+                    },
+                    {
+                        "name": "estimated_pop_age_55_59",
+                        "long_name": "Estimated Population 55-59 Years Old",
+                        "description": "Estimated population between ages 55-59 years old",
+                        "type": "number",
+                        "nullable": true,
+                        "unit": null
+                    },
+                    {
+                        "name": "estimated_pop_age_60_64",
+                        "long_name": "Estimated Population 60-64 Years Old",
+                        "description": "Estimated population between ages 60-64 years old",
+                        "type": "number",
+                        "nullable": true,
+                        "unit": null
+                    },
+                    {
+                        "name": "estimated_pop_age_65_74",
+                        "long_name": "Estimated Population 65-74 Years Old",
+                        "description": "Estimated population between ages 65-74 years old",
+                        "type": "number",
+                        "nullable": true,
+                        "unit": null
+                    },
+                    {
+                        "name": "estimated_pop_age_75_84",
+                        "long_name": "Estimated Population 75-84 Years Old",
+                        "description": "Estimated population between ages 75-84 years old",
+                        "type": "number",
+                        "nullable": true,
+                        "unit": null
+                    },
+                    {
+                        "name": "estimated_pop_age_85_plus",
+                        "long_name": "Estimated Population 85+ Years Old",
+                        "description": "Estimated population 85+ years old",
+                        "type": "number",
+                        "nullable": true,
+                        "unit": null
+                    },
+                    {
+                        "name": "estimated_pop_age_median_age",
+                        "long_name": "Estimated Population Median Age",
+                        "description": "Estimated population median age",
+                        "type": "number",
+                        "nullable": true,
+                        "unit": null
+                    },
+                    {
+                        "name": "estimated_pop_age_under_18",
+                        "long_name": "Estimated Population Under 18",
+                        "description": "Estimated population under 18 years old",
+                        "type": "number",
+                        "nullable": true,
+                        "unit": null
+                    },
+                    {
+                        "name": "estimated_pop_age_18_plus",
+                        "long_name": "Estimated Population 18+ Years Old",
+                        "description": "Estimated population 18+ years old",
+                        "type": "number",
+                        "nullable": true,
+                        "unit": null
+                    },
+                    {
+                        "name": "estimated_pop_age_21_plus",
+                        "long_name": "Estimated Population 21+ Years Old",
+                        "description": "Estimated population 21+ years old",
+                        "type": "number",
+                        "nullable": true,
+                        "unit": null
+                    },
+                    {
+                        "name": "estimated_pop_age_62_plus",
+                        "long_name": "Estimated Population 62+ Years Old",
+                        "description": "Estimated population 62+ years old",
+                        "type": "number",
+                        "nullable": true,
+                        "unit": null
+                    },
+                    {
+                        "name": "estimated_pop_age_65_plus",
+                        "long_name": "Estimated Population 65+ Years Old",
+                        "description": "Estimated population 65+ years old",
+                        "type": "number",
+                        "nullable": true,
+                        "unit": null
+                    },
+                    {
+                        "name": "estimated_pop_total",
+                        "long_name": "Estimated Population All Ages",
+                        "description": "Estimated population of all ages",
+                        "type": "number",
+                        "nullable": true,
+                        "unit": null
+                    },
+                    {
+                        "name": "estimated_pop_male",
+                        "long_name": "Estimated Male Population",
+                        "description": "Estimated male population",
+                        "type": "number",
+                        "nullable": true,
+                        "unit": null
+                    },
+                    {
+                        "name": "estimated_pop_female",
+                        "long_name": "Estimated Female Population",
+                        "description": "Estimated female population",
+                        "type": "number",
+                        "nullable": true,
+                        "unit": null
+                    }
+                ],
+                "primaryKey": [
+                    "fips_code",
+                    "end_year"
+                ]
+            },
+            "dialect": {
+                "delimiter": ",",
+                "decimalSeparator": "."
+            }
+        }
+    ],
+    "metaMetadata": {
+        "metadataVersion": "OEMetadata-2.0.4",
+        "metadataLicense": {
+            "name": "CC0-1.0",
+            "title": "Creative Commons Zero v1.0 Universal",
+            "path": "https://creativecommons.org/publicdomain/zero/1.0"
+        }
+    }
+}

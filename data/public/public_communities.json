@@ -1,0 +1,362 @@
+{
+    "@context": "",
+    "name": "public_communities",
+    "title": "Alaska Energy Data Gateway Communities",
+    "description": "List of the communities displayed in the Alaska Energy Data Gateway (AEDG), cross-walked to other regional energy, governmental, and Indigenous organizations.\n",
+    "@id": "",
+    "resources": [
+        {
+            "@id": "",
+            "name": "public_communities",
+            "topics": [
+                "Social",
+                "Electricity"
+            ],
+            "title": "Alaska Energy Data Gateway Communities",
+            "path": "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/public/public_communities.csv",
+            "description": "List of the communities displayed in the Alaska Energy Data Gateway (AEDG), cross-walked to other regional energy, governmental, governmental and Indigenous organizations.\n",
+            "languages": [
+                "en-US"
+            ],
+            "keywords": [
+                "community",
+                "native corporation",
+                "borough",
+                "census area",
+                "grid",
+                "puma"
+            ],
+            "publicationDate": "2025-05-22",
+            "context": {
+                "title": "Alaska Energy Data Gateway v3.0",
+                "homepage": "https://akenergygateway.alaska.edu/",
+                "publisher": "Alaska Center for Energy and Power (ACEP) at the University of Alaska Fairbanks (UAF)",
+                "fundingAgency": "State of Alaska"
+            },
+            "spatial": {
+                "extent": {
+                    "name": "Alaska",
+                    "boundingBox": [
+                        -187.55,
+                        51.21,
+                        -130.0,
+                        71.35
+                    ],
+                    "crs": "OGC:CRS84"
+                }
+            },
+            "sources": [
+                {
+                    "title": "Places (Cities and CDPs) Shapefile",
+                    "authors": [
+                        "United States Census Bureau",
+                        "Alaska Department of Labor and Workforce Development (DOLWD)"
+                    ],
+                    "description": "This is an ESRI Shapefile for use in GIS software that contains place data from the 2020 US Census for Alaska. The definition of places includes all incorporated cities as well as Census Designated Places (CDPs). Each geographic unit is identified using Federal Information Processing Standards (FIPS) numbers. Coordinate System: North American Datum 1983 Alaska Albers. Source: 2020 US Census, PL94-171 Redistricting File; 2020 US Census Tiger Shapefiles. Documentation of field names: https://live.laborstats.alaska.gov/cen/maps/gis/Places2020.pdf. The Alaska Department of Labor and Workforce Development has had a cooperative agreement with the U.S. Census Bureau since 1981 to assist with geographic programs and help Alaskans find Census Bureau data.\nAEDG uses this list to define canonical community locations to use in spatial joins and relations, to associate places with FIPS codes, and to establish total community population.\n",
+                    "publicationYear": "2020",
+                    "path": "https://live.laborstats.alaska.gov/article/maps-gis-data",
+                    "sourceLicenses": []
+                },
+                {
+                    "title": "Alaska Communities",
+                    "authors": [
+                        "Alaska Division of Community and Regional Affairs (DCRA)"
+                    ],
+                    "description": "The Alaska Communities dataset is the reference list of place locations, represented as points, used by the Alaska Division of Community and Regional Affairs (DCRA). In includes community locations but for historical reasons, it is a mix of Communities, Places of Interest, Borough/Census Area as well as Alaska centroid. DCRA uses it to link communities to their internal key GUID used elsewhere in their systems.\nAEDG uses this list to define canonical community names since, as free text, these can vary in different contexts, and to establish locations to use in spatial joins and relations.\n",
+                    "publicationYear": "2023",
+                    "path": "https://maps.commerce.alaska.gov/server/rest/services/Community_Related/Community_Locations_and_Boundaries/MapServer/0",
+                    "sourceLicenses": []
+                },
+                {
+                    "title": "Geographic Names Information System (GNIS) Federal Codes for AK",
+                    "authors": [
+                        "U.S. Geological Survey (USGS)"
+                    ],
+                    "description": "The Geographic Names Information System (GNIS) is the Federal standard for geographic nomenclature. The U.S. Geological Survey developed the GNIS for the U.S. Board on Geographic Names, a Federal inter-agency body chartered by public law to maintain uniform feature name usage throughout the Government and to promulgate standard names to the public. The GNIS is the official repository of domestic geographic names data; the official vehicle for geographic names use by all departments of the Federal Government; and the source for applying geographic names to Federal electronic and printed products of all types.\nAEDG includes GNIS code as a community attribute for purposes of cross referencing data from different sources.\n",
+                    "publicationYear": "2025",
+                    "path": "https://www.usgs.gov/us-board-on-geographic-names/download-gnis-data",
+                    "sourceLicenses": [
+                        {
+                            "name": "public-domain",
+                            "title": "U.S. Public Domain",
+                            "path": "http://www.usa.gov/publicdomain/label/1.0/",
+                            "instruction": "Data and content created by government employees within the scope of their employment are not subject\nto domestic copyright protection under 17 U.S.C. \u00a7 105. Government works are by default in the U.S.\nPublic Domain. You cannot use government materials in a way that implies endorsement by a government agency, official, or employee. You also cannot use federal government trademarks or federal government agency logos without permission - https://resources.data.gov/open-licenses/.\n"
+                        }
+                    ]
+                },
+                {
+                    "title": "Alaska Native Regional Corporations",
+                    "authors": [
+                        "United States Census Bureau"
+                    ],
+                    "description": "This feature layer, utilizing National Geospatial Data Asset (NGDA) data from the U.S. Census Bureau (USCB), displays the twelve territories that make up the Alaska Native Regional Corporations (ANRC). Per the Bureau, each ANRC is defined \"as a \u2019Regional Corporation\u2019 organized under the laws of the State of Alaska to conduct both the for-profit and non-profit affairs of Alaska Natives within a defined region of Alaska. Twelve Regional Corporations cover the entire state of Alaska except for the area within the Annette Island Reserve (a federally recognized American Indian reservation under the governmental authority of the Metlakatla Indian Community). A thirteenth represents Alaska Natives who do not live in Alaska and do not identify with any of the twelve corporations.\u201d\nRegional Corporations were created by the Alaska Native Claims Settlement Act (ANCSA) and are organized around geographic areas defined by the common heritage and shared interests of the indigenous peoples. The boundaries of these areas do not directly represent land ownership, but instead define the areas in which each regional corporation could select lands to be conveyed under the provisions of ANCSA.\nAEDG includes Regional Corporations in the description of communities.\n",
+                    "publicationYear": "2024",
+                    "path": "https://www.arcgis.com/home/item.html?id=c78df0004ab845a9a32697d9c20d09e0",
+                    "sourceLicenses": [
+                        {
+                            "name": "public-domain",
+                            "title": "U.S. Public Domain",
+                            "path": "http://www.usa.gov/publicdomain/label/1.0/",
+                            "instruction": "Data and content created by government employees within the scope of their employment are not subject\nto domestic copyright protection under 17 U.S.C. \u00a7 105. Government works are by default in the U.S.\nPublic Domain. You cannot use government materials in a way that implies endorsement by a government agency, official, or employee. You also cannot use federal government trademarks or federal government agency logos without permission - https://resources.data.gov/open-licenses/.\n"
+                        }
+                    ]
+                },
+                {
+                    "title": "Boroughs and Census Areas",
+                    "authors": [
+                        "Alaska Division of Community and Regional Affairs (DCRA)"
+                    ],
+                    "description": "Boroughs are analogous to a counties in other states. Organized boroughs were formed in those areas where economies were better developed. The remaining areas are the unorganized borough, which is divided into census areas; these areas exist for statistical analysis and do not have a government of their own. There are also consolidated city-borough governments. The Division of Community and Regional Affairs (DCRA) provides these boundaries as part of their Community Database Online (CDO), a source of information to aid in advising and assisting local governments, including for research purposes.\nAEDG includes borough or census area as a community attribute to identify governing entities.\n",
+                    "publicationYear": "2025",
+                    "path": "https://maps.commerce.alaska.gov/server/rest/services/Community_Related/Community_Locations_and_Boundaries/MapServer/3",
+                    "sourceLicenses": [
+                        {
+                            "name": "public-domain",
+                            "title": "U.S. Public Domain",
+                            "path": "http://www.usa.gov/publicdomain/label/1.0/",
+                            "instruction": "Data and content created by government employees within the scope of their employment are not subject\nto domestic copyright protection under 17 U.S.C. \u00a7 105. Government works are by default in the U.S.\nPublic Domain. You cannot use government materials in a way that implies endorsement by a government agency, official, or employee. You also cannot use federal government trademarks or federal government agency logos without permission - https://resources.data.gov/open-licenses/.\n"
+                        }
+                    ]
+                },
+                {
+                    "title": "Alaska Energy Statistics Infrastructure Tables",
+                    "authors": [
+                        "Alaska Center for Energy and Power (ACEP), University of Alaska Fairbanks (UAF)",
+                        "Neil McMahon, DOWL Engineering",
+                        "Alaska Energy Authority (AEA)",
+                        "Institute of Social and Economic Research (ISER), University of Alaska Anchorage (UAA)"
+                    ],
+                    "description": "The Alaska Energy Statistics is a long-running collection of data and reports about energy production, consumption, and related topics specific to the state of Alaska. The workbooks were developed to provide community and utility level datasets that support regional and statewide aggregations for use in the 2024 Alaska Electricity Trends Report. This is a continuation of a 40+ year effort to create and maintain high level views of the state\u2019s energy profile that are useful for policy makers, businesses, researchers, and others interested in Alaska\u2019s energy sector. Data are derived from community Power Cost Equalization reports collated by the Alaska Energy Authority and power plant reporting to the U.S. Energy Information Administration (EIA). These sources are supplemented by annual filings to the Regulatory Commission of Alaska (RCA), village and powerhouse assessments, and direct communications with utilities and hydro/wind program managers.\nAdditional funding was contributed by Office of Naval Research (ONR) funded Alaska Regional Collaboration for Technology Innovation and Commercialization (ARCTIC) program, the Denali Commission, and the State of Alaska.\nAEDG uses this dataset as the best available compilation of electrical generation capacity, incorporating data from multiple sources into a single source.\n",
+                    "publicationYear": "2024",
+                    "path": "https://acep-uaf.github.io/ak-energy-statistics-2011_2021/",
+                    "sourceLicenses": [
+                        {
+                            "name": "CC-SA-4.0",
+                            "title": "Creative Commons Attribution-ShareAlike 4.0 International",
+                            "path": "https://creativecommons.org/licenses/by-sa/4.0/",
+                            "instruction": "You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.\n",
+                            "attribution": "Alaska Center for Energy and Power, University of Alaska Fairbanks"
+                        }
+                    ]
+                },
+                {
+                    "title": "Alaska Energy Statistics Financial Tables",
+                    "authors": [
+                        "Alaska Center for Energy and Power (ACEP), University of Alaska Fairbanks (UAF)",
+                        "Neil McMahon, DOWL Engineering",
+                        "Alaska Energy Authority (AEA)",
+                        "Institute of Social and Economic Research (ISER), University of Alaska Anchorage (UAA)"
+                    ],
+                    "description": "The Alaska Energy Statistics is a long-running collection of data and reports about energy production, consumption, and related topics specific to the state of Alaska. The workbooks were developed to provide community and utility level datasets that support regional and statewide aggregations for use in the 2024 Alaska Electricity Trends Report. This is a continuation of a 40+ year effort to create and maintain high level views of the state\u2019s energy profile that are useful for policy makers, businesses, researchers, and others interested in Alaska\u2019s energy sector. Data are derived from community Power Cost Equalization reports collated by the Alaska Energy Authority and power plant reporting to the U.S. Energy Information Administration (EIA). These sources are supplemented by annual filings to the Regulatory Commission of Alaska (RCA), village and powerhouse assessments, and direct communications with utilities and hydro/wind program managers.\nAdditional funding was contributed by Office of Naval Research (ONR) funded Alaska Regional Collaboration for Technology Innovation and Commercialization (ARCTIC) program, the Denali Commission, and the State of Alaska.\nAEDG uses this dataset as the best available compilation of electricity sales, incorporating data from multiple sources into a single source.\n",
+                    "publicationYear": "2024",
+                    "path": "https://acep-uaf.github.io/ak-energy-statistics-2011_2021/",
+                    "sourceLicenses": [
+                        {
+                            "name": "CC-SA-4.0",
+                            "title": "Creative Commons Attribution-ShareAlike 4.0 International",
+                            "path": "https://creativecommons.org/licenses/by-sa/4.0/",
+                            "instruction": "You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.\n",
+                            "attribution": "Alaska Center for Energy and Power, University of Alaska Fairbanks"
+                        }
+                    ]
+                },
+                {
+                    "title": "Public Use Microdata Areas (PUMA)",
+                    "authors": [
+                        "United States Census Bureau"
+                    ],
+                    "description": "Public Use Microdata Areas (PUMAs) are non-overlapping, statistical geographic areas that partition each state or equivalent entity into geographic areas containing no fewer than 100,000 people each. They cover the entirety of the United States, Puerto Rico, and Guam. The Census Bureau defines PUMAs for the tabulation and dissemination of decennial census and American Community Survey (ACS) Public Use Microdata Sample (PUMS) data. Additionally, the ACS and Puerto Rico Community Survey use them to disseminate their respective period estimates.\nAEDG uses PUMA to identify communities in Alaskan subsistence areas.\n",
+                    "publicationYear": "2023",
+                    "path": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/tigerWMS_Census2010/MapServer/0",
+                    "sourceLicenses": [
+                        {
+                            "name": "public-domain",
+                            "title": "U.S. Public Domain",
+                            "path": "http://www.usa.gov/publicdomain/label/1.0/",
+                            "instruction": "Data and content created by government employees within the scope of their employment are not subject\nto domestic copyright protection under 17 U.S.C. \u00a7 105. Government works are by default in the U.S.\nPublic Domain. You cannot use government materials in a way that implies endorsement by a government agency, official, or employee. You also cannot use federal government trademarks or federal government agency logos without permission - https://resources.data.gov/open-licenses/.\n"
+                        }
+                    ]
+                },
+                {
+                    "title": "Alaska Economic Regions",
+                    "authors": [
+                        "Alaska Department of Labor and Workforce Development (DOLWD)",
+                        "Alaska Division of Community and Regional Affairs (DCRA)"
+                    ],
+                    "description": "Alaska economic regions based on 2013 borough and census area geography. Boundaries are determined by the Alaska Department of Labor & Workforce Development. For more information, see Alaska Department of Labor Maps & GIS. This data has been visualized in a Geographic Information Systems (GIS) format and is provided as a service in the DCRA Information Portal by the Alaska Department of Commerce, Community, and Economic Development Division of Community and Regional Affairs (SOA DCCED DCRA), Research and Analysis section. SOA DCCED DCRA Research and Analysis is not the authoritative source for this data. For more information and for questions about this data, see: Alaska Local and Regional Information\nAEDG uses this dataset to add the economic region spatial polygon to Anchorage gas prices.\n",
+                    "publicationYear": "2024",
+                    "path": "https://maps.commerce.alaska.gov/server/rest/services/Boundaries/CDO_Economic_Regions/MapServer/0",
+                    "sourceLicenses": []
+                },
+                {
+                    "title": "Power Cost Equalization (PCE) Program Eligible Entities",
+                    "authors": [
+                        "Alaska Division of Community and Regional Affairs (DCRA)",
+                        "Alaska Energy Authority (AEA)",
+                        "Regulatory Commission of Alaska (RCA)"
+                    ],
+                    "description": "The Power Cost Equalization (PCE) program supports rural Alaskans who live in areas where energy costs are significantly higher than urban areas in meeting the cost of electricity. Eligibility is determined by the Regulatory Commission of Alaska under Alaska Statutes 42.45.100-170. This data has been visualized in a Geographic Information Systems (GIS) format and is provided as a service in the DCRA Information Portal by the Alaska Department of Commerce, Community, and Economic Development Division of Community and Regional Affairs (SOA DCCED DCRA), Research and Analysis section. SOA DCCED DCRA Research and Analysis is not the authoritative source for this data.\nAEDG includes PCE eligibility as an essential element of energy costs in Alaska.\n",
+                    "publicationYear": "2025",
+                    "path": "https://maps.commerce.alaska.gov/server/rest/services/Services/CDO_Utilities/MapServer/3",
+                    "sourceLicenses": [
+                        {
+                            "name": "public-domain",
+                            "title": "U.S. Public Domain",
+                            "path": "http://www.usa.gov/publicdomain/label/1.0/",
+                            "instruction": "Data and content created by government employees within the scope of their employment are not subject\nto domestic copyright protection under 17 U.S.C. \u00a7 105. Government works are by default in the U.S.\nPublic Domain. You cannot use government materials in a way that implies endorsement by a government agency, official, or employee. You also cannot use federal government trademarks or federal government agency logos without permission - https://resources.data.gov/open-licenses/.\n"
+                        }
+                    ]
+                }
+            ],
+            "licenses": [
+                {
+                    "name": "CC-SA-4.0",
+                    "title": "Creative Commons Attribution-ShareAlike 4.0 International",
+                    "path": "https://creativecommons.org/licenses/by-sa/4.0/",
+                    "instruction": "You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.\n",
+                    "attribution": "Alaska Center for Energy and Power, University of Alaska Fairbanks"
+                }
+            ],
+            "contributors": [
+                {
+                    "organization": "Alaska Center for Energy and Power (ACEP) at the University of Alaska Fairbanks (UAF)",
+                    "roles": [
+                        "DataCurator"
+                    ],
+                    "date": "2025-05-22",
+                    "object": "data via https://github.com/acep-aedg/aedg-etl-2024",
+                    "comment": "1. Identified data sources and integrated them into the data pipeline.\n2. Complied community names, locations, and FIPS identifiers for AEDG\n3. Used spatial joins to crosswalk AEDG communities with other organizations to create this dataset\n",
+                    "path": "https://www.uaf.edu/acep/"
+                },
+                {
+                    "organization": "Alaska Center for Energy and Power (ACEP) at the University of Alaska Fairbanks (UAF)",
+                    "roles": [
+                        "DataCurator"
+                    ],
+                    "date": "2025-05-22",
+                    "object": "metadata via https://github.com/acep-aedg/aedg-metadata",
+                    "comment": "Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.\n",
+                    "path": "https://www.uaf.edu/acep/"
+                }
+            ],
+            "type": "table",
+            "format": "CSV",
+            "encoding": "",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "fips_code",
+                        "long_name": "FIPS Code",
+                        "description": "5-digit Federal Information Processing Series (FIPS) code identifier for places and boroughs (counties), assigned and maintained by the Census Bureau",
+                        "type": "string",
+                        "nullable": false,
+                        "unit": null
+                    },
+                    {
+                        "name": "gnis_code",
+                        "long_name": "GNIS Code",
+                        "description": "The GNIS contains information about physical geographic features of many types in the United States, associated areas, and Antarctica, current and historical, but not including roads and highways or cultural features. The database holds the Federally recognized name of each feature and defines the feature location by state, county, USGS topographic map, and geographic coordinates.",
+                        "type": "integer",
+                        "nullable": true,
+                        "unit": null
+                    },
+                    {
+                        "name": "name",
+                        "long_name": "Community Name",
+                        "description": "Name of the community",
+                        "type": "string",
+                        "nullable": false,
+                        "unit": null
+                    },
+                    {
+                        "name": "regional_corporation",
+                        "long_name": "Alaska Native Regional Corporation",
+                        "description": "Alaska Native regional corporations were created by the Alaska Native Claims Settlement Act (ANCSA)",
+                        "type": "string",
+                        "nullable": true,
+                        "unit": null
+                    },
+                    {
+                        "name": "borough",
+                        "long_name": "Borough or Census Area Name",
+                        "description": "Boroughs are analagous to a county in other places. Census areas are statistical subdivisions of the ",
+                        "type": "string",
+                        "nullable": true,
+                        "unit": null
+                    },
+                    {
+                        "name": "grid",
+                        "long_name": "Grid Name",
+                        "description": "The unique grid name, which is based on the primary Alaskan community in the grid",
+                        "type": "string",
+                        "nullable": false,
+                        "unit": null
+                    },
+                    {
+                        "name": "reporting_entity",
+                        "long_name": "Reporting Entity",
+                        "description": "The name of the electric service area providing electricity to the community",
+                        "type": "string",
+                        "nullable": true,
+                        "unit": null
+                    },
+                    {
+                        "name": "puma",
+                        "long_name": "Public Use Microdata Area",
+                        "description": "Public Use Microdata Areas (PUMAs) are non-overlapping, statistical geographic areas that partition each state or equivalent entity into geographic areas containing no fewer than 100,000 people each.",
+                        "type": "string",
+                        "nullable": true,
+                        "unit": null
+                    },
+                    {
+                        "name": "economic_region",
+                        "long_name": "DCRA Economic Region",
+                        "description": "Alaska Division of Community and Regional Affairs (DCRA) economic regions were determined based on 2013 borough and census area geography by the Alaska Department of Labor & Workforce Development.",
+                        "type": "string",
+                        "nullable": true,
+                        "unit": null
+                    },
+                    {
+                        "name": "pce_eligible",
+                        "long_name": "PCE Eligibility",
+                        "description": "Answers the question: Is this community eligible for the Alaska Energy Authority's Power Cost Equalization program? (\"t\" for yes, and \"f\" for no) Eligibility is determined by the Regulatory Commission of Alaska under Alaska Statutes 42.45.100-170.",
+                        "type": "boolean",
+                        "nullable": true,
+                        "unit": null
+                    },
+                    {
+                        "name": "latitude",
+                        "long_name": "Latitude",
+                        "description": "Latitude",
+                        "type": "number",
+                        "nullable": true,
+                        "unit": "degrees N"
+                    },
+                    {
+                        "name": "longitude",
+                        "long_name": "Longitude",
+                        "description": "Longitude",
+                        "type": "number",
+                        "nullable": true,
+                        "unit": "degrees E"
+                    }
+                ],
+                "primaryKey": [
+                    "fips_code"
+                ]
+            },
+            "dialect": {
+                "delimiter": ",",
+                "decimalSeparator": "."
+            }
+        }
+    ],
+    "metaMetadata": {
+        "metadataVersion": "OEMetadata-2.0.4",
+        "metadataLicense": {
+            "name": "CC0-1.0",
+            "title": "Creative Commons Zero v1.0 Universal",
+            "path": "https://creativecommons.org/publicdomain/zero/1.0"
+        }
+    }
+}

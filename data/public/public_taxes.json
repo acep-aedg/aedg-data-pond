@@ -1,0 +1,220 @@
+{
+    "@context": "",
+    "name": "public_taxes",
+    "title": "Taxes for Communities and Boroughs",
+    "description": "Sales, property, and special tax revenue for communities and boroughs.\n",
+    "@id": "",
+    "resources": [
+        {
+            "@id": "",
+            "name": "public_taxes",
+            "topics": [
+                "Social"
+            ],
+            "title": "Taxes for Communities and Boroughs",
+            "path": "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/public/public_taxes.csv",
+            "description": "Sales, property, and special tax revenue for communities and boroughs, 2017-2024.\n",
+            "languages": [
+                "en-US"
+            ],
+            "keywords": [
+                "revenue",
+                "taxes",
+                "sales",
+                "property",
+                "economy"
+            ],
+            "publicationDate": "2025-05-22",
+            "context": {
+                "title": "Alaska Energy Data Gateway v3.0",
+                "homepage": "https://akenergygateway.alaska.edu/",
+                "publisher": "Alaska Center for Energy and Power (ACEP) at the University of Alaska Fairbanks (UAF)",
+                "fundingAgency": "State of Alaska"
+            },
+            "spatial": {
+                "extent": {
+                    "name": "Alaska",
+                    "boundingBox": [
+                        -187.55,
+                        51.21,
+                        -130.0,
+                        71.35
+                    ],
+                    "crs": "OGC:CRS84"
+                }
+            },
+            "temporal": {
+                "referenceDate": "2016",
+                "timeseries": [
+                    {
+                        "start": "2017",
+                        "end": "2024",
+                        "resolutionValue": "1",
+                        "resolutionUnit": "year",
+                        "alignment": "centre",
+                        "aggregationType": "sum"
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "title": "Alaska Communities",
+                    "authors": [
+                        "Alaska Division of Community and Regional Affairs (DCRA)"
+                    ],
+                    "description": "The Alaska Communities dataset is the reference list of place locations, represented as points, used by the Alaska Division of Community and Regional Affairs (DCRA). In includes community locations but for historical reasons, it is a mix of Communities, Places of Interest, Borough/Census Area as well as Alaska centroid. DCRA uses it to link communities to their internal key GUID used elsewhere in their systems.\nAEDG uses this list to define canonical community names since, as free text, these can vary in different contexts, and to establish locations to use in spatial joins and relations.\n",
+                    "publicationYear": "2023",
+                    "path": "https://maps.commerce.alaska.gov/server/rest/services/Community_Related/Community_Locations_and_Boundaries/MapServer/0",
+                    "sourceLicenses": []
+                },
+                {
+                    "title": "Places (Cities and CDPs) Shapefile",
+                    "authors": [
+                        "United States Census Bureau",
+                        "Alaska Department of Labor and Workforce Development (DOLWD)"
+                    ],
+                    "description": "This is an ESRI Shapefile for use in GIS software that contains place data from the 2020 US Census for Alaska. The definition of places includes all incorporated cities as well as Census Designated Places (CDPs). Each geographic unit is identified using Federal Information Processing Standards (FIPS) numbers. Coordinate System: North American Datum 1983 Alaska Albers. Source: 2020 US Census, PL94-171 Redistricting File; 2020 US Census Tiger Shapefiles. Documentation of field names: https://live.laborstats.alaska.gov/cen/maps/gis/Places2020.pdf. The Alaska Department of Labor and Workforce Development has had a cooperative agreement with the U.S. Census Bureau since 1981 to assist with geographic programs and help Alaskans find Census Bureau data.\nAEDG uses this list to define canonical community locations to use in spatial joins and relations, to associate places with FIPS codes, and to establish total community population.\n",
+                    "publicationYear": "2020",
+                    "path": "https://live.laborstats.alaska.gov/article/maps-gis-data",
+                    "sourceLicenses": []
+                },
+                {
+                    "title": "Taxes, All Locations",
+                    "authors": [
+                        "State of Alaska Department of Commerce Community and Economic Development, Office of the State Assessor",
+                        "Alaska Division of Community and Regional Affairs (DCRA)"
+                    ],
+                    "description": "This dataset is a summary of property and sales taxes assessed at both the community and borough levels from 2015 to present. Note from DCRA on use for analysis: This data set mixes scale. It includes rows for boroughs, which contain multiple census designated places (CDP's) and cities from this same data set in many cases. This data has been visualized in a Geographic Information Systems (GIS) format and is provided as a service in the DCRA Information Portal by the Alaska Department of Commerce, Community, and Economic Development Division of Community and Regional Affairs (SOA DCCED DCRA), Research and Analysis section. SOA DCCED DCRA Research and Analysis is not the authoritative source for this data.\nAEDG includes tax data as a measure of economic activity. From our analysis, this tax data for \"All Locations\" includes records/rows for both individual cities and boroughs. The tax revenue values for a city are not included in the borough the city is geographically part of. For example, in 2023 the city of Fairbanks reported $4,279,586.00 in bed tax revenue but the Fairbanks North Star borough only reported $2,933,702.00 in bed tax revenue. When providing tax data for a borough as a geographic whole using this dataset, both the borough and any individual city listed separate from the borough but within the physical bounds of the borough will need to be aggregated.\n",
+                    "publicationYear": "2025",
+                    "path": "https://maps.commerce.alaska.gov/server/rest/services/Economics_Related/Economics_Taxes/MapServer/0",
+                    "sourceLicenses": []
+                }
+            ],
+            "licenses": [
+                {
+                    "name": "CC-SA-4.0",
+                    "title": "Creative Commons Attribution-ShareAlike 4.0 International",
+                    "path": "https://creativecommons.org/licenses/by-sa/4.0/",
+                    "instruction": "You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.\n",
+                    "attribution": "Alaska Center for Energy and Power, University of Alaska Fairbanks"
+                }
+            ],
+            "contributors": [
+                {
+                    "organization": "Alaska Center for Energy and Power (ACEP) at the University of Alaska Fairbanks (UAF)",
+                    "roles": [
+                        "DataCurator"
+                    ],
+                    "date": "2025-05-22",
+                    "object": "data via https://github.com/acep-aedg/aedg-etl-2024",
+                    "comment": "1. Identified data source and integrated it into the data pipeline.\n2. Complied community names, locations, and FIPS identifiers for AEDG\n3. Joined tax data with AEDG communities to create this dataset\n",
+                    "path": "https://www.uaf.edu/acep/"
+                },
+                {
+                    "organization": "Alaska Center for Energy and Power (ACEP) at the University of Alaska Fairbanks (UAF)",
+                    "roles": [
+                        "DataCurator"
+                    ],
+                    "date": "2025-05-22",
+                    "object": "metadata via https://github.com/acep-aedg/aedg-metadata",
+                    "comment": "Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.\n",
+                    "path": "https://www.uaf.edu/acep/"
+                }
+            ],
+            "type": "table",
+            "format": "CSV",
+            "encoding": "",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "fips_code",
+                        "long_name": "FIPS Code",
+                        "description": "5-digit Federal Information Processing Series (FIPS) code identifier for places and boroughs (counties), assigned and maintained by the Census Bureau",
+                        "type": "string",
+                        "nullable": false,
+                        "unit": null
+                    },
+                    {
+                        "name": "name",
+                        "long_name": "Community Name",
+                        "description": "Name of the community",
+                        "type": "string",
+                        "nullable": false,
+                        "unit": null
+                    },
+                    {
+                        "name": "tax_year",
+                        "long_name": "Tax Year",
+                        "description": "Four digit tax year as Common Era (CE)",
+                        "type": "integer",
+                        "nullable": true,
+                        "unit": null
+                    },
+                    {
+                        "name": "total_tax_rev_usd",
+                        "long_name": "Total Tax Revenue",
+                        "description": "Total tax revenue in U.S. Dollars (USD) for either the community or the borough",
+                        "type": "integer",
+                        "nullable": true,
+                        "unit": "USD"
+                    },
+                    {
+                        "name": "total_sales_tax_rev_usd",
+                        "long_name": "Total Sales Tax Revenue",
+                        "description": "Total sales tax revenue in U.S. Dollars (USD) for either the community or the borough",
+                        "type": "integer",
+                        "nullable": true,
+                        "unit": "USD"
+                    },
+                    {
+                        "name": "property_tax_rev_usd",
+                        "long_name": "Property Tax Revenue",
+                        "description": "Propery tax revenue in U.S. Dollars (USD) for either the community or the borough",
+                        "type": "integer",
+                        "nullable": true,
+                        "unit": "USD"
+                    },
+                    {
+                        "name": "total_rev_for_special_taxes_usd",
+                        "long_name": "Total Special Tax Revenue",
+                        "description": "Total special tax revenue in U.S. Dollars (USD) for either the community or the borough",
+                        "type": "integer",
+                        "nullable": true,
+                        "unit": "USD"
+                    },
+                    {
+                        "name": "did_community_report",
+                        "long_name": "Community Report",
+                        "description": "Answers the question: Did the community report these taxes?  (\"t\" for yes, and \"f\" for no)",
+                        "type": "boolean",
+                        "nullable": true,
+                        "unit": "USD"
+                    },
+                    {
+                        "name": "is_most_recent",
+                        "long_name": "Most Recent Taxes",
+                        "description": "Answers the question: Are these the most recent values for these taxes?  (\"t\" for yes, and \"f\" for no)",
+                        "type": "boolean",
+                        "nullable": true,
+                        "unit": "USD"
+                    }
+                ],
+                "primaryKey": [
+                    "fips_code"
+                ]
+            },
+            "dialect": {
+                "delimiter": ",",
+                "decimalSeparator": "."
+            }
+        }
+    ],
+    "metaMetadata": {
+        "metadataVersion": "OEMetadata-2.0.4",
+        "metadataLicense": {
+            "name": "CC0-1.0",
+            "title": "Creative Commons Zero v1.0 Universal",
+            "path": "https://creativecommons.org/publicdomain/zero/1.0"
+        }
+    }
+}
