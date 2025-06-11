@@ -20,7 +20,7 @@ for file in *.csv
    do 
       metadata="${file/.csv/.json}"
       echo "Pulling $metadata"
-      wget ${repo_root}/${subdir}/$metadata
+      wget -O $metadata ${repo_root}/${subdir}/$metadata
 done
 
 cd ../..
