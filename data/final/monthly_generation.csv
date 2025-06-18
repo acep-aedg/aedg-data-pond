@@ -2158,123 +2158,99 @@ grid_id,net_generation_mwh,fuel_type_code,fuel_type_name,year,month
 213,43.0,DFO,Distillate Fuel Oil,2021,11
 213,38.1,DFO,Distillate Fuel Oil,2021,12
 215,258639.0,NG,Natural Gas,2021,1
+215,72164.5,CL,Coal,2021,1
 215,57551.3,WAT,Water at Hydroelectric Turbine,2021,1
-215,33572.0,SUB,Subbituminous Coal,2021,1
 215,32761.0,WO,Waste Oil,2021,1
-215,28096.1,LIG,Lignite Coal,2021,1
-215,10496.3,WC,Waste Coal,2021,1
 215,8840.3,WND,Wind,2021,1
 215,5045.9,DFO,Distillate Fuel Oil,2021,1
 215,3560.7,LFG,Landfill Gas,2021,1
 215,-256.0,MWH,Electricity used for Energy Storage,2021,1
 215,244931.4,NG,Natural Gas,2021,2
+215,57294.6,CL,Coal,2021,2
 215,47886.9,WAT,Water at Hydroelectric Turbine,2021,2
 215,32984.0,WO,Waste Oil,2021,2
-215,28240.0,SUB,Subbituminous Coal,2021,2
-215,21795.4,LIG,Lignite Coal,2021,2
 215,8004.8,DFO,Distillate Fuel Oil,2021,2
-215,7259.2,WC,Waste Coal,2021,2
 215,6729.7,WND,Wind,2021,2
 215,3467.1,LFG,Landfill Gas,2021,2
 215,-219.0,MWH,Electricity used for Energy Storage,2021,2
 215,249286.7,NG,Natural Gas,2021,3
+215,66938.6,CL,Coal,2021,3
 215,45926.0,WAT,Water at Hydroelectric Turbine,2021,3
 215,34953.9,WO,Waste Oil,2021,3
-215,34086.0,SUB,Subbituminous Coal,2021,3
-215,26073.1,LIG,Lignite Coal,2021,3
 215,8712.3,DFO,Distillate Fuel Oil,2021,3
 215,8386.9,WND,Wind,2021,3
-215,6779.6,WC,Waste Coal,2021,3
 215,3374.8,LFG,Landfill Gas,2021,3
 215,-233.0,MWH,Electricity used for Energy Storage,2021,3
 215,233823.2,NG,Natural Gas,2021,4
 215,40510.2,WAT,Water at Hydroelectric Turbine,2021,4
+215,39540.8,CL,Coal,2021,4
 215,33111.0,WO,Waste Oil,2021,4
-215,27566.0,SUB,Subbituminous Coal,2021,4
 215,9172.4,DFO,Distillate Fuel Oil,2021,4
-215,9100.7,LIG,Lignite Coal,2021,4
 215,6660.8,WND,Wind,2021,4
-215,2874.0,WC,Waste Coal,2021,4
 215,2676.1,LFG,Landfill Gas,2021,4
 215,-286.0,MWH,Electricity used for Energy Storage,2021,4
 215,224255.3,NG,Natural Gas,2021,5
+215,67625.1,CL,Coal,2021,5
 215,50188.1,WAT,Water at Hydroelectric Turbine,2021,5
-215,30131.1,LIG,Lignite Coal,2021,5
-215,28822.2,SUB,Subbituminous Coal,2021,5
 215,16518.9,WO,Waste Oil,2021,5
-215,8671.7,WC,Waste Coal,2021,5
 215,7867.3,WND,Wind,2021,5
 215,4043.2,DFO,Distillate Fuel Oil,2021,5
 215,2943.0,LFG,Landfill Gas,2021,5
 215,-291.0,MWH,Electricity used for Energy Storage,2021,5
 215,224318.2,NG,Natural Gas,2021,6
+215,68548.7,CL,Coal,2021,6
 215,54037.3,WAT,Water at Hydroelectric Turbine,2021,6
-215,31531.0,SUB,Subbituminous Coal,2021,6
-215,25908.1,LIG,Lignite Coal,2021,6
 215,25497.4,WO,Waste Oil,2021,6
-215,11109.6,WC,Waste Coal,2021,6
 215,8129.1,WND,Wind,2021,6
 215,3061.2,DFO,Distillate Fuel Oil,2021,6
 215,2775.0,LFG,Landfill Gas,2021,6
 215,-382.0,MWH,Electricity used for Energy Storage,2021,6
 215,254861.6,NG,Natural Gas,2021,7
+215,75716.5,CL,Coal,2021,7
 215,48113.5,WAT,Water at Hydroelectric Turbine,2021,7
-215,33452.0,SUB,Subbituminous Coal,2021,7
-215,30883.0,LIG,Lignite Coal,2021,7
 215,22495.1,WO,Waste Oil,2021,7
-215,11381.4,WC,Waste Coal,2021,7
 215,9575.8,WND,Wind,2021,7
 215,3767.2,DFO,Distillate Fuel Oil,2021,7
 215,2860.0,LFG,Landfill Gas,2021,7
 215,-303.0,MWH,Electricity used for Energy Storage,2021,7
 215,271518.5,NG,Natural Gas,2021,8
+215,56973.9,CL,Coal,2021,8
 215,45399.3,WAT,Water at Hydroelectric Turbine,2021,8
 215,30759.6,WO,Waste Oil,2021,8
-215,30444.0,SUB,Subbituminous Coal,2021,8
-215,17515.1,LIG,Lignite Coal,2021,8
 215,9701.9,WND,Wind,2021,8
 215,9057.2,DFO,Distillate Fuel Oil,2021,8
-215,9014.8,WC,Waste Coal,2021,8
 215,2904.0,LFG,Landfill Gas,2021,8
 215,-306.0,MWH,Electricity used for Energy Storage,2021,8
 215,214136.4,NG,Natural Gas,2021,9
+215,47628.7,CL,Coal,2021,9
 215,37237.5,WAT,Water at Hydroelectric Turbine,2021,9
 215,35725.0,WO,Waste Oil,2021,9
-215,32461.2,SUB,Subbituminous Coal,2021,9
 215,19477.6,DFO,Distillate Fuel Oil,2021,9
 215,9940.6,WND,Wind,2021,9
-215,9856.5,LIG,Lignite Coal,2021,9
-215,5311.0,WC,Waste Coal,2021,9
 215,2702.0,LFG,Landfill Gas,2021,9
 215,-416.0,MWH,Electricity used for Energy Storage,2021,9
 215,248521.1,NG,Natural Gas,2021,10
+215,46507.9,CL,Coal,2021,10
 215,39175.0,WO,Waste Oil,2021,10
 215,38211.8,WAT,Water at Hydroelectric Turbine,2021,10
-215,36919.0,SUB,Subbituminous Coal,2021,10
 215,16193.3,DFO,Distillate Fuel Oil,2021,10
 215,10040.2,WND,Wind,2021,10
-215,5966.1,LIG,Lignite Coal,2021,10
 215,3905.0,LFG,Landfill Gas,2021,10
-215,3622.8,WC,Waste Coal,2021,10
 215,-418.0,MWH,Electricity used for Energy Storage,2021,10
 215,274821.5,NG,Natural Gas,2021,11
+215,76878.1,CL,Coal,2021,11
 215,44785.0,WAT,Water at Hydroelectric Turbine,2021,11
-215,37839.0,SUB,Subbituminous Coal,2021,11
 215,33964.3,WO,Waste Oil,2021,11
-215,30705.9,LIG,Lignite Coal,2021,11
 215,8907.3,DFO,Distillate Fuel Oil,2021,11
-215,8333.2,WC,Waste Coal,2021,11
 215,5705.0,WND,Wind,2021,11
 215,3801.0,LFG,Landfill Gas,2021,11
 215,-186.0,MWH,Electricity used for Energy Storage,2021,11
 215,284968.2,NG,Natural Gas,2021,12
+215,77077.2,CL,Coal,2021,12
 215,57546.2,WAT,Water at Hydroelectric Turbine,2021,12
-215,37620.9,LIG,Lignite Coal,2021,12
 215,37587.0,WO,Waste Oil,2021,12
-215,31520.3,SUB,Subbituminous Coal,2021,12
 215,11025.8,DFO,Distillate Fuel Oil,2021,12
 215,10483.3,WND,Wind,2021,12
-215,7936.0,WC,Waste Coal,2021,12
 215,3102.2,LFG,Landfill Gas,2021,12
 215,671.9,JF,Jet Fuel,2021,12
 215,-137.0,MWH,Electricity used for Energy Storage,2021,12

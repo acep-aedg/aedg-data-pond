@@ -1,4 +1,5 @@
 grid_id,capacity_mw,fuel_type_code,fuel_type_name,year
+215,194.8,CL,Coal,2021
 225,3.3,DFO,Distillate Fuel Oil,2021
 224,0.3,DFO,Distillate Fuel Oil,2021
 223,37.2,DFO,Distillate Fuel Oil,2021
@@ -157,7 +158,6 @@ grid_id,capacity_mw,fuel_type_code,fuel_type_name,year
 2,1.5,DFO,Distillate Fuel Oil,2021
 1,0.3,DFO,Distillate Fuel Oil,2021
 215,11.5,LFG,Landfill Gas,2021
-215,90.0,LIG,Lignite Coal,2021
 225,1.0,MWH,Electricity used for Energy Storage,2021
 223,5.0,MWH,Electricity used for Energy Storage,2021
 215,89.5,MWH,Electricity used for Energy Storage,2021
@@ -175,7 +175,6 @@ grid_id,capacity_mw,fuel_type_code,fuel_type_name,year
 221,20.3,NG,Natural Gas,2021
 215,1403.7,NG,Natural Gas,2021
 163,2.2,NG,Natural Gas,2021
-215,104.8,SUB,Subbituminous Coal,2021
 215,1.9,SUN,Solar,2021
 149,0.2,SUN,Solar,2021
 141,0.0,SUN,Solar,2021
