@@ -1,0 +1,134 @@
+{
+    "@context": "",
+    "name": "lookup_primemover_2023-11-08",
+    "title": "Lookup Table of Prime Movers",
+    "description": "A lookup table of translations of prime mover codes to labels.\n",
+    "@id": "",
+    "resources": [
+        {
+            "@id": "",
+            "name": "lookup_primemover_2023-11-08",
+            "topics": [
+                "Electricity"
+            ],
+            "title": "Lookup Table of Prime Movers",
+            "path": "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/raw/dowl/lookup_primemover_2023-11-08.csv",
+            "description": "This lookup table provides descriptive labels for the two letter prime mover codes that are reported to the Energy Information Agency (EIA). A prime mover converts energy from fuel into mechanical energy to drive an electric generator. For instance 'PV' is 'Photovoltaic'.\n",
+            "languages": [
+                "en-US"
+            ],
+            "keywords": [
+                "lookup",
+                "definition",
+                "code",
+                "prime mover",
+                "electrical generation"
+            ],
+            "publicationDate": "2025-06-27",
+            "context": {
+                "title": "Alaska Energy Data Gateway v3.0",
+                "homepage": "https://akenergygateway.alaska.edu/",
+                "publisher": "Alaska Center for Energy and Power (ACEP) at the University of Alaska Fairbanks (UAF)",
+                "fundingAgency": "State of Alaska"
+            },
+            "sources": [
+                {
+                    "title": "Energy Sources",
+                    "authors": [
+                        "U.S. Energy Information Administration (EIA)"
+                    ],
+                    "description": "Form EIA 860 sometimes represents a generator\u2019s prime mover by using the abbreviations as they are listed in the Prime Movers table on on page 9 of Appendix C, which describes the data collection methods.\n",
+                    "path": "https://www.eia.gov/electricity/monthly/pdf/AppendixC.pdf",
+                    "sourceLicenses": [
+                        {
+                            "name": "public-domain",
+                            "title": "U.S. Public Domain",
+                            "path": "http://www.usa.gov/publicdomain/label/1.0/",
+                            "instruction": "Data and content created by government employees within the scope of their employment are not subject\nto domestic copyright protection under 17 U.S.C. \u00a7 105. Government works are by default in the U.S.\nPublic Domain. You cannot use government materials in a way that implies endorsement by a government agency, official, or employee. You also cannot use federal government trademarks or federal government agency logos without permission - https://resources.data.gov/open-licenses/.\n"
+                        }
+                    ]
+                }
+            ],
+            "licenses": [
+                {
+                    "name": "CC-BY-4.0",
+                    "title": "Creative Commons Attribution 4.0 International",
+                    "path": "https://creativecommons.org/licenses/by/4.0/",
+                    "instruction": "You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.\n",
+                    "attribution": "Alaska Center for Energy and Power, University of Alaska Fairbanks"
+                }
+            ],
+            "contributors": [
+                {
+                    "title": "Neil McMahon",
+                    "organization": "DOWL Engineering",
+                    "roles": [
+                        "DataCollector"
+                    ],
+                    "date": "2023-11-08",
+                    "object": "Alaska Energy Statistics Tables",
+                    "comment": "First pulled data from the original sources, and compiled, corrected, harmonized, transformed it into Excel Workbooks as annual datasets 2011-2021. This process required a collection of lookup tables for elements such as power plants, power plant operators, sales reporting entities, and grids. These lookup tables were updated in the spring of 2025.\n",
+                    "path": "https://www.dowl.com/"
+                },
+                {
+                    "organization": "Alaska Center for Energy and Power (ACEP) at the University of Alaska Fairbanks (UAF)",
+                    "roles": [
+                        "DataCurator"
+                    ],
+                    "date": "2025-06-27",
+                    "object": null,
+                    "comment": "1. Contracted Neil McMahon to produce the 2011-2021 Workbooks, and then posted them in GitHub for distribution.\n2. Contracted Neil McMahon in the spring of 2025 to update the lookup tables so that future production of the Alaska Energy Statistics Tables could be performed internally at ACEP. EIA codes did not change.\n3. Translated `LOOKUP Code tables` tab in the Excel workbook `Energy_Stats_Generation_Tables.xlsx` into CSV files split between fuel codes and prime movers.\n",
+                    "path": "https://www.uaf.edu/acep/"
+                },
+                {
+                    "organization": "Alaska Center for Energy and Power (ACEP) at the University of Alaska Fairbanks (UAF)",
+                    "roles": [
+                        "DataCurator"
+                    ],
+                    "date": "2025-06-27",
+                    "object": "metadata via https://github.com/acep-aedg/aedg-metadata",
+                    "comment": "Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.\n",
+                    "path": "https://www.uaf.edu/acep/"
+                }
+            ],
+            "type": "table",
+            "format": "csv",
+            "encoding": "",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "prime_mover_code",
+                        "long_name": "Prime Mover Code",
+                        "description": "2  letter alphanumeric code used by the Energy Information Administration to identify the prime mover of electricity generation",
+                        "type": "string",
+                        "nullable": false,
+                        "unit": null
+                    },
+                    {
+                        "name": "prime_mover_definition",
+                        "long_name": "Prime Mover Definition",
+                        "description": "Label for the 2 letter alphanumeric code used by the Energy Information Administration to identify prime movers of electricity generation",
+                        "type": "string",
+                        "nullable": true,
+                        "unit": null
+                    }
+                ],
+                "primaryKey": [
+                    "prime_mover_code"
+                ]
+            },
+            "dialect": {
+                "delimiter": ",",
+                "decimalSeparator": "."
+            }
+        }
+    ],
+    "metaMetadata": {
+        "metadataVersion": "OEMetadata-2.0.4",
+        "metadataLicense": {
+            "name": "CC0-1.0",
+            "title": "Creative Commons Zero v1.0 Universal",
+            "path": "https://creativecommons.org/publicdomain/zero/1.0"
+        }
+    }
+}
