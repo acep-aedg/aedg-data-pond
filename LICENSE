@@ -2,7 +2,7 @@ Copyright (c) 2024 Alaska Center for Energy and Power
 
 ------
 
-Posted code licensed under MIT License
+Posted code in the directory `./src/` is licensed under MIT License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -24,7 +24,7 @@ SOFTWARE.
 
 ------
 
-Posted data licensed under CC-BY-4.0
+Posted data  in the directory `./data/` is licensed under CC-BY-4.0
 The following is a human-readable summary of (and not a substitute for)
 the [full legal text of the CC-BY-4.0 license](https://creativecommons.org/licenses/by/4.0/legalcode).
 Text from https://creativecommons.org/licenses/by/4.0/.
