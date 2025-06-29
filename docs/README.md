@@ -2,7 +2,7 @@
 
 ## Additional Resources
 
-The Alaska Energy Data Gateway (AEDG) team has written several Google Docs to support development of our system. Access to these documents is restricted to team members, though the hope is to make them public-facing copies eventually.
+The Alaska Energy Data Gateway (AEDG) team has written several Google Docs to support development of the system. Access to these documents is restricted to team members, though the hope is to make them public-facing eventually.
 
 The following links are to requirements documentation created during the development of AEDG:
 

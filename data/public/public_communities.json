@@ -20,13 +20,13 @@
             ],
             "keywords": [
                 "community",
-                "native corporation",
+                "Alaska Native corporation",
                 "borough",
                 "census area",
                 "grid",
-                "puma"
+                "Public Use Microdata Areas (PUMAs)"
             ],
-            "publicationDate": "2025-06-11",
+            "publicationDate": "2025-06-28",
             "context": {
                 "title": "Alaska Energy Data Gateway v3.0",
                 "homepage": "https://akenergygateway.alaska.edu/",
@@ -223,7 +223,7 @@
                     "roles": [
                         "DataCurator"
                     ],
-                    "date": "2025-06-11",
+                    "date": "2025-06-28",
                     "object": "data via https://github.com/acep-aedg/aedg-etl-2024",
                     "comment": "1. Identified data sources and integrated them into the data pipeline.\n2. Complied community names, locations, and FIPS identifiers for AEDG\n3. Used spatial joins to crosswalk AEDG communities with other organizations to create this dataset\n",
                     "path": "https://www.uaf.edu/acep/"
@@ -233,7 +233,7 @@
                     "roles": [
                         "DataCurator"
                     ],
-                    "date": "2025-06-11",
+                    "date": "2025-06-28",
                     "object": "metadata via https://github.com/acep-aedg/aedg-metadata",
                     "comment": "Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.\n",
                     "path": "https://www.uaf.edu/acep/"
@@ -279,7 +279,7 @@
                     {
                         "name": "borough",
                         "long_name": "Borough or Census Area Name",
-                        "description": "Boroughs are analagous to a county in other places. Census areas are statistical subdivisions of the ",
+                        "description": "Boroughs are analagous to a county in other places. Census areas are statistical subdivisions of the  the Unorganized Borough, which does not have a government.",
                         "type": "string",
                         "nullable": true,
                         "unit": null
