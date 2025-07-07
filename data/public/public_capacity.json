@@ -1,7 +1,7 @@
 {
     "@context": "",
     "name": "public_capacity",
-    "title": "Yearly electrical generation capacity by community",
+    "title": "Yearly Electrical Generation Capacity by Community",
     "description": "This dataset is the electrical generation capacity, or nameplate capacity, of power plants summed over the grid  and associated with every community connected to the grid. It summarizes the maximum amount of electrical power that could be generated for the most recent year available, classified by fuels that would be used to generate it.\n",
     "@id": "",
     "resources": [
@@ -11,7 +11,7 @@
             "topics": [
                 "Electricity"
             ],
-            "title": "Yearly electrical generation capacity by community",
+            "title": "Yearly Electrical Generation Capacity by Community",
             "path": "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/public/public_capacity.csv",
             "description": "This dataset is the electrical generation capacity, or nameplate capacity, of power plants summed over the grid for the most recent year available. It summarizes the maximum amount of electrical power that could be generated at any given time classified by fuels that would be used to generate it. Two factors complicate this dataset. First, there is no single state or federal agency that collects data on all the generation sources in Alaska. Second, some communities have isolated microgrids where generation sources are easy to identify, but other communities are interconnected with interties into grids where generation sources are shared. In those cases, it is therefore impossible to pair a community with individual power stations (called plants) or the operators/utilities for which generation is recorded even if the plant is physically located within a community.\nTo address the first issue, this dataset derives from the Alaska Energy Statistics workbooks, which in turn compiles data from multiple sources including community Power Cost Equalization reports collated by the Alaska Energy Authority and reporting to the U.S. Energy Information Administration (EIA). Source data was harmonized to account for differences in reporting through a combination of subject matter expertise and transformations.\nTo address the second issue, capacity is summed over all the generators with different fuels - diesel and natural gas boilers, solar installations, wind turbines - that are connected to a grid. Grids were defined as an element of the Alaska Energy Statistics workbooks and implemented with a lookup table that joins them to individual plants. The same values for generation capacity are reported for all the communities on a grid, which creates multiple duplicate values in this dataset.\n",
             "languages": [
@@ -28,7 +28,7 @@
                 "EIA Form 923",
                 "community"
             ],
-            "publicationDate": "2025-05-22",
+            "publicationDate": "2025-06-28",
             "context": {
                 "title": "Alaska Energy Data Gateway v3.0",
                 "homepage": "https://akenergygateway.alaska.edu/",
@@ -97,10 +97,10 @@
             ],
             "licenses": [
                 {
-                    "name": "CC-SA-4.0",
-                    "title": "Creative Commons Attribution-ShareAlike 4.0 International",
-                    "path": "https://creativecommons.org/licenses/by-sa/4.0/",
-                    "instruction": "You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.\n",
+                    "name": "CC-BY-4.0",
+                    "title": "Creative Commons Attribution 4.0 International",
+                    "path": "https://creativecommons.org/licenses/by/4.0/",
+                    "instruction": "You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.\n",
                     "attribution": "Alaska Center for Energy and Power, University of Alaska Fairbanks"
                 }
             ],
@@ -121,7 +121,7 @@
                     "roles": [
                         "DataCurator"
                     ],
-                    "date": "2025-05-22",
+                    "date": "2025-06-28",
                     "object": "data via https://github.com/acep-aedg/aedg-etl-2024",
                     "comment": "1. Contracted Neil McMahon to produce the Workbooks, and then posted them in GitHub for distribution.\n2. Extracted a the most recent capacity figures for each unique grid.\n",
                     "path": "https://www.uaf.edu/acep/"
@@ -131,14 +131,14 @@
                     "roles": [
                         "DataCurator"
                     ],
-                    "date": "2025-05-22",
+                    "date": "2025-06-28",
                     "object": "metadata via https://github.com/acep-aedg/aedg-metadata",
                     "comment": "Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.\n",
                     "path": "https://www.uaf.edu/acep/"
                 }
             ],
             "type": "table",
-            "format": "CSV",
+            "format": "csv",
             "encoding": "",
             "schema": {
                 "fields": [
@@ -177,7 +177,7 @@
                     {
                         "name": "fuel_type",
                         "long_name": "Fuel Type",
-                        "description": "Generation fuel as defined by the EIA",
+                        "description": "Generation fuel as defined by the U.S. Energy Information Administration (EIA)",
                         "type": "string",
                         "nullable": true,
                         "unit": null
