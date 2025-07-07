@@ -15,7 +15,7 @@ repo_root="https://raw.githubusercontent.com/acep-aedg/aedg-metadata/refs/heads/
 # Pull metadata for data explorer files in `public`
 # URLS like https://raw.githubusercontent.com/acep-aedg/aedg-metadata/refs/heads/main/metadata/public/public_capacity.json
 subdir=public
-cd ../data/$subdir
+cd data/$subdir
 for file in *.csv
    do 
       metadata="${file/.csv/.json}"
@@ -23,4 +23,4 @@ for file in *.csv
       wget ${repo_root}/${subdir}/$metadata
 done
 
-cd ../..
+
