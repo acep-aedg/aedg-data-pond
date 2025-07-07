@@ -17,12 +17,23 @@ if [ ! -f "$HOME/.pgpass" ]; then
 fi
 
 
+# Define an array of directories and file types to remove
+declare -a dirs=("intermediate" "final" "public")
+declare -a types=("csv" "geojson" "json")
+
+# Remove files
+for dir in "${dirs[@]}"; do
+  for type in "${types[@]}"; do
+    rm ./data/$dir/*.$type
+  done
+done
 
 
 # # run data dump script
 source ./src/file_dump.sh
  
-
+# run metadata pull script
+source ./src/pull_metadata.sh
 
 
 
