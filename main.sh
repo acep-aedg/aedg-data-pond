@@ -8,7 +8,7 @@ start_time=$(date +%s.%N)
 export PG_HOST="localhost"      
 export PG_PORT="5432"           
 export PG_USER="aedg"     
-export PG_DB="aedg_db"    # Database name to delete tables from
+export PG_DB="aedg_etl_dev"    # Database name to delete tables from
 
 # Ensure the .pgpass file exists and has correct permissions
 if [ ! -f "$HOME/.pgpass" ]; then
