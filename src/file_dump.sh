@@ -1,15 +1,5 @@
 #!/bin/bash
 
-# Define an array of directories and file types to remove
-declare -a dirs=("intermediate" "final" "public")
-declare -a types=("csv" "geojson")
-
-# Remove files
-for dir in "${dirs[@]}"; do
-  for type in "${types[@]}"; do
-    rm ./data/$dir/*.$type
-  done
-done
 
 # Function to convert Postgres table to GeoJSON
 export_to_geojson() {

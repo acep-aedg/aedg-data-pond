@@ -15,7 +15,7 @@ repo_root="https://raw.githubusercontent.com/acep-aedg/aedg-metadata/refs/heads/
 # Pull metadata for data explorer files in `public`
 # URLS like https://raw.githubusercontent.com/acep-aedg/aedg-metadata/refs/heads/main/metadata/public/public_capacity.json
 subdir=public
-cd ../data/$subdir
+cd data/$subdir
 for file in *.csv
    do 
       metadata="${file/.csv/.json}"
@@ -23,7 +23,6 @@ for file in *.csv
       wget -O $metadata ${repo_root}/metadata/${subdir}/$metadata
 done
 
-cd ../../src
 
 # Pull metadata to document files in `raw/dowl` (not necessarily for the Data Explorer) - only did this once.
 # URLS like https://raw.githubusercontent.com/acep-aedg/aedg-metadata/refs/heads/main/metadata/raw/dowl/lookup_communities_2024-02-23.json
