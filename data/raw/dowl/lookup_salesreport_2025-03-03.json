@@ -1,0 +1,241 @@
+{
+    "@context": "",
+    "name": "lookup_salesreport_2025-03-03",
+    "title": "Lookup Table of Sales Reporting Entities",
+    "description": "A lookup table to cross reference reporters of electricity sales for EIA and PCE data sources.\n",
+    "@id": "",
+    "resources": [
+        {
+            "@id": "",
+            "name": "lookup_salesreport_2025-03-03",
+            "topics": [
+                "Electricity"
+            ],
+            "title": "Lookup Table of Sales Reporting Entities",
+            "path": "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/raw/dowl/lookup_salesreport_2025-03-03.csv",
+            "description": "This lookup table cross references entities that report electricity sales to sources of electricity generation data: the U.S. Energy Information Administration (EIA) and the State of Alaska's Power Cost Equalization (PCE) program. Sales information from PCE is generally community based; this is different from sales information from EIA, which is utility based. This is further complicated by the fact that several utilities (AVEC, AP&T, IPEC, and MKEC) own operations in multiple communities. A sales reporter unique identifier was created to combine data from these two sources and associate it with electrical grids. This table was manually created and extended with publicly available information.\n",
+            "languages": [
+                "en-US"
+            ],
+            "keywords": [
+                "lookup",
+                "PCE",
+                "EIA",
+                "sales reporting",
+                "operators",
+                "electrical generation"
+            ],
+            "publicationDate": "2025-06-27",
+            "context": {
+                "title": "Alaska Energy Data Gateway v3.0",
+                "homepage": "https://akenergygateway.alaska.edu/",
+                "publisher": "Alaska Center for Energy and Power (ACEP) at the University of Alaska Fairbanks (UAF)",
+                "fundingAgency": "State of Alaska"
+            },
+            "spatial": {
+                "extent": {
+                    "name": "Alaska",
+                    "boundingBox": [
+                        -187.55,
+                        51.21,
+                        -130.0,
+                        71.35
+                    ],
+                    "crs": "OGC:CRS84"
+                }
+            },
+            "licenses": [
+                {
+                    "name": "CC-BY-4.0",
+                    "title": "Creative Commons Attribution 4.0 International",
+                    "path": "https://creativecommons.org/licenses/by/4.0/",
+                    "instruction": "You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.\n",
+                    "attribution": "Alaska Center for Energy and Power, University of Alaska Fairbanks"
+                }
+            ],
+            "contributors": [
+                {
+                    "title": "Neil McMahon",
+                    "organization": "DOWL Engineering",
+                    "roles": [
+                        "DataCollector"
+                    ],
+                    "date": "2025-03-03",
+                    "object": "Alaska Energy Statistics Tables",
+                    "comment": "First pulled data from the original sources, and compiled, corrected, harmonized, transformed it into Excel Workbooks as annual datasets 2011-2021. This process required a collection of lookup tables for elements such as power plants, power plant operators, sales reporting entities, and grids. These lookup tables were updated in the spring of 2025.\n",
+                    "path": "https://www.dowl.com/"
+                },
+                {
+                    "organization": "Alaska Center for Energy and Power (ACEP) at the University of Alaska Fairbanks (UAF)",
+                    "roles": [
+                        "DataCurator"
+                    ],
+                    "date": "2025-06-27",
+                    "object": null,
+                    "comment": "1. Contracted Neil McMahon to produce the 2011-2021 Workbooks, and then posted them in GitHub for distribution.\n2. Contracted Neil McMahon in the spring of 2025 to update the lookup tables so that future production of the Alaska Energy Statistics Tables could be performed internally at ACEP.\n3. Translated tabs in the Excel workbook of lookup tables into CSV files. There are some problems with the variable types of codes because of the treatment of missing values by the Python script that did the extraction.\n",
+                    "path": "https://www.uaf.edu/acep/"
+                },
+                {
+                    "organization": "Alaska Center for Energy and Power (ACEP) at the University of Alaska Fairbanks (UAF)",
+                    "roles": [
+                        "DataCurator"
+                    ],
+                    "date": "2025-06-27",
+                    "object": "metadata via https://github.com/acep-aedg/aedg-metadata",
+                    "comment": "Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.\n",
+                    "path": "https://www.uaf.edu/acep/"
+                }
+            ],
+            "type": "table",
+            "format": "csv",
+            "encoding": "",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "sales_reporting_id",
+                        "long_name": "Reporting ID",
+                        "description": "Unique identifier generated for this table to represent the entity reporting the sales",
+                        "type": "string",
+                        "nullable": false,
+                        "unit": null
+                    },
+                    {
+                        "name": "reporting_name",
+                        "long_name": "Reporting Name",
+                        "description": "Name of the entity reporting the sales",
+                        "type": "string",
+                        "nullable": null,
+                        "unit": null
+                    },
+                    {
+                        "name": "operator_ak_operator_id",
+                        "long_name": "Operator ID",
+                        "description": "A unique identifier developed to allow for for the combination of PCE, EIA, and other data sources as defined in the operator table.",
+                        "type": "string",
+                        "nullable": null,
+                        "unit": null
+                    },
+                    {
+                        "name": "eia_operator_id",
+                        "long_name": "EIA operator ID",
+                        "description": "Operator identification number assigned by the Energy Information Administration as a five digit string of numbers, padded with leading zeros shared with the operator table",
+                        "type": "string",
+                        "nullable": null,
+                        "unit": null
+                    },
+                    {
+                        "name": "pce_reporting_id",
+                        "long_name": "PCE Accounting Code",
+                        "description": "Six Digit Accounting code used by AEA for PCE reporters",
+                        "type": "integer",
+                        "nullable": null,
+                        "unit": null
+                    },
+                    {
+                        "name": "rca_cpcn",
+                        "long_name": "Certificate of Public Convenience and Necessity",
+                        "description": "The number assigned by the Regulatory Commission of Alaska (RCA) for the Certificate of Public Convenience and Necessity (CPCN) shared with the operator table",
+                        "type": "integer",
+                        "nullable": null,
+                        "unit": null
+                    },
+                    {
+                        "name": "operator_operator_name",
+                        "long_name": "Operator Name",
+                        "description": "Name of the certified utility or independent power producer generating electricity and/or servicing a particular community or communities as defined in the operator table.",
+                        "type": "string",
+                        "nullable": null,
+                        "unit": null
+                    },
+                    {
+                        "name": "intertie_current_intertie_id",
+                        "long_name": "Intertie ID",
+                        "description": "The Intertie id consists of a three digit intertie number followed by the four digit year when the intertie was expanded as defined in the intertie table. If the last four digits are 0000, then the intertie has not been expanded.",
+                        "type": "string",
+                        "nullable": null,
+                        "unit": null
+                    },
+                    {
+                        "name": "intertie_current_intertie_name",
+                        "long_name": "Intertie Name",
+                        "description": "Name of the intertie derived from a the first community (i.e. the index community) or the name of the geographic area as defined in the intertie table.",
+                        "type": "string",
+                        "nullable": null,
+                        "unit": null
+                    },
+                    {
+                        "name": "index_community",
+                        "long_name": "Index Community Name",
+                        "description": "Name of the main (index) community of the reporting community or group of communities",
+                        "type": "string",
+                        "nullable": null,
+                        "unit": null
+                    },
+                    {
+                        "name": "gnis_feature_id",
+                        "long_name": "Index Community GNIS Code",
+                        "description": "Numeric identifier for the main (index) community of the reporting community or group of communities determined by Geographic Names Information System (GNIS) code maintained by the USGS",
+                        "type": "integer",
+                        "nullable": null,
+                        "unit": null
+                    },
+                    {
+                        "name": "latitude",
+                        "long_name": "Community Latitude",
+                        "description": "Latitude of the main (index) community of the reporting community or group of communities",
+                        "type": "number",
+                        "nullable": null,
+                        "unit": "degrees N"
+                    },
+                    {
+                        "name": "longitude",
+                        "long_name": "Community Longitude",
+                        "description": "Longitude of the main (index) community of the reporting community or group of communities",
+                        "type": "number",
+                        "nullable": null,
+                        "unit": "degrees E"
+                    },
+                    {
+                        "name": "aea_energy_region",
+                        "long_name": "AEA Energy Region",
+                        "description": "One of 11 regions defined by the Alaska Energy Authority for statistical and analysis purposes",
+                        "type": "string",
+                        "nullable": null,
+                        "unit": null
+                    },
+                    {
+                        "name": "communities_reported",
+                        "long_name": "Communities Reporting Together",
+                        "description": "A note describing the communities or region that report together",
+                        "type": "string",
+                        "nullable": null,
+                        "unit": null
+                    },
+                    {
+                        "name": "notes",
+                        "long_name": "Notes on Sales Reporting",
+                        "description": "Details regarding the reporting entity",
+                        "type": "string",
+                        "nullable": null,
+                        "unit": null
+                    }
+                ],
+                "primaryKey": [
+                    "sales_reporting_id"
+                ]
+            },
+            "dialect": {
+                "delimiter": ",",
+                "decimalSeparator": "."
+            }
+        }
+    ],
+    "metaMetadata": {
+        "metadataVersion": "OEMetadata-2.0.4",
+        "metadataLicense": {
+            "name": "CC0-1.0",
+            "title": "Creative Commons Zero v1.0 Universal",
+            "path": "https://creativecommons.org/publicdomain/zero/1.0"
+        }
+    }
+}
