@@ -18,9 +18,6 @@ export_to_geojson "final" "senate_districts" "l2_senate_districts"
 export_to_geojson "final" "school_districts" "l2_school_districts"
 export_to_geojson "final" "service_areas" "l2_electric_service_areas"
 
-export_to_geojson "final" "school_districts" "l2_school_districts"
-export_to_geojson "final" "service_areas" "l2_electric_service_areas"
-
 
 # Function to export Postgres table to CSV
 export_to_csv() {
@@ -42,7 +39,6 @@ export_to_csv "final" "monthly_generation" "l2_es_monthly_generation"
 export_to_csv "final" "capacity" "l2_es_capacity" 
 export_to_csv "final" "grids" "l2_grids" 
 export_to_csv "final" "communities_grids" "l2_communities_grids" 
-export_to_csv "final" "reporting_entities" "l3_reporting_entities"
 export_to_csv "final" "reporting_entities" "l3_reporting_entities"
 export_to_csv "final" "electric_rates" "l2_electric_rates"
 export_to_csv "final" "sales" "l3_es_annual_sales"
