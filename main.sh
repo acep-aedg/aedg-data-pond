@@ -8,7 +8,7 @@ start_time=$(date +%s.%N)
 export PG_HOST="localhost"      
 export PG_PORT="5432"           
 export PG_USER="aedg"     
-export PG_DB="aedg_db"    # Database name to delete tables from
+export PG_DB="aedg_etl_dev"    # Database name to delete tables from
 
 # Ensure the .pgpass file exists and has correct permissions
 if [ ! -f "$HOME/.pgpass" ]; then
@@ -17,12 +17,23 @@ if [ ! -f "$HOME/.pgpass" ]; then
 fi
 
 
+# Define an array of directories and file types to remove
+declare -a dirs=("intermediate" "final" "public")
+declare -a types=("csv" "geojson" "json")
+
+# Remove files
+for dir in "${dirs[@]}"; do
+  for type in "${types[@]}"; do
+    rm ./data/$dir/*.$type
+  done
+done
 
 
 # # run data dump script
 source ./src/file_dump.sh
  
-
+# run metadata pull script
+source ./src/pull_metadata.sh
 
 
 

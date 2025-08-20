@@ -1,15 +1,5 @@
 #!/bin/bash
 
-# Define an array of directories and file types to remove
-declare -a dirs=("intermediate" "final" "public")
-declare -a types=("csv" "geojson")
-
-# Remove files
-for dir in "${dirs[@]}"; do
-  for type in "${types[@]}"; do
-    rm ./data/$dir/*.$type
-  done
-done
 
 # Function to convert Postgres table to GeoJSON
 export_to_geojson() {
@@ -25,6 +15,9 @@ export_to_geojson "final" "regional_corporations" "l2_regional_corporations"
 export_to_geojson "final" "boroughs" "l2_boroughs"
 export_to_geojson "final" "house_districts" "l2_house_districts"
 export_to_geojson "final" "senate_districts" "l2_senate_districts"
+export_to_geojson "final" "school_districts" "l2_school_districts"
+export_to_geojson "final" "service_areas" "l2_electric_service_areas"
+
 
 # Function to export Postgres table to CSV
 export_to_csv() {
@@ -46,7 +39,7 @@ export_to_csv "final" "monthly_generation" "l2_es_monthly_generation"
 export_to_csv "final" "capacity" "l2_es_capacity" 
 export_to_csv "final" "grids" "l2_grids" 
 export_to_csv "final" "communities_grids" "l2_communities_grids" 
-export_to_csv "final" "reporting_entities" "l2_reporting_entities"
+export_to_csv "final" "reporting_entities" "l3_reporting_entities"
 export_to_csv "final" "electric_rates" "l2_electric_rates"
 export_to_csv "final" "sales" "l3_es_annual_sales"
 
@@ -60,6 +53,7 @@ export_to_csv "public" "public_fuel_prices" "(SELECT * FROM public_fuel_prices)"
 export_to_csv "public" "public_monthly_generation" "(SELECT * FROM public_monthly_generation)"
 export_to_csv "public" "public_populations_ages_sexes" "(SELECT * FROM public_populations_ages_sexes)"
 export_to_csv "public" "public_electric_rates" "(SELECT * FROM public_electric_rates)"
+export_to_csv "public" "public_service_areas" "(SELECT * FROM public_service_areas)"
 export_to_csv "public" "public_taxes" "(SELECT * FROM public_taxes)"
 export_to_csv "public" "public_transportation" "(SELECT * FROM public_transportation)"
 export_to_csv "public" "public_yearly_generation" "(SELECT * FROM public_yearly_generation)"

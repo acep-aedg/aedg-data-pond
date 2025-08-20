@@ -24,7 +24,7 @@
 .gz 
 
 # common binaries
-*.xlsx
+#*.xlsx Neil delivered his tables as Excel and want to stash those
 *.xls
 *.doc
 *.docx
