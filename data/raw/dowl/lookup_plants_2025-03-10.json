@@ -1,0 +1,240 @@
+{
+    "@context": "",
+    "name": "lookup_plants_2025-03-10",
+    "title": "Lookup Table of Power Plants",
+    "description": "A lookup table to cross reference power plant IDs from EIA and PCE data sources.\n",
+    "@id": "",
+    "resources": [
+        {
+            "@id": "",
+            "name": "lookup_plants_2025-03-10",
+            "topics": [
+                "Electricity"
+            ],
+            "title": "Lookup Table of Power Plants",
+            "path": "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/raw/dowl/lookup_plants_2025-03-10.csv",
+            "description": "This lookup table cross references power plant IDs between sources of generation data: the U.S. Energy Information Administration (EIA) and the State of Alaska's Power Cost Equalization (PCE) program. Unless a utility/operator reports to the EIA, plants are not strictly identified. This makes it difficult to aggregate generation across a grid and/or the state. In this table, each plant is uniquely identified according to where the operator reports (PCE or EIA) and the intertie to which it provides power. This table was manually created by comparing the plant names, and extended with publicly available information.\n",
+            "languages": [
+                "en-US"
+            ],
+            "keywords": [
+                "lookup",
+                "PCE",
+                "EIA",
+                "plants",
+                "electrical generation"
+            ],
+            "publicationDate": "2025-06-27",
+            "context": {
+                "title": "Alaska Energy Data Gateway v3.0",
+                "homepage": "https://akenergygateway.alaska.edu/",
+                "publisher": "Alaska Center for Energy and Power (ACEP) at the University of Alaska Fairbanks (UAF)",
+                "fundingAgency": "State of Alaska"
+            },
+            "spatial": {
+                "extent": {
+                    "name": "Alaska",
+                    "boundingBox": [
+                        -187.55,
+                        51.21,
+                        -130.0,
+                        71.35
+                    ],
+                    "crs": "OGC:CRS84"
+                }
+            },
+            "licenses": [
+                {
+                    "name": "CC-BY-4.0",
+                    "title": "Creative Commons Attribution 4.0 International",
+                    "path": "https://creativecommons.org/licenses/by/4.0/",
+                    "instruction": "You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.\n",
+                    "attribution": "Alaska Center for Energy and Power, University of Alaska Fairbanks"
+                }
+            ],
+            "contributors": [
+                {
+                    "title": "Neil McMahon",
+                    "organization": "DOWL Engineering",
+                    "roles": [
+                        "DataCollector"
+                    ],
+                    "date": "2025-03-10",
+                    "object": "Alaska Energy Statistics Tables",
+                    "comment": "First pulled data from the original sources, and compiled, corrected, harmonized, transformed it into Excel Workbooks as annual datasets 2011-2021. This process required a collection of lookup tables for elements such as power plants, power plant operators, sales reporting entities, and grids. These lookup tables were updated in the spring of 2025.\n",
+                    "path": "https://www.dowl.com/"
+                },
+                {
+                    "organization": "Alaska Center for Energy and Power (ACEP) at the University of Alaska Fairbanks (UAF)",
+                    "roles": [
+                        "DataCurator"
+                    ],
+                    "date": "2025-06-27",
+                    "object": null,
+                    "comment": "1. Contracted Neil McMahon to produce the 2011-2021 Workbooks, and then posted them in GitHub for distribution.\n2. Contracted Neil McMahon in the spring of 2025 to update the lookup tables so that future production of the Alaska Energy Statistics Tables could be performed internally at ACEP.\n3. Translated tabs in the Excel workbook of lookup tables into CSV files. There are some problems with the variable types of codes because of the treatment of missing values by the Python script that did the extraction.\n",
+                    "path": "https://www.uaf.edu/acep/"
+                },
+                {
+                    "organization": "Alaska Center for Energy and Power (ACEP) at the University of Alaska Fairbanks (UAF)",
+                    "roles": [
+                        "DataCurator"
+                    ],
+                    "date": "2025-06-27",
+                    "object": "metadata via https://github.com/acep-aedg/aedg-metadata",
+                    "comment": "Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.\n",
+                    "path": "https://www.uaf.edu/acep/"
+                }
+            ],
+            "type": "table",
+            "format": "csv",
+            "encoding": "",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "ak_plant_id",
+                        "long_name": "AK Plant ID",
+                        "description": "A unique identifier developed to allow for the combination of PCE, EIA, and other data sources. It must be updated when new plants are identified.",
+                        "type": "string",
+                        "nullable": false,
+                        "unit": null
+                    },
+                    {
+                        "name": "eia_plant_id",
+                        "long_name": "EIA Plant ID",
+                        "description": "EIA Plant Identification number. One to five digit numeric.",
+                        "type": "integer",
+                        "nullable": null,
+                        "unit": null
+                    },
+                    {
+                        "name": "pce_reporting_id",
+                        "long_name": "PCE Accounting Code",
+                        "description": "Six Digit Accounting code used by AEA for PCE reporters",
+                        "type": "integer",
+                        "nullable": null,
+                        "unit": null
+                    },
+                    {
+                        "name": "plant_name",
+                        "long_name": "Plant Name",
+                        "description": "Name of the facility owned/operated by a certified utility or independent power producer responsible for the day-to-day operation of the generators.",
+                        "type": "string",
+                        "nullable": null,
+                        "unit": null
+                    },
+                    {
+                        "name": "operator_ak_operator_id",
+                        "long_name": "Operator ID",
+                        "description": "A unique identifier developed to allow for for the combination of PCE, EIA, and other data sources as defined in the operator table.",
+                        "type": "string",
+                        "nullable": null,
+                        "unit": null
+                    },
+                    {
+                        "name": "eia_operator_id",
+                        "long_name": "EIA Operator ID",
+                        "description": "Operator identification number assigned by the Energy Information Administration as a five digit string of numbers, padded with leading zeros.",
+                        "type": "string",
+                        "nullable": null,
+                        "unit": null
+                    },
+                    {
+                        "name": "operator_operator_name",
+                        "long_name": "Operator Name",
+                        "description": "Name of the certified utility or independent power producer generating electricity and/or servicing a particular community or communities as defined in the operator table.",
+                        "type": "string",
+                        "nullable": null,
+                        "unit": null
+                    },
+                    {
+                        "name": "intertie_current_intertie_id",
+                        "long_name": "Intertie ID",
+                        "description": "The Intertie id consists of a three digit intertie number followed by the four digit year when the intertie was expanded as defined in the intertie table. If the last four digits are 0000, then the intertie has not been expanded.",
+                        "type": "string",
+                        "nullable": null,
+                        "unit": null
+                    },
+                    {
+                        "name": "intertie_current_intertie_name",
+                        "long_name": "Intertie Name",
+                        "description": "Name of the intertie derived from a the first community (i.e. the index community) or the name of the geographic area as defined in the intertie table.",
+                        "type": "string",
+                        "nullable": null,
+                        "unit": null
+                    },
+                    {
+                        "name": "combined_heat_power",
+                        "long_name": "Combined Heat and Power",
+                        "description": "Combined heat and power (CHP), also known as cogeneration, is a technology that simultaneously produces electricity and useful thermal energy from a single energy source, achieving higher efficiency than traditional methods. It captures and utilizes heat that would otherwise be wasted, making it an effective solution for various facilities, including industrial, commercial, and institutional applications.",
+                        "type": "boolean",
+                        "nullable": null,
+                        "unit": null
+                    },
+                    {
+                        "name": "grid_primary_voltage_kv",
+                        "long_name": "Grid Voltage",
+                        "description": "Plant's grid voltage at point of interconnection to transmission or distibution facilities derived from EIA 860 (Plant Table), AEA Powerhouse Survey.",
+                        "type": "number",
+                        "nullable": null,
+                        "unit": "kV"
+                    },
+                    {
+                        "name": "grid_primary_voltage2_kv",
+                        "long_name": "Grid Voltage 2",
+                        "description": "Plant's secondary grid voltage at point of interconnection to transmission or distibution facilities derived from EIA 860 (Plant Table), AEA Powerhouse Survey.",
+                        "type": "number",
+                        "nullable": null,
+                        "unit": "kV"
+                    },
+                    {
+                        "name": "phases",
+                        "long_name": "Plant's Power Phase",
+                        "description": "Either Single-Phase (1) or Three-Phase (3) Power",
+                        "type": "integer",
+                        "nullable": null,
+                        "unit": null
+                    },
+                    {
+                        "name": "latitude",
+                        "long_name": "Plant Latitude",
+                        "description": "Approximate latitude of the facility",
+                        "type": "number",
+                        "nullable": null,
+                        "unit": "degrees N"
+                    },
+                    {
+                        "name": "longitude",
+                        "long_name": "Plant Longitude",
+                        "description": "Approximate longitude of the facility",
+                        "type": "number",
+                        "nullable": null,
+                        "unit": "degrees E"
+                    },
+                    {
+                        "name": "notes",
+                        "long_name": "Notes on Plants",
+                        "description": "Details regarding certain plants",
+                        "type": "string",
+                        "nullable": null,
+                        "unit": null
+                    }
+                ],
+                "primaryKey": [
+                    "ak_plant_id"
+                ]
+            },
+            "dialect": {
+                "delimiter": ",",
+                "decimalSeparator": "."
+            }
+        }
+    ],
+    "metaMetadata": {
+        "metadataVersion": "OEMetadata-2.0.4",
+        "metadataLicense": {
+            "name": "CC0-1.0",
+            "title": "Creative Commons Zero v1.0 Universal",
+            "path": "https://creativecommons.org/publicdomain/zero/1.0"
+        }
+    }
+}
