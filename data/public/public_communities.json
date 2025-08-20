@@ -20,13 +20,13 @@
             ],
             "keywords": [
                 "community",
-                "native corporation",
+                "Alaska Native corporation",
                 "borough",
                 "census area",
                 "grid",
-                "puma"
+                "Public Use Microdata Areas (PUMAs)"
             ],
-            "publicationDate": "2025-05-22",
+            "publicationDate": "2025-07-07",
             "context": {
                 "title": "Alaska Energy Data Gateway v3.0",
                 "homepage": "https://akenergygateway.alaska.edu/",
@@ -206,14 +206,25 @@
                             "instruction": "Data and content created by government employees within the scope of their employment are not subject\nto domestic copyright protection under 17 U.S.C. \u00a7 105. Government works are by default in the U.S.\nPublic Domain. You cannot use government materials in a way that implies endorsement by a government agency, official, or employee. You also cannot use federal government trademarks or federal government agency logos without permission - https://resources.data.gov/open-licenses/.\n"
                         }
                     ]
+                },
+                {
+                    "title": "Heating Degree Days",
+                    "authors": [
+                        "Scenarios Network for Alaska + Arctic Planning (SNAP)",
+                        "Alaska Center for Energy and Power"
+                    ],
+                    "description": "This is a CSV derived from SNAP's heating degree day API, queried for each community in AEDG. Data contains total annual cumulative heating degree days at a spatial resolution of 12 km. Units are degree days Fahrenheit (\u00b0F\u22c5days). Modeled baseline data were derived from a Daymet dataset and are available for years 1980\u20132017. Modeled data were derived from bias corrected and downscaled CMIP5 climate models using RCP 4.5 and RCP 8.5 emissions scenarios.\nHeating degree days (HDD), defined in the U.S. as degrees F below 65 multiplied by duration in days, quanitifies energy needed to heat a building over a year's time. This information helps AEDG users to understand building energy needs amongst different Alaskan communities. \n",
+                    "publicationYear": "2024",
+                    "path": "https://earthmaps.io/degree_days/",
+                    "sourceLicenses": []
                 }
             ],
             "licenses": [
                 {
-                    "name": "CC-SA-4.0",
-                    "title": "Creative Commons Attribution-ShareAlike 4.0 International",
-                    "path": "https://creativecommons.org/licenses/by-sa/4.0/",
-                    "instruction": "You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.\n",
+                    "name": "CC-BY-4.0",
+                    "title": "Creative Commons Attribution 4.0 International",
+                    "path": "https://creativecommons.org/licenses/by/4.0/",
+                    "instruction": "You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.\n",
                     "attribution": "Alaska Center for Energy and Power, University of Alaska Fairbanks"
                 }
             ],
@@ -223,7 +234,7 @@
                     "roles": [
                         "DataCurator"
                     ],
-                    "date": "2025-05-22",
+                    "date": "2025-07-07",
                     "object": "data via https://github.com/acep-aedg/aedg-etl-2024",
                     "comment": "1. Identified data sources and integrated them into the data pipeline.\n2. Complied community names, locations, and FIPS identifiers for AEDG\n3. Used spatial joins to crosswalk AEDG communities with other organizations to create this dataset\n",
                     "path": "https://www.uaf.edu/acep/"
@@ -233,14 +244,14 @@
                     "roles": [
                         "DataCurator"
                     ],
-                    "date": "2025-05-22",
+                    "date": "2025-07-07",
                     "object": "metadata via https://github.com/acep-aedg/aedg-metadata",
                     "comment": "Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.\n",
                     "path": "https://www.uaf.edu/acep/"
                 }
             ],
             "type": "table",
-            "format": "CSV",
+            "format": "csv",
             "encoding": "",
             "schema": {
                 "fields": [
@@ -279,7 +290,7 @@
                     {
                         "name": "borough",
                         "long_name": "Borough or Census Area Name",
-                        "description": "Boroughs are analagous to a county in other places. Census areas are statistical subdivisions of the ",
+                        "description": "Boroughs are analagous to a county in other places. Census areas are statistical subdivisions of the  the Unorganized Borough, which does not have a government.",
                         "type": "string",
                         "nullable": true,
                         "unit": null
@@ -323,6 +334,14 @@
                         "type": "boolean",
                         "nullable": true,
                         "unit": null
+                    },
+                    {
+                        "name": "heating_degree_days",
+                        "long_name": "Heating Degree Days",
+                        "description": "Heating degree days (HDD), defined in the U.S. as degrees F below 65 multiplied by duration in days, quanitifies energy needed to heat a building over a year's time",
+                        "type": "integer",
+                        "nullable": true,
+                        "unit": "HDD"
                     },
                     {
                         "name": "latitude",

@@ -196,13 +196,11 @@ grid_id,net_generation_mwh,fuel_type_code,fuel_type_name,year
 198,892,DFO,Distillate Fuel Oil,2021
 213,485,DFO,Distillate Fuel Oil,2021
 215,2984081,NG,Natural Gas,2021
+215,752895,CL,Coal,2021
 215,567393,WAT,Water at Hydroelectric Turbine,2021
-215,386453,SUB,Subbituminous Coal,2021
 215,375532,WO,Waste Oil,2021
-215,273652,LIG,Lignite Coal,2021
 215,106468,DFO,Distillate Fuel Oil,2021
 215,102061,WND,Wind,2021
-215,92790,WC,Waste Coal,2021
 215,38071,LFG,Landfill Gas,2021
 215,672,JF,Jet Fuel,2021
 215,-3433,MWH,Electricity used for Energy Storage,2021

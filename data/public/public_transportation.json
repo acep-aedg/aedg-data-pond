@@ -28,7 +28,7 @@
                 "dock",
                 "coastal"
             ],
-            "publicationDate": "2025-05-22",
+            "publicationDate": "2025-06-11",
             "context": {
                 "title": "Alaska Energy Data Gateway v3.0",
                 "homepage": "https://akenergygateway.alaska.edu/",
@@ -86,10 +86,10 @@
             ],
             "licenses": [
                 {
-                    "name": "CC-SA-4.0",
-                    "title": "Creative Commons Attribution-ShareAlike 4.0 International",
-                    "path": "https://creativecommons.org/licenses/by-sa/4.0/",
-                    "instruction": "You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.\n",
+                    "name": "CC-BY-4.0",
+                    "title": "Creative Commons Attribution 4.0 International",
+                    "path": "https://creativecommons.org/licenses/by/4.0/",
+                    "instruction": "You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.\n",
                     "attribution": "Alaska Center for Energy and Power, University of Alaska Fairbanks"
                 }
             ],
@@ -99,7 +99,7 @@
                     "roles": [
                         "DataCurator"
                     ],
-                    "date": "2025-05-22",
+                    "date": "2025-06-11",
                     "object": "data via https://github.com/acep-aedg/aedg-etl-2024",
                     "comment": "1. Identified data source and integrated it into the data pipeline.\n2. Complied community names, locations, and FIPS identifiers for AEDG\n3. Joined transportation data with AEDG communities to create this dataset\n",
                     "path": "https://www.uaf.edu/acep/"
@@ -109,14 +109,14 @@
                     "roles": [
                         "DataCurator"
                     ],
-                    "date": "2025-05-22",
+                    "date": "2025-06-11",
                     "object": "metadata via https://github.com/acep-aedg/aedg-metadata",
                     "comment": "Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.\n",
                     "path": "https://www.uaf.edu/acep/"
                 }
             ],
             "type": "table",
-            "format": "CSV",
+            "format": "csv",
             "encoding": "",
             "schema": {
                 "fields": [
