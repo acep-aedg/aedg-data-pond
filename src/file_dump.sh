@@ -17,7 +17,9 @@ export_to_geojson "final" "house_districts" "l2_house_districts"
 export_to_geojson "final" "senate_districts" "l2_senate_districts"
 export_to_geojson "final" "school_districts" "l2_school_districts"
 export_to_geojson "final" "service_areas" "l2_electric_service_areas"
-
+export_to_geojson "final" "service_area_geoms" "l2_electric_service_area_geoms"
+export_to_geojson "final" "communities_service_area_geoms" "l2_communities_electric_service_area_geoms"
+export_to_geojson "final" "plants" "l2_es_plants"
 
 # Function to export Postgres table to CSV
 export_to_csv() {
