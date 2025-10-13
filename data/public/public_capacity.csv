@@ -1,1211 +1,702 @@
-fips_code,name,grid,capacity_mw,fuel_type,year
-0200065,Adak,Adak Grid,,,
-0200650,Akhiok,Akhiok Grid,0.3,Distillate Fuel Oil,2021
-0200760,Akiachak,Akiachak Grid,1.5,Distillate Fuel Oil,2021
-0200870,Akiak,Akiak Grid,0.9,Distillate Fuel Oil,2021
-0201090,Akutan,Akutan Grid,0.1,Water at Hydroelectric Turbine,2021
-0201090,Akutan,Akutan Grid,0.4,Distillate Fuel Oil,2021
-0201200,Alakanuk,Emmonak Grid,0.4,Wind,2021
-0201200,Alakanuk,Emmonak Grid,3.2,Distillate Fuel Oil,2021
-0201305,Alatna,Allakaket Grid,,,
-0201390,Alcan Border,,,,
-0201420,Aleknagik,Dillingham Grid,11.0,Distillate Fuel Oil,2021
-0201560,Aleneva,,,,
-0201860,Allakaket,Allakaket Grid,,,
-0201970,Ambler,Ambler Grid,1.1,Distillate Fuel Oil,2021
-0202080,Anaktuvuk Pass,Anaktuvuk Pass Grid,2.7,Distillate Fuel Oil,2021
-0203110,Anchor Point,Railbelt Grid,60.0,Waste Oil,2021
-0203110,Anchor Point,Railbelt Grid,44.5,Wind,2021
-0203110,Anchor Point,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0203110,Anchor Point,Railbelt Grid,1.9,Solar,2021
-0203110,Anchor Point,Railbelt Grid,1403.7,Natural Gas,2021
-0203110,Anchor Point,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0203110,Anchor Point,Railbelt Grid,11.5,Landfill Gas,2021
-0203110,Anchor Point,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0203110,Anchor Point,Railbelt Grid,194.8,Coal,2021
-0203000,Anchorage,Railbelt Grid,60.0,Waste Oil,2021
-0203000,Anchorage,Railbelt Grid,44.5,Wind,2021
-0203000,Anchorage,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0203000,Anchorage,Railbelt Grid,1.9,Solar,2021
-0203000,Anchorage,Railbelt Grid,1403.7,Natural Gas,2021
-0203000,Anchorage,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0203000,Anchorage,Railbelt Grid,11.5,Landfill Gas,2021
-0203000,Anchorage,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0203000,Anchorage,Railbelt Grid,194.8,Coal,2021
-0203220,Anderson,Railbelt Grid,60.0,Waste Oil,2021
-0203220,Anderson,Railbelt Grid,44.5,Wind,2021
-0203220,Anderson,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0203220,Anderson,Railbelt Grid,1.9,Solar,2021
-0203220,Anderson,Railbelt Grid,1403.7,Natural Gas,2021
-0203220,Anderson,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0203220,Anderson,Railbelt Grid,11.5,Landfill Gas,2021
-0203220,Anderson,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0203220,Anderson,Railbelt Grid,194.8,Coal,2021
-0203440,Angoon,Angoon Grid,1.5,Distillate Fuel Oil,2021
-0203550,Aniak,Aniak Grid,2.2,Distillate Fuel Oil,2021
-0203880,Anvik,Anvik Grid,0.4,Distillate Fuel Oil,2021
-0203990,Arctic Village,Arctic Village Grid,0.4,Distillate Fuel Oil,2021
-0204210,Atka,Atka Grid,0.3,Water at Hydroelectric Turbine,2021
-0204210,Atka,Atka Grid,0.3,Distillate Fuel Oil,2021
-0204430,Atmautluak,Atmautluak Grid,1.1,Distillate Fuel Oil,2021
-0204500,Atqasuk,Atqasuk Grid,3.2,Distillate Fuel Oil,2021
-0204670,Attu Station,,,,
-0205000,Badger,Railbelt Grid,60.0,Waste Oil,2021
-0205000,Badger,Railbelt Grid,44.5,Wind,2021
-0205000,Badger,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0205000,Badger,Railbelt Grid,1.9,Solar,2021
-0205000,Badger,Railbelt Grid,1403.7,Natural Gas,2021
-0205000,Badger,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0205000,Badger,Railbelt Grid,11.5,Landfill Gas,2021
-0205000,Badger,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0205000,Badger,Railbelt Grid,194.8,Coal,2021
-0205585,Bear Creek,Railbelt Grid,60.0,Waste Oil,2021
-0205585,Bear Creek,Railbelt Grid,44.5,Wind,2021
-0205585,Bear Creek,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0205585,Bear Creek,Railbelt Grid,1.9,Solar,2021
-0205585,Bear Creek,Railbelt Grid,1403.7,Natural Gas,2021
-0205585,Bear Creek,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0205585,Bear Creek,Railbelt Grid,11.5,Landfill Gas,2021
-0205585,Bear Creek,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0205585,Bear Creek,Railbelt Grid,194.8,Coal,2021
-0205750,Beaver,Beaver Grid,0.3,Distillate Fuel Oil,2021
-0206245,Beluga,Railbelt Grid,60.0,Waste Oil,2021
-0206245,Beluga,Railbelt Grid,44.5,Wind,2021
-0206245,Beluga,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0206245,Beluga,Railbelt Grid,1.9,Solar,2021
-0206245,Beluga,Railbelt Grid,1403.7,Natural Gas,2021
-0206245,Beluga,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0206245,Beluga,Railbelt Grid,11.5,Landfill Gas,2021
-0206245,Beluga,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0206245,Beluga,Railbelt Grid,194.8,Coal,2021
-0206520,Bethel,Bethel Grid,0.9,Wind,2021
-0206520,Bethel,Bethel Grid,12.9,Distillate Fuel Oil,2021
-0206630,Bettles,Bettles Grid,0.6,Distillate Fuel Oil,2021
-0206850,Big Delta,Railbelt Grid,60.0,Waste Oil,2021
-0206850,Big Delta,Railbelt Grid,44.5,Wind,2021
-0206850,Big Delta,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0206850,Big Delta,Railbelt Grid,1.9,Solar,2021
-0206850,Big Delta,Railbelt Grid,1403.7,Natural Gas,2021
-0206850,Big Delta,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0206850,Big Delta,Railbelt Grid,11.5,Landfill Gas,2021
-0206850,Big Delta,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0206850,Big Delta,Railbelt Grid,194.8,Coal,2021
-0207070,Big Lake,Railbelt Grid,60.0,Waste Oil,2021
-0207070,Big Lake,Railbelt Grid,44.5,Wind,2021
-0207070,Big Lake,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0207070,Big Lake,Railbelt Grid,1.9,Solar,2021
-0207070,Big Lake,Railbelt Grid,1403.7,Natural Gas,2021
-0207070,Big Lake,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0207070,Big Lake,Railbelt Grid,11.5,Landfill Gas,2021
-0207070,Big Lake,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0207070,Big Lake,Railbelt Grid,194.8,Coal,2021
-0207620,Birch Creek,Birch Creek Grid,,,
-0208740,Brevig Mission,Brevig Mission Grid,1.0,Distillate Fuel Oil,2021
-0209600,Buckland,Buckland Grid,0.2,Wind,2021
-0209600,Buckland,Buckland Grid,0.0,Solar,2021
-0209600,Buckland,Buckland Grid,0.3,Electricity used for Energy Storage,2021
-0209600,Buckland,Buckland Grid,1.2,Distillate Fuel Oil,2021
-0209657,Buffalo Soapstone,Railbelt Grid,60.0,Waste Oil,2021
-0209657,Buffalo Soapstone,Railbelt Grid,44.5,Wind,2021
-0209657,Buffalo Soapstone,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0209657,Buffalo Soapstone,Railbelt Grid,1.9,Solar,2021
-0209657,Buffalo Soapstone,Railbelt Grid,1403.7,Natural Gas,2021
-0209657,Buffalo Soapstone,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0209657,Buffalo Soapstone,Railbelt Grid,11.5,Landfill Gas,2021
-0209657,Buffalo Soapstone,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0209657,Buffalo Soapstone,Railbelt Grid,194.8,Coal,2021
-0209710,Butte,Railbelt Grid,60.0,Waste Oil,2021
-0209710,Butte,Railbelt Grid,44.5,Wind,2021
-0209710,Butte,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0209710,Butte,Railbelt Grid,1.9,Solar,2021
-0209710,Butte,Railbelt Grid,1403.7,Natural Gas,2021
-0209710,Butte,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0209710,Butte,Railbelt Grid,11.5,Landfill Gas,2021
-0209710,Butte,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0209710,Butte,Railbelt Grid,194.8,Coal,2021
-0210150,Cantwell,Railbelt Grid,60.0,Waste Oil,2021
-0210150,Cantwell,Railbelt Grid,44.5,Wind,2021
-0210150,Cantwell,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0210150,Cantwell,Railbelt Grid,1.9,Solar,2021
-0210150,Cantwell,Railbelt Grid,1403.7,Natural Gas,2021
-0210150,Cantwell,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0210150,Cantwell,Railbelt Grid,11.5,Landfill Gas,2021
-0210150,Cantwell,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0210150,Cantwell,Railbelt Grid,194.8,Coal,2021
-0211690,Central,Central Grid,0.3,Distillate Fuel Oil,2021
-0211800,Chalkyitsik,Chalkyitsik Grid,0.3,Distillate Fuel Oil,2021
-0212350,Chase,Railbelt Grid,60.0,Waste Oil,2021
-0212350,Chase,Railbelt Grid,44.5,Wind,2021
-0212350,Chase,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0212350,Chase,Railbelt Grid,1.9,Solar,2021
-0212350,Chase,Railbelt Grid,1403.7,Natural Gas,2021
-0212350,Chase,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0212350,Chase,Railbelt Grid,11.5,Landfill Gas,2021
-0212350,Chase,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0212350,Chase,Railbelt Grid,194.8,Coal,2021
-0212680,Chefornak,Chefornak Grid,0.3,Wind,2021
-0212680,Chefornak,Chefornak Grid,0.9,Distillate Fuel Oil,2021
-0212920,Chena Ridge,Railbelt Grid,60.0,Waste Oil,2021
-0212920,Chena Ridge,Railbelt Grid,44.5,Wind,2021
-0212920,Chena Ridge,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0212920,Chena Ridge,Railbelt Grid,1.9,Solar,2021
-0212920,Chena Ridge,Railbelt Grid,1403.7,Natural Gas,2021
-0212920,Chena Ridge,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0212920,Chena Ridge,Railbelt Grid,11.5,Landfill Gas,2021
-0212920,Chena Ridge,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0212920,Chena Ridge,Railbelt Grid,194.8,Coal,2021
-0212970,Chenega,Chenega Grid,0.5,Distillate Fuel Oil,2021
-0213230,Chevak,Chevak Grid,0.4,Wind,2021
-0213230,Chevak,Chevak Grid,1.8,Distillate Fuel Oil,2021
-0213340,Chickaloon,Railbelt Grid,60.0,Waste Oil,2021
-0213340,Chickaloon,Railbelt Grid,44.5,Wind,2021
-0213340,Chickaloon,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0213340,Chickaloon,Railbelt Grid,1.9,Solar,2021
-0213340,Chickaloon,Railbelt Grid,1403.7,Natural Gas,2021
-0213340,Chickaloon,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0213340,Chickaloon,Railbelt Grid,11.5,Landfill Gas,2021
-0213340,Chickaloon,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0213340,Chickaloon,Railbelt Grid,194.8,Coal,2021
-0213450,Chicken,,,,
-0213550,Chignik,Chignik Grid,0.1,Water at Hydroelectric Turbine,2021
-0213550,Chignik,Chignik Grid,0.6,Distillate Fuel Oil,2021
-0213670,Chignik Lagoon,Chignik Lagoon Grid,0.2,Wind,2021
-0213670,Chignik Lagoon,Chignik Lagoon Grid,0.5,Distillate Fuel Oil,2021
-0213780,Chignik Lake,Chignik Lake Grid,0.4,Distillate Fuel Oil,2021
-0213860,Chiniak,Kodiak Grid,9.0,Wind,2021
-0213860,Chiniak,Kodiak Grid,33.6,Water at Hydroelectric Turbine,2021
-0213860,Chiniak,Kodiak Grid,5.0,Electricity used for Energy Storage,2021
-0213860,Chiniak,Kodiak Grid,37.2,Distillate Fuel Oil,2021
-0213890,Chisana,,,,
-0214000,Chistochina,Slana Grid,1.1,Distillate Fuel Oil,2021
-0214110,Chitina,Chitina Grid,0.4,Distillate Fuel Oil,2021
-0214330,Chuathbaluk,Chuathbaluk Grid,0.2,Distillate Fuel Oil,2021
-0214880,Circle,Circle Grid,0.3,Distillate Fuel Oil,2021
-0215320,Clam Gulch,Railbelt Grid,60.0,Waste Oil,2021
-0215320,Clam Gulch,Railbelt Grid,44.5,Wind,2021
-0215320,Clam Gulch,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0215320,Clam Gulch,Railbelt Grid,1.9,Solar,2021
-0215320,Clam Gulch,Railbelt Grid,1403.7,Natural Gas,2021
-0215320,Clam Gulch,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0215320,Clam Gulch,Railbelt Grid,11.5,Landfill Gas,2021
-0215320,Clam Gulch,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0215320,Clam Gulch,Railbelt Grid,194.8,Coal,2021
-0215430,Clark's Point,Clarks Point Grid,0.3,Distillate Fuel Oil,2021
-0216360,Coffman Cove,Prince of Wales Island Grid,11.5,Water at Hydroelectric Turbine,2021
-0216360,Coffman Cove,Prince of Wales Island Grid,15.1,Distillate Fuel Oil,2021
-0216420,Cohoe,Railbelt Grid,60.0,Waste Oil,2021
-0216420,Cohoe,Railbelt Grid,44.5,Wind,2021
-0216420,Cohoe,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0216420,Cohoe,Railbelt Grid,1.9,Solar,2021
-0216420,Cohoe,Railbelt Grid,1403.7,Natural Gas,2021
-0216420,Cohoe,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0216420,Cohoe,Railbelt Grid,11.5,Landfill Gas,2021
-0216420,Cohoe,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0216420,Cohoe,Railbelt Grid,194.8,Coal,2021
-0216530,Cold Bay,Cold Bay Grid,,,
-0216630,Coldfoot,,,,
-0216750,College,Railbelt Grid,60.0,Waste Oil,2021
-0216750,College,Railbelt Grid,44.5,Wind,2021
-0216750,College,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0216750,College,Railbelt Grid,1.9,Solar,2021
-0216750,College,Railbelt Grid,1403.7,Natural Gas,2021
-0216750,College,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0216750,College,Railbelt Grid,11.5,Landfill Gas,2021
-0216750,College,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0216750,College,Railbelt Grid,194.8,Coal,2021
-0217190,Cooper Landing,Railbelt Grid,60.0,Waste Oil,2021
-0217190,Cooper Landing,Railbelt Grid,44.5,Wind,2021
-0217190,Cooper Landing,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0217190,Cooper Landing,Railbelt Grid,1.9,Solar,2021
-0217190,Cooper Landing,Railbelt Grid,1403.7,Natural Gas,2021
-0217190,Cooper Landing,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0217190,Cooper Landing,Railbelt Grid,11.5,Landfill Gas,2021
-0217190,Cooper Landing,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0217190,Cooper Landing,Railbelt Grid,194.8,Coal,2021
-0217300,Copper Center,Copper Valley Grid,5.3,Waste Oil,2021
-0217300,Copper Center,Copper Valley Grid,18.5,Water at Hydroelectric Turbine,2021
-0217300,Copper Center,Copper Valley Grid,17.8,Distillate Fuel Oil,2021
-0217410,Cordova,Cordova Grid,7.2,Water at Hydroelectric Turbine,2021
-0217410,Cordova,Cordova Grid,1.0,Electricity used for Energy Storage,2021
-0217410,Cordova,Cordova Grid,10.7,Distillate Fuel Oil,2021
-0217670,Covenant Life,Upper Lynn Canal Grid,9.8,Water at Hydroelectric Turbine,2021
-0217670,Covenant Life,Upper Lynn Canal Grid,14.9,Distillate Fuel Oil,2021
-0217740,Craig,Prince of Wales Island Grid,11.5,Water at Hydroelectric Turbine,2021
-0217740,Craig,Prince of Wales Island Grid,15.1,Distillate Fuel Oil,2021
-0217850,Crooked Creek,Crooked Creek Grid,0.3,Distillate Fuel Oil,2021
-0217960,Crown Point,Railbelt Grid,60.0,Waste Oil,2021
-0217960,Crown Point,Railbelt Grid,44.5,Wind,2021
-0217960,Crown Point,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0217960,Crown Point,Railbelt Grid,1.9,Solar,2021
-0217960,Crown Point,Railbelt Grid,1403.7,Natural Gas,2021
-0217960,Crown Point,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0217960,Crown Point,Railbelt Grid,11.5,Landfill Gas,2021
-0217960,Crown Point,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0217960,Crown Point,Railbelt Grid,194.8,Coal,2021
-0218510,Deering,Deering Grid,0.1,Wind,2021
-0218510,Deering,Deering Grid,0.0,Solar,2021
-0218510,Deering,Deering Grid,0.3,Electricity used for Energy Storage,2021
-0218510,Deering,Deering Grid,0.4,Distillate Fuel Oil,2021
-0218620,Delta Junction,Railbelt Grid,60.0,Waste Oil,2021
-0218620,Delta Junction,Railbelt Grid,44.5,Wind,2021
-0218620,Delta Junction,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0218620,Delta Junction,Railbelt Grid,1.9,Solar,2021
-0218620,Delta Junction,Railbelt Grid,1403.7,Natural Gas,2021
-0218620,Delta Junction,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0218620,Delta Junction,Railbelt Grid,11.5,Landfill Gas,2021
-0218620,Delta Junction,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0218620,Delta Junction,Railbelt Grid,194.8,Coal,2021
-0218675,Deltana,Railbelt Grid,60.0,Waste Oil,2021
-0218675,Deltana,Railbelt Grid,44.5,Wind,2021
-0218675,Deltana,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0218675,Deltana,Railbelt Grid,1.9,Solar,2021
-0218675,Deltana,Railbelt Grid,1403.7,Natural Gas,2021
-0218675,Deltana,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0218675,Deltana,Railbelt Grid,11.5,Landfill Gas,2021
-0218675,Deltana,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0218675,Deltana,Railbelt Grid,194.8,Coal,2021
-0218805,Denali Park,Railbelt Grid,60.0,Waste Oil,2021
-0218805,Denali Park,Railbelt Grid,44.5,Wind,2021
-0218805,Denali Park,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0218805,Denali Park,Railbelt Grid,1.9,Solar,2021
-0218805,Denali Park,Railbelt Grid,1403.7,Natural Gas,2021
-0218805,Denali Park,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0218805,Denali Park,Railbelt Grid,11.5,Landfill Gas,2021
-0218805,Denali Park,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0218805,Denali Park,Railbelt Grid,194.8,Coal,2021
-0218925,Diamond Ridge,Railbelt Grid,60.0,Waste Oil,2021
-0218925,Diamond Ridge,Railbelt Grid,44.5,Wind,2021
-0218925,Diamond Ridge,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0218925,Diamond Ridge,Railbelt Grid,1.9,Solar,2021
-0218925,Diamond Ridge,Railbelt Grid,1403.7,Natural Gas,2021
-0218925,Diamond Ridge,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0218925,Diamond Ridge,Railbelt Grid,11.5,Landfill Gas,2021
-0218925,Diamond Ridge,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0218925,Diamond Ridge,Railbelt Grid,194.8,Coal,2021
-0218950,Dillingham,Dillingham Grid,11.0,Distillate Fuel Oil,2021
-0219060,Diomede,Diomede Grid,0.5,Distillate Fuel Oil,2021
-0219720,Dot Lake,Tok Grid,5.2,Distillate Fuel Oil,2021
-0219750,Dot Lake Village,Tok Grid,5.2,Distillate Fuel Oil,2021
-0220020,Dry Creek,,,,
-0220380,Eagle,Eagle Grid,0.0,Solar,2021
-0220380,Eagle,Eagle Grid,0.5,Distillate Fuel Oil,2021
-0220600,Eagle Village,Eagle Grid,0.0,Solar,2021
-0220600,Eagle Village,Eagle Grid,0.5,Distillate Fuel Oil,2021
-0220716,Eareckson Station,,,,
-0220970,Edna Bay,,,,
-0221040,Eek,Eek Grid,1.1,Distillate Fuel Oil,2021
-0221150,Egegik,Egegik Grid,1.0,Distillate Fuel Oil,2021
-0221370,Eielson AFB,Railbelt Grid,60.0,Waste Oil,2021
-0221370,Eielson AFB,Railbelt Grid,44.5,Wind,2021
-0221370,Eielson AFB,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0221370,Eielson AFB,Railbelt Grid,1.9,Solar,2021
-0221370,Eielson AFB,Railbelt Grid,1403.7,Natural Gas,2021
-0221370,Eielson AFB,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0221370,Eielson AFB,Railbelt Grid,11.5,Landfill Gas,2021
-0221370,Eielson AFB,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0221370,Eielson AFB,Railbelt Grid,194.8,Coal,2021
-0221810,Ekwok,New Stuyahok Grid,1.2,Distillate Fuel Oil,2021
-0222140,Elfin Cove,Elfin Cove Grid,,,
-0222250,Elim,Elim Grid,1.3,Distillate Fuel Oil,2021
-0222910,Emmonak,Emmonak Grid,0.4,Wind,2021
-0222910,Emmonak,Emmonak Grid,3.2,Distillate Fuel Oil,2021
-0223460,Ester,Railbelt Grid,60.0,Waste Oil,2021
-0223460,Ester,Railbelt Grid,44.5,Wind,2021
-0223460,Ester,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0223460,Ester,Railbelt Grid,1.9,Solar,2021
-0223460,Ester,Railbelt Grid,1403.7,Natural Gas,2021
-0223460,Ester,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0223460,Ester,Railbelt Grid,11.5,Landfill Gas,2021
-0223460,Ester,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0223460,Ester,Railbelt Grid,194.8,Coal,2021
-0223720,Eureka Roadhouse,,,,
-0223790,Evansville,Bettles Grid,0.6,Distillate Fuel Oil,2021
-0223900,Excursion Inlet,,,,
-0224230,Fairbanks,Railbelt Grid,60.0,Waste Oil,2021
-0224230,Fairbanks,Railbelt Grid,44.5,Wind,2021
-0224230,Fairbanks,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0224230,Fairbanks,Railbelt Grid,1.9,Solar,2021
-0224230,Fairbanks,Railbelt Grid,1403.7,Natural Gas,2021
-0224230,Fairbanks,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0224230,Fairbanks,Railbelt Grid,11.5,Landfill Gas,2021
-0224230,Fairbanks,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0224230,Fairbanks,Railbelt Grid,194.8,Coal,2021
-0224660,False Pass,False Pass Grid,,,
-0225000,Farm Loop,Railbelt Grid,60.0,Waste Oil,2021
-0225000,Farm Loop,Railbelt Grid,44.5,Wind,2021
-0225000,Farm Loop,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0225000,Farm Loop,Railbelt Grid,1.9,Solar,2021
-0225000,Farm Loop,Railbelt Grid,1403.7,Natural Gas,2021
-0225000,Farm Loop,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0225000,Farm Loop,Railbelt Grid,11.5,Landfill Gas,2021
-0225000,Farm Loop,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0225000,Farm Loop,Railbelt Grid,194.8,Coal,2021
-0224980,Farmers Loop,Railbelt Grid,60.0,Waste Oil,2021
-0224980,Farmers Loop,Railbelt Grid,44.5,Wind,2021
-0224980,Farmers Loop,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0224980,Farmers Loop,Railbelt Grid,1.9,Solar,2021
-0224980,Farmers Loop,Railbelt Grid,1403.7,Natural Gas,2021
-0224980,Farmers Loop,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0224980,Farmers Loop,Railbelt Grid,11.5,Landfill Gas,2021
-0224980,Farmers Loop,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0224980,Farmers Loop,Railbelt Grid,194.8,Coal,2021
-0225220,Ferry,Railbelt Grid,60.0,Waste Oil,2021
-0225220,Ferry,Railbelt Grid,44.5,Wind,2021
-0225220,Ferry,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0225220,Ferry,Railbelt Grid,1.9,Solar,2021
-0225220,Ferry,Railbelt Grid,1403.7,Natural Gas,2021
-0225220,Ferry,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0225220,Ferry,Railbelt Grid,11.5,Landfill Gas,2021
-0225220,Ferry,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0225220,Ferry,Railbelt Grid,194.8,Coal,2021
-0225550,Fishhook,Railbelt Grid,60.0,Waste Oil,2021
-0225550,Fishhook,Railbelt Grid,44.5,Wind,2021
-0225550,Fishhook,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0225550,Fishhook,Railbelt Grid,1.9,Solar,2021
-0225550,Fishhook,Railbelt Grid,1403.7,Natural Gas,2021
-0225550,Fishhook,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0225550,Fishhook,Railbelt Grid,11.5,Landfill Gas,2021
-0225550,Fishhook,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0225550,Fishhook,Railbelt Grid,194.8,Coal,2021
-0225880,Flat,,,,
-0226100,Fort Greely,Railbelt Grid,60.0,Waste Oil,2021
-0226100,Fort Greely,Railbelt Grid,44.5,Wind,2021
-0226100,Fort Greely,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0226100,Fort Greely,Railbelt Grid,1.9,Solar,2021
-0226100,Fort Greely,Railbelt Grid,1403.7,Natural Gas,2021
-0226100,Fort Greely,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0226100,Fort Greely,Railbelt Grid,11.5,Landfill Gas,2021
-0226100,Fort Greely,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0226100,Fort Greely,Railbelt Grid,194.8,Coal,2021
-0226760,Fort Yukon,Fort Yukon Grid,2.8,Distillate Fuel Oil,2021
-0226835,Four Mile Road,Railbelt Grid,60.0,Waste Oil,2021
-0226835,Four Mile Road,Railbelt Grid,44.5,Wind,2021
-0226835,Four Mile Road,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0226835,Four Mile Road,Railbelt Grid,1.9,Solar,2021
-0226835,Four Mile Road,Railbelt Grid,1403.7,Natural Gas,2021
-0226835,Four Mile Road,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0226835,Four Mile Road,Railbelt Grid,11.5,Landfill Gas,2021
-0226835,Four Mile Road,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0226835,Four Mile Road,Railbelt Grid,194.8,Coal,2021
-0226870,Fox,Railbelt Grid,60.0,Waste Oil,2021
-0226870,Fox,Railbelt Grid,44.5,Wind,2021
-0226870,Fox,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0226870,Fox,Railbelt Grid,1.9,Solar,2021
-0226870,Fox,Railbelt Grid,1403.7,Natural Gas,2021
-0226870,Fox,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0226870,Fox,Railbelt Grid,11.5,Landfill Gas,2021
-0226870,Fox,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0226870,Fox,Railbelt Grid,194.8,Coal,2021
-0226910,Fox River,Railbelt Grid,60.0,Waste Oil,2021
-0226910,Fox River,Railbelt Grid,44.5,Wind,2021
-0226910,Fox River,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0226910,Fox River,Railbelt Grid,1.9,Solar,2021
-0226910,Fox River,Railbelt Grid,1403.7,Natural Gas,2021
-0226910,Fox River,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0226910,Fox River,Railbelt Grid,11.5,Landfill Gas,2021
-0226910,Fox River,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0226910,Fox River,Railbelt Grid,194.8,Coal,2021
-0227090,Fritz Creek,Railbelt Grid,60.0,Waste Oil,2021
-0227090,Fritz Creek,Railbelt Grid,44.5,Wind,2021
-0227090,Fritz Creek,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0227090,Fritz Creek,Railbelt Grid,1.9,Solar,2021
-0227090,Fritz Creek,Railbelt Grid,1403.7,Natural Gas,2021
-0227090,Fritz Creek,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0227090,Fritz Creek,Railbelt Grid,11.5,Landfill Gas,2021
-0227090,Fritz Creek,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0227090,Fritz Creek,Railbelt Grid,194.8,Coal,2021
-0227145,Funny River,Railbelt Grid,60.0,Waste Oil,2021
-0227145,Funny River,Railbelt Grid,44.5,Wind,2021
-0227145,Funny River,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0227145,Funny River,Railbelt Grid,1.9,Solar,2021
-0227145,Funny River,Railbelt Grid,1403.7,Natural Gas,2021
-0227145,Funny River,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0227145,Funny River,Railbelt Grid,11.5,Landfill Gas,2021
-0227145,Funny River,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0227145,Funny River,Railbelt Grid,194.8,Coal,2021
-0227420,Gakona,,,,
-0227530,Galena,Galena Grid,3.9,Distillate Fuel Oil,2021
-0227640,Gambell,Gambell Grid,0.3,Wind,2021
-0227640,Gambell,Gambell Grid,2.0,Distillate Fuel Oil,2021
-0227700,Game Creek,,,,
-0228200,Gateway,Railbelt Grid,60.0,Waste Oil,2021
-0228200,Gateway,Railbelt Grid,44.5,Wind,2021
-0228200,Gateway,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0228200,Gateway,Railbelt Grid,1.9,Solar,2021
-0228200,Gateway,Railbelt Grid,1403.7,Natural Gas,2021
-0228200,Gateway,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0228200,Gateway,Railbelt Grid,11.5,Landfill Gas,2021
-0228200,Gateway,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0228200,Gateway,Railbelt Grid,194.8,Coal,2021
-0228590,Glacier View,Copper Valley Grid,5.3,Waste Oil,2021
-0228590,Glacier View,Copper Valley Grid,18.5,Water at Hydroelectric Turbine,2021
-0228590,Glacier View,Copper Valley Grid,17.8,Distillate Fuel Oil,2021
-0228740,Glennallen,Copper Valley Grid,5.3,Waste Oil,2021
-0228740,Glennallen,Copper Valley Grid,18.5,Water at Hydroelectric Turbine,2021
-0228740,Glennallen,Copper Valley Grid,17.8,Distillate Fuel Oil,2021
-0229130,Goldstream,Railbelt Grid,60.0,Waste Oil,2021
-0229130,Goldstream,Railbelt Grid,44.5,Wind,2021
-0229130,Goldstream,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0229130,Goldstream,Railbelt Grid,1.9,Solar,2021
-0229130,Goldstream,Railbelt Grid,1403.7,Natural Gas,2021
-0229130,Goldstream,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0229130,Goldstream,Railbelt Grid,11.5,Landfill Gas,2021
-0229130,Goldstream,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0229130,Goldstream,Railbelt Grid,194.8,Coal,2021
-0229180,Golovin,Golovin Grid,0.7,Distillate Fuel Oil,2021
-0229290,Goodnews Bay,Goodnews Bay Grid,0.6,Distillate Fuel Oil,2021
-0230060,Grayling,Grayling Grid,0.4,Distillate Fuel Oil,2021
-0230500,Gulkana,Copper Valley Grid,5.3,Waste Oil,2021
-0230500,Gulkana,Copper Valley Grid,18.5,Water at Hydroelectric Turbine,2021
-0230500,Gulkana,Copper Valley Grid,17.8,Distillate Fuel Oil,2021
-0230940,Gustavus,Gustavus Grid,0.8,Water at Hydroelectric Turbine,2021
-0230940,Gustavus,Gustavus Grid,1.4,Distillate Fuel Oil,2021
-0231050,Haines,Upper Lynn Canal Grid,9.8,Water at Hydroelectric Turbine,2021
-0231050,Haines,Upper Lynn Canal Grid,14.9,Distillate Fuel Oil,2021
-0231270,Halibut Cove,Railbelt Grid,60.0,Waste Oil,2021
-0231270,Halibut Cove,Railbelt Grid,44.5,Wind,2021
-0231270,Halibut Cove,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0231270,Halibut Cove,Railbelt Grid,1.9,Solar,2021
-0231270,Halibut Cove,Railbelt Grid,1403.7,Natural Gas,2021
-0231270,Halibut Cove,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0231270,Halibut Cove,Railbelt Grid,11.5,Landfill Gas,2021
-0231270,Halibut Cove,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0231270,Halibut Cove,Railbelt Grid,194.8,Coal,2021
-0231710,Happy Valley,Railbelt Grid,60.0,Waste Oil,2021
-0231710,Happy Valley,Railbelt Grid,44.5,Wind,2021
-0231710,Happy Valley,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0231710,Happy Valley,Railbelt Grid,1.9,Solar,2021
-0231710,Happy Valley,Railbelt Grid,1403.7,Natural Gas,2021
-0231710,Happy Valley,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0231710,Happy Valley,Railbelt Grid,11.5,Landfill Gas,2021
-0231710,Happy Valley,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0231710,Happy Valley,Railbelt Grid,194.8,Coal,2021
-0231765,Harding-Birch Lakes,Railbelt Grid,60.0,Waste Oil,2021
-0231765,Harding-Birch Lakes,Railbelt Grid,44.5,Wind,2021
-0231765,Harding-Birch Lakes,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0231765,Harding-Birch Lakes,Railbelt Grid,1.9,Solar,2021
-0231765,Harding-Birch Lakes,Railbelt Grid,1403.7,Natural Gas,2021
-0231765,Harding-Birch Lakes,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0231765,Harding-Birch Lakes,Railbelt Grid,11.5,Landfill Gas,2021
-0231765,Harding-Birch Lakes,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0231765,Harding-Birch Lakes,Railbelt Grid,194.8,Coal,2021
-0232150,Healy,Railbelt Grid,60.0,Waste Oil,2021
-0232150,Healy,Railbelt Grid,44.5,Wind,2021
-0232150,Healy,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0232150,Healy,Railbelt Grid,1.9,Solar,2021
-0232150,Healy,Railbelt Grid,1403.7,Natural Gas,2021
-0232150,Healy,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0232150,Healy,Railbelt Grid,11.5,Landfill Gas,2021
-0232150,Healy,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0232150,Healy,Railbelt Grid,194.8,Coal,2021
-0232310,Healy Lake,Healy Lake Grid,0.1,Distillate Fuel Oil,2021
-0232550,Hobart Bay,,,,
-0232810,Hollis,Prince of Wales Island Grid,11.5,Water at Hydroelectric Turbine,2021
-0232810,Hollis,Prince of Wales Island Grid,15.1,Distillate Fuel Oil,2021
-0233030,Holy Cross,Holy Cross Grid,0.6,Distillate Fuel Oil,2021
-0233140,Homer,Railbelt Grid,60.0,Waste Oil,2021
-0233140,Homer,Railbelt Grid,44.5,Wind,2021
-0233140,Homer,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0233140,Homer,Railbelt Grid,1.9,Solar,2021
-0233140,Homer,Railbelt Grid,1403.7,Natural Gas,2021
-0233140,Homer,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0233140,Homer,Railbelt Grid,11.5,Landfill Gas,2021
-0233140,Homer,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0233140,Homer,Railbelt Grid,194.8,Coal,2021
-0233360,Hoonah,Hoonah Grid,0.5,Water at Hydroelectric Turbine,2021
-0233360,Hoonah,Hoonah Grid,2.0,Distillate Fuel Oil,2021
-0233470,Hooper Bay,Hooper Bay Grid,0.3,Wind,2021
-0233470,Hooper Bay,Hooper Bay Grid,2.2,Distillate Fuel Oil,2021
-0233580,Hope,Railbelt Grid,60.0,Waste Oil,2021
-0233580,Hope,Railbelt Grid,44.5,Wind,2021
-0233580,Hope,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0233580,Hope,Railbelt Grid,1.9,Solar,2021
-0233580,Hope,Railbelt Grid,1403.7,Natural Gas,2021
-0233580,Hope,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0233580,Hope,Railbelt Grid,11.5,Landfill Gas,2021
-0233580,Hope,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0233580,Hope,Railbelt Grid,194.8,Coal,2021
-0233800,Houston,Railbelt Grid,60.0,Waste Oil,2021
-0233800,Houston,Railbelt Grid,44.5,Wind,2021
-0233800,Houston,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0233800,Houston,Railbelt Grid,1.9,Solar,2021
-0233800,Houston,Railbelt Grid,1403.7,Natural Gas,2021
-0233800,Houston,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0233800,Houston,Railbelt Grid,11.5,Landfill Gas,2021
-0233800,Houston,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0233800,Houston,Railbelt Grid,194.8,Coal,2021
-0233910,Hughes,Hughes Grid,0.1,Solar,2021
-0233910,Hughes,Hughes Grid,0.3,Electricity used for Energy Storage,2021
-0233910,Hughes,Hughes Grid,0.4,Distillate Fuel Oil,2021
-0234350,Huslia,Huslia Grid,0.8,Distillate Fuel Oil,2021
-0234460,Hydaburg,Prince of Wales Island Grid,11.5,Water at Hydroelectric Turbine,2021
-0234460,Hydaburg,Prince of Wales Island Grid,15.1,Distillate Fuel Oil,2021
-0234570,Hyder,,,,
-0234790,Igiugig,Igiugig Grid,0.0,Water at Hydroelectric Turbine,2021
-0234790,Igiugig,Igiugig Grid,0.1,Electricity used for Energy Storage,2021
-0234790,Igiugig,Igiugig Grid,0.2,Distillate Fuel Oil,2021
-0235120,Iliamna,Newhalen Grid,0.8,Water at Hydroelectric Turbine,2021
-0235120,Iliamna,Newhalen Grid,0.9,Distillate Fuel Oil,2021
-0235890,Ivanof Bay,,,,
-0236400,Juneau,Juneau Grid,106.6,Water at Hydroelectric Turbine,2021
-0236400,Juneau,Juneau Grid,147.7,Distillate Fuel Oil,2021
-0236540,Kachemak,Railbelt Grid,60.0,Waste Oil,2021
-0236540,Kachemak,Railbelt Grid,44.5,Wind,2021
-0236540,Kachemak,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0236540,Kachemak,Railbelt Grid,1.9,Solar,2021
-0236540,Kachemak,Railbelt Grid,1403.7,Natural Gas,2021
-0236540,Kachemak,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0236540,Kachemak,Railbelt Grid,11.5,Landfill Gas,2021
-0236540,Kachemak,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0236540,Kachemak,Railbelt Grid,194.8,Coal,2021
-0236770,Kake,Kake Grid,0.5,Water at Hydroelectric Turbine,2021
-0236770,Kake,Kake Grid,3.1,Distillate Fuel Oil,2021
-0236990,Kaktovik,Kaktovik Grid,2.6,Distillate Fuel Oil,2021
-0237250,Kalifornsky,Railbelt Grid,60.0,Waste Oil,2021
-0237250,Kalifornsky,Railbelt Grid,44.5,Wind,2021
-0237250,Kalifornsky,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0237250,Kalifornsky,Railbelt Grid,1.9,Solar,2021
-0237250,Kalifornsky,Railbelt Grid,1403.7,Natural Gas,2021
-0237250,Kalifornsky,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0237250,Kalifornsky,Railbelt Grid,11.5,Landfill Gas,2021
-0237250,Kalifornsky,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0237250,Kalifornsky,Railbelt Grid,194.8,Coal,2021
-0237430,Kaltag,Kaltag Grid,0.0,Solar,2021
-0237430,Kaltag,Kaltag Grid,0.8,Distillate Fuel Oil,2021
-0237540,Karluk,Karluk Grid,0.2,Distillate Fuel Oil,2021
-0237650,Kasaan,Prince of Wales Island Grid,11.5,Water at Hydroelectric Turbine,2021
-0237650,Kasaan,Prince of Wales Island Grid,15.1,Distillate Fuel Oil,2021
-0237975,Kasigluk,Kasigluk Grid,0.3,Wind,2021
-0237975,Kasigluk,Kasigluk Grid,3.0,Distillate Fuel Oil,2021
-0238090,Kasilof,Railbelt Grid,60.0,Waste Oil,2021
-0238090,Kasilof,Railbelt Grid,44.5,Wind,2021
-0238090,Kasilof,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0238090,Kasilof,Railbelt Grid,1.9,Solar,2021
-0238090,Kasilof,Railbelt Grid,1403.7,Natural Gas,2021
-0238090,Kasilof,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0238090,Kasilof,Railbelt Grid,11.5,Landfill Gas,2021
-0238090,Kasilof,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0238090,Kasilof,Railbelt Grid,194.8,Coal,2021
-0238420,Kenai,Railbelt Grid,60.0,Waste Oil,2021
-0238420,Kenai,Railbelt Grid,44.5,Wind,2021
-0238420,Kenai,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0238420,Kenai,Railbelt Grid,1.9,Solar,2021
-0238420,Kenai,Railbelt Grid,1403.7,Natural Gas,2021
-0238420,Kenai,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0238420,Kenai,Railbelt Grid,11.5,Landfill Gas,2021
-0238420,Kenai,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0238420,Kenai,Railbelt Grid,194.8,Coal,2021
-0238910,Kenny Lake,Copper Valley Grid,5.3,Waste Oil,2021
-0238910,Kenny Lake,Copper Valley Grid,18.5,Water at Hydroelectric Turbine,2021
-0238910,Kenny Lake,Copper Valley Grid,17.8,Distillate Fuel Oil,2021
-0238970,Ketchikan,SEAPA Grid,63.3,Water at Hydroelectric Turbine,2021
-0238970,Ketchikan,SEAPA Grid,47.3,Distillate Fuel Oil,2021
-0239300,Kiana,Kiana Grid,1.2,Distillate Fuel Oil,2021
-0239410,King Cove,King Cove Grid,1.2,Water at Hydroelectric Turbine,2021
-0239410,King Cove,King Cove Grid,1.8,Distillate Fuel Oil,2021
-0239630,King Salmon,Naknek Grid,16.5,Distillate Fuel Oil,2021
-0239740,Kipnuk,Kipnuk Grid,0.6,Wind,2021
-0239740,Kipnuk,Kipnuk Grid,1.4,Distillate Fuel Oil,2021
-0239960,Kivalina,Kivalina Grid,1.1,Distillate Fuel Oil,2021
-0240400,Klawock,Prince of Wales Island Grid,11.5,Water at Hydroelectric Turbine,2021
-0240400,Klawock,Prince of Wales Island Grid,15.1,Distillate Fuel Oil,2021
-0240510,Klukwan,Upper Lynn Canal Grid,9.8,Water at Hydroelectric Turbine,2021
-0240510,Klukwan,Upper Lynn Canal Grid,14.9,Distillate Fuel Oil,2021
-0240670,Knik River,Railbelt Grid,60.0,Waste Oil,2021
-0240670,Knik River,Railbelt Grid,44.5,Wind,2021
-0240670,Knik River,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0240670,Knik River,Railbelt Grid,1.9,Solar,2021
-0240670,Knik River,Railbelt Grid,1403.7,Natural Gas,2021
-0240670,Knik River,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0240670,Knik River,Railbelt Grid,11.5,Landfill Gas,2021
-0240670,Knik River,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0240670,Knik River,Railbelt Grid,194.8,Coal,2021
-0240645,Knik-Fairview,Railbelt Grid,60.0,Waste Oil,2021
-0240645,Knik-Fairview,Railbelt Grid,44.5,Wind,2021
-0240645,Knik-Fairview,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0240645,Knik-Fairview,Railbelt Grid,1.9,Solar,2021
-0240645,Knik-Fairview,Railbelt Grid,1403.7,Natural Gas,2021
-0240645,Knik-Fairview,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0240645,Knik-Fairview,Railbelt Grid,11.5,Landfill Gas,2021
-0240645,Knik-Fairview,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0240645,Knik-Fairview,Railbelt Grid,194.8,Coal,2021
-0240840,Kobuk,Shungnak Grid,0.2,Solar,2021
-0240840,Kobuk,Shungnak Grid,0.2,Electricity used for Energy Storage,2021
-0240840,Kobuk,Shungnak Grid,1.7,Distillate Fuel Oil,2021
-0240950,Kodiak,Kodiak Grid,9.0,Wind,2021
-0240950,Kodiak,Kodiak Grid,33.6,Water at Hydroelectric Turbine,2021
-0240950,Kodiak,Kodiak Grid,5.0,Electricity used for Energy Storage,2021
-0240950,Kodiak,Kodiak Grid,37.2,Distillate Fuel Oil,2021
-0241210,Kodiak Station,Kodiak Grid,9.0,Wind,2021
-0241210,Kodiak Station,Kodiak Grid,33.6,Water at Hydroelectric Turbine,2021
-0241210,Kodiak Station,Kodiak Grid,5.0,Electricity used for Energy Storage,2021
-0241210,Kodiak Station,Kodiak Grid,37.2,Distillate Fuel Oil,2021
-0241280,Kokhanok,Kokhanok Grid,0.2,Wind,2021
-0241280,Kokhanok,Kokhanok Grid,0.6,Distillate Fuel Oil,2021
-0241500,Koliganek,Koliganek Grid,0.7,Distillate Fuel Oil,2021
-0241610,Kongiganak,Kongiganak Grid,0.5,Wind,2021
-0241610,Kongiganak,Kongiganak Grid,0.3,Electricity used for Energy Storage,2021
-0241610,Kongiganak,Kongiganak Grid,1.9,Distillate Fuel Oil,2021
-0241720,Kotlik,Kotlik Grid,1.4,Distillate Fuel Oil,2021
-0241830,Kotzebue,Kotzebue Grid,3.3,Wind,2021
-0241830,Kotzebue,Kotzebue Grid,0.8,Solar,2021
-0241830,Kotzebue,Kotzebue Grid,1.2,Electricity used for Energy Storage,2021
-0241830,Kotzebue,Kotzebue Grid,11.8,Distillate Fuel Oil,2021
-0241940,Koyuk,Koyuk Grid,1.0,Distillate Fuel Oil,2021
-0242050,Koyukuk,Koyukuk Grid,0.1,Distillate Fuel Oil,2021
-0242160,Kupreanof,SEAPA Grid,63.3,Water at Hydroelectric Turbine,2021
-0242160,Kupreanof,SEAPA Grid,47.3,Distillate Fuel Oil,2021
-0242380,Kwethluk,Kwethluk Grid,1.1,Distillate Fuel Oil,2021
-0242490,Kwigillingok,Kwigillingok Grid,0.5,Wind,2021
-0242490,Kwigillingok,Kwigillingok Grid,0.3,Electricity used for Energy Storage,2021
-0242490,Kwigillingok,Kwigillingok Grid,1.0,Distillate Fuel Oil,2021
-0242805,Lake Louise,,,,
-0242820,Lake Minchumina,,,,
-0243040,Larsen Bay,Larsen Bay Grid,0.5,Water at Hydroelectric Turbine,2021
-0243260,Lazy Mountain,Railbelt Grid,60.0,Waste Oil,2021
-0243260,Lazy Mountain,Railbelt Grid,44.5,Wind,2021
-0243260,Lazy Mountain,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0243260,Lazy Mountain,Railbelt Grid,1.9,Solar,2021
-0243260,Lazy Mountain,Railbelt Grid,1403.7,Natural Gas,2021
-0243260,Lazy Mountain,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0243260,Lazy Mountain,Railbelt Grid,11.5,Landfill Gas,2021
-0243260,Lazy Mountain,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0243260,Lazy Mountain,Railbelt Grid,194.8,Coal,2021
-0243810,Levelock,Levelock Grid,0.2,Distillate Fuel Oil,2021
-0244030,Lime Village,Lime Village Grid,0.0,Solar,2021
-0244580,Livengood,,,,
-0245020,Loring,,,,
-0245295,Lowell Point,Railbelt Grid,60.0,Waste Oil,2021
-0245295,Lowell Point,Railbelt Grid,44.5,Wind,2021
-0245295,Lowell Point,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0245295,Lowell Point,Railbelt Grid,1.9,Solar,2021
-0245295,Lowell Point,Railbelt Grid,1403.7,Natural Gas,2021
-0245295,Lowell Point,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0245295,Lowell Point,Railbelt Grid,11.5,Landfill Gas,2021
-0245295,Lowell Point,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0245295,Lowell Point,Railbelt Grid,194.8,Coal,2021
-0245460,Lower Kalskag,Upper Kalskag Grid,1.1,Distillate Fuel Oil,2021
-0245700,Lutak,Upper Lynn Canal Grid,9.8,Water at Hydroelectric Turbine,2021
-0245700,Lutak,Upper Lynn Canal Grid,14.9,Distillate Fuel Oil,2021
-0246780,Manley Hot Springs,Manley Hot Springs Grid,0.2,Distillate Fuel Oil,2021
-0246890,Manokotak,Manokotak Grid,0.6,Distillate Fuel Oil,2021
-0247000,Marshall,Marshall Grid,1.2,Distillate Fuel Oil,2021
-0245790,McCarthy,,,,
-0246010,McGrath,McGrath Grid,1.6,Distillate Fuel Oil,2021
-0247735,Meadow Lakes,Railbelt Grid,60.0,Waste Oil,2021
-0247735,Meadow Lakes,Railbelt Grid,44.5,Wind,2021
-0247735,Meadow Lakes,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0247735,Meadow Lakes,Railbelt Grid,1.9,Solar,2021
-0247735,Meadow Lakes,Railbelt Grid,1403.7,Natural Gas,2021
-0247735,Meadow Lakes,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0247735,Meadow Lakes,Railbelt Grid,11.5,Landfill Gas,2021
-0247735,Meadow Lakes,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0247735,Meadow Lakes,Railbelt Grid,194.8,Coal,2021
-0247990,Mekoryuk,Mekoryuk Grid,0.2,Wind,2021
-0247990,Mekoryuk,Mekoryuk Grid,0.7,Distillate Fuel Oil,2021
-0248200,Mendeltna,Copper Valley Grid,5.3,Waste Oil,2021
-0248200,Mendeltna,Copper Valley Grid,18.5,Water at Hydroelectric Turbine,2021
-0248200,Mendeltna,Copper Valley Grid,17.8,Distillate Fuel Oil,2021
-0248540,Mentasta Lake,Slana Grid,1.1,Distillate Fuel Oil,2021
-0248590,Mertarvik,Newtok Grid,0.4,Distillate Fuel Oil,2021
-0248870,Metlakatla,Metlakatla Grid,5.2,Water at Hydroelectric Turbine,2021
-0248870,Metlakatla,Metlakatla Grid,1.0,Electricity used for Energy Storage,2021
-0248870,Metlakatla,Metlakatla Grid,3.3,Distillate Fuel Oil,2021
-0249200,Mill Bay,Kodiak Grid,9.0,Wind,2021
-0249200,Mill Bay,Kodiak Grid,33.6,Water at Hydroelectric Turbine,2021
-0249200,Mill Bay,Kodiak Grid,5.0,Electricity used for Energy Storage,2021
-0249200,Mill Bay,Kodiak Grid,37.2,Distillate Fuel Oil,2021
-0249530,Minto,Minto Grid,0.7,Distillate Fuel Oil,2021
-0250080,Moose Creek,Railbelt Grid,60.0,Waste Oil,2021
-0250080,Moose Creek,Railbelt Grid,44.5,Wind,2021
-0250080,Moose Creek,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0250080,Moose Creek,Railbelt Grid,1.9,Solar,2021
-0250080,Moose Creek,Railbelt Grid,1403.7,Natural Gas,2021
-0250080,Moose Creek,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0250080,Moose Creek,Railbelt Grid,11.5,Landfill Gas,2021
-0250080,Moose Creek,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0250080,Moose Creek,Railbelt Grid,194.8,Coal,2021
-0250190,Moose Pass,Railbelt Grid,60.0,Waste Oil,2021
-0250190,Moose Pass,Railbelt Grid,44.5,Wind,2021
-0250190,Moose Pass,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0250190,Moose Pass,Railbelt Grid,1.9,Solar,2021
-0250190,Moose Pass,Railbelt Grid,1403.7,Natural Gas,2021
-0250190,Moose Pass,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0250190,Moose Pass,Railbelt Grid,11.5,Landfill Gas,2021
-0250190,Moose Pass,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0250190,Moose Pass,Railbelt Grid,194.8,Coal,2021
-0250800,Mosquito Lake,Upper Lynn Canal Grid,9.8,Water at Hydroelectric Turbine,2021
-0250800,Mosquito Lake,Upper Lynn Canal Grid,14.9,Distillate Fuel Oil,2021
-0251180,Mountain Village,Saint Marys Grid,0.9,Wind,2021
-0251180,Mountain Village,Saint Marys Grid,4.6,Distillate Fuel Oil,2021
-0251455,Mud Bay,Upper Lynn Canal Grid,9.8,Water at Hydroelectric Turbine,2021
-0251455,Mud Bay,Upper Lynn Canal Grid,14.9,Distillate Fuel Oil,2021
-0251960,Nabesna,,,,
-0252060,Naknek,Naknek Grid,16.5,Distillate Fuel Oil,2021
-0252210,Nanwalek,,,,
-0252390,Napakiak,Bethel Grid,0.9,Wind,2021
-0252390,Napakiak,Bethel Grid,12.9,Distillate Fuel Oil,2021
-0252720,Napaskiak,Napaskiak Grid,0.6,Distillate Fuel Oil,2021
-0252845,Naukati Bay,Prince of Wales Island Grid,11.5,Water at Hydroelectric Turbine,2021
-0252845,Naukati Bay,Prince of Wales Island Grid,15.1,Distillate Fuel Oil,2021
-0252915,Nelchina,Copper Valley Grid,5.3,Waste Oil,2021
-0252915,Nelchina,Copper Valley Grid,18.5,Water at Hydroelectric Turbine,2021
-0252915,Nelchina,Copper Valley Grid,17.8,Distillate Fuel Oil,2021
-0252940,Nelson Lagoon,Nelson Lagoon Grid,0.2,Distillate Fuel Oil,2021
-0253050,Nenana,Railbelt Grid,60.0,Waste Oil,2021
-0253050,Nenana,Railbelt Grid,44.5,Wind,2021
-0253050,Nenana,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0253050,Nenana,Railbelt Grid,1.9,Solar,2021
-0253050,Nenana,Railbelt Grid,1403.7,Natural Gas,2021
-0253050,Nenana,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0253050,Nenana,Railbelt Grid,11.5,Landfill Gas,2021
-0253050,Nenana,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0253050,Nenana,Railbelt Grid,194.8,Coal,2021
-0253710,New Stuyahok,New Stuyahok Grid,1.2,Distillate Fuel Oil,2021
-0253270,Newhalen,Newhalen Grid,0.8,Water at Hydroelectric Turbine,2021
-0253270,Newhalen,Newhalen Grid,0.9,Distillate Fuel Oil,2021
-0253820,Newtok,Newtok Grid,0.4,Distillate Fuel Oil,2021
-0253930,Nightmute,Toksook Bay Grid,0.1,Wind,2021
-0253930,Nightmute,Toksook Bay Grid,2.7,Distillate Fuel Oil,2021
-0254050,Nikiski,Railbelt Grid,60.0,Waste Oil,2021
-0254050,Nikiski,Railbelt Grid,44.5,Wind,2021
-0254050,Nikiski,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0254050,Nikiski,Railbelt Grid,1.9,Solar,2021
-0254050,Nikiski,Railbelt Grid,1403.7,Natural Gas,2021
-0254050,Nikiski,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0254050,Nikiski,Railbelt Grid,11.5,Landfill Gas,2021
-0254050,Nikiski,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0254050,Nikiski,Railbelt Grid,194.8,Coal,2021
-0254085,Nikolaevsk,Railbelt Grid,60.0,Waste Oil,2021
-0254085,Nikolaevsk,Railbelt Grid,44.5,Wind,2021
-0254085,Nikolaevsk,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0254085,Nikolaevsk,Railbelt Grid,1.9,Solar,2021
-0254085,Nikolaevsk,Railbelt Grid,1403.7,Natural Gas,2021
-0254085,Nikolaevsk,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0254085,Nikolaevsk,Railbelt Grid,11.5,Landfill Gas,2021
-0254085,Nikolaevsk,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0254085,Nikolaevsk,Railbelt Grid,194.8,Coal,2021
-0254150,Nikolai,Nikolai Grid,0.2,Distillate Fuel Oil,2021
-0254260,Nikolski,Nikolski Grid,,,
-0254480,Ninilchik,Railbelt Grid,60.0,Waste Oil,2021
-0254480,Ninilchik,Railbelt Grid,44.5,Wind,2021
-0254480,Ninilchik,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0254480,Ninilchik,Railbelt Grid,1.9,Solar,2021
-0254480,Ninilchik,Railbelt Grid,1403.7,Natural Gas,2021
-0254480,Ninilchik,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0254480,Ninilchik,Railbelt Grid,11.5,Landfill Gas,2021
-0254480,Ninilchik,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0254480,Ninilchik,Railbelt Grid,194.8,Coal,2021
-0254700,Noatak,Noatak Grid,1.3,Distillate Fuel Oil,2021
-0254920,Nome,Nome Grid,1.8,Wind,2021
-0254920,Nome,Nome Grid,16.6,Distillate Fuel Oil,2021
-0255030,Nondalton,Newhalen Grid,0.8,Water at Hydroelectric Turbine,2021
-0255030,Nondalton,Newhalen Grid,0.9,Distillate Fuel Oil,2021
-0255140,Noorvik,Noorvik Grid,0.0,Solar,2021
-0255140,Noorvik,Noorvik Grid,1.6,Distillate Fuel Oil,2021
-0255745,North Lakes,Railbelt Grid,60.0,Waste Oil,2021
-0255745,North Lakes,Railbelt Grid,44.5,Wind,2021
-0255745,North Lakes,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0255745,North Lakes,Railbelt Grid,1.9,Solar,2021
-0255745,North Lakes,Railbelt Grid,1403.7,Natural Gas,2021
-0255745,North Lakes,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0255745,North Lakes,Railbelt Grid,11.5,Landfill Gas,2021
-0255745,North Lakes,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0255745,North Lakes,Railbelt Grid,194.8,Coal,2021
-0255910,North Pole,Railbelt Grid,60.0,Waste Oil,2021
-0255910,North Pole,Railbelt Grid,44.5,Wind,2021
-0255910,North Pole,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0255910,North Pole,Railbelt Grid,1.9,Solar,2021
-0255910,North Pole,Railbelt Grid,1403.7,Natural Gas,2021
-0255910,North Pole,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0255910,North Pole,Railbelt Grid,11.5,Landfill Gas,2021
-0255910,North Pole,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0255910,North Pole,Railbelt Grid,194.8,Coal,2021
-0256220,Northway,Northway Grid,1.1,Distillate Fuel Oil,2021
-0256320,Nuiqsut,Nuiqsut Grid,2.2,Natural Gas,2021
-0256320,Nuiqsut,Nuiqsut Grid,2.2,Distillate Fuel Oil,2021
-0256350,Nulato,Nulato Grid,1.0,Distillate Fuel Oil,2021
-0256600,Nunam Iqua,Nunam Iqua Grid,1.7,Distillate Fuel Oil,2021
-0256680,Nunapitchuk,Kasigluk Grid,0.3,Wind,2021
-0256680,Nunapitchuk,Kasigluk Grid,3.0,Distillate Fuel Oil,2021
-0257340,Old Harbor,Old Harbor Grid,1.0,Distillate Fuel Oil,2021
-0258330,Oscarville,Bethel Grid,0.9,Wind,2021
-0258330,Oscarville,Bethel Grid,12.9,Distillate Fuel Oil,2021
-0258550,Ouzinkie,Ouzinkie Grid,0.1,Water at Hydroelectric Turbine,2021
-0258550,Ouzinkie,Ouzinkie Grid,0.3,Distillate Fuel Oil,2021
-0258660,Palmer,Railbelt Grid,60.0,Waste Oil,2021
-0258660,Palmer,Railbelt Grid,44.5,Wind,2021
-0258660,Palmer,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0258660,Palmer,Railbelt Grid,1.9,Solar,2021
-0258660,Palmer,Railbelt Grid,1403.7,Natural Gas,2021
-0258660,Palmer,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0258660,Palmer,Railbelt Grid,11.5,Landfill Gas,2021
-0258660,Palmer,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0258660,Palmer,Railbelt Grid,194.8,Coal,2021
-0259320,Paxson,Paxson Grid,,,
-0259540,Pedro Bay,Pedro Bay Grid,0.2,Distillate Fuel Oil,2021
-0259650,Pelican,Pelican Grid,1.4,Water at Hydroelectric Turbine,2021
-0259650,Pelican,Pelican Grid,1.0,Distillate Fuel Oil,2021
-0260200,Perryville,Perryville Grid,0.0,Wind,2021
-0260200,Perryville,Perryville Grid,0.5,Distillate Fuel Oil,2021
-0260310,Petersburg,SEAPA Grid,63.3,Water at Hydroelectric Turbine,2021
-0260310,Petersburg,SEAPA Grid,47.3,Distillate Fuel Oil,2021
-0260460,Petersville,,,,
-0260640,Pilot Point,Pilot Point Grid,0.2,Wind,2021
-0260640,Pilot Point,Pilot Point Grid,0.3,Distillate Fuel Oil,2021
-0260750,Pilot Station,Pilot Station Grid,1.5,Distillate Fuel Oil,2021
-0260860,Pitkas Point,Saint Marys Grid,0.9,Wind,2021
-0260860,Pitkas Point,Saint Marys Grid,4.6,Distillate Fuel Oil,2021
-0261080,Platinum,Platinum Grid,0.1,Distillate Fuel Oil,2021
-0261120,Pleasant Valley,Railbelt Grid,60.0,Waste Oil,2021
-0261120,Pleasant Valley,Railbelt Grid,44.5,Wind,2021
-0261120,Pleasant Valley,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0261120,Pleasant Valley,Railbelt Grid,1.9,Solar,2021
-0261120,Pleasant Valley,Railbelt Grid,1403.7,Natural Gas,2021
-0261120,Pleasant Valley,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0261120,Pleasant Valley,Railbelt Grid,11.5,Landfill Gas,2021
-0261120,Pleasant Valley,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0261120,Pleasant Valley,Railbelt Grid,194.8,Coal,2021
-0261190,Point Baker,,,,
-0261630,Point Hope,Point Hope Grid,3.1,Distillate Fuel Oil,2021
-0261700,Point Lay,Point Lay Grid,2.4,Distillate Fuel Oil,2021
-0261788,Point MacKenzie,Railbelt Grid,60.0,Waste Oil,2021
-0261788,Point MacKenzie,Railbelt Grid,44.5,Wind,2021
-0261788,Point MacKenzie,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0261788,Point MacKenzie,Railbelt Grid,1.9,Solar,2021
-0261788,Point MacKenzie,Railbelt Grid,1403.7,Natural Gas,2021
-0261788,Point MacKenzie,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0261788,Point MacKenzie,Railbelt Grid,11.5,Landfill Gas,2021
-0261788,Point MacKenzie,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0261788,Point MacKenzie,Railbelt Grid,194.8,Coal,2021
-0261825,Point Possession,,,,
-0262125,Pope-Vannoy Landing,,,,
-0262510,Port Alexander,,,,
-0262620,Port Alsworth,Port Alsworth Grid,0.8,Distillate Fuel Oil,2021
-0263170,Port Clarence,,,,
-0263280,Port Graham,,,,
-0263390,Port Heiden,Port Heiden Grid,0.7,Distillate Fuel Oil,2021
-0263610,Port Lions,Kodiak Grid,9.0,Wind,2021
-0263610,Port Lions,Kodiak Grid,33.6,Water at Hydroelectric Turbine,2021
-0263610,Port Lions,Kodiak Grid,5.0,Electricity used for Energy Storage,2021
-0263610,Port Lions,Kodiak Grid,37.2,Distillate Fuel Oil,2021
-0263870,Port Protection,,,,
-0262285,Portage Creek,,,,
-0264240,Primrose,Railbelt Grid,60.0,Waste Oil,2021
-0264240,Primrose,Railbelt Grid,44.5,Wind,2021
-0264240,Primrose,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0264240,Primrose,Railbelt Grid,1.9,Solar,2021
-0264240,Primrose,Railbelt Grid,1403.7,Natural Gas,2021
-0264240,Primrose,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0264240,Primrose,Railbelt Grid,11.5,Landfill Gas,2021
-0264240,Primrose,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0264240,Primrose,Railbelt Grid,194.8,Coal,2021
-0264380,Prudhoe Bay,Deadhorse Grid,33.2,Natural Gas,2021
-0264380,Prudhoe Bay,Deadhorse Grid,0.3,Distillate Fuel Oil,2021
-0264600,Quinhagak,Quinhagak Grid,0.3,Wind,2021
-0264600,Quinhagak,Quinhagak Grid,1.3,Distillate Fuel Oil,2021
-0264820,Rampart,Rampart Grid,0.3,Distillate Fuel Oil,2021
-0264930,Red Devil,Red Devil Grid,,,
-0264980,Red Dog Mine,,,,
-0265345,Ridgeway,Railbelt Grid,60.0,Waste Oil,2021
-0265345,Ridgeway,Railbelt Grid,44.5,Wind,2021
-0265345,Ridgeway,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0265345,Ridgeway,Railbelt Grid,1.9,Solar,2021
-0265345,Ridgeway,Railbelt Grid,1403.7,Natural Gas,2021
-0265345,Ridgeway,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0265345,Ridgeway,Railbelt Grid,11.5,Landfill Gas,2021
-0265345,Ridgeway,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0265345,Ridgeway,Railbelt Grid,194.8,Coal,2021
-0265590,Ruby,Ruby Grid,0.5,Distillate Fuel Oil,2021
-0265700,Russian Mission,Russian Mission Grid,0.9,Distillate Fuel Oil,2021
-0265800,Saint George,Saint George Grid,0.1,Wind,2021
-0265800,Saint George,Saint George Grid,0.8,Distillate Fuel Oil,2021
-0266140,Saint Mary's,Saint Marys Grid,0.9,Wind,2021
-0266140,Saint Mary's,Saint Marys Grid,4.6,Distillate Fuel Oil,2021
-0266360,Saint Michael,Stebbins Grid,2.8,Distillate Fuel Oil,2021
-0266470,Saint Paul,Saint Paul Grid,0.2,Wind,2021
-0266470,Saint Paul,Saint Paul Grid,2.7,Distillate Fuel Oil,2021
-0266510,Salamatof,Railbelt Grid,60.0,Waste Oil,2021
-0266510,Salamatof,Railbelt Grid,44.5,Wind,2021
-0266510,Salamatof,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0266510,Salamatof,Railbelt Grid,1.9,Solar,2021
-0266510,Salamatof,Railbelt Grid,1403.7,Natural Gas,2021
-0266510,Salamatof,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0266510,Salamatof,Railbelt Grid,11.5,Landfill Gas,2021
-0266510,Salamatof,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0266510,Salamatof,Railbelt Grid,194.8,Coal,2021
-0266550,Salcha,Railbelt Grid,60.0,Waste Oil,2021
-0266550,Salcha,Railbelt Grid,44.5,Wind,2021
-0266550,Salcha,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0266550,Salcha,Railbelt Grid,1.9,Solar,2021
-0266550,Salcha,Railbelt Grid,1403.7,Natural Gas,2021
-0266550,Salcha,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0266550,Salcha,Railbelt Grid,11.5,Landfill Gas,2021
-0266550,Salcha,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0266550,Salcha,Railbelt Grid,194.8,Coal,2021
-0267020,Sand Point,Sand Point Grid,1.0,Wind,2021
-0267020,Sand Point,Sand Point Grid,2.9,Distillate Fuel Oil,2021
-0267460,Savoonga,Savoonga Grid,0.2,Wind,2021
-0267460,Savoonga,Savoonga Grid,1.5,Distillate Fuel Oil,2021
-0267570,Saxman,SEAPA Grid,63.3,Water at Hydroelectric Turbine,2021
-0267570,Saxman,SEAPA Grid,47.3,Distillate Fuel Oil,2021
-0267680,Scammon Bay,Scammon Bay Grid,1.1,Distillate Fuel Oil,2021
-0268230,Selawik,Selawik Grid,0.3,Wind,2021
-0268230,Selawik,Selawik Grid,2.3,Distillate Fuel Oil,2021
-0268340,Seldovia,Railbelt Grid,60.0,Waste Oil,2021
-0268340,Seldovia,Railbelt Grid,44.5,Wind,2021
-0268340,Seldovia,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0268340,Seldovia,Railbelt Grid,1.9,Solar,2021
-0268340,Seldovia,Railbelt Grid,1403.7,Natural Gas,2021
-0268340,Seldovia,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0268340,Seldovia,Railbelt Grid,11.5,Landfill Gas,2021
-0268340,Seldovia,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0268340,Seldovia,Railbelt Grid,194.8,Coal,2021
-0268370,Seldovia Village,Railbelt Grid,60.0,Waste Oil,2021
-0268370,Seldovia Village,Railbelt Grid,44.5,Wind,2021
-0268370,Seldovia Village,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0268370,Seldovia Village,Railbelt Grid,1.9,Solar,2021
-0268370,Seldovia Village,Railbelt Grid,1403.7,Natural Gas,2021
-0268370,Seldovia Village,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0268370,Seldovia Village,Railbelt Grid,11.5,Landfill Gas,2021
-0268370,Seldovia Village,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0268370,Seldovia Village,Railbelt Grid,194.8,Coal,2021
-0268560,Seward,Railbelt Grid,60.0,Waste Oil,2021
-0268560,Seward,Railbelt Grid,44.5,Wind,2021
-0268560,Seward,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0268560,Seward,Railbelt Grid,1.9,Solar,2021
-0268560,Seward,Railbelt Grid,1403.7,Natural Gas,2021
-0268560,Seward,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0268560,Seward,Railbelt Grid,11.5,Landfill Gas,2021
-0268560,Seward,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0268560,Seward,Railbelt Grid,194.8,Coal,2021
-0268670,Shageluk,Shageluk Grid,0.4,Distillate Fuel Oil,2021
-0268890,Shaktoolik,Shaktoolik Grid,0.2,Wind,2021
-0268890,Shaktoolik,Shaktoolik Grid,0.8,Distillate Fuel Oil,2021
-0269770,Shishmaref,Shishmaref Grid,1.4,Distillate Fuel Oil,2021
-0270100,Shungnak,Shungnak Grid,0.2,Solar,2021
-0270100,Shungnak,Shungnak Grid,0.2,Electricity used for Energy Storage,2021
-0270100,Shungnak,Shungnak Grid,1.7,Distillate Fuel Oil,2021
-0270320,Silver Springs,Copper Valley Grid,5.3,Waste Oil,2021
-0270320,Silver Springs,Copper Valley Grid,18.5,Water at Hydroelectric Turbine,2021
-0270320,Silver Springs,Copper Valley Grid,17.8,Distillate Fuel Oil,2021
-0270540,Sitka,Sitka Grid,34.5,Water at Hydroelectric Turbine,2021
-0270540,Sitka,Sitka Grid,25.6,Distillate Fuel Oil,2021
-0270760,Skagway,Upper Lynn Canal Grid,9.8,Water at Hydroelectric Turbine,2021
-0270760,Skagway,Upper Lynn Canal Grid,14.9,Distillate Fuel Oil,2021
-0270870,Skwentna,,,,
-0270930,Slana,Slana Grid,1.1,Distillate Fuel Oil,2021
-0271090,Sleetmute,Sleetmute Grid,0.3,Distillate Fuel Oil,2021
-0271640,Soldotna,Railbelt Grid,60.0,Waste Oil,2021
-0271640,Soldotna,Railbelt Grid,44.5,Wind,2021
-0271640,Soldotna,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0271640,Soldotna,Railbelt Grid,1.9,Solar,2021
-0271640,Soldotna,Railbelt Grid,1403.7,Natural Gas,2021
-0271640,Soldotna,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0271640,Soldotna,Railbelt Grid,11.5,Landfill Gas,2021
-0271640,Soldotna,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0271640,Soldotna,Railbelt Grid,194.8,Coal,2021
-0272135,South Lakes,Railbelt Grid,60.0,Waste Oil,2021
-0272135,South Lakes,Railbelt Grid,44.5,Wind,2021
-0272135,South Lakes,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0272135,South Lakes,Railbelt Grid,1.9,Solar,2021
-0272135,South Lakes,Railbelt Grid,1403.7,Natural Gas,2021
-0272135,South Lakes,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0272135,South Lakes,Railbelt Grid,11.5,Landfill Gas,2021
-0272135,South Lakes,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0272135,South Lakes,Railbelt Grid,194.8,Coal,2021
-0272190,South Naknek,Naknek Grid,16.5,Distillate Fuel Oil,2021
-0272230,South Van Horn,Railbelt Grid,60.0,Waste Oil,2021
-0272230,South Van Horn,Railbelt Grid,44.5,Wind,2021
-0272230,South Van Horn,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0272230,South Van Horn,Railbelt Grid,1.9,Solar,2021
-0272230,South Van Horn,Railbelt Grid,1403.7,Natural Gas,2021
-0272230,South Van Horn,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0272230,South Van Horn,Railbelt Grid,11.5,Landfill Gas,2021
-0272230,South Van Horn,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0272230,South Van Horn,Railbelt Grid,194.8,Coal,2021
-0272960,Stebbins,Stebbins Grid,2.8,Distillate Fuel Oil,2021
-0272985,Steele Creek,Railbelt Grid,60.0,Waste Oil,2021
-0272985,Steele Creek,Railbelt Grid,44.5,Wind,2021
-0272985,Steele Creek,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0272985,Steele Creek,Railbelt Grid,1.9,Solar,2021
-0272985,Steele Creek,Railbelt Grid,1403.7,Natural Gas,2021
-0272985,Steele Creek,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0272985,Steele Creek,Railbelt Grid,11.5,Landfill Gas,2021
-0272985,Steele Creek,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0272985,Steele Creek,Railbelt Grid,194.8,Coal,2021
-0273070,Sterling,Railbelt Grid,60.0,Waste Oil,2021
-0273070,Sterling,Railbelt Grid,44.5,Wind,2021
-0273070,Sterling,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0273070,Sterling,Railbelt Grid,1.9,Solar,2021
-0273070,Sterling,Railbelt Grid,1403.7,Natural Gas,2021
-0273070,Sterling,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0273070,Sterling,Railbelt Grid,11.5,Landfill Gas,2021
-0273070,Sterling,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0273070,Sterling,Railbelt Grid,194.8,Coal,2021
-0273290,Stevens Village,Stevens Village Grid,0.3,Distillate Fuel Oil,2021
-0273400,Stony River,Stony River Grid,0.1,Distillate Fuel Oil,2021
-0273950,Sunrise,Railbelt Grid,60.0,Waste Oil,2021
-0273950,Sunrise,Railbelt Grid,44.5,Wind,2021
-0273950,Sunrise,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0273950,Sunrise,Railbelt Grid,1.9,Solar,2021
-0273950,Sunrise,Railbelt Grid,1403.7,Natural Gas,2021
-0273950,Sunrise,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0273950,Sunrise,Railbelt Grid,11.5,Landfill Gas,2021
-0273950,Sunrise,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0273950,Sunrise,Railbelt Grid,194.8,Coal,2021
-0274340,Susitna,,,,
-0274350,Susitna North,Railbelt Grid,60.0,Waste Oil,2021
-0274350,Susitna North,Railbelt Grid,44.5,Wind,2021
-0274350,Susitna North,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0274350,Susitna North,Railbelt Grid,1.9,Solar,2021
-0274350,Susitna North,Railbelt Grid,1403.7,Natural Gas,2021
-0274350,Susitna North,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0274350,Susitna North,Railbelt Grid,11.5,Landfill Gas,2021
-0274350,Susitna North,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0274350,Susitna North,Railbelt Grid,194.8,Coal,2021
-0274525,Sutton-Alpine,Railbelt Grid,60.0,Waste Oil,2021
-0274525,Sutton-Alpine,Railbelt Grid,44.5,Wind,2021
-0274525,Sutton-Alpine,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0274525,Sutton-Alpine,Railbelt Grid,1.9,Solar,2021
-0274525,Sutton-Alpine,Railbelt Grid,1403.7,Natural Gas,2021
-0274525,Sutton-Alpine,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0274525,Sutton-Alpine,Railbelt Grid,11.5,Landfill Gas,2021
-0274525,Sutton-Alpine,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0274525,Sutton-Alpine,Railbelt Grid,194.8,Coal,2021
-0274610,Takotna,Takotna Grid,0.2,Distillate Fuel Oil,2021
-0274830,Talkeetna,Railbelt Grid,60.0,Waste Oil,2021
-0274830,Talkeetna,Railbelt Grid,44.5,Wind,2021
-0274830,Talkeetna,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0274830,Talkeetna,Railbelt Grid,1.9,Solar,2021
-0274830,Talkeetna,Railbelt Grid,1403.7,Natural Gas,2021
-0274830,Talkeetna,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0274830,Talkeetna,Railbelt Grid,11.5,Landfill Gas,2021
-0274830,Talkeetna,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0274830,Talkeetna,Railbelt Grid,194.8,Coal,2021
-0275050,Tanacross,Tok Grid,5.2,Distillate Fuel Oil,2021
-0275077,Tanaina,Railbelt Grid,60.0,Waste Oil,2021
-0275077,Tanaina,Railbelt Grid,44.5,Wind,2021
-0275077,Tanaina,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0275077,Tanaina,Railbelt Grid,1.9,Solar,2021
-0275077,Tanaina,Railbelt Grid,1403.7,Natural Gas,2021
-0275077,Tanaina,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0275077,Tanaina,Railbelt Grid,11.5,Landfill Gas,2021
-0275077,Tanaina,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0275077,Tanaina,Railbelt Grid,194.8,Coal,2021
-0275160,Tanana,Tanana Grid,1.6,Distillate Fuel Oil,2021
-0275380,Tatitlek,Tatitlek Grid,,,
-0275480,Tazlina,Copper Valley Grid,5.3,Waste Oil,2021
-0275480,Tazlina,Copper Valley Grid,18.5,Water at Hydroelectric Turbine,2021
-0275480,Tazlina,Copper Valley Grid,17.8,Distillate Fuel Oil,2021
-0275930,Teller,Teller Grid,1.1,Distillate Fuel Oil,2021
-0276260,Tenakee Springs,Tenakee Springs Grid,0.2,Water at Hydroelectric Turbine,2021
-0276260,Tenakee Springs,Tenakee Springs Grid,0.2,Distillate Fuel Oil,2021
-0276590,Tetlin,Tok Grid,5.2,Distillate Fuel Oil,2021
-0277140,Thorne Bay,Prince of Wales Island Grid,11.5,Water at Hydroelectric Turbine,2021
-0277140,Thorne Bay,Prince of Wales Island Grid,15.1,Distillate Fuel Oil,2021
-0277690,Togiak,Togiak Grid,2.6,Distillate Fuel Oil,2021
-0277800,Tok,Tok Grid,5.2,Distillate Fuel Oil,2021
-0278240,Toksook Bay,Toksook Bay Grid,0.1,Wind,2021
-0278240,Toksook Bay,Toksook Bay Grid,2.7,Distillate Fuel Oil,2021
-0278297,Tolsona,Copper Valley Grid,5.3,Waste Oil,2021
-0278297,Tolsona,Copper Valley Grid,18.5,Water at Hydroelectric Turbine,2021
-0278297,Tolsona,Copper Valley Grid,17.8,Distillate Fuel Oil,2021
-0278350,Tonsina,,,,
-0278680,Trapper Creek,Railbelt Grid,60.0,Waste Oil,2021
-0278680,Trapper Creek,Railbelt Grid,44.5,Wind,2021
-0278680,Trapper Creek,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0278680,Trapper Creek,Railbelt Grid,1.9,Solar,2021
-0278680,Trapper Creek,Railbelt Grid,1403.7,Natural Gas,2021
-0278680,Trapper Creek,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0278680,Trapper Creek,Railbelt Grid,11.5,Landfill Gas,2021
-0278680,Trapper Creek,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0278680,Trapper Creek,Railbelt Grid,194.8,Coal,2021
-0278790,Tuluksak,Tuluksak Grid,0.5,Distillate Fuel Oil,2021
-0279120,Tuntutuliak,Tuntutuliak Grid,0.5,Wind,2021
-0279120,Tuntutuliak,Tuntutuliak Grid,0.3,Electricity used for Energy Storage,2021
-0279120,Tuntutuliak,Tuntutuliak Grid,1.7,Distillate Fuel Oil,2021
-0279230,Tununak,Toksook Bay Grid,0.1,Wind,2021
-0279230,Tununak,Toksook Bay Grid,2.7,Distillate Fuel Oil,2021
-0279780,Twin Hills,Togiak Grid,2.6,Distillate Fuel Oil,2021
-0279830,Two Rivers,Railbelt Grid,60.0,Waste Oil,2021
-0279830,Two Rivers,Railbelt Grid,44.5,Wind,2021
-0279830,Two Rivers,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0279830,Two Rivers,Railbelt Grid,1.9,Solar,2021
-0279830,Two Rivers,Railbelt Grid,1403.7,Natural Gas,2021
-0279830,Two Rivers,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0279830,Two Rivers,Railbelt Grid,11.5,Landfill Gas,2021
-0279830,Two Rivers,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0279830,Two Rivers,Railbelt Grid,194.8,Coal,2021
-0279890,Tyonek,Railbelt Grid,60.0,Waste Oil,2021
-0279890,Tyonek,Railbelt Grid,44.5,Wind,2021
-0279890,Tyonek,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0279890,Tyonek,Railbelt Grid,1.9,Solar,2021
-0279890,Tyonek,Railbelt Grid,1403.7,Natural Gas,2021
-0279890,Tyonek,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0279890,Tyonek,Railbelt Grid,11.5,Landfill Gas,2021
-0279890,Tyonek,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0279890,Tyonek,Railbelt Grid,194.8,Coal,2021
-0280100,Ugashik,,,,
-0280660,Unalakleet,Unalakleet Grid,0.6,Wind,2021
-0280660,Unalakleet,Unalakleet Grid,1.9,Distillate Fuel Oil,2021
-0280770,Unalaska,Unalaska Grid,0.2,Waste Heat,2021
-0280770,Unalaska,Unalaska Grid,47.1,Distillate Fuel Oil,2021
-0281320,Upper Kalskag,Upper Kalskag Grid,1.1,Distillate Fuel Oil,2021
-0281920,Utqiagvik,Utqiagvik Grid,20.3,Natural Gas,2021
-0282200,Valdez,Copper Valley Grid,5.3,Waste Oil,2021
-0282200,Valdez,Copper Valley Grid,18.5,Water at Hydroelectric Turbine,2021
-0282200,Valdez,Copper Valley Grid,17.8,Distillate Fuel Oil,2021
-0282420,Venetie,Venetie Grid,0.5,Distillate Fuel Oil,2021
-0282750,Wainwright,Wainwright Grid,3.0,Distillate Fuel Oil,2021
-0282860,Wales,Wales Grid,0.5,Distillate Fuel Oil,2021
-0283080,Wasilla,Railbelt Grid,60.0,Waste Oil,2021
-0283080,Wasilla,Railbelt Grid,44.5,Wind,2021
-0283080,Wasilla,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0283080,Wasilla,Railbelt Grid,1.9,Solar,2021
-0283080,Wasilla,Railbelt Grid,1403.7,Natural Gas,2021
-0283080,Wasilla,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0283080,Wasilla,Railbelt Grid,11.5,Landfill Gas,2021
-0283080,Wasilla,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0283080,Wasilla,Railbelt Grid,194.8,Coal,2021
-0284000,Whale Pass,Whale Pass Grid,0.6,Distillate Fuel Oil,2021
-0284070,White Mountain,White Mountain Grid,0.4,Distillate Fuel Oil,2021
-0284120,Whitestone,Railbelt Grid,60.0,Waste Oil,2021
-0284120,Whitestone,Railbelt Grid,44.5,Wind,2021
-0284120,Whitestone,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0284120,Whitestone,Railbelt Grid,1.9,Solar,2021
-0284120,Whitestone,Railbelt Grid,1403.7,Natural Gas,2021
-0284120,Whitestone,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0284120,Whitestone,Railbelt Grid,11.5,Landfill Gas,2021
-0284120,Whitestone,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0284120,Whitestone,Railbelt Grid,194.8,Coal,2021
-0284200,Whitestone Logging Camp,,,,
-0284510,Whittier,Railbelt Grid,60.0,Waste Oil,2021
-0284510,Whittier,Railbelt Grid,44.5,Wind,2021
-0284510,Whittier,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0284510,Whittier,Railbelt Grid,1.9,Solar,2021
-0284510,Whittier,Railbelt Grid,1403.7,Natural Gas,2021
-0284510,Whittier,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0284510,Whittier,Railbelt Grid,11.5,Landfill Gas,2021
-0284510,Whittier,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0284510,Whittier,Railbelt Grid,194.8,Coal,2021
-0285280,Willow,Railbelt Grid,60.0,Waste Oil,2021
-0285280,Willow,Railbelt Grid,44.5,Wind,2021
-0285280,Willow,Railbelt Grid,191.6,Water at Hydroelectric Turbine,2021
-0285280,Willow,Railbelt Grid,1.9,Solar,2021
-0285280,Willow,Railbelt Grid,1403.7,Natural Gas,2021
-0285280,Willow,Railbelt Grid,89.5,Electricity used for Energy Storage,2021
-0285280,Willow,Railbelt Grid,11.5,Landfill Gas,2021
-0285280,Willow,Railbelt Grid,231.9,Distillate Fuel Oil,2021
-0285280,Willow,Railbelt Grid,194.8,Coal,2021
-0285290,Willow Creek,Copper Valley Grid,5.3,Waste Oil,2021
-0285290,Willow Creek,Copper Valley Grid,18.5,Water at Hydroelectric Turbine,2021
-0285290,Willow Creek,Copper Valley Grid,17.8,Distillate Fuel Oil,2021
-0285610,Wiseman,,,,
-0285680,Womens Bay,Kodiak Grid,9.0,Wind,2021
-0285680,Womens Bay,Kodiak Grid,33.6,Water at Hydroelectric Turbine,2021
-0285680,Womens Bay,Kodiak Grid,5.0,Electricity used for Energy Storage,2021
-0285680,Womens Bay,Kodiak Grid,37.2,Distillate Fuel Oil,2021
-0286380,Wrangell,SEAPA Grid,63.3,Water at Hydroelectric Turbine,2021
-0286380,Wrangell,SEAPA Grid,47.3,Distillate Fuel Oil,2021
-0286490,Yakutat,Yakutat Grid,4.2,Distillate Fuel Oil,2021
+fips_code,name,service_area_capacity_mw,fuel_type,year
+0200650,Akhiok,0.3,Distillate Fuel Oil,2021
+0200760,Akiachak,1.5,Distillate Fuel Oil,2021
+0200870,Akiak,0.9,Distillate Fuel Oil,2021
+0201090,Akutan,0.1,Water at Hydroelectric Turbine,2021
+0201090,Akutan,0.4,Distillate Fuel Oil,2021
+0201200,Alakanuk,1.6,Distillate Fuel Oil,2021
+0201390,Alcan Border,1.1,Distillate Fuel Oil,2021
+0201420,Aleknagik,11.0,Distillate Fuel Oil,2021
+0201970,Ambler,2.2,Distillate Fuel Oil,2021
+0202080,Anaktuvuk Pass,2.7,Distillate Fuel Oil,2021
+0203110,Anchor Point,2.2,Distillate Fuel Oil,2021
+0203110,Anchor Point,93.0,Electricity used for Energy Storage,2021
+0203110,Anchor Point,126.0,Water at Hydroelectric Turbine,2021
+0203110,Anchor Point,378.6,Natural Gas,2021
+0203000,Anchorage,2.0,Distillate Fuel Oil,2021
+0203000,Anchorage,3.0,Electricity used for Energy Storage,2021
+0203000,Anchorage,19.4,Water at Hydroelectric Turbine,2021
+0203000,Anchorage,641.7,Natural Gas,2021
+0203220,Anderson,0.6,Solar,2021
+0203220,Anderson,26.5,Wind,2021
+0203220,Anderson,40.0,Electricity used for Energy Storage,2021
+0203220,Anderson,60.0,Waste Oil,2021
+0203220,Anderson,194.8,Coal,2021
+0203220,Anderson,212.1,Distillate Fuel Oil,2021
+0203440,Angoon,1.5,Distillate Fuel Oil,2021
+0203550,Aniak,2.2,Distillate Fuel Oil,2021
+0203880,Anvik,0.4,Distillate Fuel Oil,2021
+0204210,Atka,0.3,Distillate Fuel Oil,2021
+0204210,Atka,0.3,Water at Hydroelectric Turbine,2021
+0204430,Atmautluak,1.1,Distillate Fuel Oil,2021
+0204500,Atqasuk,3.2,Distillate Fuel Oil,2021
+0205000,Badger,0.6,Solar,2021
+0205000,Badger,26.5,Wind,2021
+0205000,Badger,40.0,Electricity used for Energy Storage,2021
+0205000,Badger,60.0,Waste Oil,2021
+0205000,Badger,194.8,Coal,2021
+0205000,Badger,212.1,Distillate Fuel Oil,2021
+0205585,Bear Creek,15.6,Distillate Fuel Oil,2021
+0205750,Beaver,0.3,Distillate Fuel Oil,2021
+0206245,Beluga,312.4,Natural Gas,2021
+0206520,Bethel,0.9,Wind,2021
+0206520,Bethel,12.6,Distillate Fuel Oil,2021
+0206630,Bettles,0.6,Distillate Fuel Oil,2021
+0206850,Big Delta,0.6,Solar,2021
+0206850,Big Delta,26.5,Wind,2021
+0206850,Big Delta,40.0,Electricity used for Energy Storage,2021
+0206850,Big Delta,60.0,Waste Oil,2021
+0206850,Big Delta,194.8,Coal,2021
+0206850,Big Delta,212.1,Distillate Fuel Oil,2021
+0207070,Big Lake,1.3,Solar,2021
+0207070,Big Lake,11.5,Landfill Gas,2021
+0207070,Big Lake,45.6,Water at Hydroelectric Turbine,2021
+0207070,Big Lake,171.0,Natural Gas,2021
+0208740,Brevig Mission,2.0,Distillate Fuel Oil,2021
+0209600,Buckland,0.0,Solar,2021
+0209600,Buckland,0.2,Wind,2021
+0209600,Buckland,0.3,Electricity used for Energy Storage,2021
+0209600,Buckland,1.2,Distillate Fuel Oil,2021
+0209657,Buffalo Soapstone,1.3,Solar,2021
+0209657,Buffalo Soapstone,11.5,Landfill Gas,2021
+0209657,Buffalo Soapstone,45.6,Water at Hydroelectric Turbine,2021
+0209657,Buffalo Soapstone,171.0,Natural Gas,2021
+0209710,Butte,1.3,Solar,2021
+0209710,Butte,11.5,Landfill Gas,2021
+0209710,Butte,45.6,Water at Hydroelectric Turbine,2021
+0209710,Butte,171.0,Natural Gas,2021
+0210150,Cantwell,0.6,Solar,2021
+0210150,Cantwell,26.5,Wind,2021
+0210150,Cantwell,40.0,Electricity used for Energy Storage,2021
+0210150,Cantwell,60.0,Waste Oil,2021
+0210150,Cantwell,194.8,Coal,2021
+0210150,Cantwell,212.1,Distillate Fuel Oil,2021
+0211690,Central,0.3,Distillate Fuel Oil,2021
+0211800,Chalkyitsik,0.3,Distillate Fuel Oil,2021
+0212350,Chase,1.3,Solar,2021
+0212350,Chase,11.5,Landfill Gas,2021
+0212350,Chase,45.6,Water at Hydroelectric Turbine,2021
+0212350,Chase,171.0,Natural Gas,2021
+0212680,Chefornak,0.3,Wind,2021
+0212680,Chefornak,0.9,Distillate Fuel Oil,2021
+0212920,Chena Ridge,0.6,Solar,2021
+0212920,Chena Ridge,26.5,Wind,2021
+0212920,Chena Ridge,40.0,Electricity used for Energy Storage,2021
+0212920,Chena Ridge,60.0,Waste Oil,2021
+0212920,Chena Ridge,194.8,Coal,2021
+0212920,Chena Ridge,212.1,Distillate Fuel Oil,2021
+0212970,Chenega,0.5,Distillate Fuel Oil,2021
+0213230,Chevak,0.4,Wind,2021
+0213230,Chevak,1.8,Distillate Fuel Oil,2021
+0213340,Chickaloon,1.3,Solar,2021
+0213340,Chickaloon,11.5,Landfill Gas,2021
+0213340,Chickaloon,45.6,Water at Hydroelectric Turbine,2021
+0213340,Chickaloon,171.0,Natural Gas,2021
+0213670,Chignik Lagoon,0.2,Wind,2021
+0213670,Chignik Lagoon,0.5,Distillate Fuel Oil,2021
+0213860,Chiniak,5.0,Electricity used for Energy Storage,2021
+0213860,Chiniak,9.0,Wind,2021
+0213860,Chiniak,36.7,Distillate Fuel Oil,2021
+0214110,Chitina,0.4,Distillate Fuel Oil,2021
+0214330,Chuathbaluk,0.2,Distillate Fuel Oil,2021
+0214880,Circle,0.3,Distillate Fuel Oil,2021
+0215320,Clam Gulch,2.2,Distillate Fuel Oil,2021
+0215320,Clam Gulch,93.0,Electricity used for Energy Storage,2021
+0215320,Clam Gulch,126.0,Water at Hydroelectric Turbine,2021
+0215320,Clam Gulch,378.6,Natural Gas,2021
+0216360,Coffman Cove,0.7,Distillate Fuel Oil,2021
+0216420,Cohoe,2.2,Distillate Fuel Oil,2021
+0216420,Cohoe,93.0,Electricity used for Energy Storage,2021
+0216420,Cohoe,126.0,Water at Hydroelectric Turbine,2021
+0216420,Cohoe,378.6,Natural Gas,2021
+0216750,College,0.6,Solar,2021
+0216750,College,26.5,Wind,2021
+0216750,College,40.0,Electricity used for Energy Storage,2021
+0216750,College,60.0,Waste Oil,2021
+0216750,College,194.8,Coal,2021
+0216750,College,212.1,Distillate Fuel Oil,2021
+0217190,Cooper Landing,2.0,Distillate Fuel Oil,2021
+0217190,Cooper Landing,3.0,Electricity used for Energy Storage,2021
+0217190,Cooper Landing,19.4,Water at Hydroelectric Turbine,2021
+0217190,Cooper Landing,641.7,Natural Gas,2021
+0217300,Copper Center,5.3,Waste Oil,2021
+0217300,Copper Center,17.8,Distillate Fuel Oil,2021
+0217300,Copper Center,18.5,Water at Hydroelectric Turbine,2021
+0217410,Cordova,1.0,Electricity used for Energy Storage,2021
+0217410,Cordova,7.2,Water at Hydroelectric Turbine,2021
+0217410,Cordova,10.7,Distillate Fuel Oil,2021
+0217740,Craig,4.5,Water at Hydroelectric Turbine,2021
+0217740,Craig,12.6,Distillate Fuel Oil,2021
+0217850,Crooked Creek,0.3,Distillate Fuel Oil,2021
+0217960,Crown Point,15.6,Distillate Fuel Oil,2021
+0218510,Deering,0.0,Solar,2021
+0218510,Deering,0.1,Wind,2021
+0218510,Deering,0.3,Electricity used for Energy Storage,2021
+0218510,Deering,0.4,Distillate Fuel Oil,2021
+0218620,Delta Junction,0.6,Solar,2021
+0218620,Delta Junction,26.5,Wind,2021
+0218620,Delta Junction,40.0,Electricity used for Energy Storage,2021
+0218620,Delta Junction,60.0,Waste Oil,2021
+0218620,Delta Junction,194.8,Coal,2021
+0218620,Delta Junction,212.1,Distillate Fuel Oil,2021
+0218675,Deltana,0.6,Solar,2021
+0218675,Deltana,26.5,Wind,2021
+0218675,Deltana,40.0,Electricity used for Energy Storage,2021
+0218675,Deltana,60.0,Waste Oil,2021
+0218675,Deltana,194.8,Coal,2021
+0218675,Deltana,212.1,Distillate Fuel Oil,2021
+0218805,Denali Park,0.6,Solar,2021
+0218805,Denali Park,26.5,Wind,2021
+0218805,Denali Park,40.0,Electricity used for Energy Storage,2021
+0218805,Denali Park,60.0,Waste Oil,2021
+0218805,Denali Park,194.8,Coal,2021
+0218805,Denali Park,212.1,Distillate Fuel Oil,2021
+0218925,Diamond Ridge,2.2,Distillate Fuel Oil,2021
+0218925,Diamond Ridge,93.0,Electricity used for Energy Storage,2021
+0218925,Diamond Ridge,126.0,Water at Hydroelectric Turbine,2021
+0218925,Diamond Ridge,378.6,Natural Gas,2021
+0218950,Dillingham,11.0,Distillate Fuel Oil,2021
+0219060,Diomede,0.5,Distillate Fuel Oil,2021
+0219720,Dot Lake,5.2,Distillate Fuel Oil,2021
+0219750,Dot Lake Village,5.2,Distillate Fuel Oil,2021
+0220020,Dry Creek,5.2,Distillate Fuel Oil,2021
+0221040,Eek,1.1,Distillate Fuel Oil,2021
+0221150,Egegik,1.0,Distillate Fuel Oil,2021
+0221370,Eielson AFB,0.6,Solar,2021
+0221370,Eielson AFB,26.5,Wind,2021
+0221370,Eielson AFB,40.0,Electricity used for Energy Storage,2021
+0221370,Eielson AFB,60.0,Waste Oil,2021
+0221370,Eielson AFB,194.8,Coal,2021
+0221370,Eielson AFB,212.1,Distillate Fuel Oil,2021
+0222250,Elim,2.6,Distillate Fuel Oil,2021
+0222910,Emmonak,0.4,Wind,2021
+0222910,Emmonak,3.2,Distillate Fuel Oil,2021
+0223460,Ester,0.6,Solar,2021
+0223460,Ester,26.5,Wind,2021
+0223460,Ester,40.0,Electricity used for Energy Storage,2021
+0223460,Ester,60.0,Waste Oil,2021
+0223460,Ester,194.8,Coal,2021
+0223460,Ester,212.1,Distillate Fuel Oil,2021
+0223720,Eureka Roadhouse,5.3,Waste Oil,2021
+0223720,Eureka Roadhouse,17.8,Distillate Fuel Oil,2021
+0223720,Eureka Roadhouse,18.5,Water at Hydroelectric Turbine,2021
+0223790,Evansville,0.6,Distillate Fuel Oil,2021
+0224230,Fairbanks,0.6,Solar,2021
+0224230,Fairbanks,26.5,Wind,2021
+0224230,Fairbanks,40.0,Electricity used for Energy Storage,2021
+0224230,Fairbanks,60.0,Waste Oil,2021
+0224230,Fairbanks,194.8,Coal,2021
+0224230,Fairbanks,212.1,Distillate Fuel Oil,2021
+0225000,Farm Loop,1.3,Solar,2021
+0225000,Farm Loop,11.5,Landfill Gas,2021
+0225000,Farm Loop,45.6,Water at Hydroelectric Turbine,2021
+0225000,Farm Loop,171.0,Natural Gas,2021
+0224980,Farmers Loop,0.6,Solar,2021
+0224980,Farmers Loop,26.5,Wind,2021
+0224980,Farmers Loop,40.0,Electricity used for Energy Storage,2021
+0224980,Farmers Loop,60.0,Waste Oil,2021
+0224980,Farmers Loop,194.8,Coal,2021
+0224980,Farmers Loop,212.1,Distillate Fuel Oil,2021
+0225220,Ferry,0.6,Solar,2021
+0225220,Ferry,26.5,Wind,2021
+0225220,Ferry,40.0,Electricity used for Energy Storage,2021
+0225220,Ferry,60.0,Waste Oil,2021
+0225220,Ferry,194.8,Coal,2021
+0225220,Ferry,212.1,Distillate Fuel Oil,2021
+0225550,Fishhook,1.3,Solar,2021
+0225550,Fishhook,11.5,Landfill Gas,2021
+0225550,Fishhook,45.6,Water at Hydroelectric Turbine,2021
+0225550,Fishhook,171.0,Natural Gas,2021
+0226100,Fort Greely,0.6,Solar,2021
+0226100,Fort Greely,26.5,Wind,2021
+0226100,Fort Greely,40.0,Electricity used for Energy Storage,2021
+0226100,Fort Greely,60.0,Waste Oil,2021
+0226100,Fort Greely,194.8,Coal,2021
+0226100,Fort Greely,219.5,Distillate Fuel Oil,2021
+0226760,Fort Yukon,2.8,Distillate Fuel Oil,2021
+0226835,Four Mile Road,0.6,Solar,2021
+0226835,Four Mile Road,26.5,Wind,2021
+0226835,Four Mile Road,40.0,Electricity used for Energy Storage,2021
+0226835,Four Mile Road,60.0,Waste Oil,2021
+0226835,Four Mile Road,194.8,Coal,2021
+0226835,Four Mile Road,212.1,Distillate Fuel Oil,2021
+0226870,Fox,0.6,Solar,2021
+0226870,Fox,26.5,Wind,2021
+0226870,Fox,40.0,Electricity used for Energy Storage,2021
+0226870,Fox,60.0,Waste Oil,2021
+0226870,Fox,194.8,Coal,2021
+0226870,Fox,212.1,Distillate Fuel Oil,2021
+0226910,Fox River,2.2,Distillate Fuel Oil,2021
+0226910,Fox River,93.0,Electricity used for Energy Storage,2021
+0226910,Fox River,126.0,Water at Hydroelectric Turbine,2021
+0226910,Fox River,378.6,Natural Gas,2021
+0227090,Fritz Creek,2.2,Distillate Fuel Oil,2021
+0227090,Fritz Creek,93.0,Electricity used for Energy Storage,2021
+0227090,Fritz Creek,126.0,Water at Hydroelectric Turbine,2021
+0227090,Fritz Creek,378.6,Natural Gas,2021
+0227145,Funny River,2.2,Distillate Fuel Oil,2021
+0227145,Funny River,93.0,Electricity used for Energy Storage,2021
+0227145,Funny River,126.0,Water at Hydroelectric Turbine,2021
+0227145,Funny River,378.6,Natural Gas,2021
+0227420,Gakona,5.3,Waste Oil,2021
+0227420,Gakona,17.8,Distillate Fuel Oil,2021
+0227420,Gakona,18.5,Water at Hydroelectric Turbine,2021
+0227530,Galena,3.9,Distillate Fuel Oil,2021
+0227640,Gambell,0.6,Wind,2021
+0227640,Gambell,4.0,Distillate Fuel Oil,2021
+0228200,Gateway,1.3,Solar,2021
+0228200,Gateway,11.5,Landfill Gas,2021
+0228200,Gateway,45.6,Water at Hydroelectric Turbine,2021
+0228200,Gateway,171.0,Natural Gas,2021
+0228590,Glacier View,1.3,Solar,2021
+0228590,Glacier View,11.5,Landfill Gas,2021
+0228590,Glacier View,45.6,Water at Hydroelectric Turbine,2021
+0228590,Glacier View,171.0,Natural Gas,2021
+0228740,Glennallen,5.3,Waste Oil,2021
+0228740,Glennallen,17.8,Distillate Fuel Oil,2021
+0228740,Glennallen,18.5,Water at Hydroelectric Turbine,2021
+0229130,Goldstream,0.6,Solar,2021
+0229130,Goldstream,26.5,Wind,2021
+0229130,Goldstream,40.0,Electricity used for Energy Storage,2021
+0229130,Goldstream,60.0,Waste Oil,2021
+0229130,Goldstream,194.8,Coal,2021
+0229130,Goldstream,212.1,Distillate Fuel Oil,2021
+0229180,Golovin,0.7,Distillate Fuel Oil,2021
+0229290,Goodnews Bay,0.6,Distillate Fuel Oil,2021
+0230060,Grayling,0.4,Distillate Fuel Oil,2021
+0230500,Gulkana,5.3,Waste Oil,2021
+0230500,Gulkana,17.8,Distillate Fuel Oil,2021
+0230500,Gulkana,18.5,Water at Hydroelectric Turbine,2021
+0230940,Gustavus,0.8,Water at Hydroelectric Turbine,2021
+0230940,Gustavus,1.4,Distillate Fuel Oil,2021
+0231050,Haines,10.0,Distillate Fuel Oil,2021
+0231270,Halibut Cove,2.2,Distillate Fuel Oil,2021
+0231270,Halibut Cove,93.0,Electricity used for Energy Storage,2021
+0231270,Halibut Cove,126.0,Water at Hydroelectric Turbine,2021
+0231270,Halibut Cove,378.6,Natural Gas,2021
+0231710,Happy Valley,2.2,Distillate Fuel Oil,2021
+0231710,Happy Valley,93.0,Electricity used for Energy Storage,2021
+0231710,Happy Valley,126.0,Water at Hydroelectric Turbine,2021
+0231710,Happy Valley,378.6,Natural Gas,2021
+0232150,Healy,0.6,Solar,2021
+0232150,Healy,26.5,Wind,2021
+0232150,Healy,40.0,Electricity used for Energy Storage,2021
+0232150,Healy,60.0,Waste Oil,2021
+0232150,Healy,194.8,Coal,2021
+0232150,Healy,212.1,Distillate Fuel Oil,2021
+0232810,Hollis,4.5,Water at Hydroelectric Turbine,2021
+0232810,Hollis,12.6,Distillate Fuel Oil,2021
+0233030,Holy Cross,0.6,Distillate Fuel Oil,2021
+0233140,Homer,2.2,Distillate Fuel Oil,2021
+0233140,Homer,93.0,Electricity used for Energy Storage,2021
+0233140,Homer,126.0,Water at Hydroelectric Turbine,2021
+0233140,Homer,378.6,Natural Gas,2021
+0233360,Hoonah,0.5,Water at Hydroelectric Turbine,2021
+0233360,Hoonah,2.0,Distillate Fuel Oil,2021
+0233470,Hooper Bay,0.3,Wind,2021
+0233470,Hooper Bay,2.2,Distillate Fuel Oil,2021
+0233580,Hope,2.0,Distillate Fuel Oil,2021
+0233580,Hope,3.0,Electricity used for Energy Storage,2021
+0233580,Hope,19.4,Water at Hydroelectric Turbine,2021
+0233580,Hope,641.7,Natural Gas,2021
+0233800,Houston,1.3,Solar,2021
+0233800,Houston,11.5,Landfill Gas,2021
+0233800,Houston,45.6,Water at Hydroelectric Turbine,2021
+0233800,Houston,171.0,Natural Gas,2021
+0233910,Hughes,0.1,Solar,2021
+0233910,Hughes,0.3,Electricity used for Energy Storage,2021
+0233910,Hughes,0.4,Distillate Fuel Oil,2021
+0234350,Huslia,0.8,Distillate Fuel Oil,2021
+0234460,Hydaburg,1.4,Distillate Fuel Oil,2021
+0234790,Igiugig,0.0,Water at Hydroelectric Turbine,2021
+0234790,Igiugig,0.1,Electricity used for Energy Storage,2021
+0234790,Igiugig,0.2,Distillate Fuel Oil,2021
+0236400,Juneau,14.1,Water at Hydroelectric Turbine,2021
+0236400,Juneau,147.7,Distillate Fuel Oil,2021
+0236540,Kachemak,2.2,Distillate Fuel Oil,2021
+0236540,Kachemak,93.0,Electricity used for Energy Storage,2021
+0236540,Kachemak,126.0,Water at Hydroelectric Turbine,2021
+0236540,Kachemak,378.6,Natural Gas,2021
+0236770,Kake,0.5,Water at Hydroelectric Turbine,2021
+0236770,Kake,3.1,Distillate Fuel Oil,2021
+0237250,Kalifornsky,2.2,Distillate Fuel Oil,2021
+0237250,Kalifornsky,93.0,Electricity used for Energy Storage,2021
+0237250,Kalifornsky,126.0,Water at Hydroelectric Turbine,2021
+0237250,Kalifornsky,378.6,Natural Gas,2021
+0237430,Kaltag,0.0,Solar,2021
+0237430,Kaltag,0.8,Distillate Fuel Oil,2021
+0237540,Karluk,0.2,Distillate Fuel Oil,2021
+0237650,Kasaan,4.5,Water at Hydroelectric Turbine,2021
+0237650,Kasaan,12.6,Distillate Fuel Oil,2021
+0237975,Kasigluk,0.3,Wind,2021
+0237975,Kasigluk,3.5,Distillate Fuel Oil,2021
+0238090,Kasilof,2.2,Distillate Fuel Oil,2021
+0238090,Kasilof,93.0,Electricity used for Energy Storage,2021
+0238090,Kasilof,126.0,Water at Hydroelectric Turbine,2021
+0238090,Kasilof,378.6,Natural Gas,2021
+0238420,Kenai,2.2,Distillate Fuel Oil,2021
+0238420,Kenai,93.0,Electricity used for Energy Storage,2021
+0238420,Kenai,126.0,Water at Hydroelectric Turbine,2021
+0238420,Kenai,378.6,Natural Gas,2021
+0238910,Kenny Lake,5.3,Waste Oil,2021
+0238910,Kenny Lake,17.8,Distillate Fuel Oil,2021
+0238910,Kenny Lake,18.5,Water at Hydroelectric Turbine,2021
+0238970,Ketchikan,16.5,Water at Hydroelectric Turbine,2021
+0238970,Ketchikan,25.9,Distillate Fuel Oil,2021
+0239300,Kiana,1.2,Distillate Fuel Oil,2021
+0239630,King Salmon,16.5,Distillate Fuel Oil,2021
+0239740,Kipnuk,0.6,Wind,2021
+0239740,Kipnuk,1.4,Distillate Fuel Oil,2021
+0239960,Kivalina,2.2,Distillate Fuel Oil,2021
+0240400,Klawock,4.5,Water at Hydroelectric Turbine,2021
+0240400,Klawock,12.6,Distillate Fuel Oil,2021
+0240670,Knik River,1.3,Solar,2021
+0240670,Knik River,11.5,Landfill Gas,2021
+0240670,Knik River,45.6,Water at Hydroelectric Turbine,2021
+0240670,Knik River,171.0,Natural Gas,2021
+0240645,Knik-Fairview,1.3,Solar,2021
+0240645,Knik-Fairview,11.5,Landfill Gas,2021
+0240645,Knik-Fairview,45.6,Water at Hydroelectric Turbine,2021
+0240645,Knik-Fairview,171.0,Natural Gas,2021
+0240950,Kodiak,5.0,Electricity used for Energy Storage,2021
+0240950,Kodiak,9.0,Wind,2021
+0240950,Kodiak,36.7,Distillate Fuel Oil,2021
+0241210,Kodiak Station,5.0,Electricity used for Energy Storage,2021
+0241210,Kodiak Station,9.0,Wind,2021
+0241210,Kodiak Station,36.7,Distillate Fuel Oil,2021
+0241280,Kokhanok,0.2,Wind,2021
+0241280,Kokhanok,0.6,Distillate Fuel Oil,2021
+0241500,Koliganek,0.7,Distillate Fuel Oil,2021
+0241720,Kotlik,1.4,Distillate Fuel Oil,2021
+0241940,Koyuk,2.0,Distillate Fuel Oil,2021
+0242050,Koyukuk,0.1,Distillate Fuel Oil,2021
+0242380,Kwethluk,1.1,Distillate Fuel Oil,2021
+0242490,Kwigillingok,0.3,Electricity used for Energy Storage,2021
+0242490,Kwigillingok,0.5,Wind,2021
+0242490,Kwigillingok,1.0,Distillate Fuel Oil,2021
+0243040,Larsen Bay,0.5,Water at Hydroelectric Turbine,2021
+0243260,Lazy Mountain,1.3,Solar,2021
+0243260,Lazy Mountain,11.5,Landfill Gas,2021
+0243260,Lazy Mountain,45.6,Water at Hydroelectric Turbine,2021
+0243260,Lazy Mountain,171.0,Natural Gas,2021
+0243810,Levelock,0.2,Distillate Fuel Oil,2021
+0244030,Lime Village,0.0,Solar,2021
+0244580,Livengood,0.6,Solar,2021
+0244580,Livengood,26.5,Wind,2021
+0244580,Livengood,40.0,Electricity used for Energy Storage,2021
+0244580,Livengood,60.0,Waste Oil,2021
+0244580,Livengood,194.8,Coal,2021
+0244580,Livengood,212.1,Distillate Fuel Oil,2021
+0245295,Lowell Point,15.6,Distillate Fuel Oil,2021
+0245460,Lower Kalskag,1.1,Distillate Fuel Oil,2021
+0245700,Lutak,10.0,Distillate Fuel Oil,2021
+0246780,Manley Hot Springs,0.4,Distillate Fuel Oil,2021
+0246890,Manokotak,0.6,Distillate Fuel Oil,2021
+0247000,Marshall,2.4,Distillate Fuel Oil,2021
+0246010,McGrath,1.6,Distillate Fuel Oil,2021
+0247735,Meadow Lakes,1.3,Solar,2021
+0247735,Meadow Lakes,11.5,Landfill Gas,2021
+0247735,Meadow Lakes,45.6,Water at Hydroelectric Turbine,2021
+0247735,Meadow Lakes,171.0,Natural Gas,2021
+0247990,Mekoryuk,0.2,Wind,2021
+0247990,Mekoryuk,0.7,Distillate Fuel Oil,2021
+0248200,Mendeltna,5.3,Waste Oil,2021
+0248200,Mendeltna,17.8,Distillate Fuel Oil,2021
+0248200,Mendeltna,18.5,Water at Hydroelectric Turbine,2021
+0249200,Mill Bay,5.0,Electricity used for Energy Storage,2021
+0249200,Mill Bay,9.0,Wind,2021
+0249200,Mill Bay,36.7,Distillate Fuel Oil,2021
+0249530,Minto,0.7,Distillate Fuel Oil,2021
+0250080,Moose Creek,0.6,Solar,2021
+0250080,Moose Creek,26.5,Wind,2021
+0250080,Moose Creek,40.0,Electricity used for Energy Storage,2021
+0250080,Moose Creek,60.0,Waste Oil,2021
+0250080,Moose Creek,194.8,Coal,2021
+0250080,Moose Creek,212.1,Distillate Fuel Oil,2021
+0250190,Moose Pass,2.0,Distillate Fuel Oil,2021
+0250190,Moose Pass,3.0,Electricity used for Energy Storage,2021
+0250190,Moose Pass,19.4,Water at Hydroelectric Turbine,2021
+0250190,Moose Pass,641.7,Natural Gas,2021
+0251180,Mountain Village,0.9,Wind,2021
+0251180,Mountain Village,4.6,Distillate Fuel Oil,2021
+0251455,Mud Bay,10.0,Distillate Fuel Oil,2021
+0252060,Naknek,16.5,Distillate Fuel Oil,2021
+0252210,Nanwalek,2.2,Distillate Fuel Oil,2021
+0252210,Nanwalek,93.0,Electricity used for Energy Storage,2021
+0252210,Nanwalek,126.0,Water at Hydroelectric Turbine,2021
+0252210,Nanwalek,378.6,Natural Gas,2021
+0252720,Napaskiak,0.6,Distillate Fuel Oil,2021
+0252845,Naukati Bay,0.3,Distillate Fuel Oil,2021
+0252915,Nelchina,5.3,Waste Oil,2021
+0252915,Nelchina,17.8,Distillate Fuel Oil,2021
+0252915,Nelchina,18.5,Water at Hydroelectric Turbine,2021
+0252940,Nelson Lagoon,0.2,Distillate Fuel Oil,2021
+0253050,Nenana,0.6,Solar,2021
+0253050,Nenana,26.5,Wind,2021
+0253050,Nenana,40.0,Electricity used for Energy Storage,2021
+0253050,Nenana,60.0,Waste Oil,2021
+0253050,Nenana,194.8,Coal,2021
+0253050,Nenana,212.1,Distillate Fuel Oil,2021
+0253710,New Stuyahok,2.4,Distillate Fuel Oil,2021
+0253820,Newtok,0.4,Distillate Fuel Oil,2021
+0253930,Nightmute,0.3,Distillate Fuel Oil,2021
+0254050,Nikiski,2.2,Distillate Fuel Oil,2021
+0254050,Nikiski,93.0,Electricity used for Energy Storage,2021
+0254050,Nikiski,126.0,Water at Hydroelectric Turbine,2021
+0254050,Nikiski,378.6,Natural Gas,2021
+0254085,Nikolaevsk,2.2,Distillate Fuel Oil,2021
+0254085,Nikolaevsk,93.0,Electricity used for Energy Storage,2021
+0254085,Nikolaevsk,126.0,Water at Hydroelectric Turbine,2021
+0254085,Nikolaevsk,378.6,Natural Gas,2021
+0254480,Ninilchik,2.2,Distillate Fuel Oil,2021
+0254480,Ninilchik,93.0,Electricity used for Energy Storage,2021
+0254480,Ninilchik,126.0,Water at Hydroelectric Turbine,2021
+0254480,Ninilchik,378.6,Natural Gas,2021
+0254700,Noatak,2.6,Distillate Fuel Oil,2021
+0254920,Nome,1.8,Wind,2021
+0254920,Nome,16.6,Distillate Fuel Oil,2021
+0255140,Noorvik,0.0,Solar,2021
+0255140,Noorvik,1.6,Distillate Fuel Oil,2021
+0255745,North Lakes,1.3,Solar,2021
+0255745,North Lakes,11.5,Landfill Gas,2021
+0255745,North Lakes,45.6,Water at Hydroelectric Turbine,2021
+0255745,North Lakes,171.0,Natural Gas,2021
+0255910,North Pole,0.6,Solar,2021
+0255910,North Pole,26.5,Wind,2021
+0255910,North Pole,40.0,Electricity used for Energy Storage,2021
+0255910,North Pole,60.0,Waste Oil,2021
+0255910,North Pole,194.8,Coal,2021
+0255910,North Pole,212.1,Distillate Fuel Oil,2021
+0256220,Northway,1.1,Distillate Fuel Oil,2021
+0256320,Nuiqsut,2.2,Natural Gas,2021
+0256320,Nuiqsut,2.2,Distillate Fuel Oil,2021
+0256350,Nulato,1.0,Distillate Fuel Oil,2021
+0256600,Nunam Iqua,1.7,Distillate Fuel Oil,2021
+0256680,Nunapitchuk,0.3,Wind,2021
+0256680,Nunapitchuk,3.5,Distillate Fuel Oil,2021
+0257340,Old Harbor,1.0,Distillate Fuel Oil,2021
+0258550,Ouzinkie,0.1,Water at Hydroelectric Turbine,2021
+0258550,Ouzinkie,0.3,Distillate Fuel Oil,2021
+0258660,Palmer,1.3,Solar,2021
+0258660,Palmer,11.5,Landfill Gas,2021
+0258660,Palmer,45.6,Water at Hydroelectric Turbine,2021
+0258660,Palmer,171.0,Natural Gas,2021
+0259540,Pedro Bay,0.2,Distillate Fuel Oil,2021
+0259650,Pelican,1.0,Distillate Fuel Oil,2021
+0259650,Pelican,1.4,Water at Hydroelectric Turbine,2021
+0260200,Perryville,0.0,Wind,2021
+0260200,Perryville,0.5,Distillate Fuel Oil,2021
+0260310,Petersburg,1.6,Water at Hydroelectric Turbine,2021
+0260310,Petersburg,12.9,Distillate Fuel Oil,2021
+0260460,Petersville,1.3,Solar,2021
+0260460,Petersville,11.5,Landfill Gas,2021
+0260460,Petersville,45.6,Water at Hydroelectric Turbine,2021
+0260460,Petersville,171.0,Natural Gas,2021
+0260640,Pilot Point,0.2,Wind,2021
+0260640,Pilot Point,0.3,Distillate Fuel Oil,2021
+0260750,Pilot Station,3.0,Distillate Fuel Oil,2021
+0260860,Pitkas Point,0.9,Wind,2021
+0260860,Pitkas Point,4.6,Distillate Fuel Oil,2021
+0261120,Pleasant Valley,0.6,Solar,2021
+0261120,Pleasant Valley,26.5,Wind,2021
+0261120,Pleasant Valley,40.0,Electricity used for Energy Storage,2021
+0261120,Pleasant Valley,60.0,Waste Oil,2021
+0261120,Pleasant Valley,194.8,Coal,2021
+0261120,Pleasant Valley,212.1,Distillate Fuel Oil,2021
+0261700,Point Lay,2.4,Distillate Fuel Oil,2021
+0261788,Point MacKenzie,1.3,Solar,2021
+0261788,Point MacKenzie,11.5,Landfill Gas,2021
+0261788,Point MacKenzie,45.6,Water at Hydroelectric Turbine,2021
+0261788,Point MacKenzie,171.0,Natural Gas,2021
+0262620,Port Alsworth,0.8,Distillate Fuel Oil,2021
+0263280,Port Graham,2.2,Distillate Fuel Oil,2021
+0263280,Port Graham,93.0,Electricity used for Energy Storage,2021
+0263280,Port Graham,126.0,Water at Hydroelectric Turbine,2021
+0263280,Port Graham,378.6,Natural Gas,2021
+0263390,Port Heiden,0.7,Distillate Fuel Oil,2021
+0263610,Port Lions,0.5,Distillate Fuel Oil,2021
+0263610,Port Lions,33.6,Water at Hydroelectric Turbine,2021
+0264240,Primrose,15.6,Distillate Fuel Oil,2021
+0264600,Quinhagak,0.6,Wind,2021
+0264600,Quinhagak,2.6,Distillate Fuel Oil,2021
+0264820,Rampart,0.3,Distillate Fuel Oil,2021
+0264930,Red Devil,0.3,Distillate Fuel Oil,2021
+0265345,Ridgeway,2.2,Distillate Fuel Oil,2021
+0265345,Ridgeway,93.0,Electricity used for Energy Storage,2021
+0265345,Ridgeway,126.0,Water at Hydroelectric Turbine,2021
+0265345,Ridgeway,378.6,Natural Gas,2021
+0265590,Ruby,0.5,Distillate Fuel Oil,2021
+0265700,Russian Mission,0.9,Distillate Fuel Oil,2021
+0265800,Saint George,0.1,Wind,2021
+0265800,Saint George,0.8,Distillate Fuel Oil,2021
+0266140,Saint Mary's,0.9,Wind,2021
+0266140,Saint Mary's,4.6,Distillate Fuel Oil,2021
+0266360,Saint Michael,5.6,Distillate Fuel Oil,2021
+0266470,Saint Paul,2.7,Distillate Fuel Oil,2021
+0266510,Salamatof,2.2,Distillate Fuel Oil,2021
+0266510,Salamatof,93.0,Electricity used for Energy Storage,2021
+0266510,Salamatof,126.0,Water at Hydroelectric Turbine,2021
+0266510,Salamatof,378.6,Natural Gas,2021
+0266550,Salcha,0.6,Solar,2021
+0266550,Salcha,26.5,Wind,2021
+0266550,Salcha,40.0,Electricity used for Energy Storage,2021
+0266550,Salcha,60.0,Waste Oil,2021
+0266550,Salcha,194.8,Coal,2021
+0266550,Salcha,212.1,Distillate Fuel Oil,2021
+0267020,Sand Point,1.0,Wind,2021
+0267020,Sand Point,2.9,Distillate Fuel Oil,2021
+0267460,Savoonga,0.4,Wind,2021
+0267460,Savoonga,3.0,Distillate Fuel Oil,2021
+0267570,Saxman,16.5,Water at Hydroelectric Turbine,2021
+0267570,Saxman,25.9,Distillate Fuel Oil,2021
+0267680,Scammon Bay,2.2,Distillate Fuel Oil,2021
+0268230,Selawik,0.3,Wind,2021
+0268230,Selawik,2.3,Distillate Fuel Oil,2021
+0268340,Seldovia,2.2,Distillate Fuel Oil,2021
+0268340,Seldovia,93.0,Electricity used for Energy Storage,2021
+0268340,Seldovia,126.0,Water at Hydroelectric Turbine,2021
+0268340,Seldovia,378.6,Natural Gas,2021
+0268370,Seldovia Village,2.2,Distillate Fuel Oil,2021
+0268370,Seldovia Village,93.0,Electricity used for Energy Storage,2021
+0268370,Seldovia Village,126.0,Water at Hydroelectric Turbine,2021
+0268370,Seldovia Village,378.6,Natural Gas,2021
+0268560,Seward,15.6,Distillate Fuel Oil,2021
+0268670,Shageluk,0.4,Distillate Fuel Oil,2021
+0268890,Shaktoolik,0.2,Wind,2021
+0268890,Shaktoolik,0.8,Distillate Fuel Oil,2021
+0269770,Shishmaref,1.4,Distillate Fuel Oil,2021
+0270100,Shungnak,0.4,Solar,2021
+0270100,Shungnak,0.4,Electricity used for Energy Storage,2021
+0270100,Shungnak,3.0,Distillate Fuel Oil,2021
+0270320,Silver Springs,5.3,Waste Oil,2021
+0270320,Silver Springs,17.8,Distillate Fuel Oil,2021
+0270320,Silver Springs,18.5,Water at Hydroelectric Turbine,2021
+0270540,Sitka,25.6,Distillate Fuel Oil,2021
+0270540,Sitka,34.5,Water at Hydroelectric Turbine,2021
+0270760,Skagway,3.4,Distillate Fuel Oil,2021
+0270760,Skagway,5.9,Water at Hydroelectric Turbine,2021
+0271090,Sleetmute,0.3,Distillate Fuel Oil,2021
+0271640,Soldotna,2.2,Distillate Fuel Oil,2021
+0271640,Soldotna,93.0,Electricity used for Energy Storage,2021
+0271640,Soldotna,126.0,Water at Hydroelectric Turbine,2021
+0271640,Soldotna,378.6,Natural Gas,2021
+0272135,South Lakes,1.3,Solar,2021
+0272135,South Lakes,11.5,Landfill Gas,2021
+0272135,South Lakes,45.6,Water at Hydroelectric Turbine,2021
+0272135,South Lakes,171.0,Natural Gas,2021
+0272190,South Naknek,16.5,Distillate Fuel Oil,2021
+0272230,South Van Horn,0.6,Solar,2021
+0272230,South Van Horn,26.5,Wind,2021
+0272230,South Van Horn,40.0,Electricity used for Energy Storage,2021
+0272230,South Van Horn,60.0,Waste Oil,2021
+0272230,South Van Horn,194.8,Coal,2021
+0272230,South Van Horn,212.1,Distillate Fuel Oil,2021
+0272960,Stebbins,5.6,Distillate Fuel Oil,2021
+0272985,Steele Creek,0.6,Solar,2021
+0272985,Steele Creek,26.5,Wind,2021
+0272985,Steele Creek,40.0,Electricity used for Energy Storage,2021
+0272985,Steele Creek,60.0,Waste Oil,2021
+0272985,Steele Creek,194.8,Coal,2021
+0272985,Steele Creek,212.1,Distillate Fuel Oil,2021
+0273070,Sterling,2.2,Distillate Fuel Oil,2021
+0273070,Sterling,93.0,Electricity used for Energy Storage,2021
+0273070,Sterling,126.0,Water at Hydroelectric Turbine,2021
+0273070,Sterling,378.6,Natural Gas,2021
+0273950,Sunrise,2.0,Distillate Fuel Oil,2021
+0273950,Sunrise,3.0,Electricity used for Energy Storage,2021
+0273950,Sunrise,19.4,Water at Hydroelectric Turbine,2021
+0273950,Sunrise,641.7,Natural Gas,2021
+0274350,Susitna North,1.3,Solar,2021
+0274350,Susitna North,11.5,Landfill Gas,2021
+0274350,Susitna North,45.6,Water at Hydroelectric Turbine,2021
+0274350,Susitna North,171.0,Natural Gas,2021
+0274525,Sutton-Alpine,1.3,Solar,2021
+0274525,Sutton-Alpine,11.5,Landfill Gas,2021
+0274525,Sutton-Alpine,45.6,Water at Hydroelectric Turbine,2021
+0274525,Sutton-Alpine,171.0,Natural Gas,2021
+0274610,Takotna,0.2,Distillate Fuel Oil,2021
+0274830,Talkeetna,1.3,Solar,2021
+0274830,Talkeetna,11.5,Landfill Gas,2021
+0274830,Talkeetna,45.6,Water at Hydroelectric Turbine,2021
+0274830,Talkeetna,171.0,Natural Gas,2021
+0275050,Tanacross,5.2,Distillate Fuel Oil,2021
+0275077,Tanaina,1.3,Solar,2021
+0275077,Tanaina,11.5,Landfill Gas,2021
+0275077,Tanaina,45.6,Water at Hydroelectric Turbine,2021
+0275077,Tanaina,171.0,Natural Gas,2021
+0275160,Tanana,1.6,Distillate Fuel Oil,2021
+0275480,Tazlina,5.3,Waste Oil,2021
+0275480,Tazlina,17.8,Distillate Fuel Oil,2021
+0275480,Tazlina,18.5,Water at Hydroelectric Turbine,2021
+0275930,Teller,2.2,Distillate Fuel Oil,2021
+0276260,Tenakee Springs,0.2,Water at Hydroelectric Turbine,2021
+0276260,Tenakee Springs,0.2,Distillate Fuel Oil,2021
+0276590,Tetlin,5.2,Distillate Fuel Oil,2021
+0277140,Thorne Bay,4.5,Water at Hydroelectric Turbine,2021
+0277140,Thorne Bay,12.6,Distillate Fuel Oil,2021
+0277690,Togiak,2.6,Distillate Fuel Oil,2021
+0277800,Tok,5.2,Distillate Fuel Oil,2021
+0278240,Toksook Bay,0.2,Wind,2021
+0278240,Toksook Bay,4.3,Distillate Fuel Oil,2021
+0278297,Tolsona,5.3,Waste Oil,2021
+0278297,Tolsona,17.8,Distillate Fuel Oil,2021
+0278297,Tolsona,18.5,Water at Hydroelectric Turbine,2021
+0278350,Tonsina,5.3,Waste Oil,2021
+0278350,Tonsina,17.8,Distillate Fuel Oil,2021
+0278350,Tonsina,18.5,Water at Hydroelectric Turbine,2021
+0278680,Trapper Creek,1.3,Solar,2021
+0278680,Trapper Creek,11.5,Landfill Gas,2021
+0278680,Trapper Creek,45.6,Water at Hydroelectric Turbine,2021
+0278680,Trapper Creek,171.0,Natural Gas,2021
+0278790,Tuluksak,0.5,Distillate Fuel Oil,2021
+0279120,Tuntutuliak,0.3,Electricity used for Energy Storage,2021
+0279120,Tuntutuliak,0.5,Wind,2021
+0279120,Tuntutuliak,1.7,Distillate Fuel Oil,2021
+0279230,Tununak,0.2,Wind,2021
+0279230,Tununak,4.3,Distillate Fuel Oil,2021
+0279830,Two Rivers,0.6,Solar,2021
+0279830,Two Rivers,26.5,Wind,2021
+0279830,Two Rivers,40.0,Electricity used for Energy Storage,2021
+0279830,Two Rivers,60.0,Waste Oil,2021
+0279830,Two Rivers,194.8,Coal,2021
+0279830,Two Rivers,212.1,Distillate Fuel Oil,2021
+0279890,Tyonek,312.4,Natural Gas,2021
+0280660,Unalakleet,0.6,Wind,2021
+0280660,Unalakleet,1.9,Distillate Fuel Oil,2021
+0281320,Upper Kalskag,1.1,Distillate Fuel Oil,2021
+0281920,Utqiagvik,20.3,Natural Gas,2021
+0282200,Valdez,5.3,Waste Oil,2021
+0282200,Valdez,17.8,Distillate Fuel Oil,2021
+0282200,Valdez,18.5,Water at Hydroelectric Turbine,2021
+0282420,Venetie,0.5,Distillate Fuel Oil,2021
+0282750,Wainwright,3.0,Distillate Fuel Oil,2021
+0282860,Wales,0.5,Distillate Fuel Oil,2021
+0283080,Wasilla,1.3,Solar,2021
+0283080,Wasilla,11.5,Landfill Gas,2021
+0283080,Wasilla,45.6,Water at Hydroelectric Turbine,2021
+0283080,Wasilla,171.0,Natural Gas,2021
+0284000,Whale Pass,0.6,Distillate Fuel Oil,2021
+0284070,White Mountain,0.4,Distillate Fuel Oil,2021
+0284120,Whitestone,0.6,Solar,2021
+0284120,Whitestone,26.5,Wind,2021
+0284120,Whitestone,40.0,Electricity used for Energy Storage,2021
+0284120,Whitestone,60.0,Waste Oil,2021
+0284120,Whitestone,194.8,Coal,2021
+0284120,Whitestone,212.1,Distillate Fuel Oil,2021
+0284200,Whitestone Logging Camp,0.5,Water at Hydroelectric Turbine,2021
+0284200,Whitestone Logging Camp,2.0,Distillate Fuel Oil,2021
+0284510,Whittier,2.0,Distillate Fuel Oil,2021
+0284510,Whittier,3.0,Electricity used for Energy Storage,2021
+0284510,Whittier,19.4,Water at Hydroelectric Turbine,2021
+0284510,Whittier,641.7,Natural Gas,2021
+0285280,Willow,1.3,Solar,2021
+0285280,Willow,11.5,Landfill Gas,2021
+0285280,Willow,45.6,Water at Hydroelectric Turbine,2021
+0285280,Willow,171.0,Natural Gas,2021
+0285290,Willow Creek,5.3,Waste Oil,2021
+0285290,Willow Creek,17.8,Distillate Fuel Oil,2021
+0285290,Willow Creek,18.5,Water at Hydroelectric Turbine,2021
+0285680,Womens Bay,5.0,Electricity used for Energy Storage,2021
+0285680,Womens Bay,9.0,Wind,2021
+0285680,Womens Bay,36.7,Distillate Fuel Oil,2021
+0286380,Wrangell,8.5,Distillate Fuel Oil,2021
