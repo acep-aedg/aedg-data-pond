@@ -46,7 +46,8 @@ export_to_csv "final" "communities_grids" "l2_communities_grids"
 export_to_csv "final" "reporting_entities" "l3_reporting_entities"
 export_to_csv "final" "electric_rates" "l2_electric_rates"
 export_to_csv "final" "sales" "l3_es_annual_sales"
-export_to_csv "final" "household_income_poverty" "l2_household_income_poverty"
+export_to_csv "final" "household_income" "l2_household_income"
+export_to_csv "final" "income_poverty" "l2_income_poverty"
 
 export_to_csv "intermediate" "lookup_rca_electric_certificates" "lookup_rca_electric_certificates"
 
