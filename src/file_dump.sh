@@ -33,21 +33,23 @@ export_to_csv() {
 
 # Export tables to CSV
 export_to_csv "final" "fuel_prices" "l3_fuel_prices"
-export_to_csv "final" "populations_ages_sexes" "l2_populations_ages_sexes" 
-export_to_csv "final" "populations" "l2_populations" 
-export_to_csv "final" "transportation" "l2_transportation" 
-export_to_csv "final" "employment" "l2_employment" 
+export_to_csv "final" "populations_ages_sexes" "l2_populations_ages_sexes"
+export_to_csv "final" "populations" "l2_populations"
+export_to_csv "final" "transportation" "l2_transportation"
+export_to_csv "final" "employment" "l2_employment"
 export_to_csv "final" "taxes" "l2_taxes"
 export_to_csv "final" "yearly_generation" "l2_es_yearly_generation"
-export_to_csv "final" "monthly_generation" "l2_es_monthly_generation" 
-export_to_csv "final" "capacity" "l2_es_capacity" 
-export_to_csv "final" "grids" "l2_grids" 
-export_to_csv "final" "communities_grids" "l2_communities_grids" 
+export_to_csv "final" "monthly_generation" "l2_es_monthly_generation"
+export_to_csv "final" "capacity" "l2_es_capacity"
+export_to_csv "final" "grids" "l2_grids"
+export_to_csv "final" "communities_grids" "l2_communities_grids"
 export_to_csv "final" "reporting_entities" "l3_reporting_entities"
 export_to_csv "final" "electric_rates" "l2_electric_rates"
 export_to_csv "final" "sales" "l3_es_annual_sales"
+export_to_csv "final" "household_income" "l2_household_income"
+export_to_csv "final" "income_poverty" "l2_income_poverty"
 
-export_to_csv "intermediate" "lookup_rca_electric_certificates" "lookup_rca_electric_certificates" 
+export_to_csv "intermediate" "lookup_rca_electric_certificates" "lookup_rca_electric_certificates"
 
 # Export de-normalized views for public consumption (note: views are special, need the SELECT * query nested in the COPY command)
 export_to_csv "public" "public_capacity" "(SELECT * FROM public_capacity)"
