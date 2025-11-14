@@ -23,7 +23,7 @@ for file in data/$subdir/*.csv; do
   base="${file##*/}"                     
   metadata="${base%.csv}.json"           
   url="$repo_root/metadata/$subdir/$metadata"
-  out="data/$metadata"
+  out="data/$subdir/$metadata"
 
   if wget -q -O "$out" "$url"; then
     printf '%s: Success\n' "${base%.csv}"
