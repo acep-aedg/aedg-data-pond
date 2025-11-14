@@ -48,6 +48,7 @@ export_to_csv "final" "sales" "l3_es_annual_sales"
 export_to_csv "final" "communities_service_area_geoms" "l2_communities_electric_service_area_geoms"
 export_to_csv "final" "household_income" "l2_household_income"
 export_to_csv "final" "income_poverty" "l2_income_poverty"
+export_to_csv "final" "heating_degree_days" "l2_heating_degree_days"
 
 export_to_csv "intermediate" "lookup_rca_electric_certificates" "lookup_rca_electric_certificates"
 
