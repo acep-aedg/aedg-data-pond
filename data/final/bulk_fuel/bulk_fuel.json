@@ -1,0 +1,337 @@
+{
+    "@context": "",
+    "name": "bulk_fuel",
+    "title": "Bulk Fuel Facilities",
+    "description": "Inventory of bulk fuel facilities in Alaska.\n",
+    "@id": "",
+    "resources": [
+        {
+            "@id": "",
+            "name": "bulk_fuel",
+            "topics": [
+                "Electricity",
+                "Infrastructure"
+            ],
+            "title": "Bulk Fuel Facilities",
+            "path": "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/final/bulk_fuel.geojson",
+            "description": "This dataset derived from the Bulk Fuel Inventory, a list of bulk fuel facilities in Alaska including photos, assessments, and tank details provided by the Alaska Energy Authority, the U.S. Coast Guard, and Division of Community and Regional Affairs.\n",
+            "languages": [
+                "en-US"
+            ],
+            "keywords": [
+                "barge",
+                "airport",
+                "road",
+                "community"
+            ],
+            "publicationDate": "2025-12-02",
+            "context": {
+                "title": "Alaska Energy Data Gateway v3.0",
+                "homepage": "https://akenergygateway.alaska.edu/",
+                "publisher": "Alaska Center for Energy and Power (ACEP) at the University of Alaska Fairbanks (UAF)",
+                "fundingAgency": "State of Alaska"
+            },
+            "spatial": {
+                "extent": {
+                    "name": "Alaska",
+                    "boundingBox": [
+                        -187.55,
+                        51.21,
+                        -130.0,
+                        71.35
+                    ],
+                    "crs": "OGC:CRS84"
+                }
+            },
+            "temporal": {
+                "referenceDate": "2023-04-12",
+                "timeseries": [
+                    {
+                        "start": "1980-01",
+                        "end": "2015-06",
+                        "resolutionValue": "1",
+                        "resolutionUnit": "month",
+                        "aggregationType": "sum"
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "title": "Bulk Fuel Inventory",
+                    "authors": [
+                        "Alaska Division of Community and Regional Affairs (DCRA)"
+                    ],
+                    "description": "A list of bulk fuel facilities in Alaska including photos, assessments, and tank details provided by the Alaska Energy Authority, the U.S. Coast Guard, and Division of Community and Regional Affairs.\n",
+                    "publicationYear": "2025",
+                    "path": "https://maps.commerce.alaska.gov/server/rest/services/Services/CDO_Utilities/MapServer/48",
+                    "sourceLicenses": [
+                        {
+                            "name": "public-domain",
+                            "title": "U.S. Public Domain",
+                            "path": "http://www.usa.gov/publicdomain/label/1.0/",
+                            "instruction": "Data and content created by government employees within the scope of their employment are not subject\nto domestic copyright protection under 17 U.S.C. \u00a7 105. Government works are by default in the U.S.\nPublic Domain. You cannot use government materials in a way that implies endorsement by a government agency, official, or employee. You also cannot use federal government trademarks or federal government agency logos without permission - https://resources.data.gov/open-licenses/.\n"
+                        }
+                    ]
+                },
+                {
+                    "title": "Places (Cities and CDPs) Shapefile",
+                    "authors": [
+                        "United States Census Bureau",
+                        "Alaska Department of Labor and Workforce Development (DOLWD)"
+                    ],
+                    "description": "This is an ESRI Shapefile for use in GIS software that contains place data from the 2020 US Census for Alaska. The definition of places includes all incorporated cities as well as Census Designated Places (CDPs). Each geographic unit is identified using Federal Information Processing Standards (FIPS) numbers. Coordinate System: North American Datum 1983 Alaska Albers. Source: 2020 US Census, PL94-171 Redistricting File; 2020 US Census Tiger Shapefiles. Documentation of field names: https://live.laborstats.alaska.gov/cen/maps/gis/Places2020.pdf. The Alaska Department of Labor and Workforce Development has had a cooperative agreement with the U.S. Census Bureau since 1981 to assist with geographic programs and help Alaskans find Census Bureau data.\nAEDG uses this list to define canonical community locations to use in spatial joins and relations, to associate places with FIPS codes, and to establish total community population.\n",
+                    "publicationYear": "2020",
+                    "path": "https://live.laborstats.alaska.gov/article/maps-gis-data",
+                    "sourceLicenses": []
+                },
+                {
+                    "title": "Alaska Communities",
+                    "authors": [
+                        "Alaska Division of Community and Regional Affairs (DCRA)"
+                    ],
+                    "description": "The Alaska Communities dataset is the reference list of place locations, represented as points, used by the Alaska Division of Community and Regional Affairs (DCRA). In includes community locations but for historical reasons, it is a mix of Communities, Places of Interest, Borough/Census Area as well as Alaska centroid. DCRA uses it to link communities to their internal key GUID used elsewhere in their systems.\nAEDG uses this list to define canonical community names since, as free text, these can vary in different contexts, and to establish locations to use in spatial joins and relations.\n",
+                    "publicationYear": "2023",
+                    "path": "https://maps.commerce.alaska.gov/server/rest/services/Community_Related/Community_Locations_and_Boundaries/MapServer/0",
+                    "sourceLicenses": []
+                }
+            ],
+            "licenses": [
+                {
+                    "name": "CC-BY-4.0",
+                    "title": "Creative Commons Attribution 4.0 International",
+                    "path": "https://creativecommons.org/licenses/by/4.0/",
+                    "instruction": "You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.\n",
+                    "attribution": "Alaska Center for Energy and Power, University of Alaska Fairbanks"
+                }
+            ],
+            "contributors": [
+                {
+                    "organization": "Alaska Center for Energy and Power (ACEP) at the University of Alaska Fairbanks (UAF)",
+                    "roles": [
+                        "DataCurator"
+                    ],
+                    "date": "2025-12-02",
+                    "object": "data via https://github.com/acep-aedg/aedg-etl-2024",
+                    "comment": "1. Identified data source and integrated it into the data pipeline.\n2. Complied community names, locations, and FIPS identifiers for AEDG\n",
+                    "path": "https://www.uaf.edu/acep/"
+                },
+                {
+                    "organization": "Alaska Center for Energy and Power (ACEP) at the University of Alaska Fairbanks (UAF)",
+                    "roles": [
+                        "DataCurator"
+                    ],
+                    "date": "2025-12-02",
+                    "object": "metadata via https://github.com/acep-aedg/aedg-metadata",
+                    "comment": "Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.\n",
+                    "path": "https://www.uaf.edu/acep/"
+                }
+            ],
+            "type": "geospatial",
+            "format": "geojson",
+            "encoding": "",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "aea_id",
+                        "long_name": "Alaska Energy Authority ID",
+                        "description": "Identification number given by Alaska Energy Authority",
+                        "type": "string",
+                        "nullable": true,
+                        "unit": null
+                    },
+                    {
+                        "name": "av_gas_capacity",
+                        "long_name": "Aviation Gas Capacity",
+                        "description": "Capacity of aviation gas (avgas) in gallons",
+                        "type": "number",
+                        "nullable": true,
+                        "unit": "gallons"
+                    },
+                    {
+                        "name": "barge_delivery",
+                        "long_name": "Barge Delivery",
+                        "description": "Does this community receive fuel via barge?",
+                        "type": "boolean",
+                        "nullable": true,
+                        "unit": null
+                    },
+                    {
+                        "name": "community_fips_code",
+                        "long_name": "Community FIPS Code",
+                        "description": null,
+                        "type": "string",
+                        "nullable": false,
+                        "unit": null
+                    },
+                    {
+                        "name": "data_source",
+                        "long_name": "Data Source",
+                        "description": null,
+                        "type": "string",
+                        "nullable": true,
+                        "unit": null
+                    },
+                    {
+                        "name": "dcra_code",
+                        "long_name": "DCRA Code",
+                        "description": "Identification number given to this record by AK DCRA",
+                        "type": "string",
+                        "nullable": false,
+                        "unit": null
+                    },
+                    {
+                        "name": "diesel_capacity",
+                        "long_name": "Diesel Capacity",
+                        "description": "Capacity of diesel in gallons",
+                        "type": "number",
+                        "nullable": true,
+                        "unit": "gallons"
+                    },
+                    {
+                        "name": "distance_to_barge_mooring",
+                        "long_name": "Distance to Barge Mooring",
+                        "description": null,
+                        "type": "number",
+                        "nullable": true,
+                        "unit": null
+                    },
+                    {
+                        "name": "entity_name",
+                        "long_name": "Entity Name",
+                        "description": null,
+                        "type": "string",
+                        "nullable": true,
+                        "unit": null
+                    },
+                    {
+                        "name": "fuel_supplier",
+                        "long_name": "Fuel Supplier",
+                        "description": null,
+                        "type": "string",
+                        "nullable": true,
+                        "unit": null
+                    },
+                    {
+                        "name": "gasoline_capacity",
+                        "long_name": "Gasoline Capacity",
+                        "description": "Capacity of gasoline in gallons",
+                        "type": "number",
+                        "nullable": true,
+                        "unit": "gallons"
+                    },
+                    {
+                        "name": "inspected_by_uscg",
+                        "long_name": "Inspected by USCG",
+                        "description": "Is this facility inspected by United States Coast Guard?",
+                        "type": "boolean",
+                        "nullable": true,
+                        "unit": null
+                    },
+                    {
+                        "name": "jet_fuel_capacity",
+                        "long_name": "Jet Fuel Capacity",
+                        "description": "Capacity of jet fuel in gallons",
+                        "type": "number",
+                        "nullable": true,
+                        "unit": "gallons"
+                    },
+                    {
+                        "name": "number_of_tanks",
+                        "long_name": "Number of Tanks",
+                        "description": "Number of tanks in the facility",
+                        "type": "number",
+                        "nullable": true,
+                        "unit": null
+                    },
+                    {
+                        "name": "other_fuel_capacity",
+                        "long_name": "Other Fuel Capacity",
+                        "description": "Capacity of other fuel (non diesel; jet fuel; gasoline; or avgas) in gallons",
+                        "type": "number",
+                        "nullable": true,
+                        "unit": "gallons"
+                    },
+                    {
+                        "name": "plane_delivery",
+                        "long_name": "Plane Delivery",
+                        "description": "Does this community receive fuel via airplane?",
+                        "type": "boolean",
+                        "nullable": true,
+                        "unit": null
+                    },
+                    {
+                        "name": "recommendations_by_aea",
+                        "long_name": "Recommendations by AEA",
+                        "description": null,
+                        "type": "string",
+                        "nullable": true,
+                        "unit": null
+                    },
+                    {
+                        "name": "report",
+                        "long_name": "Report",
+                        "description": null,
+                        "type": "string",
+                        "nullable": true,
+                        "unit": null
+                    },
+                    {
+                        "name": "road_delivery",
+                        "long_name": "Road Delivery",
+                        "description": "Does this community recieve fuel via road?",
+                        "type": "boolean",
+                        "nullable": true,
+                        "unit": null
+                    },
+                    {
+                        "name": "tank_farm_evaluation_id",
+                        "long_name": "Tank Farm Evaluation ID",
+                        "description": null,
+                        "type": "string",
+                        "nullable": true,
+                        "unit": null
+                    },
+                    {
+                        "name": "tank_farm_id",
+                        "long_name": "Tank Farm ID",
+                        "description": null,
+                        "type": "string",
+                        "nullable": true,
+                        "unit": null
+                    },
+                    {
+                        "name": "total_capacity",
+                        "long_name": "Total Capacity",
+                        "description": "Total capacity of tank farm",
+                        "type": "number",
+                        "nullable": true,
+                        "unit": "gallons"
+                    },
+                    {
+                        "name": "uscg_id",
+                        "long_name": "USCG ID",
+                        "description": "Identification number given by United States Coast Guard",
+                        "type": "string",
+                        "nullable": true,
+                        "unit": null
+                    }
+                ],
+                "primaryKey": [
+                    "dcra_code"
+                ]
+            },
+            "dialect": {
+                "delimiter": ",",
+                "decimalSeparator": "."
+            }
+        }
+    ],
+    "metaMetadata": {
+        "metadataVersion": "OEMetadata-2.0.4",
+        "metadataLicense": {
+            "name": "CC0-1.0",
+            "title": "Creative Commons Zero v1.0 Universal",
+            "path": "https://creativecommons.org/publicdomain/zero/1.0"
+        }
+    }
+}

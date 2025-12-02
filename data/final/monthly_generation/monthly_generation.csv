@@ -1,0 +1,3226 @@
+aea_plant_id,eia_plant_id,net_generation_mwh,fuel_type_code,fuel_type_name,year,month
+2,,20.3,DFO,Distillate Fuel Oil,2021,1
+2,,20.2,DFO,Distillate Fuel Oil,2021,2
+2,,20.8,DFO,Distillate Fuel Oil,2021,3
+2,,21.9,DFO,Distillate Fuel Oil,2021,4
+2,,14.1,DFO,Distillate Fuel Oil,2021,5
+2,,25.6,DFO,Distillate Fuel Oil,2021,6
+2,,20.9,DFO,Distillate Fuel Oil,2021,7
+2,,23.5,DFO,Distillate Fuel Oil,2021,8
+2,,22.5,DFO,Distillate Fuel Oil,2021,9
+2,,24.0,DFO,Distillate Fuel Oil,2021,10
+2,,30.0,DFO,Distillate Fuel Oil,2021,11
+2,,43.0,DFO,Distillate Fuel Oil,2021,12
+3,,223.2,DFO,Distillate Fuel Oil,2021,1
+3,,147.7,DFO,Distillate Fuel Oil,2021,2
+3,,177.7,DFO,Distillate Fuel Oil,2021,3
+3,,173.5,DFO,Distillate Fuel Oil,2021,4
+3,,149.5,DFO,Distillate Fuel Oil,2021,5
+3,,136.4,DFO,Distillate Fuel Oil,2021,6
+3,,131.8,DFO,Distillate Fuel Oil,2021,7
+3,,149.8,DFO,Distillate Fuel Oil,2021,8
+3,,148.2,DFO,Distillate Fuel Oil,2021,9
+3,,175.0,DFO,Distillate Fuel Oil,2021,10
+3,,198.5,DFO,Distillate Fuel Oil,2021,11
+3,,192.4,DFO,Distillate Fuel Oil,2021,12
+4,,113.6,DFO,Distillate Fuel Oil,2021,1
+4,,111.1,DFO,Distillate Fuel Oil,2021,2
+5,,54.9,DFO,Distillate Fuel Oil,2021,1
+5,,2.3,WAT,Water at Hydroelectric Turbine,2021,1
+5,,38.2,DFO,Distillate Fuel Oil,2021,2
+5,,18.6,WAT,Water at Hydroelectric Turbine,2021,2
+5,,60.5,DFO,Distillate Fuel Oil,2021,3
+5,,21.0,WAT,Water at Hydroelectric Turbine,2021,3
+5,,39.8,DFO,Distillate Fuel Oil,2021,4
+5,,3.9,WAT,Water at Hydroelectric Turbine,2021,4
+5,,29.9,DFO,Distillate Fuel Oil,2021,5
+5,,22.9,WAT,Water at Hydroelectric Turbine,2021,5
+5,,33.3,DFO,Distillate Fuel Oil,2021,6
+5,,17.1,WAT,Water at Hydroelectric Turbine,2021,6
+5,,44.6,DFO,Distillate Fuel Oil,2021,7
+5,,10.5,WAT,Water at Hydroelectric Turbine,2021,7
+5,,37.9,DFO,Distillate Fuel Oil,2021,8
+5,,16.3,WAT,Water at Hydroelectric Turbine,2021,8
+5,,43.1,DFO,Distillate Fuel Oil,2021,9
+5,,14.7,WAT,Water at Hydroelectric Turbine,2021,9
+5,,44.2,DFO,Distillate Fuel Oil,2021,10
+5,,18.2,WAT,Water at Hydroelectric Turbine,2021,10
+5,,39.3,DFO,Distillate Fuel Oil,2021,11
+5,,7.2,WAT,Water at Hydroelectric Turbine,2021,11
+5,,49.5,DFO,Distillate Fuel Oil,2021,12
+5,,15.5,WAT,Water at Hydroelectric Turbine,2021,12
+6,62,2635.5,WAT,Water at Hydroelectric Turbine,2021,1
+6,62,2192.9,WAT,Water at Hydroelectric Turbine,2021,2
+6,62,2103.1,WAT,Water at Hydroelectric Turbine,2021,3
+6,62,1855.1,WAT,Water at Hydroelectric Turbine,2021,4
+6,62,2298.3,WAT,Water at Hydroelectric Turbine,2021,5
+6,62,2474.6,WAT,Water at Hydroelectric Turbine,2021,6
+6,62,2203.3,WAT,Water at Hydroelectric Turbine,2021,7
+6,62,2079.0,WAT,Water at Hydroelectric Turbine,2021,8
+6,62,1705.2,WAT,Water at Hydroelectric Turbine,2021,9
+6,62,1749.9,WAT,Water at Hydroelectric Turbine,2021,10
+6,62,2050.9,WAT,Water at Hydroelectric Turbine,2021,11
+6,62,2635.3,WAT,Water at Hydroelectric Turbine,2021,12
+7,7250,-27.1,DFO,Distillate Fuel Oil,2021,1
+7,7250,-30.0,DFO,Distillate Fuel Oil,2021,2
+7,7250,-32.4,DFO,Distillate Fuel Oil,2021,3
+7,7250,-31.2,DFO,Distillate Fuel Oil,2021,4
+7,7250,-16.2,DFO,Distillate Fuel Oil,2021,5
+7,7250,-21.7,DFO,Distillate Fuel Oil,2021,6
+7,7250,-21.2,DFO,Distillate Fuel Oil,2021,7
+7,7250,-30.6,DFO,Distillate Fuel Oil,2021,8
+7,7250,-39.6,DFO,Distillate Fuel Oil,2021,9
+7,7250,-39.3,DFO,Distillate Fuel Oil,2021,10
+7,7250,-30.7,DFO,Distillate Fuel Oil,2021,11
+7,7250,-34.1,DFO,Distillate Fuel Oil,2021,12
+8,63,549.7,WAT,Water at Hydroelectric Turbine,2021,1
+8,63,457.4,WAT,Water at Hydroelectric Turbine,2021,2
+8,63,438.6,WAT,Water at Hydroelectric Turbine,2021,3
+8,63,386.9,WAT,Water at Hydroelectric Turbine,2021,4
+8,63,479.3,WAT,Water at Hydroelectric Turbine,2021,5
+8,63,516.1,WAT,Water at Hydroelectric Turbine,2021,6
+8,63,459.5,WAT,Water at Hydroelectric Turbine,2021,7
+8,63,433.6,WAT,Water at Hydroelectric Turbine,2021,8
+8,63,355.6,WAT,Water at Hydroelectric Turbine,2021,9
+8,63,365.0,WAT,Water at Hydroelectric Turbine,2021,10
+8,63,427.7,WAT,Water at Hydroelectric Turbine,2021,11
+8,63,549.6,WAT,Water at Hydroelectric Turbine,2021,12
+8,63,5.0,DFO,Distillate Fuel Oil,2021,12
+9,59793,-9.6,DFO,Distillate Fuel Oil,2021,1
+9,59793,-10.6,DFO,Distillate Fuel Oil,2021,2
+9,59793,-11.5,DFO,Distillate Fuel Oil,2021,3
+9,59793,-11.0,DFO,Distillate Fuel Oil,2021,4
+9,59793,-5.7,DFO,Distillate Fuel Oil,2021,5
+9,59793,-7.7,DFO,Distillate Fuel Oil,2021,6
+9,59793,-7.5,DFO,Distillate Fuel Oil,2021,7
+9,59793,-10.8,DFO,Distillate Fuel Oil,2021,8
+9,59793,-14.0,DFO,Distillate Fuel Oil,2021,9
+9,59793,-13.9,DFO,Distillate Fuel Oil,2021,10
+9,59793,-10.8,DFO,Distillate Fuel Oil,2021,11
+9,59793,-12.1,DFO,Distillate Fuel Oil,2021,12
+10,57085,8869.7,WAT,Water at Hydroelectric Turbine,2021,1
+10,57085,7380.3,WAT,Water at Hydroelectric Turbine,2021,2
+10,57085,7078.1,WAT,Water at Hydroelectric Turbine,2021,3
+10,57085,6243.4,WAT,Water at Hydroelectric Turbine,2021,4
+10,57085,7734.9,WAT,Water at Hydroelectric Turbine,2021,5
+10,57085,8328.2,WAT,Water at Hydroelectric Turbine,2021,6
+10,57085,7415.2,WAT,Water at Hydroelectric Turbine,2021,7
+10,57085,6996.9,WAT,Water at Hydroelectric Turbine,2021,8
+10,57085,5739.0,WAT,Water at Hydroelectric Turbine,2021,9
+10,57085,5889.2,WAT,Water at Hydroelectric Turbine,2021,10
+10,57085,6902.2,WAT,Water at Hydroelectric Turbine,2021,11
+10,57085,8869.0,WAT,Water at Hydroelectric Turbine,2021,12
+11,64,-64.6,DFO,Distillate Fuel Oil,2021,1
+11,64,-71.5,DFO,Distillate Fuel Oil,2021,2
+11,64,-77.3,DFO,Distillate Fuel Oil,2021,3
+11,64,-74.4,DFO,Distillate Fuel Oil,2021,4
+11,64,-38.5,DFO,Distillate Fuel Oil,2021,5
+11,64,-51.7,DFO,Distillate Fuel Oil,2021,6
+11,64,-50.5,DFO,Distillate Fuel Oil,2021,7
+11,64,-72.8,DFO,Distillate Fuel Oil,2021,8
+11,64,-94.4,DFO,Distillate Fuel Oil,2021,9
+11,64,-93.7,DFO,Distillate Fuel Oil,2021,10
+11,64,-73.2,DFO,Distillate Fuel Oil,2021,11
+11,64,-81.4,DFO,Distillate Fuel Oil,2021,12
+12,65,2494.2,WAT,Water at Hydroelectric Turbine,2021,1
+12,65,2075.3,WAT,Water at Hydroelectric Turbine,2021,2
+12,65,1990.4,WAT,Water at Hydroelectric Turbine,2021,3
+12,65,1755.7,WAT,Water at Hydroelectric Turbine,2021,4
+12,65,2175.1,WAT,Water at Hydroelectric Turbine,2021,5
+12,65,2341.9,WAT,Water at Hydroelectric Turbine,2021,6
+12,65,2085.2,WAT,Water at Hydroelectric Turbine,2021,7
+12,65,1967.5,WAT,Water at Hydroelectric Turbine,2021,8
+12,65,1613.8,WAT,Water at Hydroelectric Turbine,2021,9
+12,65,1656.0,WAT,Water at Hydroelectric Turbine,2021,10
+12,65,1940.9,WAT,Water at Hydroelectric Turbine,2021,11
+12,65,2494.0,WAT,Water at Hydroelectric Turbine,2021,12
+13,78,29393.2,WAT,Water at Hydroelectric Turbine,2021,1
+13,78,24457.3,WAT,Water at Hydroelectric Turbine,2021,2
+13,78,23455.8,WAT,Water at Hydroelectric Turbine,2021,3
+13,78,20689.8,WAT,Water at Hydroelectric Turbine,2021,4
+13,78,25632.6,WAT,Water at Hydroelectric Turbine,2021,5
+13,78,27598.5,WAT,Water at Hydroelectric Turbine,2021,6
+13,78,24573.0,WAT,Water at Hydroelectric Turbine,2021,7
+13,78,23186.8,WAT,Water at Hydroelectric Turbine,2021,8
+13,78,19018.3,WAT,Water at Hydroelectric Turbine,2021,9
+13,78,19516.0,WAT,Water at Hydroelectric Turbine,2021,10
+13,78,22873.1,WAT,Water at Hydroelectric Turbine,2021,11
+13,78,29390.6,WAT,Water at Hydroelectric Turbine,2021,12
+14,58511,316.5,WND,Wind,2021,1
+14,58511,240.9,WND,Wind,2021,2
+14,58511,300.3,WND,Wind,2021,3
+14,58511,238.5,WND,Wind,2021,4
+14,58511,281.7,WND,Wind,2021,5
+14,58511,291.0,WND,Wind,2021,6
+14,58511,342.8,WND,Wind,2021,7
+14,58511,347.4,WND,Wind,2021,8
+14,58511,355.9,WND,Wind,2021,9
+14,58511,359.5,WND,Wind,2021,10
+14,58511,204.3,WND,Wind,2021,11
+14,58511,375.3,WND,Wind,2021,12
+15,7752,2305.2,WAT,Water at Hydroelectric Turbine,2021,1
+15,7752,1918.1,WAT,Water at Hydroelectric Turbine,2021,2
+15,7752,1839.6,WAT,Water at Hydroelectric Turbine,2021,3
+15,7752,1622.6,WAT,Water at Hydroelectric Turbine,2021,4
+15,7752,2010.3,WAT,Water at Hydroelectric Turbine,2021,5
+15,7752,2164.5,WAT,Water at Hydroelectric Turbine,2021,6
+15,7752,1927.2,WAT,Water at Hydroelectric Turbine,2021,7
+15,7752,1818.5,WAT,Water at Hydroelectric Turbine,2021,8
+15,7752,1491.6,WAT,Water at Hydroelectric Turbine,2021,9
+15,7752,1530.6,WAT,Water at Hydroelectric Turbine,2021,10
+15,7752,1793.9,WAT,Water at Hydroelectric Turbine,2021,11
+15,7752,2305.0,WAT,Water at Hydroelectric Turbine,2021,12
+16,7751,1468.0,WAT,Water at Hydroelectric Turbine,2021,1
+16,7751,1221.5,WAT,Water at Hydroelectric Turbine,2021,2
+16,7751,1171.5,WAT,Water at Hydroelectric Turbine,2021,3
+16,7751,1033.3,WAT,Water at Hydroelectric Turbine,2021,4
+16,7751,1280.2,WAT,Water at Hydroelectric Turbine,2021,5
+16,7751,1378.4,WAT,Water at Hydroelectric Turbine,2021,6
+16,7751,1227.3,WAT,Water at Hydroelectric Turbine,2021,7
+16,7751,1158.0,WAT,Water at Hydroelectric Turbine,2021,8
+16,7751,949.8,WAT,Water at Hydroelectric Turbine,2021,9
+16,7751,974.7,WAT,Water at Hydroelectric Turbine,2021,10
+16,7751,1142.4,WAT,Water at Hydroelectric Turbine,2021,11
+16,7751,1467.9,WAT,Water at Hydroelectric Turbine,2021,12
+17,56542,700.1,WAT,Water at Hydroelectric Turbine,2021,1
+17,56542,582.5,WAT,Water at Hydroelectric Turbine,2021,2
+17,56542,558.7,WAT,Water at Hydroelectric Turbine,2021,3
+17,56542,492.8,WAT,Water at Hydroelectric Turbine,2021,4
+17,56542,610.5,WAT,Water at Hydroelectric Turbine,2021,5
+17,56542,657.3,WAT,Water at Hydroelectric Turbine,2021,6
+17,56542,585.3,WAT,Water at Hydroelectric Turbine,2021,7
+17,56542,552.3,WAT,Water at Hydroelectric Turbine,2021,8
+17,56542,453.0,WAT,Water at Hydroelectric Turbine,2021,9
+17,56542,464.8,WAT,Water at Hydroelectric Turbine,2021,10
+17,56542,544.8,WAT,Water at Hydroelectric Turbine,2021,11
+17,56542,700.0,WAT,Water at Hydroelectric Turbine,2021,12
+18,56265,629.5,WAT,Water at Hydroelectric Turbine,2021,1
+18,56265,523.8,WAT,Water at Hydroelectric Turbine,2021,2
+18,56265,502.3,WAT,Water at Hydroelectric Turbine,2021,3
+18,56265,443.1,WAT,Water at Hydroelectric Turbine,2021,4
+18,56265,548.9,WAT,Water at Hydroelectric Turbine,2021,5
+18,56265,591.0,WAT,Water at Hydroelectric Turbine,2021,6
+18,56265,526.3,WAT,Water at Hydroelectric Turbine,2021,7
+18,56265,496.6,WAT,Water at Hydroelectric Turbine,2021,8
+18,56265,407.3,WAT,Water at Hydroelectric Turbine,2021,9
+18,56265,418.0,WAT,Water at Hydroelectric Turbine,2021,10
+18,56265,489.8,WAT,Water at Hydroelectric Turbine,2021,11
+18,56265,629.4,WAT,Water at Hydroelectric Turbine,2021,12
+20,421,24.8,DFO,Distillate Fuel Oil,2021,1
+20,421,27.5,DFO,Distillate Fuel Oil,2021,2
+20,421,29.7,DFO,Distillate Fuel Oil,2021,3
+20,421,28.5,DFO,Distillate Fuel Oil,2021,4
+20,421,14.8,DFO,Distillate Fuel Oil,2021,5
+20,421,19.8,DFO,Distillate Fuel Oil,2021,6
+20,421,19.4,DFO,Distillate Fuel Oil,2021,7
+20,421,28.0,DFO,Distillate Fuel Oil,2021,8
+20,421,36.2,DFO,Distillate Fuel Oil,2021,9
+20,421,36.0,DFO,Distillate Fuel Oil,2021,10
+20,421,28.1,DFO,Distillate Fuel Oil,2021,11
+20,421,31.2,DFO,Distillate Fuel Oil,2021,12
+21,56146,53.3,DFO,Distillate Fuel Oil,2021,1
+21,56146,59.0,DFO,Distillate Fuel Oil,2021,2
+21,56146,63.8,DFO,Distillate Fuel Oil,2021,3
+21,56146,61.3,DFO,Distillate Fuel Oil,2021,4
+21,56146,31.8,DFO,Distillate Fuel Oil,2021,5
+21,56146,42.6,DFO,Distillate Fuel Oil,2021,6
+21,56146,41.7,DFO,Distillate Fuel Oil,2021,7
+21,56146,60.1,DFO,Distillate Fuel Oil,2021,8
+21,56146,77.8,DFO,Distillate Fuel Oil,2021,9
+21,56146,77.3,DFO,Distillate Fuel Oil,2021,10
+21,56146,60.4,DFO,Distillate Fuel Oil,2021,11
+21,56146,67.1,DFO,Distillate Fuel Oil,2021,12
+22,69,106.4,DFO,Distillate Fuel Oil,2021,1
+22,69,117.8,DFO,Distillate Fuel Oil,2021,2
+22,69,127.4,DFO,Distillate Fuel Oil,2021,3
+22,69,122.5,DFO,Distillate Fuel Oil,2021,4
+22,69,63.4,DFO,Distillate Fuel Oil,2021,5
+22,69,85.1,DFO,Distillate Fuel Oil,2021,6
+22,69,83.2,DFO,Distillate Fuel Oil,2021,7
+22,69,120.0,DFO,Distillate Fuel Oil,2021,8
+22,69,155.4,DFO,Distillate Fuel Oil,2021,9
+22,69,154.4,DFO,Distillate Fuel Oil,2021,10
+22,69,120.5,DFO,Distillate Fuel Oil,2021,11
+22,69,134.0,DFO,Distillate Fuel Oil,2021,12
+23,423,0.9,DFO,Distillate Fuel Oil,2021,1
+23,423,1.0,DFO,Distillate Fuel Oil,2021,2
+23,423,1.1,DFO,Distillate Fuel Oil,2021,3
+23,423,1.1,DFO,Distillate Fuel Oil,2021,4
+23,423,0.5,DFO,Distillate Fuel Oil,2021,5
+23,423,0.7,DFO,Distillate Fuel Oil,2021,6
+23,423,0.7,DFO,Distillate Fuel Oil,2021,7
+23,423,1.0,DFO,Distillate Fuel Oil,2021,8
+23,423,1.3,DFO,Distillate Fuel Oil,2021,9
+23,423,1.3,DFO,Distillate Fuel Oil,2021,10
+23,423,1.0,DFO,Distillate Fuel Oil,2021,11
+23,423,1.2,DFO,Distillate Fuel Oil,2021,12
+24,61684,45.9,DFO,Distillate Fuel Oil,2021,1
+24,61684,50.8,DFO,Distillate Fuel Oil,2021,2
+24,61684,55.0,DFO,Distillate Fuel Oil,2021,3
+24,61684,52.9,DFO,Distillate Fuel Oil,2021,4
+24,61684,27.4,DFO,Distillate Fuel Oil,2021,5
+24,61684,36.7,DFO,Distillate Fuel Oil,2021,6
+24,61684,35.9,DFO,Distillate Fuel Oil,2021,7
+24,61684,51.8,DFO,Distillate Fuel Oil,2021,8
+24,61684,67.1,DFO,Distillate Fuel Oil,2021,9
+24,61684,66.6,DFO,Distillate Fuel Oil,2021,10
+24,61684,52.0,DFO,Distillate Fuel Oil,2021,11
+24,61684,57.8,DFO,Distillate Fuel Oil,2021,12
+25,7169,112.0,DFO,Distillate Fuel Oil,2021,1
+25,7169,120.0,DFO,Distillate Fuel Oil,2021,2
+25,7169,99.2,DFO,Distillate Fuel Oil,2021,3
+25,7169,94.4,DFO,Distillate Fuel Oil,2021,4
+25,7169,75.2,DFO,Distillate Fuel Oil,2021,5
+25,7169,70.4,DFO,Distillate Fuel Oil,2021,6
+25,7169,64.0,DFO,Distillate Fuel Oil,2021,7
+25,7169,70.4,DFO,Distillate Fuel Oil,2021,8
+25,7169,73.6,DFO,Distillate Fuel Oil,2021,9
+25,7169,88.0,DFO,Distillate Fuel Oil,2021,10
+25,7169,108.8,DFO,Distillate Fuel Oil,2021,11
+25,7169,120.0,DFO,Distillate Fuel Oil,2021,12
+26,66,74.4,WAT,Water at Hydroelectric Turbine,2021,1
+26,66,39.6,DFO,Distillate Fuel Oil,2021,1
+26,66,301.6,DFO,Distillate Fuel Oil,2021,2
+26,66,56.6,WAT,Water at Hydroelectric Turbine,2021,2
+26,66,108.8,DFO,Distillate Fuel Oil,2021,3
+26,66,20.1,WAT,Water at Hydroelectric Turbine,2021,3
+26,66,444.5,DFO,Distillate Fuel Oil,2021,4
+26,66,15.4,WAT,Water at Hydroelectric Turbine,2021,4
+26,66,494.2,DFO,Distillate Fuel Oil,2021,5
+26,66,223.0,WAT,Water at Hydroelectric Turbine,2021,5
+26,66,524.2,WAT,Water at Hydroelectric Turbine,2021,6
+26,66,582.1,WAT,Water at Hydroelectric Turbine,2021,7
+26,66,4.4,DFO,Distillate Fuel Oil,2021,7
+26,66,364.6,WAT,Water at Hydroelectric Turbine,2021,8
+26,66,0.7,DFO,Distillate Fuel Oil,2021,8
+26,66,189.7,WAT,Water at Hydroelectric Turbine,2021,9
+26,66,4.8,DFO,Distillate Fuel Oil,2021,9
+26,66,275.8,WAT,Water at Hydroelectric Turbine,2021,10
+26,66,2.7,DFO,Distillate Fuel Oil,2021,10
+26,66,131.1,WAT,Water at Hydroelectric Turbine,2021,11
+26,66,2.3,DFO,Distillate Fuel Oil,2021,11
+26,66,79.6,DFO,Distillate Fuel Oil,2021,12
+26,66,44.5,WAT,Water at Hydroelectric Turbine,2021,12
+27,61685,134.8,DFO,Distillate Fuel Oil,2021,1
+27,61685,135.2,DFO,Distillate Fuel Oil,2021,2
+27,61685,122.3,DFO,Distillate Fuel Oil,2021,3
+27,61685,120.6,DFO,Distillate Fuel Oil,2021,4
+27,61685,103.2,DFO,Distillate Fuel Oil,2021,5
+27,61685,98.5,DFO,Distillate Fuel Oil,2021,6
+27,61685,93.5,DFO,Distillate Fuel Oil,2021,7
+27,61685,100.3,DFO,Distillate Fuel Oil,2021,8
+27,61685,107.1,DFO,Distillate Fuel Oil,2021,9
+27,61685,108.1,DFO,Distillate Fuel Oil,2021,10
+27,61685,140.9,DFO,Distillate Fuel Oil,2021,11
+27,61685,159.5,DFO,Distillate Fuel Oil,2021,12
+28,7414,1.5,DFO,Distillate Fuel Oil,2021,1
+28,7414,1.7,DFO,Distillate Fuel Oil,2021,2
+28,7414,1.8,DFO,Distillate Fuel Oil,2021,3
+28,7414,1.8,DFO,Distillate Fuel Oil,2021,4
+28,7414,0.9,DFO,Distillate Fuel Oil,2021,5
+28,7414,1.2,DFO,Distillate Fuel Oil,2021,6
+28,7414,1.2,DFO,Distillate Fuel Oil,2021,7
+28,7414,1.7,DFO,Distillate Fuel Oil,2021,8
+28,7414,2.2,DFO,Distillate Fuel Oil,2021,9
+28,7414,2.2,DFO,Distillate Fuel Oil,2021,10
+28,7414,1.7,DFO,Distillate Fuel Oil,2021,11
+28,7414,1.9,DFO,Distillate Fuel Oil,2021,12
+29,406,985.1,DFO,Distillate Fuel Oil,2021,1
+29,406,984.0,DFO,Distillate Fuel Oil,2021,2
+29,406,879.6,DFO,Distillate Fuel Oil,2021,3
+29,406,886.2,DFO,Distillate Fuel Oil,2021,4
+29,406,770.5,DFO,Distillate Fuel Oil,2021,5
+29,406,754.5,DFO,Distillate Fuel Oil,2021,6
+29,406,732.8,DFO,Distillate Fuel Oil,2021,7
+29,406,754.4,DFO,Distillate Fuel Oil,2021,8
+29,406,800.6,DFO,Distillate Fuel Oil,2021,9
+29,406,843.9,DFO,Distillate Fuel Oil,2021,10
+29,406,945.3,DFO,Distillate Fuel Oil,2021,11
+29,406,1047.1,DFO,Distillate Fuel Oil,2021,12
+30,7750,69.9,DFO,Distillate Fuel Oil,2021,1
+30,7750,71.1,DFO,Distillate Fuel Oil,2021,2
+30,7750,59.7,DFO,Distillate Fuel Oil,2021,3
+30,7750,61.9,DFO,Distillate Fuel Oil,2021,4
+30,7750,52.0,DFO,Distillate Fuel Oil,2021,5
+30,7750,42.0,DFO,Distillate Fuel Oil,2021,6
+30,7750,40.7,DFO,Distillate Fuel Oil,2021,7
+30,7750,43.2,DFO,Distillate Fuel Oil,2021,8
+30,7750,46.8,DFO,Distillate Fuel Oil,2021,9
+30,7750,48.2,DFO,Distillate Fuel Oil,2021,10
+30,7750,61.6,DFO,Distillate Fuel Oil,2021,11
+30,7750,64.9,DFO,Distillate Fuel Oil,2021,12
+31,7176,49.2,DFO,Distillate Fuel Oil,2021,1
+31,7176,53.4,DFO,Distillate Fuel Oil,2021,2
+31,7176,47.6,DFO,Distillate Fuel Oil,2021,3
+31,7176,43.8,DFO,Distillate Fuel Oil,2021,4
+31,7176,31.2,DFO,Distillate Fuel Oil,2021,5
+31,7176,33.5,DFO,Distillate Fuel Oil,2021,6
+31,7176,35.9,DFO,Distillate Fuel Oil,2021,7
+31,7176,37.5,DFO,Distillate Fuel Oil,2021,8
+31,7176,38.3,DFO,Distillate Fuel Oil,2021,9
+31,7176,38.7,DFO,Distillate Fuel Oil,2021,10
+31,7176,50.9,DFO,Distillate Fuel Oil,2021,11
+31,7176,57.5,DFO,Distillate Fuel Oil,2021,12
+34,7375,84.0,DFO,Distillate Fuel Oil,2021,1
+34,7375,0.1,SUN,Solar,2021,1
+34,7375,84.2,DFO,Distillate Fuel Oil,2021,2
+34,7375,1.0,SUN,Solar,2021,2
+34,7375,76.2,DFO,Distillate Fuel Oil,2021,3
+34,7375,0.1,SUN,Solar,2021,3
+34,7375,73.3,DFO,Distillate Fuel Oil,2021,4
+34,7375,5.9,SUN,Solar,2021,4
+34,7375,63.8,DFO,Distillate Fuel Oil,2021,5
+34,7375,3.4,SUN,Solar,2021,5
+34,7375,60.6,DFO,Distillate Fuel Oil,2021,6
+34,7375,66.2,DFO,Distillate Fuel Oil,2021,7
+34,7375,0.0,SUN,Solar,2021,7
+34,7375,52.2,DFO,Distillate Fuel Oil,2021,8
+34,7375,62.7,DFO,Distillate Fuel Oil,2021,9
+34,7375,74.5,DFO,Distillate Fuel Oil,2021,10
+34,7375,80.8,DFO,Distillate Fuel Oil,2021,11
+34,7375,87.7,DFO,Distillate Fuel Oil,2021,12
+35,,213.4,WAT,Water at Hydroelectric Turbine,2021,1
+35,,0.4,DFO,Distillate Fuel Oil,2021,1
+35,,130.6,DFO,Distillate Fuel Oil,2021,2
+35,,105.7,WAT,Water at Hydroelectric Turbine,2021,2
+35,,105.4,WAT,Water at Hydroelectric Turbine,2021,3
+35,,87.7,DFO,Distillate Fuel Oil,2021,3
+35,,126.4,DFO,Distillate Fuel Oil,2021,4
+35,,91.2,WAT,Water at Hydroelectric Turbine,2021,4
+35,,190.3,WAT,Water at Hydroelectric Turbine,2021,5
+35,,19.1,DFO,Distillate Fuel Oil,2021,5
+35,,185.0,WAT,Water at Hydroelectric Turbine,2021,6
+35,,66.6,DFO,Distillate Fuel Oil,2021,6
+35,,220.5,WAT,Water at Hydroelectric Turbine,2021,7
+35,,28.7,DFO,Distillate Fuel Oil,2021,7
+35,,245.4,WAT,Water at Hydroelectric Turbine,2021,8
+35,,9.7,DFO,Distillate Fuel Oil,2021,8
+35,,225.6,WAT,Water at Hydroelectric Turbine,2021,9
+35,,19.0,DFO,Distillate Fuel Oil,2021,9
+35,,212.3,WAT,Water at Hydroelectric Turbine,2021,10
+35,,9.4,DFO,Distillate Fuel Oil,2021,10
+35,,210.5,WAT,Water at Hydroelectric Turbine,2021,11
+35,,184.0,WAT,Water at Hydroelectric Turbine,2021,12
+35,,36.1,DFO,Distillate Fuel Oil,2021,12
+36,7506,10.5,DFO,Distillate Fuel Oil,2021,1
+36,7506,9.1,DFO,Distillate Fuel Oil,2021,2
+36,7506,8.5,DFO,Distillate Fuel Oil,2021,3
+36,7506,8.3,DFO,Distillate Fuel Oil,2021,4
+36,7506,7.8,DFO,Distillate Fuel Oil,2021,5
+36,7506,7.3,DFO,Distillate Fuel Oil,2021,6
+36,7506,7.2,DFO,Distillate Fuel Oil,2021,7
+36,7506,7.6,DFO,Distillate Fuel Oil,2021,8
+36,7506,7.9,DFO,Distillate Fuel Oil,2021,9
+36,7506,5.7,DFO,Distillate Fuel Oil,2021,10
+36,7506,11.0,DFO,Distillate Fuel Oil,2021,11
+36,7506,13.9,DFO,Distillate Fuel Oil,2021,12
+40,7753,34.0,DFO,Distillate Fuel Oil,2021,1
+40,7753,40.6,DFO,Distillate Fuel Oil,2021,2
+40,7753,31.4,DFO,Distillate Fuel Oil,2021,3
+40,7753,35.0,DFO,Distillate Fuel Oil,2021,4
+40,7753,36.7,DFO,Distillate Fuel Oil,2021,5
+40,7753,44.3,DFO,Distillate Fuel Oil,2021,6
+40,7753,47.4,DFO,Distillate Fuel Oil,2021,7
+40,7753,52.1,DFO,Distillate Fuel Oil,2021,8
+40,7753,45.2,DFO,Distillate Fuel Oil,2021,9
+40,7753,37.4,DFO,Distillate Fuel Oil,2021,10
+40,7753,43.0,DFO,Distillate Fuel Oil,2021,11
+40,7753,38.1,DFO,Distillate Fuel Oil,2021,12
+45,57053,0.0,JF,Jet Fuel,2021,1
+45,57053,0.0,JF,Jet Fuel,2021,2
+45,57053,0.0,JF,Jet Fuel,2021,3
+45,57053,0.0,JF,Jet Fuel,2021,4
+45,57053,0.0,JF,Jet Fuel,2021,5
+45,57053,0.0,JF,Jet Fuel,2021,6
+45,57053,0.0,JF,Jet Fuel,2021,7
+45,57053,0.0,JF,Jet Fuel,2021,8
+45,57053,0.0,JF,Jet Fuel,2021,9
+45,57053,0.0,JF,Jet Fuel,2021,10
+45,57053,0.0,JF,Jet Fuel,2021,11
+45,57053,0.0,JF,Jet Fuel,2021,12
+46,6556,125.3,DFO,Distillate Fuel Oil,2021,1
+46,6556,146.6,DFO,Distillate Fuel Oil,2021,2
+46,6556,129.0,DFO,Distillate Fuel Oil,2021,3
+46,6556,110.7,DFO,Distillate Fuel Oil,2021,4
+46,6556,83.3,DFO,Distillate Fuel Oil,2021,5
+46,6556,83.7,DFO,Distillate Fuel Oil,2021,6
+46,6556,78.9,DFO,Distillate Fuel Oil,2021,7
+46,6556,100.0,DFO,Distillate Fuel Oil,2021,8
+46,6556,99.5,DFO,Distillate Fuel Oil,2021,9
+46,6556,97.0,DFO,Distillate Fuel Oil,2021,10
+46,6556,135.7,DFO,Distillate Fuel Oil,2021,11
+46,6556,141.2,DFO,Distillate Fuel Oil,2021,12
+47,6566,3810.1,DFO,Distillate Fuel Oil,2021,1
+47,6566,115.6,WND,Wind,2021,1
+47,6566,3955.0,DFO,Distillate Fuel Oil,2021,2
+47,6566,151.2,WND,Wind,2021,2
+47,6566,3921.1,DFO,Distillate Fuel Oil,2021,3
+47,6566,162.8,WND,Wind,2021,3
+47,6566,3478.2,DFO,Distillate Fuel Oil,2021,4
+47,6566,155.8,WND,Wind,2021,4
+47,6566,2998.8,DFO,Distillate Fuel Oil,2021,5
+47,6566,58.5,WND,Wind,2021,5
+47,6566,3350.6,DFO,Distillate Fuel Oil,2021,6
+47,6566,69.1,WND,Wind,2021,6
+47,6566,3048.8,DFO,Distillate Fuel Oil,2021,7
+47,6566,61.6,WND,Wind,2021,7
+47,6566,3312.7,DFO,Distillate Fuel Oil,2021,8
+47,6566,95.0,WND,Wind,2021,8
+47,6566,3175.7,DFO,Distillate Fuel Oil,2021,9
+47,6566,91.1,WND,Wind,2021,9
+47,6566,3302.6,DFO,Distillate Fuel Oil,2021,10
+47,6566,100.4,WND,Wind,2021,10
+47,6566,3302.6,DFO,Distillate Fuel Oil,2021,11
+47,6566,100.4,WND,Wind,2021,11
+47,6566,3945.4,DFO,Distillate Fuel Oil,2021,12
+47,6566,179.2,WND,Wind,2021,12
+48,7374,121.5,DFO,Distillate Fuel Oil,2021,1
+48,7374,133.0,DFO,Distillate Fuel Oil,2021,2
+48,7374,130.2,DFO,Distillate Fuel Oil,2021,3
+48,7374,115.6,DFO,Distillate Fuel Oil,2021,4
+48,7374,97.1,DFO,Distillate Fuel Oil,2021,5
+48,7374,94.6,DFO,Distillate Fuel Oil,2021,6
+48,7374,83.7,DFO,Distillate Fuel Oil,2021,7
+48,7374,98.3,DFO,Distillate Fuel Oil,2021,8
+48,7374,94.8,DFO,Distillate Fuel Oil,2021,9
+48,7374,97.0,DFO,Distillate Fuel Oil,2021,10
+48,7374,124.7,DFO,Distillate Fuel Oil,2021,11
+48,7374,130.7,DFO,Distillate Fuel Oil,2021,12
+49,6311,149.0,DFO,Distillate Fuel Oil,2021,1
+49,6311,85.5,WND,Wind,2021,1
+49,6311,156.6,DFO,Distillate Fuel Oil,2021,2
+49,6311,94.7,WND,Wind,2021,2
+49,6311,193.1,DFO,Distillate Fuel Oil,2021,3
+49,6311,54.7,WND,Wind,2021,3
+49,6311,166.8,DFO,Distillate Fuel Oil,2021,4
+49,6311,63.5,WND,Wind,2021,4
+49,6311,148.8,DFO,Distillate Fuel Oil,2021,5
+49,6311,38.9,WND,Wind,2021,5
+49,6311,141.1,DFO,Distillate Fuel Oil,2021,6
+49,6311,60.2,WND,Wind,2021,6
+49,6311,114.4,DFO,Distillate Fuel Oil,2021,7
+49,6311,57.7,WND,Wind,2021,7
+49,6311,133.9,DFO,Distillate Fuel Oil,2021,8
+49,6311,74.2,WND,Wind,2021,8
+49,6311,141.6,DFO,Distillate Fuel Oil,2021,9
+49,6311,58.9,WND,Wind,2021,9
+49,6311,142.5,DFO,Distillate Fuel Oil,2021,10
+49,6311,80.5,WND,Wind,2021,10
+49,6311,142.5,DFO,Distillate Fuel Oil,2021,11
+49,6311,80.5,WND,Wind,2021,11
+49,6311,164.3,DFO,Distillate Fuel Oil,2021,12
+49,6311,93.3,WND,Wind,2021,12
+50,6313,114.0,DFO,Distillate Fuel Oil,2021,1
+50,6313,125.6,DFO,Distillate Fuel Oil,2021,2
+50,6313,122.3,DFO,Distillate Fuel Oil,2021,3
+50,6313,111.8,DFO,Distillate Fuel Oil,2021,4
+50,6313,92.8,DFO,Distillate Fuel Oil,2021,5
+50,6313,97.2,DFO,Distillate Fuel Oil,2021,6
+50,6313,90.5,DFO,Distillate Fuel Oil,2021,7
+50,6313,118.9,DFO,Distillate Fuel Oil,2021,8
+50,6313,110.8,DFO,Distillate Fuel Oil,2021,9
+50,6313,114.0,DFO,Distillate Fuel Oil,2021,10
+50,6313,137.5,DFO,Distillate Fuel Oil,2021,11
+50,6313,136.0,DFO,Distillate Fuel Oil,2021,12
+51,6314,473.8,DFO,Distillate Fuel Oil,2021,1
+51,6314,46.9,WND,Wind,2021,1
+51,6314,481.2,DFO,Distillate Fuel Oil,2021,2
+51,6314,64.5,WND,Wind,2021,2
+51,6314,490.9,DFO,Distillate Fuel Oil,2021,3
+51,6314,69.9,WND,Wind,2021,3
+51,6314,450.8,DFO,Distillate Fuel Oil,2021,4
+51,6314,50.6,WND,Wind,2021,4
+51,6314,370.3,DFO,Distillate Fuel Oil,2021,5
+51,6314,33.1,WND,Wind,2021,5
+51,6314,426.9,DFO,Distillate Fuel Oil,2021,6
+51,6314,27.4,WND,Wind,2021,6
+51,6314,400.7,DFO,Distillate Fuel Oil,2021,7
+51,6314,37.0,WND,Wind,2021,7
+51,6314,430.3,DFO,Distillate Fuel Oil,2021,8
+51,6314,50.5,WND,Wind,2021,8
+51,6314,419.7,DFO,Distillate Fuel Oil,2021,9
+51,6314,29.9,WND,Wind,2021,9
+51,6314,447.7,DFO,Distillate Fuel Oil,2021,10
+51,6314,44.3,WND,Wind,2021,10
+51,6314,447.7,DFO,Distillate Fuel Oil,2021,11
+51,6314,44.3,WND,Wind,2021,11
+51,6314,515.7,DFO,Distillate Fuel Oil,2021,12
+51,6314,64.9,WND,Wind,2021,12
+52,6315,207.8,DFO,Distillate Fuel Oil,2021,1
+52,6315,228.9,DFO,Distillate Fuel Oil,2021,2
+52,6315,210.8,DFO,Distillate Fuel Oil,2021,3
+52,6315,186.2,DFO,Distillate Fuel Oil,2021,4
+52,6315,165.3,DFO,Distillate Fuel Oil,2021,5
+52,6315,150.3,DFO,Distillate Fuel Oil,2021,6
+52,6315,6.2,WND,Wind,2021,6
+52,6315,134.8,DFO,Distillate Fuel Oil,2021,7
+52,6315,170.7,DFO,Distillate Fuel Oil,2021,8
+52,6315,160.4,DFO,Distillate Fuel Oil,2021,9
+52,6315,169.9,DFO,Distillate Fuel Oil,2021,10
+52,6315,206.1,DFO,Distillate Fuel Oil,2021,11
+52,6315,221.7,DFO,Distillate Fuel Oil,2021,12
+52,6315,30.5,WND,Wind,2021,12
+53,6319,280.3,DFO,Distillate Fuel Oil,2021,1
+53,6319,55.4,WND,Wind,2021,1
+53,6319,319.4,DFO,Distillate Fuel Oil,2021,2
+53,6319,40.9,WND,Wind,2021,2
+53,6319,330.1,DFO,Distillate Fuel Oil,2021,3
+53,6319,37.7,WND,Wind,2021,3
+53,6319,289.4,DFO,Distillate Fuel Oil,2021,4
+53,6319,41.6,WND,Wind,2021,4
+53,6319,246.5,DFO,Distillate Fuel Oil,2021,5
+53,6319,20.9,WND,Wind,2021,5
+53,6319,253.2,DFO,Distillate Fuel Oil,2021,6
+53,6319,24.9,WND,Wind,2021,6
+53,6319,230.5,DFO,Distillate Fuel Oil,2021,7
+53,6319,16.0,WND,Wind,2021,7
+53,6319,253.9,DFO,Distillate Fuel Oil,2021,8
+53,6319,19.3,WND,Wind,2021,8
+53,6319,270.3,DFO,Distillate Fuel Oil,2021,9
+53,6319,2.2,WND,Wind,2021,9
+53,6319,258.1,DFO,Distillate Fuel Oil,2021,10
+53,6319,27.2,WND,Wind,2021,10
+53,6319,258.1,DFO,Distillate Fuel Oil,2021,11
+53,6319,27.2,WND,Wind,2021,11
+53,6319,322.7,DFO,Distillate Fuel Oil,2021,12
+53,6319,33.8,WND,Wind,2021,12
+54,57066,250.0,DFO,Distillate Fuel Oil,2021,1
+54,57066,14.9,WND,Wind,2021,1
+54,57066,253.0,DFO,Distillate Fuel Oil,2021,2
+54,57066,25.1,WND,Wind,2021,2
+54,57066,254.5,DFO,Distillate Fuel Oil,2021,3
+54,57066,21.1,WND,Wind,2021,3
+54,57066,208.0,DFO,Distillate Fuel Oil,2021,4
+54,57066,28.7,WND,Wind,2021,4
+54,57066,183.3,DFO,Distillate Fuel Oil,2021,5
+54,57066,19.0,WND,Wind,2021,5
+54,57066,183.5,DFO,Distillate Fuel Oil,2021,6
+54,57066,18.9,WND,Wind,2021,6
+54,57066,169.1,DFO,Distillate Fuel Oil,2021,7
+54,57066,15.8,WND,Wind,2021,7
+54,57066,203.6,DFO,Distillate Fuel Oil,2021,8
+54,57066,14.2,WND,Wind,2021,8
+54,57066,187.9,DFO,Distillate Fuel Oil,2021,9
+54,57066,21.7,WND,Wind,2021,9
+54,57066,178.5,DFO,Distillate Fuel Oil,2021,10
+54,57066,47.7,WND,Wind,2021,10
+54,57066,178.5,DFO,Distillate Fuel Oil,2021,11
+54,57066,47.7,WND,Wind,2021,11
+54,57066,217.2,DFO,Distillate Fuel Oil,2021,12
+54,57066,47.5,WND,Wind,2021,12
+55,6323,155.6,DFO,Distillate Fuel Oil,2021,1
+55,6323,184.7,DFO,Distillate Fuel Oil,2021,2
+55,6323,171.6,DFO,Distillate Fuel Oil,2021,3
+55,6323,143.5,DFO,Distillate Fuel Oil,2021,4
+55,6323,109.7,DFO,Distillate Fuel Oil,2021,5
+55,6323,116.0,DFO,Distillate Fuel Oil,2021,6
+55,6323,98.0,DFO,Distillate Fuel Oil,2021,7
+55,6323,114.9,DFO,Distillate Fuel Oil,2021,8
+55,6323,119.8,DFO,Distillate Fuel Oil,2021,9
+55,6323,128.2,DFO,Distillate Fuel Oil,2021,10
+55,6323,193.8,DFO,Distillate Fuel Oil,2021,11
+55,6323,179.3,DFO,Distillate Fuel Oil,2021,12
+56,6324,148.3,DFO,Distillate Fuel Oil,2021,1
+56,6324,213.7,DFO,Distillate Fuel Oil,2021,2
+56,6324,197.2,DFO,Distillate Fuel Oil,2021,3
+56,6324,187.9,DFO,Distillate Fuel Oil,2021,4
+56,6324,130.2,DFO,Distillate Fuel Oil,2021,5
+56,6324,117.9,DFO,Distillate Fuel Oil,2021,6
+56,6324,84.4,DFO,Distillate Fuel Oil,2021,7
+56,6324,107.3,DFO,Distillate Fuel Oil,2021,8
+56,6324,123.4,DFO,Distillate Fuel Oil,2021,9
+56,6324,164.8,DFO,Distillate Fuel Oil,2021,10
+56,6324,207.5,DFO,Distillate Fuel Oil,2021,11
+56,6324,191.1,DFO,Distillate Fuel Oil,2021,12
+57,57064,180.3,DFO,Distillate Fuel Oil,2021,1
+57,57064,219.8,DFO,Distillate Fuel Oil,2021,2
+57,57064,224.3,DFO,Distillate Fuel Oil,2021,3
+57,57064,185.2,DFO,Distillate Fuel Oil,2021,4
+57,57064,151.5,DFO,Distillate Fuel Oil,2021,5
+57,57064,162.1,DFO,Distillate Fuel Oil,2021,6
+57,57064,139.8,DFO,Distillate Fuel Oil,2021,7
+57,57064,157.9,DFO,Distillate Fuel Oil,2021,8
+57,57064,156.9,DFO,Distillate Fuel Oil,2021,9
+57,57064,169.4,DFO,Distillate Fuel Oil,2021,10
+57,57064,225.3,DFO,Distillate Fuel Oil,2021,11
+57,57064,206.1,DFO,Distillate Fuel Oil,2021,12
+58,6325,117.1,DFO,Distillate Fuel Oil,2021,1
+58,6325,130.9,DFO,Distillate Fuel Oil,2021,2
+58,6325,122.8,DFO,Distillate Fuel Oil,2021,3
+58,6325,107.9,DFO,Distillate Fuel Oil,2021,4
+58,6325,82.5,DFO,Distillate Fuel Oil,2021,5
+58,6325,86.9,DFO,Distillate Fuel Oil,2021,6
+58,6325,81.2,DFO,Distillate Fuel Oil,2021,7
+58,6325,95.1,DFO,Distillate Fuel Oil,2021,8
+58,6325,94.7,DFO,Distillate Fuel Oil,2021,9
+58,6325,103.8,DFO,Distillate Fuel Oil,2021,10
+58,6325,136.7,DFO,Distillate Fuel Oil,2021,11
+58,6325,127.1,DFO,Distillate Fuel Oil,2021,12
+59,6326,141.5,DFO,Distillate Fuel Oil,2021,1
+59,6326,148.9,DFO,Distillate Fuel Oil,2021,2
+59,6326,148.4,DFO,Distillate Fuel Oil,2021,3
+59,6326,133.8,DFO,Distillate Fuel Oil,2021,4
+59,6326,106.7,DFO,Distillate Fuel Oil,2021,5
+59,6326,121.7,DFO,Distillate Fuel Oil,2021,6
+59,6326,108.4,DFO,Distillate Fuel Oil,2021,7
+59,6326,112.2,DFO,Distillate Fuel Oil,2021,8
+59,6326,110.4,DFO,Distillate Fuel Oil,2021,9
+59,6326,119.7,DFO,Distillate Fuel Oil,2021,10
+59,6326,161.0,DFO,Distillate Fuel Oil,2021,11
+59,6326,152.1,DFO,Distillate Fuel Oil,2021,12
+61,6334,171.0,DFO,Distillate Fuel Oil,2021,1
+61,6334,165.2,DFO,Distillate Fuel Oil,2021,2
+61,6334,191.6,DFO,Distillate Fuel Oil,2021,3
+61,6334,165.3,DFO,Distillate Fuel Oil,2021,4
+61,6334,137.4,DFO,Distillate Fuel Oil,2021,5
+61,6334,140.9,DFO,Distillate Fuel Oil,2021,6
+61,6334,127.0,DFO,Distillate Fuel Oil,2021,7
+61,6334,148.9,DFO,Distillate Fuel Oil,2021,8
+61,6334,143.5,DFO,Distillate Fuel Oil,2021,9
+61,6334,154.3,DFO,Distillate Fuel Oil,2021,10
+61,6334,192.5,DFO,Distillate Fuel Oil,2021,11
+61,6334,184.2,DFO,Distillate Fuel Oil,2021,12
+62,6331,169.0,DFO,Distillate Fuel Oil,2021,1
+62,6331,185.2,DFO,Distillate Fuel Oil,2021,2
+62,6331,174.4,DFO,Distillate Fuel Oil,2021,3
+62,6331,158.3,DFO,Distillate Fuel Oil,2021,4
+62,6331,134.0,DFO,Distillate Fuel Oil,2021,5
+62,6331,128.5,DFO,Distillate Fuel Oil,2021,6
+62,6331,118.2,DFO,Distillate Fuel Oil,2021,7
+62,6331,145.1,DFO,Distillate Fuel Oil,2021,8
+62,6331,141.4,DFO,Distillate Fuel Oil,2021,9
+62,6331,152.1,DFO,Distillate Fuel Oil,2021,10
+62,6331,155.1,DFO,Distillate Fuel Oil,2021,11
+62,6331,191.5,DFO,Distillate Fuel Oil,2021,12
+63,6330,184.7,DFO,Distillate Fuel Oil,2021,1
+63,6330,0.0,SUN,Solar,2021,1
+63,6330,211.3,DFO,Distillate Fuel Oil,2021,2
+63,6330,0.8,SUN,Solar,2021,2
+63,6330,202.5,DFO,Distillate Fuel Oil,2021,3
+63,6330,1.3,SUN,Solar,2021,3
+63,6330,172.4,DFO,Distillate Fuel Oil,2021,4
+63,6330,2.5,SUN,Solar,2021,4
+63,6330,130.3,DFO,Distillate Fuel Oil,2021,5
+63,6330,2.2,SUN,Solar,2021,5
+63,6330,125.9,DFO,Distillate Fuel Oil,2021,6
+63,6330,1.8,SUN,Solar,2021,6
+63,6330,114.3,DFO,Distillate Fuel Oil,2021,7
+63,6330,0.8,SUN,Solar,2021,7
+63,6330,145.4,DFO,Distillate Fuel Oil,2021,8
+63,6330,1.1,SUN,Solar,2021,8
+63,6330,144.5,DFO,Distillate Fuel Oil,2021,9
+63,6330,1.0,SUN,Solar,2021,9
+63,6330,158.4,DFO,Distillate Fuel Oil,2021,10
+63,6330,0.5,SUN,Solar,2021,10
+63,6330,158.4,DFO,Distillate Fuel Oil,2021,11
+63,6330,0.5,SUN,Solar,2021,11
+63,6330,215.1,DFO,Distillate Fuel Oil,2021,12
+65,6335,163.6,DFO,Distillate Fuel Oil,2021,1
+65,6335,172.4,DFO,Distillate Fuel Oil,2021,2
+65,6335,177.0,DFO,Distillate Fuel Oil,2021,3
+65,6335,153.8,DFO,Distillate Fuel Oil,2021,4
+65,6335,116.8,DFO,Distillate Fuel Oil,2021,5
+65,6335,124.3,DFO,Distillate Fuel Oil,2021,6
+65,6335,110.2,DFO,Distillate Fuel Oil,2021,7
+65,6335,126.7,DFO,Distillate Fuel Oil,2021,8
+65,6335,136.8,DFO,Distillate Fuel Oil,2021,9
+65,6335,156.1,DFO,Distillate Fuel Oil,2021,10
+65,6335,227.5,DFO,Distillate Fuel Oil,2021,11
+65,6335,211.4,DFO,Distillate Fuel Oil,2021,12
+66,6337,200.9,DFO,Distillate Fuel Oil,2021,1
+66,6337,27.2,WND,Wind,2021,1
+66,6337,188.6,DFO,Distillate Fuel Oil,2021,2
+66,6337,41.5,WND,Wind,2021,2
+66,6337,206.0,DFO,Distillate Fuel Oil,2021,3
+66,6337,38.7,WND,Wind,2021,3
+66,6337,181.9,DFO,Distillate Fuel Oil,2021,4
+66,6337,18.1,WND,Wind,2021,4
+66,6337,138.9,DFO,Distillate Fuel Oil,2021,5
+66,6337,12.3,WND,Wind,2021,5
+66,6337,128.4,DFO,Distillate Fuel Oil,2021,6
+66,6337,26.9,WND,Wind,2021,6
+66,6337,92.6,DFO,Distillate Fuel Oil,2021,7
+66,6337,61.7,WND,Wind,2021,7
+66,6337,120.4,DFO,Distillate Fuel Oil,2021,8
+66,6337,59.3,WND,Wind,2021,8
+66,6337,119.2,DFO,Distillate Fuel Oil,2021,9
+66,6337,51.9,WND,Wind,2021,9
+66,6337,112.6,DFO,Distillate Fuel Oil,2021,10
+66,6337,74.9,WND,Wind,2021,10
+66,6337,112.6,DFO,Distillate Fuel Oil,2021,11
+66,6337,74.9,WND,Wind,2021,11
+66,6337,177.3,DFO,Distillate Fuel Oil,2021,12
+66,6337,73.9,WND,Wind,2021,12
+67,6338,324.9,DFO,Distillate Fuel Oil,2021,1
+67,6338,215.6,WND,Wind,2021,1
+67,6338,310.3,DFO,Distillate Fuel Oil,2021,2
+67,6338,284.0,WND,Wind,2021,2
+67,6338,391.1,DFO,Distillate Fuel Oil,2021,3
+67,6338,117.5,WND,Wind,2021,3
+67,6338,408.5,DFO,Distillate Fuel Oil,2021,4
+67,6338,97.5,WND,Wind,2021,4
+67,6338,289.9,DFO,Distillate Fuel Oil,2021,5
+67,6338,119.8,WND,Wind,2021,5
+67,6338,314.0,DFO,Distillate Fuel Oil,2021,6
+67,6338,110.8,WND,Wind,2021,6
+67,6338,269.9,DFO,Distillate Fuel Oil,2021,7
+67,6338,102.9,WND,Wind,2021,7
+67,6338,269.9,DFO,Distillate Fuel Oil,2021,8
+67,6338,174.6,WND,Wind,2021,8
+67,6338,288.1,DFO,Distillate Fuel Oil,2021,9
+67,6338,139.2,WND,Wind,2021,9
+67,6338,239.5,DFO,Distillate Fuel Oil,2021,10
+67,6338,218.7,WND,Wind,2021,10
+67,6338,239.5,DFO,Distillate Fuel Oil,2021,11
+67,6338,218.7,WND,Wind,2021,11
+67,6338,304.2,DFO,Distillate Fuel Oil,2021,12
+67,6338,261.2,WND,Wind,2021,12
+68,6340,215.5,DFO,Distillate Fuel Oil,2021,1
+68,6340,10.8,WND,Wind,2021,1
+68,6340,246.3,DFO,Distillate Fuel Oil,2021,2
+68,6340,0.1,WND,Wind,2021,2
+68,6340,235.0,DFO,Distillate Fuel Oil,2021,3
+68,6340,202.9,DFO,Distillate Fuel Oil,2021,4
+68,6340,182.3,DFO,Distillate Fuel Oil,2021,5
+68,6340,18.7,WND,Wind,2021,5
+68,6340,184.5,DFO,Distillate Fuel Oil,2021,6
+68,6340,7.4,WND,Wind,2021,6
+68,6340,170.5,DFO,Distillate Fuel Oil,2021,7
+68,6340,178.1,DFO,Distillate Fuel Oil,2021,8
+68,6340,13.5,WND,Wind,2021,8
+68,6340,186.5,DFO,Distillate Fuel Oil,2021,9
+68,6340,4.4,WND,Wind,2021,9
+68,6340,200.3,DFO,Distillate Fuel Oil,2021,10
+68,6340,236.6,DFO,Distillate Fuel Oil,2021,11
+68,6340,234.1,DFO,Distillate Fuel Oil,2021,12
+69,6342,150.1,DFO,Distillate Fuel Oil,2021,1
+69,6342,158.7,DFO,Distillate Fuel Oil,2021,2
+69,6342,163.2,DFO,Distillate Fuel Oil,2021,3
+69,6342,150.6,DFO,Distillate Fuel Oil,2021,4
+69,6342,120.9,DFO,Distillate Fuel Oil,2021,5
+69,6342,117.8,DFO,Distillate Fuel Oil,2021,6
+69,6342,123.4,DFO,Distillate Fuel Oil,2021,7
+69,6342,129.3,DFO,Distillate Fuel Oil,2021,8
+69,6342,130.1,DFO,Distillate Fuel Oil,2021,9
+69,6342,138.8,DFO,Distillate Fuel Oil,2021,10
+69,6342,167.2,DFO,Distillate Fuel Oil,2021,11
+69,6342,160.6,DFO,Distillate Fuel Oil,2021,12
+70,6341,285.7,DFO,Distillate Fuel Oil,2021,1
+70,6341,287.7,DFO,Distillate Fuel Oil,2021,2
+70,6341,287.6,DFO,Distillate Fuel Oil,2021,3
+70,6341,252.5,DFO,Distillate Fuel Oil,2021,4
+70,6341,176.8,DFO,Distillate Fuel Oil,2021,5
+70,6341,165.7,DFO,Distillate Fuel Oil,2021,6
+70,6341,150.0,DFO,Distillate Fuel Oil,2021,7
+70,6341,196.5,DFO,Distillate Fuel Oil,2021,8
+70,6341,196.7,DFO,Distillate Fuel Oil,2021,9
+70,6341,225.4,DFO,Distillate Fuel Oil,2021,10
+70,6341,312.7,DFO,Distillate Fuel Oil,2021,11
+70,6341,322.7,DFO,Distillate Fuel Oil,2021,12
+71,6345,156.2,DFO,Distillate Fuel Oil,2021,1
+71,6345,176.7,DFO,Distillate Fuel Oil,2021,2
+71,6345,167.0,DFO,Distillate Fuel Oil,2021,3
+71,6345,149.7,DFO,Distillate Fuel Oil,2021,4
+71,6345,129.2,DFO,Distillate Fuel Oil,2021,5
+71,6345,139.6,DFO,Distillate Fuel Oil,2021,6
+71,6345,130.5,DFO,Distillate Fuel Oil,2021,7
+71,6345,148.3,DFO,Distillate Fuel Oil,2021,8
+71,6345,147.8,DFO,Distillate Fuel Oil,2021,9
+71,6345,150.6,DFO,Distillate Fuel Oil,2021,10
+71,6345,179.3,DFO,Distillate Fuel Oil,2021,11
+71,6345,176.4,DFO,Distillate Fuel Oil,2021,12
+72,6346,160.9,DFO,Distillate Fuel Oil,2021,1
+72,6346,176.4,DFO,Distillate Fuel Oil,2021,2
+72,6346,166.5,DFO,Distillate Fuel Oil,2021,3
+72,6346,146.6,DFO,Distillate Fuel Oil,2021,4
+72,6346,108.8,DFO,Distillate Fuel Oil,2021,5
+72,6346,97.1,DFO,Distillate Fuel Oil,2021,6
+72,6346,108.9,DFO,Distillate Fuel Oil,2021,7
+72,6346,119.0,DFO,Distillate Fuel Oil,2021,8
+72,6346,111.5,DFO,Distillate Fuel Oil,2021,9
+72,6346,7.0,WND,Wind,2021,9
+72,6346,125.2,DFO,Distillate Fuel Oil,2021,10
+72,6346,4.7,WND,Wind,2021,10
+72,6346,125.2,DFO,Distillate Fuel Oil,2021,11
+72,6346,4.7,WND,Wind,2021,11
+72,6346,187.5,DFO,Distillate Fuel Oil,2021,12
+72,6346,0.0,WND,Wind,2021,12
+74,6347,331.9,DFO,Distillate Fuel Oil,2021,1
+74,6347,358.7,DFO,Distillate Fuel Oil,2021,2
+74,6347,334.6,DFO,Distillate Fuel Oil,2021,3
+74,6347,290.8,DFO,Distillate Fuel Oil,2021,4
+74,6347,240.1,DFO,Distillate Fuel Oil,2021,5
+74,6347,249.9,DFO,Distillate Fuel Oil,2021,6
+74,6347,226.1,DFO,Distillate Fuel Oil,2021,7
+74,6347,264.0,DFO,Distillate Fuel Oil,2021,8
+74,6347,260.1,DFO,Distillate Fuel Oil,2021,9
+74,6347,273.9,DFO,Distillate Fuel Oil,2021,10
+74,6347,366.2,DFO,Distillate Fuel Oil,2021,11
+74,6347,367.5,DFO,Distillate Fuel Oil,2021,12
+75,6348,244.6,DFO,Distillate Fuel Oil,2021,1
+75,6348,258.0,DFO,Distillate Fuel Oil,2021,2
+75,6348,293.4,DFO,Distillate Fuel Oil,2021,3
+75,6348,272.0,DFO,Distillate Fuel Oil,2021,4
+75,6348,240.4,DFO,Distillate Fuel Oil,2021,5
+75,6348,282.1,DFO,Distillate Fuel Oil,2021,6
+75,6348,305.2,DFO,Distillate Fuel Oil,2021,7
+75,6348,303.3,DFO,Distillate Fuel Oil,2021,8
+75,6348,230.0,DFO,Distillate Fuel Oil,2021,9
+75,6348,235.9,DFO,Distillate Fuel Oil,2021,10
+75,6348,312.6,DFO,Distillate Fuel Oil,2021,11
+75,6348,293.7,DFO,Distillate Fuel Oil,2021,12
+76,6349,311.3,DFO,Distillate Fuel Oil,2021,1
+76,6349,31.8,WND,Wind,2021,1
+76,6349,275.4,DFO,Distillate Fuel Oil,2021,2
+76,6349,71.4,WND,Wind,2021,2
+76,6349,312.0,DFO,Distillate Fuel Oil,2021,3
+76,6349,23.2,WND,Wind,2021,3
+76,6349,327.1,DFO,Distillate Fuel Oil,2021,4
+76,6349,14.9,WND,Wind,2021,4
+76,6349,266.0,DFO,Distillate Fuel Oil,2021,5
+76,6349,9.1,WND,Wind,2021,5
+76,6349,263.8,DFO,Distillate Fuel Oil,2021,6
+76,6349,16.8,WND,Wind,2021,6
+76,6349,220.6,DFO,Distillate Fuel Oil,2021,7
+76,6349,33.9,WND,Wind,2021,7
+76,6349,242.5,DFO,Distillate Fuel Oil,2021,8
+76,6349,53.7,WND,Wind,2021,8
+76,6349,248.8,DFO,Distillate Fuel Oil,2021,9
+76,6349,42.5,WND,Wind,2021,9
+76,6349,231.5,DFO,Distillate Fuel Oil,2021,10
+76,6349,61.1,WND,Wind,2021,10
+76,6349,231.5,DFO,Distillate Fuel Oil,2021,11
+76,6349,61.1,WND,Wind,2021,11
+76,6349,339.8,DFO,Distillate Fuel Oil,2021,12
+76,6349,26.3,WND,Wind,2021,12
+77,57054,143.3,DFO,Distillate Fuel Oil,2021,1
+77,57054,154.2,DFO,Distillate Fuel Oil,2021,2
+77,57054,155.0,DFO,Distillate Fuel Oil,2021,3
+77,57054,134.9,DFO,Distillate Fuel Oil,2021,4
+77,57054,103.4,DFO,Distillate Fuel Oil,2021,5
+77,57054,104.3,DFO,Distillate Fuel Oil,2021,6
+77,57054,95.9,DFO,Distillate Fuel Oil,2021,7
+77,57054,106.4,DFO,Distillate Fuel Oil,2021,8
+77,57054,111.1,DFO,Distillate Fuel Oil,2021,9
+77,57054,116.0,DFO,Distillate Fuel Oil,2021,10
+77,57054,166.9,DFO,Distillate Fuel Oil,2021,11
+77,57054,153.8,DFO,Distillate Fuel Oil,2021,12
+78,6637,481.4,DFO,Distillate Fuel Oil,2021,1
+78,6637,512.2,DFO,Distillate Fuel Oil,2021,2
+78,6637,545.9,DFO,Distillate Fuel Oil,2021,3
+78,6637,568.5,DFO,Distillate Fuel Oil,2021,4
+78,6637,504.7,DFO,Distillate Fuel Oil,2021,5
+78,6637,579.6,DFO,Distillate Fuel Oil,2021,6
+78,6637,535.8,DFO,Distillate Fuel Oil,2021,7
+78,6637,577.0,DFO,Distillate Fuel Oil,2021,8
+78,6637,593.8,DFO,Distillate Fuel Oil,2021,9
+78,6637,512.6,DFO,Distillate Fuel Oil,2021,10
+78,6637,547.9,DFO,Distillate Fuel Oil,2021,11
+78,6637,547.2,DFO,Distillate Fuel Oil,2021,12
+79,6310,35.2,DFO,Distillate Fuel Oil,2021,1
+79,6310,38.3,DFO,Distillate Fuel Oil,2021,2
+79,6310,38.5,DFO,Distillate Fuel Oil,2021,3
+79,6310,33.7,DFO,Distillate Fuel Oil,2021,4
+79,6310,27.2,DFO,Distillate Fuel Oil,2021,5
+79,6310,29.4,DFO,Distillate Fuel Oil,2021,6
+79,6310,27.1,DFO,Distillate Fuel Oil,2021,7
+79,6310,29.6,DFO,Distillate Fuel Oil,2021,8
+79,6310,31.2,DFO,Distillate Fuel Oil,2021,9
+79,6310,33.3,DFO,Distillate Fuel Oil,2021,10
+79,6310,39.9,DFO,Distillate Fuel Oil,2021,11
+79,6310,36.8,DFO,Distillate Fuel Oil,2021,12
+80,6312,111.6,DFO,Distillate Fuel Oil,2021,1
+80,6312,117.9,DFO,Distillate Fuel Oil,2021,2
+80,6312,119.0,DFO,Distillate Fuel Oil,2021,3
+80,6312,100.0,DFO,Distillate Fuel Oil,2021,4
+80,6312,79.6,DFO,Distillate Fuel Oil,2021,5
+80,6312,81.7,DFO,Distillate Fuel Oil,2021,6
+80,6312,76.1,DFO,Distillate Fuel Oil,2021,7
+80,6312,88.1,DFO,Distillate Fuel Oil,2021,8
+80,6312,86.9,DFO,Distillate Fuel Oil,2021,9
+80,6312,96.0,DFO,Distillate Fuel Oil,2021,10
+80,6312,134.6,DFO,Distillate Fuel Oil,2021,11
+80,6312,129.6,DFO,Distillate Fuel Oil,2021,12
+82,6316,71.6,DFO,Distillate Fuel Oil,2021,1
+82,6316,75.1,DFO,Distillate Fuel Oil,2021,2
+82,6316,80.4,DFO,Distillate Fuel Oil,2021,3
+82,6316,68.6,DFO,Distillate Fuel Oil,2021,4
+82,6316,52.3,DFO,Distillate Fuel Oil,2021,5
+82,6316,49.8,DFO,Distillate Fuel Oil,2021,6
+82,6316,46.3,DFO,Distillate Fuel Oil,2021,7
+82,6316,55.9,DFO,Distillate Fuel Oil,2021,8
+82,6316,54.5,DFO,Distillate Fuel Oil,2021,9
+82,6316,58.7,DFO,Distillate Fuel Oil,2021,10
+82,6316,84.4,DFO,Distillate Fuel Oil,2021,11
+82,6316,82.3,DFO,Distillate Fuel Oil,2021,12
+83,6317,55.4,DFO,Distillate Fuel Oil,2021,1
+83,6317,59.4,DFO,Distillate Fuel Oil,2021,2
+83,6317,56.8,DFO,Distillate Fuel Oil,2021,3
+83,6317,50.5,DFO,Distillate Fuel Oil,2021,4
+83,6317,42.6,DFO,Distillate Fuel Oil,2021,5
+83,6317,45.1,DFO,Distillate Fuel Oil,2021,6
+83,6317,41.8,DFO,Distillate Fuel Oil,2021,7
+83,6317,48.8,DFO,Distillate Fuel Oil,2021,8
+83,6317,45.9,DFO,Distillate Fuel Oil,2021,9
+83,6317,46.8,DFO,Distillate Fuel Oil,2021,10
+83,6317,61.2,DFO,Distillate Fuel Oil,2021,11
+83,6317,57.3,DFO,Distillate Fuel Oil,2021,12
+84,6318,55.1,DFO,Distillate Fuel Oil,2021,1
+84,6318,58.9,DFO,Distillate Fuel Oil,2021,2
+84,6318,57.2,DFO,Distillate Fuel Oil,2021,3
+84,6318,48.2,DFO,Distillate Fuel Oil,2021,4
+84,6318,37.0,DFO,Distillate Fuel Oil,2021,5
+84,6318,42.9,DFO,Distillate Fuel Oil,2021,6
+84,6318,38.2,DFO,Distillate Fuel Oil,2021,7
+84,6318,43.1,DFO,Distillate Fuel Oil,2021,8
+84,6318,41.6,DFO,Distillate Fuel Oil,2021,9
+84,6318,43.8,DFO,Distillate Fuel Oil,2021,10
+84,6318,57.2,DFO,Distillate Fuel Oil,2021,11
+84,6318,53.2,DFO,Distillate Fuel Oil,2021,12
+85,6320,96.0,DFO,Distillate Fuel Oil,2021,1
+85,6320,104.2,DFO,Distillate Fuel Oil,2021,2
+85,6320,101.2,DFO,Distillate Fuel Oil,2021,3
+85,6320,95.1,DFO,Distillate Fuel Oil,2021,4
+85,6320,81.8,DFO,Distillate Fuel Oil,2021,5
+85,6320,86.7,DFO,Distillate Fuel Oil,2021,6
+85,6320,74.3,DFO,Distillate Fuel Oil,2021,7
+85,6320,79.9,DFO,Distillate Fuel Oil,2021,8
+85,6320,80.3,DFO,Distillate Fuel Oil,2021,9
+85,6320,88.2,DFO,Distillate Fuel Oil,2021,10
+85,6320,109.6,DFO,Distillate Fuel Oil,2021,11
+85,6320,108.9,DFO,Distillate Fuel Oil,2021,12
+86,6322,59.0,DFO,Distillate Fuel Oil,2021,1
+86,6322,0.0,SUN,Solar,2021,1
+86,6322,63.6,DFO,Distillate Fuel Oil,2021,2
+86,6322,0.3,SUN,Solar,2021,2
+86,6322,59.1,DFO,Distillate Fuel Oil,2021,3
+86,6322,0.9,SUN,Solar,2021,3
+86,6322,52.8,DFO,Distillate Fuel Oil,2021,4
+86,6322,1.4,SUN,Solar,2021,4
+86,6322,47.8,DFO,Distillate Fuel Oil,2021,5
+86,6322,1.2,SUN,Solar,2021,5
+86,6322,49.4,DFO,Distillate Fuel Oil,2021,6
+86,6322,0.8,SUN,Solar,2021,6
+86,6322,45.3,DFO,Distillate Fuel Oil,2021,7
+86,6322,0.6,SUN,Solar,2021,7
+86,6322,50.4,DFO,Distillate Fuel Oil,2021,8
+86,6322,0.5,SUN,Solar,2021,8
+86,6322,54.7,DFO,Distillate Fuel Oil,2021,9
+86,6322,0.5,SUN,Solar,2021,9
+86,6322,58.3,DFO,Distillate Fuel Oil,2021,10
+86,6322,0.2,SUN,Solar,2021,10
+86,6322,58.3,DFO,Distillate Fuel Oil,2021,11
+86,6322,0.2,SUN,Solar,2021,11
+86,6322,72.0,DFO,Distillate Fuel Oil,2021,12
+86,6322,0.0,SUN,Solar,2021,12
+87,6327,93.6,DFO,Distillate Fuel Oil,2021,1
+87,6327,98.3,DFO,Distillate Fuel Oil,2021,2
+87,6327,88.4,DFO,Distillate Fuel Oil,2021,3
+87,6327,0.5,WND,Wind,2021,3
+87,6327,75.6,DFO,Distillate Fuel Oil,2021,4
+87,6327,2.3,WND,Wind,2021,4
+87,6327,63.7,DFO,Distillate Fuel Oil,2021,5
+87,6327,0.6,WND,Wind,2021,5
+87,6327,60.9,DFO,Distillate Fuel Oil,2021,6
+87,6327,0.5,WND,Wind,2021,6
+87,6327,54.8,DFO,Distillate Fuel Oil,2021,7
+87,6327,0.3,WND,Wind,2021,7
+87,6327,67.7,DFO,Distillate Fuel Oil,2021,8
+87,6327,0.1,WND,Wind,2021,8
+87,6327,65.6,DFO,Distillate Fuel Oil,2021,9
+87,6327,0.0,WND,Wind,2021,9
+87,6327,70.0,DFO,Distillate Fuel Oil,2021,10
+87,6327,89.9,DFO,Distillate Fuel Oil,2021,11
+87,6327,91.7,DFO,Distillate Fuel Oil,2021,12
+88,6328,63.1,DFO,Distillate Fuel Oil,2021,1
+88,6328,75.0,DFO,Distillate Fuel Oil,2021,2
+88,6328,67.0,DFO,Distillate Fuel Oil,2021,3
+88,6328,66.2,DFO,Distillate Fuel Oil,2021,4
+88,6328,53.7,DFO,Distillate Fuel Oil,2021,5
+88,6328,56.4,DFO,Distillate Fuel Oil,2021,6
+88,6328,51.4,DFO,Distillate Fuel Oil,2021,7
+88,6328,54.6,DFO,Distillate Fuel Oil,2021,8
+88,6328,55.8,DFO,Distillate Fuel Oil,2021,9
+88,6328,62.1,DFO,Distillate Fuel Oil,2021,10
+88,6328,80.5,DFO,Distillate Fuel Oil,2021,11
+88,6328,82.4,DFO,Distillate Fuel Oil,2021,12
+90,6332,96.0,DFO,Distillate Fuel Oil,2021,1
+90,6332,105.2,DFO,Distillate Fuel Oil,2021,2
+90,6332,98.7,DFO,Distillate Fuel Oil,2021,3
+90,6332,87.5,DFO,Distillate Fuel Oil,2021,4
+90,6332,73.2,DFO,Distillate Fuel Oil,2021,5
+90,6332,82.1,DFO,Distillate Fuel Oil,2021,6
+90,6332,67.8,DFO,Distillate Fuel Oil,2021,7
+90,6332,79.5,DFO,Distillate Fuel Oil,2021,8
+90,6332,83.1,DFO,Distillate Fuel Oil,2021,9
+90,6332,87.2,DFO,Distillate Fuel Oil,2021,10
+90,6332,110.5,DFO,Distillate Fuel Oil,2021,11
+90,6332,100.2,DFO,Distillate Fuel Oil,2021,12
+91,6557,64.3,DFO,Distillate Fuel Oil,2021,1
+91,6557,68.8,DFO,Distillate Fuel Oil,2021,2
+91,6557,70.3,DFO,Distillate Fuel Oil,2021,3
+91,6557,65.0,DFO,Distillate Fuel Oil,2021,4
+91,6557,61.3,DFO,Distillate Fuel Oil,2021,5
+91,6557,63.3,DFO,Distillate Fuel Oil,2021,6
+91,6557,60.6,DFO,Distillate Fuel Oil,2021,7
+91,6557,71.0,DFO,Distillate Fuel Oil,2021,8
+91,6557,67.0,DFO,Distillate Fuel Oil,2021,9
+91,6557,61.9,DFO,Distillate Fuel Oil,2021,10
+91,6557,72.3,DFO,Distillate Fuel Oil,2021,11
+91,6557,83.1,DFO,Distillate Fuel Oil,2021,12
+93,7049,80.0,DFO,Distillate Fuel Oil,2021,1
+93,7049,84.5,DFO,Distillate Fuel Oil,2021,2
+93,7049,86.9,DFO,Distillate Fuel Oil,2021,3
+93,7049,81.3,DFO,Distillate Fuel Oil,2021,4
+93,7049,68.3,DFO,Distillate Fuel Oil,2021,5
+93,7049,74.3,DFO,Distillate Fuel Oil,2021,6
+93,7049,65.5,DFO,Distillate Fuel Oil,2021,7
+93,7049,75.6,DFO,Distillate Fuel Oil,2021,8
+93,7049,76.4,DFO,Distillate Fuel Oil,2021,9
+93,7049,76.8,DFO,Distillate Fuel Oil,2021,10
+93,7049,91.2,DFO,Distillate Fuel Oil,2021,11
+93,7049,90.4,DFO,Distillate Fuel Oil,2021,12
+94,6343,37.8,DFO,Distillate Fuel Oil,2021,1
+94,6343,38.6,DFO,Distillate Fuel Oil,2021,2
+94,6343,39.1,DFO,Distillate Fuel Oil,2021,3
+94,6343,35.0,DFO,Distillate Fuel Oil,2021,4
+94,6343,29.1,DFO,Distillate Fuel Oil,2021,5
+94,6343,34.2,DFO,Distillate Fuel Oil,2021,6
+94,6343,29.8,DFO,Distillate Fuel Oil,2021,7
+94,6343,33.7,DFO,Distillate Fuel Oil,2021,8
+94,6343,33.6,DFO,Distillate Fuel Oil,2021,9
+94,6343,35.8,DFO,Distillate Fuel Oil,2021,10
+94,6343,44.3,DFO,Distillate Fuel Oil,2021,11
+94,6343,42.9,DFO,Distillate Fuel Oil,2021,12
+95,6344,72.1,DFO,Distillate Fuel Oil,2021,1
+95,6344,31.0,WND,Wind,2021,1
+95,6344,65.9,DFO,Distillate Fuel Oil,2021,2
+95,6344,42.8,WND,Wind,2021,2
+95,6344,69.3,DFO,Distillate Fuel Oil,2021,3
+95,6344,36.1,WND,Wind,2021,3
+95,6344,66.6,DFO,Distillate Fuel Oil,2021,4
+95,6344,28.3,WND,Wind,2021,4
+95,6344,54.7,DFO,Distillate Fuel Oil,2021,5
+95,6344,29.3,WND,Wind,2021,5
+95,6344,67.9,DFO,Distillate Fuel Oil,2021,6
+95,6344,19.8,WND,Wind,2021,6
+95,6344,61.2,DFO,Distillate Fuel Oil,2021,7
+95,6344,23.0,WND,Wind,2021,7
+95,6344,63.0,DFO,Distillate Fuel Oil,2021,8
+95,6344,25.9,WND,Wind,2021,8
+95,6344,64.5,DFO,Distillate Fuel Oil,2021,9
+95,6344,16.9,WND,Wind,2021,9
+95,6344,73.4,DFO,Distillate Fuel Oil,2021,10
+95,6344,11.8,WND,Wind,2021,10
+95,6344,73.4,DFO,Distillate Fuel Oil,2021,11
+95,6344,11.8,WND,Wind,2021,11
+95,6344,84.6,DFO,Distillate Fuel Oil,2021,12
+95,6344,16.0,WND,Wind,2021,12
+96,,76.4,DFO,Distillate Fuel Oil,2021,1
+96,,87.3,DFO,Distillate Fuel Oil,2021,2
+96,,88.6,DFO,Distillate Fuel Oil,2021,3
+96,,79.0,DFO,Distillate Fuel Oil,2021,4
+96,,62.1,DFO,Distillate Fuel Oil,2021,5
+96,,61.6,DFO,Distillate Fuel Oil,2021,6
+96,,57.7,DFO,Distillate Fuel Oil,2021,7
+96,,64.6,DFO,Distillate Fuel Oil,2021,8
+96,,64.7,DFO,Distillate Fuel Oil,2021,9
+96,,69.3,DFO,Distillate Fuel Oil,2021,10
+96,,81.4,DFO,Distillate Fuel Oil,2021,11
+96,,80.2,DFO,Distillate Fuel Oil,2021,12
+98,6351,60.4,DFO,Distillate Fuel Oil,2021,1
+98,6351,66.2,DFO,Distillate Fuel Oil,2021,2
+98,6351,64.9,DFO,Distillate Fuel Oil,2021,3
+98,6351,58.3,DFO,Distillate Fuel Oil,2021,4
+98,6351,48.5,DFO,Distillate Fuel Oil,2021,5
+98,6351,49.1,DFO,Distillate Fuel Oil,2021,6
+98,6351,47.0,DFO,Distillate Fuel Oil,2021,7
+98,6351,49.6,DFO,Distillate Fuel Oil,2021,8
+98,6351,47.6,DFO,Distillate Fuel Oil,2021,9
+98,6351,50.2,DFO,Distillate Fuel Oil,2021,10
+98,6351,59.4,DFO,Distillate Fuel Oil,2021,11
+98,6351,59.7,DFO,Distillate Fuel Oil,2021,12
+100,,17.7,DFO,Distillate Fuel Oil,2021,1
+100,,16.1,DFO,Distillate Fuel Oil,2021,2
+100,,20.9,DFO,Distillate Fuel Oil,2021,3
+100,,18.0,DFO,Distillate Fuel Oil,2021,4
+100,,15.8,DFO,Distillate Fuel Oil,2021,5
+100,,16.2,DFO,Distillate Fuel Oil,2021,6
+100,,13.4,DFO,Distillate Fuel Oil,2021,7
+100,,17.5,DFO,Distillate Fuel Oil,2021,8
+100,,13.8,DFO,Distillate Fuel Oil,2021,9
+100,,16.4,DFO,Distillate Fuel Oil,2021,10
+100,,19.5,DFO,Distillate Fuel Oil,2021,11
+100,,21.5,DFO,Distillate Fuel Oil,2021,12
+101,75,184.1,NG,Natural Gas,2021,1
+101,75,0.0,DFO,Distillate Fuel Oil,2021,1
+101,75,158.2,NG,Natural Gas,2021,2
+101,75,0.0,DFO,Distillate Fuel Oil,2021,2
+101,75,155.3,NG,Natural Gas,2021,3
+101,75,0.0,DFO,Distillate Fuel Oil,2021,3
+101,75,153.1,NG,Natural Gas,2021,4
+101,75,0.0,DFO,Distillate Fuel Oil,2021,4
+101,75,166.9,NG,Natural Gas,2021,5
+101,75,0.0,DFO,Distillate Fuel Oil,2021,5
+101,75,210.1,NG,Natural Gas,2021,6
+101,75,0.0,DFO,Distillate Fuel Oil,2021,6
+101,75,238.7,NG,Natural Gas,2021,7
+101,75,0.0,DFO,Distillate Fuel Oil,2021,7
+101,75,242.0,NG,Natural Gas,2021,8
+101,75,0.0,DFO,Distillate Fuel Oil,2021,8
+101,75,198.5,NG,Natural Gas,2021,9
+101,75,0.0,DFO,Distillate Fuel Oil,2021,9
+101,75,187.2,NG,Natural Gas,2021,10
+101,75,0.0,DFO,Distillate Fuel Oil,2021,10
+101,75,174.4,NG,Natural Gas,2021,11
+101,75,0.0,DFO,Distillate Fuel Oil,2021,11
+101,75,182.1,NG,Natural Gas,2021,12
+101,75,1.5,DFO,Distillate Fuel Oil,2021,12
+102,77,14199.7,WAT,Water at Hydroelectric Turbine,2021,1
+102,77,11815.2,WAT,Water at Hydroelectric Turbine,2021,2
+102,77,11331.4,WAT,Water at Hydroelectric Turbine,2021,3
+102,77,9995.2,WAT,Water at Hydroelectric Turbine,2021,4
+102,77,12383.0,WAT,Water at Hydroelectric Turbine,2021,5
+102,77,13332.7,WAT,Water at Hydroelectric Turbine,2021,6
+102,77,11871.1,WAT,Water at Hydroelectric Turbine,2021,7
+102,77,11201.5,WAT,Water at Hydroelectric Turbine,2021,8
+102,77,9187.7,WAT,Water at Hydroelectric Turbine,2021,9
+102,77,9428.1,WAT,Water at Hydroelectric Turbine,2021,10
+102,77,11049.9,WAT,Water at Hydroelectric Turbine,2021,11
+102,77,14198.5,WAT,Water at Hydroelectric Turbine,2021,12
+103,6559,72167.8,NG,Natural Gas,2021,1
+103,6559,67676.3,NG,Natural Gas,2021,2
+103,6559,57146.8,NG,Natural Gas,2021,3
+103,6559,73568.2,NG,Natural Gas,2021,4
+103,6559,67041.5,NG,Natural Gas,2021,5
+103,6559,55236.4,NG,Natural Gas,2021,6
+103,6559,65430.1,NG,Natural Gas,2021,7
+103,6559,66401.0,NG,Natural Gas,2021,8
+103,6559,29963.7,NG,Natural Gas,2021,9
+103,6559,67357.4,NG,Natural Gas,2021,10
+103,6559,69252.4,NG,Natural Gas,2021,11
+103,6559,70130.4,NG,Natural Gas,2021,12
+105,7182,244.5,DFO,Distillate Fuel Oil,2021,1
+105,7182,221.9,DFO,Distillate Fuel Oil,2021,2
+105,7182,246.2,DFO,Distillate Fuel Oil,2021,3
+105,7182,242.6,DFO,Distillate Fuel Oil,2021,4
+105,7182,188.7,DFO,Distillate Fuel Oil,2021,5
+105,7182,176.4,DFO,Distillate Fuel Oil,2021,6
+105,7182,179.6,DFO,Distillate Fuel Oil,2021,7
+105,7182,181.1,DFO,Distillate Fuel Oil,2021,8
+105,7182,196.3,DFO,Distillate Fuel Oil,2021,9
+105,7182,230.7,DFO,Distillate Fuel Oil,2021,10
+105,7182,309.8,DFO,Distillate Fuel Oil,2021,11
+105,7182,253.1,DFO,Distillate Fuel Oil,2021,12
+106,,66.9,DFO,Distillate Fuel Oil,2021,1
+106,,46.8,DFO,Distillate Fuel Oil,2021,2
+106,,77.5,DFO,Distillate Fuel Oil,2021,3
+106,,47.6,DFO,Distillate Fuel Oil,2021,4
+106,,25.5,DFO,Distillate Fuel Oil,2021,5
+106,,48.0,DFO,Distillate Fuel Oil,2021,6
+106,,28.3,DFO,Distillate Fuel Oil,2021,7
+106,,126.0,DFO,Distillate Fuel Oil,2021,10
+107,,19.3,WAT,Water at Hydroelectric Turbine,2021,1
+107,,12.8,DFO,Distillate Fuel Oil,2021,1
+107,,28.7,WAT,Water at Hydroelectric Turbine,2021,2
+107,,11.9,DFO,Distillate Fuel Oil,2021,2
+107,,22.3,WAT,Water at Hydroelectric Turbine,2021,3
+107,,19.5,WAT,Water at Hydroelectric Turbine,2021,5
+107,,26.1,WAT,Water at Hydroelectric Turbine,2021,6
+107,,4.5,DFO,Distillate Fuel Oil,2021,6
+107,,28.1,WAT,Water at Hydroelectric Turbine,2021,7
+107,,3.7,DFO,Distillate Fuel Oil,2021,7
+107,,25.3,WAT,Water at Hydroelectric Turbine,2021,8
+107,,3.1,DFO,Distillate Fuel Oil,2021,8
+107,,32.5,WAT,Water at Hydroelectric Turbine,2021,9
+107,,3.1,DFO,Distillate Fuel Oil,2021,9
+107,,34.5,WAT,Water at Hydroelectric Turbine,2021,10
+107,,3.6,DFO,Distillate Fuel Oil,2021,10
+107,,40.5,WAT,Water at Hydroelectric Turbine,2021,11
+107,,4.3,DFO,Distillate Fuel Oil,2021,11
+107,,33.2,WAT,Water at Hydroelectric Turbine,2021,12
+107,,10.2,DFO,Distillate Fuel Oil,2021,12
+108,,106.5,DFO,Distillate Fuel Oil,2021,1
+108,,99.8,DFO,Distillate Fuel Oil,2021,2
+108,,100.1,DFO,Distillate Fuel Oil,2021,3
+108,,93.5,DFO,Distillate Fuel Oil,2021,4
+108,,81.9,DFO,Distillate Fuel Oil,2021,5
+108,,73.9,DFO,Distillate Fuel Oil,2021,6
+108,,77.8,DFO,Distillate Fuel Oil,2021,7
+108,,79.7,DFO,Distillate Fuel Oil,2021,8
+108,,85.3,DFO,Distillate Fuel Oil,2021,9
+108,,99.0,DFO,Distillate Fuel Oil,2021,10
+108,,111.7,DFO,Distillate Fuel Oil,2021,11
+108,,103.4,DFO,Distillate Fuel Oil,2021,12
+109,79,15505.0,CL,Coal,2021,1
+109,79,11114.0,CL,Coal,2021,2
+109,79,16795.0,CL,Coal,2021,3
+109,79,9845.0,CL,Coal,2021,4
+109,79,18581.0,CL,Coal,2021,5
+109,79,16010.0,CL,Coal,2021,6
+109,79,17186.0,CL,Coal,2021,7
+109,79,12091.0,CL,Coal,2021,8
+109,79,14586.0,CL,Coal,2021,9
+109,79,17037.0,CL,Coal,2021,10
+109,79,15387.0,CL,Coal,2021,11
+109,79,12978.0,CL,Coal,2021,12
+110,7173,3872.3,NG,Natural Gas,2021,1
+110,7173,3327.2,NG,Natural Gas,2021,2
+110,7173,3265.1,NG,Natural Gas,2021,3
+110,7173,3218.8,NG,Natural Gas,2021,4
+110,7173,3510.0,NG,Natural Gas,2021,5
+110,7173,4418.6,NG,Natural Gas,2021,6
+110,7173,5020.4,NG,Natural Gas,2021,7
+110,7173,5090.1,NG,Natural Gas,2021,8
+110,7173,4173.7,NG,Natural Gas,2021,9
+110,7173,3936.4,NG,Natural Gas,2021,10
+110,7173,3667.7,NG,Natural Gas,2021,11
+110,7173,3829.5,NG,Natural Gas,2021,12
+110,7173,1.1,DFO,Distillate Fuel Oil,2021,12
+111,,35.4,DFO,Distillate Fuel Oil,2021,1
+111,,31.3,DFO,Distillate Fuel Oil,2021,3
+111,,24.5,DFO,Distillate Fuel Oil,2021,7
+112,,7.6,DFO,Distillate Fuel Oil,2021,1
+112,,6.9,DFO,Distillate Fuel Oil,2021,2
+112,,7.3,DFO,Distillate Fuel Oil,2021,3
+112,,6.4,DFO,Distillate Fuel Oil,2021,4
+112,,9.1,DFO,Distillate Fuel Oil,2021,5
+112,,4.7,DFO,Distillate Fuel Oil,2021,6
+112,,6.2,DFO,Distillate Fuel Oil,2021,7
+112,,6.3,DFO,Distillate Fuel Oil,2021,8
+112,,6.1,DFO,Distillate Fuel Oil,2021,9
+112,,7.3,DFO,Distillate Fuel Oil,2021,10
+112,,6.5,DFO,Distillate Fuel Oil,2021,11
+112,,7.6,DFO,Distillate Fuel Oil,2021,12
+113,,153.5,DFO,Distillate Fuel Oil,2021,1
+113,,28.9,WND,Wind,2021,1
+113,,156.8,DFO,Distillate Fuel Oil,2021,2
+113,,36.3,WND,Wind,2021,2
+113,,142.9,DFO,Distillate Fuel Oil,2021,3
+113,,29.5,WND,Wind,2021,3
+113,,142.9,DFO,Distillate Fuel Oil,2021,4
+113,,29.5,WND,Wind,2021,4
+113,,136.8,DFO,Distillate Fuel Oil,2021,5
+113,,12.3,WND,Wind,2021,5
+113,,115.8,DFO,Distillate Fuel Oil,2021,6
+113,,9.5,WND,Wind,2021,6
+113,,103.5,DFO,Distillate Fuel Oil,2021,7
+113,,7.3,WND,Wind,2021,7
+113,,120.4,DFO,Distillate Fuel Oil,2021,8
+113,,10.7,WND,Wind,2021,8
+113,,126.6,DFO,Distillate Fuel Oil,2021,9
+113,,16.7,WND,Wind,2021,9
+113,,137.3,DFO,Distillate Fuel Oil,2021,10
+113,,18.0,WND,Wind,2021,10
+113,,174.2,DFO,Distillate Fuel Oil,2021,11
+113,,16.6,WND,Wind,2021,11
+113,,185.0,DFO,Distillate Fuel Oil,2021,12
+113,,24.2,WND,Wind,2021,12
+114,,24.4,DFO,Distillate Fuel Oil,2021,1
+114,,26.3,DFO,Distillate Fuel Oil,2021,2
+115,,25.2,DFO,Distillate Fuel Oil,2021,1
+115,,19.8,DFO,Distillate Fuel Oil,2021,2
+115,,24.4,DFO,Distillate Fuel Oil,2021,3
+115,,19.7,DFO,Distillate Fuel Oil,2021,4
+115,,20.9,DFO,Distillate Fuel Oil,2021,5
+115,,21.5,DFO,Distillate Fuel Oil,2021,7
+115,,17.1,DFO,Distillate Fuel Oil,2021,8
+115,,18.7,DFO,Distillate Fuel Oil,2021,9
+115,,25.5,DFO,Distillate Fuel Oil,2021,10
+115,,26.2,DFO,Distillate Fuel Oil,2021,12
+116,,50.0,DFO,Distillate Fuel Oil,2021,1
+116,,40.6,DFO,Distillate Fuel Oil,2021,2
+116,,46.6,DFO,Distillate Fuel Oil,2021,3
+116,,39.9,DFO,Distillate Fuel Oil,2021,4
+116,,45.0,DFO,Distillate Fuel Oil,2021,5
+116,,45.5,DFO,Distillate Fuel Oil,2021,6
+116,,28.0,DFO,Distillate Fuel Oil,2021,7
+116,,8.7,WAT,Water at Hydroelectric Turbine,2021,7
+116,,37.5,DFO,Distillate Fuel Oil,2021,8
+116,,1.6,WAT,Water at Hydroelectric Turbine,2021,8
+116,,43.9,DFO,Distillate Fuel Oil,2021,9
+116,,3.0,WAT,Water at Hydroelectric Turbine,2021,9
+116,,35.9,DFO,Distillate Fuel Oil,2021,10
+116,,5.0,WAT,Water at Hydroelectric Turbine,2021,10
+116,,47.7,DFO,Distillate Fuel Oil,2021,11
+116,,53.0,DFO,Distillate Fuel Oil,2021,12
+117,,26.8,DFO,Distillate Fuel Oil,2021,1
+117,,28.7,DFO,Distillate Fuel Oil,2021,2
+117,,19.8,DFO,Distillate Fuel Oil,2021,3
+117,,25.1,DFO,Distillate Fuel Oil,2021,4
+117,,16.4,DFO,Distillate Fuel Oil,2021,5
+117,,16.1,DFO,Distillate Fuel Oil,2021,6
+117,,23.5,DFO,Distillate Fuel Oil,2021,7
+117,,16.8,DFO,Distillate Fuel Oil,2021,8
+117,,16.8,DFO,Distillate Fuel Oil,2021,9
+118,,44.4,DFO,Distillate Fuel Oil,2021,1
+118,,49.4,DFO,Distillate Fuel Oil,2021,2
+118,,45.1,DFO,Distillate Fuel Oil,2021,3
+118,,46.4,DFO,Distillate Fuel Oil,2021,4
+118,,57.4,DFO,Distillate Fuel Oil,2021,5
+118,,83.8,DFO,Distillate Fuel Oil,2021,6
+118,,85.2,DFO,Distillate Fuel Oil,2021,7
+118,,65.4,DFO,Distillate Fuel Oil,2021,8
+118,,43.3,DFO,Distillate Fuel Oil,2021,9
+118,,43.3,DFO,Distillate Fuel Oil,2021,10
+118,,53.2,DFO,Distillate Fuel Oil,2021,11
+118,,48.8,DFO,Distillate Fuel Oil,2021,12
+119,,40.5,DFO,Distillate Fuel Oil,2021,1
+119,,35.1,DFO,Distillate Fuel Oil,2021,2
+119,,35.1,DFO,Distillate Fuel Oil,2021,3
+119,,32.2,DFO,Distillate Fuel Oil,2021,4
+119,,33.4,DFO,Distillate Fuel Oil,2021,5
+119,,37.7,DFO,Distillate Fuel Oil,2021,6
+119,,37.8,DFO,Distillate Fuel Oil,2021,7
+119,,36.2,DFO,Distillate Fuel Oil,2021,8
+119,,30.7,DFO,Distillate Fuel Oil,2021,9
+119,,32.5,DFO,Distillate Fuel Oil,2021,10
+119,,38.6,DFO,Distillate Fuel Oil,2021,11
+119,,41.4,DFO,Distillate Fuel Oil,2021,12
+120,96,-130.0,NG,Natural Gas,2021,1
+120,96,550.0,NG,Natural Gas,2021,2
+120,96,420.0,NG,Natural Gas,2021,3
+120,96,224.0,NG,Natural Gas,2021,5
+120,96,-158.0,NG,Natural Gas,2021,6
+120,96,317.0,NG,Natural Gas,2021,7
+120,96,-175.0,NG,Natural Gas,2021,8
+120,96,-4.0,NG,Natural Gas,2021,9
+120,96,148.0,NG,Natural Gas,2021,10
+120,96,857.0,NG,Natural Gas,2021,12
+121,6291,3690.2,WAT,Water at Hydroelectric Turbine,2021,1
+121,6291,3070.5,WAT,Water at Hydroelectric Turbine,2021,2
+121,6291,2944.8,WAT,Water at Hydroelectric Turbine,2021,3
+121,6291,2597.5,WAT,Water at Hydroelectric Turbine,2021,4
+121,6291,3218.0,WAT,Water at Hydroelectric Turbine,2021,5
+121,6291,3464.8,WAT,Water at Hydroelectric Turbine,2021,6
+121,6291,3085.0,WAT,Water at Hydroelectric Turbine,2021,7
+121,6291,2911.0,WAT,Water at Hydroelectric Turbine,2021,8
+121,6291,2387.7,WAT,Water at Hydroelectric Turbine,2021,9
+121,6291,2450.1,WAT,Water at Hydroelectric Turbine,2021,10
+121,6291,2871.6,WAT,Water at Hydroelectric Turbine,2021,11
+121,6291,3689.8,WAT,Water at Hydroelectric Turbine,2021,12
+123,57036,80529.0,NG,Natural Gas,2021,1
+123,57036,83910.0,NG,Natural Gas,2021,2
+123,57036,97635.0,NG,Natural Gas,2021,3
+123,57036,70713.0,NG,Natural Gas,2021,4
+123,57036,81105.0,NG,Natural Gas,2021,5
+123,57036,70381.0,NG,Natural Gas,2021,6
+123,57036,75255.0,NG,Natural Gas,2021,7
+123,57036,91367.0,NG,Natural Gas,2021,8
+123,57036,97003.0,NG,Natural Gas,2021,9
+123,57036,77847.0,NG,Natural Gas,2021,10
+123,57036,105590.0,NG,Natural Gas,2021,11
+123,57036,110359.0,NG,Natural Gas,2021,12
+124,,41.8,DFO,Distillate Fuel Oil,2021,1
+124,,39.3,DFO,Distillate Fuel Oil,2021,2
+124,,41.5,DFO,Distillate Fuel Oil,2021,3
+124,,35.4,DFO,Distillate Fuel Oil,2021,4
+124,,30.1,DFO,Distillate Fuel Oil,2021,5
+124,,26.7,DFO,Distillate Fuel Oil,2021,6
+124,,26.6,DFO,Distillate Fuel Oil,2021,7
+124,,29.2,DFO,Distillate Fuel Oil,2021,8
+124,,31.4,DFO,Distillate Fuel Oil,2021,9
+124,,37.1,DFO,Distillate Fuel Oil,2021,10
+124,,40.0,DFO,Distillate Fuel Oil,2021,11
+124,,42.4,DFO,Distillate Fuel Oil,2021,12
+125,,34.8,DFO,Distillate Fuel Oil,2021,1
+125,,33.1,DFO,Distillate Fuel Oil,2021,2
+125,,35.3,DFO,Distillate Fuel Oil,2021,3
+125,,30.8,DFO,Distillate Fuel Oil,2021,4
+125,,30.4,DFO,Distillate Fuel Oil,2021,5
+125,,29.7,DFO,Distillate Fuel Oil,2021,6
+125,,32.6,DFO,Distillate Fuel Oil,2021,7
+125,,29.0,DFO,Distillate Fuel Oil,2021,8
+125,,34.3,DFO,Distillate Fuel Oil,2021,9
+125,,30.9,DFO,Distillate Fuel Oil,2021,10
+125,,41.5,DFO,Distillate Fuel Oil,2021,11
+125,,51.1,DFO,Distillate Fuel Oil,2021,12
+126,58982,1780.2,WAT,Water at Hydroelectric Turbine,2021,1
+126,58982,1481.3,WAT,Water at Hydroelectric Turbine,2021,2
+126,58982,1420.6,WAT,Water at Hydroelectric Turbine,2021,3
+126,58982,1253.1,WAT,Water at Hydroelectric Turbine,2021,4
+126,58982,1552.5,WAT,Water at Hydroelectric Turbine,2021,5
+126,58982,1671.5,WAT,Water at Hydroelectric Turbine,2021,6
+126,58982,1488.3,WAT,Water at Hydroelectric Turbine,2021,7
+126,58982,1404.3,WAT,Water at Hydroelectric Turbine,2021,8
+126,58982,1151.9,WAT,Water at Hydroelectric Turbine,2021,9
+126,58982,1182.0,WAT,Water at Hydroelectric Turbine,2021,10
+126,58982,1385.3,WAT,Water at Hydroelectric Turbine,2021,11
+126,58982,1780.1,WAT,Water at Hydroelectric Turbine,2021,12
+127,6305,649.7,DFO,Distillate Fuel Oil,2021,1
+127,6305,719.4,DFO,Distillate Fuel Oil,2021,2
+127,6305,778.1,DFO,Distillate Fuel Oil,2021,3
+127,6305,747.9,DFO,Distillate Fuel Oil,2021,4
+127,6305,387.3,DFO,Distillate Fuel Oil,2021,5
+127,6305,519.9,DFO,Distillate Fuel Oil,2021,6
+127,6305,508.1,DFO,Distillate Fuel Oil,2021,7
+127,6305,732.8,DFO,Distillate Fuel Oil,2021,8
+127,6305,949.1,DFO,Distillate Fuel Oil,2021,9
+127,6305,942.9,DFO,Distillate Fuel Oil,2021,10
+127,6305,736.2,DFO,Distillate Fuel Oil,2021,11
+127,6305,818.4,DFO,Distillate Fuel Oil,2021,12
+128,390,4177.1,WAT,Water at Hydroelectric Turbine,2021,1
+128,390,3475.7,WAT,Water at Hydroelectric Turbine,2021,2
+128,390,3333.4,WAT,Water at Hydroelectric Turbine,2021,3
+128,390,2940.3,WAT,Water at Hydroelectric Turbine,2021,4
+128,390,3642.7,WAT,Water at Hydroelectric Turbine,2021,5
+128,390,3922.1,WAT,Water at Hydroelectric Turbine,2021,6
+128,390,3492.1,WAT,Water at Hydroelectric Turbine,2021,7
+128,390,3295.1,WAT,Water at Hydroelectric Turbine,2021,8
+128,390,2702.7,WAT,Water at Hydroelectric Turbine,2021,9
+128,390,2773.5,WAT,Water at Hydroelectric Turbine,2021,10
+128,390,3250.5,WAT,Water at Hydroelectric Turbine,2021,11
+128,390,4176.8,WAT,Water at Hydroelectric Turbine,2021,12
+129,6306,278.7,DFO,Distillate Fuel Oil,2021,1
+129,6306,308.6,DFO,Distillate Fuel Oil,2021,2
+129,6306,333.8,DFO,Distillate Fuel Oil,2021,3
+129,6306,320.8,DFO,Distillate Fuel Oil,2021,4
+129,6306,166.2,DFO,Distillate Fuel Oil,2021,5
+129,6306,223.0,DFO,Distillate Fuel Oil,2021,6
+129,6306,218.0,DFO,Distillate Fuel Oil,2021,7
+129,6306,314.3,DFO,Distillate Fuel Oil,2021,8
+129,6306,407.1,DFO,Distillate Fuel Oil,2021,9
+129,6306,404.5,DFO,Distillate Fuel Oil,2021,10
+129,6306,315.8,DFO,Distillate Fuel Oil,2021,11
+129,6306,351.1,DFO,Distillate Fuel Oil,2021,12
+130,7841,1955.0,WO,Waste Oil,2021,1
+130,7841,2164.8,WO,Waste Oil,2021,2
+130,7841,2341.2,WO,Waste Oil,2021,3
+130,7841,2250.5,WO,Waste Oil,2021,4
+130,7841,1165.5,WO,Waste Oil,2021,5
+130,7841,1564.6,WO,Waste Oil,2021,6
+130,7841,1529.0,WO,Waste Oil,2021,7
+130,7841,2205.0,WO,Waste Oil,2021,8
+130,7841,2855.9,WO,Waste Oil,2021,9
+130,7841,2837.4,WO,Waste Oil,2021,10
+130,7841,2215.4,WO,Waste Oil,2021,11
+130,7841,2462.7,WO,Waste Oil,2021,12
+131,62714,-7.5,MWH,Electricity used for Energy Storage,2021,1
+131,62714,-6.5,MWH,Electricity used for Energy Storage,2021,2
+131,62714,-7.3,MWH,Electricity used for Energy Storage,2021,3
+131,62714,-6.9,MWH,Electricity used for Energy Storage,2021,4
+131,62714,-7.1,MWH,Electricity used for Energy Storage,2021,5
+131,62714,-7.1,MWH,Electricity used for Energy Storage,2021,6
+131,62714,-7.3,MWH,Electricity used for Energy Storage,2021,7
+131,62714,-7.2,MWH,Electricity used for Energy Storage,2021,8
+131,62714,-6.9,MWH,Electricity used for Energy Storage,2021,9
+131,62714,-6.9,MWH,Electricity used for Energy Storage,2021,10
+131,62714,-6.9,MWH,Electricity used for Energy Storage,2021,11
+131,62714,-7.5,MWH,Electricity used for Energy Storage,2021,12
+132,7042,329.4,WAT,Water at Hydroelectric Turbine,2021,1
+132,7042,274.1,WAT,Water at Hydroelectric Turbine,2021,2
+132,7042,262.9,WAT,Water at Hydroelectric Turbine,2021,3
+132,7042,231.9,WAT,Water at Hydroelectric Turbine,2021,4
+132,7042,287.3,WAT,Water at Hydroelectric Turbine,2021,5
+132,7042,309.3,WAT,Water at Hydroelectric Turbine,2021,6
+132,7042,275.4,WAT,Water at Hydroelectric Turbine,2021,7
+132,7042,259.9,WAT,Water at Hydroelectric Turbine,2021,8
+132,7042,213.2,WAT,Water at Hydroelectric Turbine,2021,9
+132,7042,218.7,WAT,Water at Hydroelectric Turbine,2021,10
+132,7042,256.4,WAT,Water at Hydroelectric Turbine,2021,11
+132,7042,329.4,WAT,Water at Hydroelectric Turbine,2021,12
+133,789,617.2,DFO,Distillate Fuel Oil,2021,1
+133,789,683.4,DFO,Distillate Fuel Oil,2021,2
+133,789,739.1,DFO,Distillate Fuel Oil,2021,3
+133,789,710.5,DFO,Distillate Fuel Oil,2021,4
+133,789,367.9,DFO,Distillate Fuel Oil,2021,5
+133,789,493.9,DFO,Distillate Fuel Oil,2021,6
+133,789,482.7,DFO,Distillate Fuel Oil,2021,7
+133,789,696.1,DFO,Distillate Fuel Oil,2021,8
+133,789,901.6,DFO,Distillate Fuel Oil,2021,9
+133,789,895.7,DFO,Distillate Fuel Oil,2021,10
+133,789,699.4,DFO,Distillate Fuel Oil,2021,11
+133,789,777.5,DFO,Distillate Fuel Oil,2021,12
+134,7862,1565.4,WAT,Water at Hydroelectric Turbine,2021,1
+134,7862,1302.5,WAT,Water at Hydroelectric Turbine,2021,2
+134,7862,1249.2,WAT,Water at Hydroelectric Turbine,2021,3
+134,7862,1101.9,WAT,Water at Hydroelectric Turbine,2021,4
+134,7862,1365.1,WAT,Water at Hydroelectric Turbine,2021,5
+134,7862,1469.8,WAT,Water at Hydroelectric Turbine,2021,6
+134,7862,1308.7,WAT,Water at Hydroelectric Turbine,2021,7
+134,7862,1234.9,WAT,Water at Hydroelectric Turbine,2021,8
+134,7862,1012.9,WAT,Water at Hydroelectric Turbine,2021,9
+134,7862,1039.4,WAT,Water at Hydroelectric Turbine,2021,10
+134,7862,1218.1,WAT,Water at Hydroelectric Turbine,2021,11
+134,7862,1565.2,WAT,Water at Hydroelectric Turbine,2021,12
+135,,32.9,DFO,Distillate Fuel Oil,2021,1
+135,,34.8,DFO,Distillate Fuel Oil,2021,2
+135,,41.5,DFO,Distillate Fuel Oil,2021,3
+135,,38.8,DFO,Distillate Fuel Oil,2021,4
+135,,24.0,DFO,Distillate Fuel Oil,2021,5
+135,,23.9,DFO,Distillate Fuel Oil,2021,6
+135,,31.6,DFO,Distillate Fuel Oil,2021,7
+135,,19.9,DFO,Distillate Fuel Oil,2021,8
+135,,27.9,DFO,Distillate Fuel Oil,2021,9
+135,,43.7,DFO,Distillate Fuel Oil,2021,10
+135,,41.7,DFO,Distillate Fuel Oil,2021,11
+135,,37.9,DFO,Distillate Fuel Oil,2021,12
+136,54834,4.9,DFO,Distillate Fuel Oil,2021,1
+136,54834,4.9,DFO,Distillate Fuel Oil,2021,2
+136,54834,4.9,DFO,Distillate Fuel Oil,2021,3
+136,54834,5.9,DFO,Distillate Fuel Oil,2021,4
+136,54834,4.9,DFO,Distillate Fuel Oil,2021,5
+136,54834,4.9,DFO,Distillate Fuel Oil,2021,6
+136,54834,3.9,DFO,Distillate Fuel Oil,2021,7
+136,54834,4.9,DFO,Distillate Fuel Oil,2021,8
+136,54834,4.9,DFO,Distillate Fuel Oil,2021,9
+136,54834,4.9,DFO,Distillate Fuel Oil,2021,10
+136,54834,5.9,DFO,Distillate Fuel Oil,2021,11
+136,54834,4.9,DFO,Distillate Fuel Oil,2021,12
+137,50308,6509.0,CL,Coal,2021,1
+137,50308,6169.0,CL,Coal,2021,2
+137,50308,6012.0,CL,Coal,2021,3
+137,50308,5408.0,CL,Coal,2021,4
+137,50308,4583.0,CL,Coal,2021,5
+137,50308,4313.0,CL,Coal,2021,6
+137,50308,4539.0,CL,Coal,2021,7
+137,50308,4439.0,CL,Coal,2021,8
+137,50308,4290.0,CL,Coal,2021,9
+137,50308,5254.0,CL,Coal,2021,10
+137,50308,6317.0,CL,Coal,2021,11
+137,50308,7225.0,CL,Coal,2021,12
+138,58380,3560.7,LFG,Landfill Gas,2021,1
+138,58380,1.3,NG,Natural Gas,2021,1
+138,58380,3467.1,LFG,Landfill Gas,2021,2
+138,58380,0.9,NG,Natural Gas,2021,2
+138,58380,3374.8,LFG,Landfill Gas,2021,3
+138,58380,1.2,NG,Natural Gas,2021,3
+138,58380,2676.1,LFG,Landfill Gas,2021,4
+138,58380,16.9,NG,Natural Gas,2021,4
+138,58380,2943.0,LFG,Landfill Gas,2021,5
+138,58380,2775.0,LFG,Landfill Gas,2021,6
+138,58380,2860.0,LFG,Landfill Gas,2021,7
+138,58380,2904.0,LFG,Landfill Gas,2021,8
+138,58380,2702.0,LFG,Landfill Gas,2021,9
+138,58380,3905.0,LFG,Landfill Gas,2021,10
+138,58380,3801.0,LFG,Landfill Gas,2021,11
+138,58380,1.0,NG,Natural Gas,2021,11
+138,58380,3102.2,LFG,Landfill Gas,2021,12
+138,58380,0.8,NG,Natural Gas,2021,12
+139,7180,38.1,DFO,Distillate Fuel Oil,2021,1
+139,7180,37.9,DFO,Distillate Fuel Oil,2021,2
+139,7180,33.3,DFO,Distillate Fuel Oil,2021,3
+139,7180,51.1,DFO,Distillate Fuel Oil,2021,4
+139,7180,82.4,DFO,Distillate Fuel Oil,2021,5
+139,7180,103.1,DFO,Distillate Fuel Oil,2021,6
+139,7180,102.4,DFO,Distillate Fuel Oil,2021,7
+139,7180,46.1,DFO,Distillate Fuel Oil,2021,8
+139,7180,31.7,DFO,Distillate Fuel Oil,2021,9
+139,7180,32.8,DFO,Distillate Fuel Oil,2021,10
+139,7180,43.0,DFO,Distillate Fuel Oil,2021,11
+139,7180,46.1,DFO,Distillate Fuel Oil,2021,12
+140,,10.4,DFO,Distillate Fuel Oil,2021,1
+140,,12.2,DFO,Distillate Fuel Oil,2021,2
+140,,14.4,DFO,Distillate Fuel Oil,2021,3
+140,,12.0,DFO,Distillate Fuel Oil,2021,4
+140,,43.2,DFO,Distillate Fuel Oil,2021,5
+140,,60.5,DFO,Distillate Fuel Oil,2021,6
+140,,69.2,DFO,Distillate Fuel Oil,2021,7
+140,,72.4,DFO,Distillate Fuel Oil,2021,8
+140,,44.0,DFO,Distillate Fuel Oil,2021,9
+140,,13.2,DFO,Distillate Fuel Oil,2021,10
+140,,12.7,DFO,Distillate Fuel Oil,2021,11
+140,,10.6,DFO,Distillate Fuel Oil,2021,12
+141,,59.3,DFO,Distillate Fuel Oil,2021,1
+141,,55.5,DFO,Distillate Fuel Oil,2021,2
+141,,59.6,DFO,Distillate Fuel Oil,2021,3
+141,,57.3,DFO,Distillate Fuel Oil,2021,4
+141,,50.5,DFO,Distillate Fuel Oil,2021,5
+141,,55.7,DFO,Distillate Fuel Oil,2021,6
+141,,55.7,DFO,Distillate Fuel Oil,2021,7
+141,,52.4,DFO,Distillate Fuel Oil,2021,8
+141,,51.4,DFO,Distillate Fuel Oil,2021,9
+141,,55.7,DFO,Distillate Fuel Oil,2021,10
+141,,53.8,DFO,Distillate Fuel Oil,2021,11
+141,,54.5,DFO,Distillate Fuel Oil,2021,12
+142,58425,3617.1,WND,Wind,2021,1
+142,58425,2753.5,WND,Wind,2021,2
+142,58425,3431.6,WND,Wind,2021,3
+142,58425,2725.3,WND,Wind,2021,4
+142,58425,3219.0,WND,Wind,2021,5
+142,58425,3326.1,WND,Wind,2021,6
+142,58425,3918.0,WND,Wind,2021,7
+142,58425,3969.6,WND,Wind,2021,8
+142,58425,4067.3,WND,Wind,2021,9
+142,58425,4108.0,WND,Wind,2021,10
+142,58425,2334.2,WND,Wind,2021,11
+142,58425,4289.3,WND,Wind,2021,12
+143,,228.8,DFO,Distillate Fuel Oil,2021,1
+143,,184.0,DFO,Distillate Fuel Oil,2021,2
+143,,233.3,DFO,Distillate Fuel Oil,2021,3
+143,,200.3,DFO,Distillate Fuel Oil,2021,4
+143,,190.7,DFO,Distillate Fuel Oil,2021,5
+143,,176.9,DFO,Distillate Fuel Oil,2021,6
+143,,177.6,DFO,Distillate Fuel Oil,2021,7
+143,,184.9,DFO,Distillate Fuel Oil,2021,8
+143,,183.1,DFO,Distillate Fuel Oil,2021,9
+143,,208.6,DFO,Distillate Fuel Oil,2021,10
+143,,227.3,DFO,Distillate Fuel Oil,2021,11
+143,,229.9,DFO,Distillate Fuel Oil,2021,12
+144,7437,541.2,DFO,Distillate Fuel Oil,2021,1
+144,7437,521.5,DFO,Distillate Fuel Oil,2021,2
+144,7437,541.2,DFO,Distillate Fuel Oil,2021,3
+144,7437,448.5,DFO,Distillate Fuel Oil,2021,4
+144,7437,359.3,DFO,Distillate Fuel Oil,2021,5
+144,7437,274.3,DFO,Distillate Fuel Oil,2021,6
+144,7437,309.4,DFO,Distillate Fuel Oil,2021,7
+144,7437,373.0,DFO,Distillate Fuel Oil,2021,8
+144,7437,404.4,DFO,Distillate Fuel Oil,2021,9
+144,7437,463.8,DFO,Distillate Fuel Oil,2021,10
+144,7437,531.9,DFO,Distillate Fuel Oil,2021,11
+144,7437,592.5,DFO,Distillate Fuel Oil,2021,12
+145,,40.1,DFO,Distillate Fuel Oil,2021,1
+145,,41.1,DFO,Distillate Fuel Oil,2021,2
+145,,42.6,DFO,Distillate Fuel Oil,2021,3
+145,,34.1,DFO,Distillate Fuel Oil,2021,4
+145,,41.2,DFO,Distillate Fuel Oil,2021,5
+145,,35.7,DFO,Distillate Fuel Oil,2021,6
+145,,38.5,DFO,Distillate Fuel Oil,2021,7
+145,,43.3,DFO,Distillate Fuel Oil,2021,8
+145,,38.5,DFO,Distillate Fuel Oil,2021,9
+145,,30.8,DFO,Distillate Fuel Oil,2021,10
+145,,34.4,DFO,Distillate Fuel Oil,2021,11
+145,,39.8,DFO,Distillate Fuel Oil,2021,12
+146,57583,-256.0,MWH,Electricity used for Energy Storage,2021,1
+146,57583,-219.0,MWH,Electricity used for Energy Storage,2021,2
+146,57583,-233.0,MWH,Electricity used for Energy Storage,2021,3
+146,57583,-286.0,MWH,Electricity used for Energy Storage,2021,4
+146,57583,-291.0,MWH,Electricity used for Energy Storage,2021,5
+146,57583,-382.0,MWH,Electricity used for Energy Storage,2021,6
+146,57583,-303.0,MWH,Electricity used for Energy Storage,2021,7
+146,57583,-306.0,MWH,Electricity used for Energy Storage,2021,8
+146,57583,-416.0,MWH,Electricity used for Energy Storage,2021,9
+146,57583,-418.0,MWH,Electricity used for Energy Storage,2021,10
+146,57583,-186.0,MWH,Electricity used for Energy Storage,2021,11
+146,57583,-137.0,MWH,Electricity used for Energy Storage,2021,12
+147,56325,-9.3,DFO,Distillate Fuel Oil,2021,1
+147,56325,-10.3,DFO,Distillate Fuel Oil,2021,2
+147,56325,-11.1,DFO,Distillate Fuel Oil,2021,3
+147,56325,-10.7,DFO,Distillate Fuel Oil,2021,4
+147,56325,-5.5,DFO,Distillate Fuel Oil,2021,5
+147,56325,-7.4,DFO,Distillate Fuel Oil,2021,6
+147,56325,-7.2,DFO,Distillate Fuel Oil,2021,7
+147,56325,-10.4,DFO,Distillate Fuel Oil,2021,8
+147,56325,-13.5,DFO,Distillate Fuel Oil,2021,9
+147,56325,-13.4,DFO,Distillate Fuel Oil,2021,10
+147,56325,-10.5,DFO,Distillate Fuel Oil,2021,11
+147,56325,-11.7,DFO,Distillate Fuel Oil,2021,12
+148,57935,4906.7,WND,Wind,2021,1
+148,57935,3735.3,WND,Wind,2021,2
+148,57935,4655.1,WND,Wind,2021,3
+148,57935,3697.0,WND,Wind,2021,4
+148,57935,4366.7,WND,Wind,2021,5
+148,57935,4512.0,WND,Wind,2021,6
+148,57935,5315.0,WND,Wind,2021,7
+148,57935,5385.0,WND,Wind,2021,8
+148,57935,5517.5,WND,Wind,2021,9
+148,57935,5572.7,WND,Wind,2021,10
+148,57935,3166.5,WND,Wind,2021,11
+148,57935,5818.7,WND,Wind,2021,12
+149,6286,690.6,DFO,Distillate Fuel Oil,2021,1
+149,6286,764.7,DFO,Distillate Fuel Oil,2021,2
+149,6286,827.0,DFO,Distillate Fuel Oil,2021,3
+149,6286,795.0,DFO,Distillate Fuel Oil,2021,4
+149,6286,411.7,DFO,Distillate Fuel Oil,2021,5
+149,6286,552.7,DFO,Distillate Fuel Oil,2021,6
+149,6286,540.1,DFO,Distillate Fuel Oil,2021,7
+149,6286,778.9,DFO,Distillate Fuel Oil,2021,8
+149,6286,1008.8,DFO,Distillate Fuel Oil,2021,9
+149,6286,1002.2,DFO,Distillate Fuel Oil,2021,10
+149,6286,782.5,DFO,Distillate Fuel Oil,2021,11
+149,6286,869.9,DFO,Distillate Fuel Oil,2021,12
+150,6288,38592.5,CL,Coal,2021,1
+150,6288,506.5,DFO,Distillate Fuel Oil,2021,1
+150,6288,29054.6,CL,Coal,2021,2
+150,6288,620.4,DFO,Distillate Fuel Oil,2021,2
+150,6288,32852.6,CL,Coal,2021,3
+150,6288,628.4,DFO,Distillate Fuel Oil,2021,3
+150,6288,11974.8,CL,Coal,2021,4
+150,6288,304.2,DFO,Distillate Fuel Oil,2021,4
+150,6288,38802.9,CL,Coal,2021,5
+150,6288,360.1,DFO,Distillate Fuel Oil,2021,5
+150,6288,37017.7,CL,Coal,2021,6
+150,6288,427.3,DFO,Distillate Fuel Oil,2021,6
+150,6288,42264.5,CL,Coal,2021,7
+150,6288,468.5,DFO,Distillate Fuel Oil,2021,7
+150,6288,26529.9,CL,Coal,2021,8
+150,6288,663.1,DFO,Distillate Fuel Oil,2021,8
+150,6288,15167.5,CL,Coal,2021,9
+150,6288,255.5,DFO,Distillate Fuel Oil,2021,9
+150,6288,9588.9,CL,Coal,2021,10
+150,6288,831.1,DFO,Distillate Fuel Oil,2021,10
+150,6288,39039.1,CL,Coal,2021,11
+150,6288,1612.9,DFO,Distillate Fuel Oil,2021,11
+150,6288,45556.9,CL,Coal,2021,12
+150,6288,853.1,DFO,Distillate Fuel Oil,2021,12
+151,6285,32761.0,WO,Waste Oil,2021,1
+151,6285,3832.0,DFO,Distillate Fuel Oil,2021,1
+151,6285,32984.0,WO,Waste Oil,2021,2
+151,6285,6594.0,DFO,Distillate Fuel Oil,2021,2
+151,6285,34953.9,WO,Waste Oil,2021,3
+151,6285,7232.1,DFO,Distillate Fuel Oil,2021,3
+151,6285,33111.0,WO,Waste Oil,2021,4
+151,6285,8049.0,DFO,Distillate Fuel Oil,2021,4
+151,6285,16518.9,WO,Waste Oil,2021,5
+151,6285,3246.1,DFO,Distillate Fuel Oil,2021,5
+151,6285,25497.4,WO,Waste Oil,2021,6
+151,6285,2078.6,DFO,Distillate Fuel Oil,2021,6
+151,6285,22495.1,WO,Waste Oil,2021,7
+151,6285,2758.9,DFO,Distillate Fuel Oil,2021,7
+151,6285,30759.6,WO,Waste Oil,2021,8
+151,6285,7597.4,DFO,Distillate Fuel Oil,2021,8
+151,6285,35725.0,WO,Waste Oil,2021,9
+151,6285,18014.0,DFO,Distillate Fuel Oil,2021,9
+151,6285,39175.0,WO,Waste Oil,2021,10
+151,6285,14323.0,DFO,Distillate Fuel Oil,2021,10
+151,6285,33964.3,WO,Waste Oil,2021,11
+151,6285,6493.7,DFO,Distillate Fuel Oil,2021,11
+151,6285,37587.0,WO,Waste Oil,2021,12
+151,6285,9226.0,DFO,Distillate Fuel Oil,2021,12
+153,,91.0,DFO,Distillate Fuel Oil,2021,1
+153,,87.3,DFO,Distillate Fuel Oil,2021,2
+153,,92.3,DFO,Distillate Fuel Oil,2021,3
+153,,75.0,DFO,Distillate Fuel Oil,2021,4
+153,,67.9,DFO,Distillate Fuel Oil,2021,5
+153,,55.8,DFO,Distillate Fuel Oil,2021,6
+153,,65.4,DFO,Distillate Fuel Oil,2021,7
+153,,63.8,DFO,Distillate Fuel Oil,2021,8
+153,,72.1,DFO,Distillate Fuel Oil,2021,9
+153,,80.8,DFO,Distillate Fuel Oil,2021,10
+153,,91.5,DFO,Distillate Fuel Oil,2021,11
+153,,106.9,DFO,Distillate Fuel Oil,2021,12
+154,7174,332.8,DFO,Distillate Fuel Oil,2021,1
+154,7174,264.9,DFO,Distillate Fuel Oil,2021,4
+154,7174,232.8,DFO,Distillate Fuel Oil,2021,5
+154,7174,212.7,DFO,Distillate Fuel Oil,2021,6
+154,7174,213.6,DFO,Distillate Fuel Oil,2021,7
+154,7174,230.4,DFO,Distillate Fuel Oil,2021,8
+154,7174,203.0,DFO,Distillate Fuel Oil,2021,9
+154,7174,243.3,DFO,Distillate Fuel Oil,2021,10
+154,7174,283.5,DFO,Distillate Fuel Oil,2021,11
+154,7174,329.0,DFO,Distillate Fuel Oil,2021,12
+155,6292,64.2,NG,Natural Gas,2021,1
+155,6292,55.2,NG,Natural Gas,2021,2
+155,6292,54.2,NG,Natural Gas,2021,3
+155,6292,53.4,NG,Natural Gas,2021,4
+155,6292,58.2,NG,Natural Gas,2021,5
+155,6292,73.3,NG,Natural Gas,2021,6
+155,6292,83.3,NG,Natural Gas,2021,7
+155,6292,84.4,NG,Natural Gas,2021,8
+155,6292,69.2,NG,Natural Gas,2021,9
+155,6292,65.3,NG,Natural Gas,2021,10
+155,6292,60.8,NG,Natural Gas,2021,11
+155,6292,63.5,NG,Natural Gas,2021,12
+156,7367,39661.4,WAT,Water at Hydroelectric Turbine,2021,1
+156,7367,33001.2,WAT,Water at Hydroelectric Turbine,2021,2
+156,7367,31649.8,WAT,Water at Hydroelectric Turbine,2021,3
+156,7367,27917.5,WAT,Water at Hydroelectric Turbine,2021,4
+156,7367,34587.1,WAT,Water at Hydroelectric Turbine,2021,5
+156,7367,37239.7,WAT,Water at Hydroelectric Turbine,2021,6
+156,7367,33157.3,WAT,Water at Hydroelectric Turbine,2021,7
+156,7367,31286.9,WAT,Water at Hydroelectric Turbine,2021,8
+156,7367,25662.1,WAT,Water at Hydroelectric Turbine,2021,9
+156,7367,26333.6,WAT,Water at Hydroelectric Turbine,2021,10
+156,7367,30863.5,WAT,Water at Hydroelectric Turbine,2021,11
+156,7367,39657.9,WAT,Water at Hydroelectric Turbine,2021,12
+157,55966,41101.0,NG,Natural Gas,2021,1
+157,55966,36843.0,NG,Natural Gas,2021,2
+157,55966,38789.0,NG,Natural Gas,2021,3
+157,55966,34803.0,NG,Natural Gas,2021,4
+157,55966,16683.0,NG,Natural Gas,2021,5
+157,55966,26100.0,NG,Natural Gas,2021,6
+157,55966,32152.0,NG,Natural Gas,2021,7
+157,55966,31677.0,NG,Natural Gas,2021,8
+157,55966,19491.0,NG,Natural Gas,2021,9
+157,55966,39227.0,NG,Natural Gas,2021,10
+157,55966,41530.0,NG,Natural Gas,2021,11
+157,55966,40958.0,NG,Natural Gas,2021,12
+158,6283,17.1,DFO,Distillate Fuel Oil,2021,1
+158,6283,19.0,DFO,Distillate Fuel Oil,2021,2
+158,6283,20.5,DFO,Distillate Fuel Oil,2021,3
+158,6283,19.7,DFO,Distillate Fuel Oil,2021,4
+158,6283,10.2,DFO,Distillate Fuel Oil,2021,5
+158,6283,13.7,DFO,Distillate Fuel Oil,2021,6
+158,6283,13.4,DFO,Distillate Fuel Oil,2021,7
+158,6283,19.3,DFO,Distillate Fuel Oil,2021,8
+158,6283,25.0,DFO,Distillate Fuel Oil,2021,9
+158,6283,24.9,DFO,Distillate Fuel Oil,2021,10
+158,6283,19.4,DFO,Distillate Fuel Oil,2021,11
+158,6283,21.6,DFO,Distillate Fuel Oil,2021,12
+159,57206,2709.8,NG,Natural Gas,2021,1
+159,57206,2328.4,NG,Natural Gas,2021,2
+159,57206,2284.9,NG,Natural Gas,2021,3
+159,57206,2252.5,NG,Natural Gas,2021,4
+159,57206,2456.3,NG,Natural Gas,2021,5
+159,57206,3092.1,NG,Natural Gas,2021,6
+159,57206,3513.2,NG,Natural Gas,2021,7
+159,57206,3562.0,NG,Natural Gas,2021,8
+159,57206,2920.7,NG,Natural Gas,2021,9
+159,57206,2754.6,NG,Natural Gas,2021,10
+159,57206,2566.6,NG,Natural Gas,2021,11
+159,57206,2679.8,NG,Natural Gas,2021,12
+160,,63.0,DFO,Distillate Fuel Oil,2021,1
+160,,55.8,DFO,Distillate Fuel Oil,2021,2
+160,,52.6,DFO,Distillate Fuel Oil,2021,3
+160,,44.6,DFO,Distillate Fuel Oil,2021,4
+160,,38.6,DFO,Distillate Fuel Oil,2021,5
+160,,33.8,DFO,Distillate Fuel Oil,2021,6
+160,,31.6,DFO,Distillate Fuel Oil,2021,7
+160,,33.1,DFO,Distillate Fuel Oil,2021,8
+160,,32.9,DFO,Distillate Fuel Oil,2021,9
+160,,38.9,DFO,Distillate Fuel Oil,2021,10
+160,,49.9,DFO,Distillate Fuel Oil,2021,11
+160,,62.6,DFO,Distillate Fuel Oil,2021,12
+161,,30.6,DFO,Distillate Fuel Oil,2021,1
+161,,28.0,DFO,Distillate Fuel Oil,2021,2
+161,,0.9,WAT,Water at Hydroelectric Turbine,2021,2
+161,,27.7,DFO,Distillate Fuel Oil,2021,3
+161,,25.9,DFO,Distillate Fuel Oil,2021,4
+161,,23.0,DFO,Distillate Fuel Oil,2021,5
+161,,23.0,DFO,Distillate Fuel Oil,2021,6
+161,,24.2,DFO,Distillate Fuel Oil,2021,7
+161,,25.2,DFO,Distillate Fuel Oil,2021,8
+161,,25.6,DFO,Distillate Fuel Oil,2021,9
+161,,32.2,DFO,Distillate Fuel Oil,2021,10
+161,,39.7,DFO,Distillate Fuel Oil,2021,11
+161,,34.4,DFO,Distillate Fuel Oil,2021,12
+162,7183,368.5,WAT,Water at Hydroelectric Turbine,2021,1
+162,7183,13.3,DFO,Distillate Fuel Oil,2021,1
+162,7183,360.1,WAT,Water at Hydroelectric Turbine,2021,2
+162,7183,4.2,DFO,Distillate Fuel Oil,2021,2
+162,7183,322.3,WAT,Water at Hydroelectric Turbine,2021,3
+162,7183,11.7,DFO,Distillate Fuel Oil,2021,3
+162,7183,305.0,WAT,Water at Hydroelectric Turbine,2021,4
+162,7183,0.2,DFO,Distillate Fuel Oil,2021,4
+162,7183,291.1,WAT,Water at Hydroelectric Turbine,2021,5
+162,7183,0.1,DFO,Distillate Fuel Oil,2021,5
+162,7183,257.5,WAT,Water at Hydroelectric Turbine,2021,6
+162,7183,0.7,DFO,Distillate Fuel Oil,2021,6
+162,7183,279.0,WAT,Water at Hydroelectric Turbine,2021,7
+162,7183,2.6,DFO,Distillate Fuel Oil,2021,7
+162,7183,299.8,WAT,Water at Hydroelectric Turbine,2021,8
+162,7183,328.6,WAT,Water at Hydroelectric Turbine,2021,9
+162,7183,1.4,DFO,Distillate Fuel Oil,2021,9
+162,7183,230.6,WAT,Water at Hydroelectric Turbine,2021,10
+162,7183,74.6,DFO,Distillate Fuel Oil,2021,10
+162,7183,313.7,WAT,Water at Hydroelectric Turbine,2021,11
+162,7183,31.9,DFO,Distillate Fuel Oil,2021,11
+162,7183,317.9,WAT,Water at Hydroelectric Turbine,2021,12
+162,7183,19.0,DFO,Distillate Fuel Oil,2021,12
+163,7462,168.5,DFO,Distillate Fuel Oil,2021,1
+163,7462,169.0,DFO,Distillate Fuel Oil,2021,2
+163,7462,153.9,DFO,Distillate Fuel Oil,2021,3
+163,7462,159.7,DFO,Distillate Fuel Oil,2021,4
+163,7462,133.5,DFO,Distillate Fuel Oil,2021,5
+163,7462,148.5,DFO,Distillate Fuel Oil,2021,6
+163,7462,138.1,DFO,Distillate Fuel Oil,2021,7
+163,7462,150.5,DFO,Distillate Fuel Oil,2021,8
+163,7462,141.4,DFO,Distillate Fuel Oil,2021,9
+163,7462,144.1,DFO,Distillate Fuel Oil,2021,10
+163,7462,154.4,DFO,Distillate Fuel Oil,2021,11
+163,7462,160.8,DFO,Distillate Fuel Oil,2021,12
+164,7463,284.2,DFO,Distillate Fuel Oil,2021,1
+164,7463,146.0,WAT,Water at Hydroelectric Turbine,2021,1
+164,7463,375.3,DFO,Distillate Fuel Oil,2021,2
+164,7463,66.8,WAT,Water at Hydroelectric Turbine,2021,2
+164,7463,386.6,DFO,Distillate Fuel Oil,2021,3
+164,7463,33.2,WAT,Water at Hydroelectric Turbine,2021,3
+164,7463,402.2,DFO,Distillate Fuel Oil,2021,4
+164,7463,32.2,WAT,Water at Hydroelectric Turbine,2021,4
+164,7463,249.3,WAT,Water at Hydroelectric Turbine,2021,5
+164,7463,117.3,DFO,Distillate Fuel Oil,2021,5
+164,7463,280.6,WAT,Water at Hydroelectric Turbine,2021,6
+164,7463,111.5,DFO,Distillate Fuel Oil,2021,6
+164,7463,199.9,DFO,Distillate Fuel Oil,2021,7
+164,7463,163.5,WAT,Water at Hydroelectric Turbine,2021,7
+164,7463,367.0,DFO,Distillate Fuel Oil,2021,8
+164,7463,65.3,WAT,Water at Hydroelectric Turbine,2021,8
+164,7463,325.9,DFO,Distillate Fuel Oil,2021,9
+164,7463,100.4,WAT,Water at Hydroelectric Turbine,2021,9
+164,7463,274.3,DFO,Distillate Fuel Oil,2021,10
+164,7463,153.5,WAT,Water at Hydroelectric Turbine,2021,10
+164,7463,306.5,DFO,Distillate Fuel Oil,2021,11
+164,7463,121.8,WAT,Water at Hydroelectric Turbine,2021,11
+164,7463,361.9,DFO,Distillate Fuel Oil,2021,12
+164,7463,75.6,WAT,Water at Hydroelectric Turbine,2021,12
+165,7464,105.6,DFO,Distillate Fuel Oil,2021,1
+165,7464,104.5,WAT,Water at Hydroelectric Turbine,2021,1
+165,7464,176.8,DFO,Distillate Fuel Oil,2021,2
+165,7464,36.8,WAT,Water at Hydroelectric Turbine,2021,2
+165,7464,184.2,DFO,Distillate Fuel Oil,2021,3
+165,7464,8.6,WAT,Water at Hydroelectric Turbine,2021,3
+165,7464,96.7,DFO,Distillate Fuel Oil,2021,4
+165,7464,96.6,WAT,Water at Hydroelectric Turbine,2021,4
+165,7464,92.8,WAT,Water at Hydroelectric Turbine,2021,5
+165,7464,76.4,DFO,Distillate Fuel Oil,2021,5
+165,7464,101.9,DFO,Distillate Fuel Oil,2021,6
+165,7464,91.9,WAT,Water at Hydroelectric Turbine,2021,6
+165,7464,140.3,DFO,Distillate Fuel Oil,2021,7
+165,7464,21.8,WAT,Water at Hydroelectric Turbine,2021,7
+165,7464,160.2,DFO,Distillate Fuel Oil,2021,8
+165,7464,28.2,WAT,Water at Hydroelectric Turbine,2021,8
+165,7464,110.3,DFO,Distillate Fuel Oil,2021,9
+165,7464,77.2,WAT,Water at Hydroelectric Turbine,2021,9
+165,7464,115.6,WAT,Water at Hydroelectric Turbine,2021,10
+165,7464,58.5,DFO,Distillate Fuel Oil,2021,10
+165,7464,110.5,DFO,Distillate Fuel Oil,2021,11
+165,7464,93.6,WAT,Water at Hydroelectric Turbine,2021,11
+165,7464,132.2,DFO,Distillate Fuel Oil,2021,12
+165,7464,87.0,WAT,Water at Hydroelectric Turbine,2021,12
+166,7467,7.8,WAT,Water at Hydroelectric Turbine,2021,1
+166,7467,6.6,WAT,Water at Hydroelectric Turbine,2021,2
+166,7467,103.1,WAT,Water at Hydroelectric Turbine,2021,11
+166,7467,48.6,WAT,Water at Hydroelectric Turbine,2021,12
+169,,77.2,DFO,Distillate Fuel Oil,2021,1
+169,,0.1,SUN,Solar,2021,1
+169,,69.4,DFO,Distillate Fuel Oil,2021,2
+169,,1.6,SUN,Solar,2021,2
+169,,73.6,DFO,Distillate Fuel Oil,2021,3
+169,,3.5,SUN,Solar,2021,3
+169,,56.2,DFO,Distillate Fuel Oil,2021,4
+169,,5.8,SUN,Solar,2021,4
+169,,45.5,DFO,Distillate Fuel Oil,2021,5
+169,,11.1,SUN,Solar,2021,5
+169,,0.7,WND,Wind,2021,5
+169,,37.5,DFO,Distillate Fuel Oil,2021,6
+169,,6.5,SUN,Solar,2021,6
+169,,6.0,WND,Wind,2021,6
+169,,39.6,DFO,Distillate Fuel Oil,2021,7
+169,,6.3,WND,Wind,2021,7
+169,,4.5,SUN,Solar,2021,7
+169,,43.4,DFO,Distillate Fuel Oil,2021,8
+169,,3.9,SUN,Solar,2021,8
+169,,3.6,WND,Wind,2021,8
+169,,47.5,DFO,Distillate Fuel Oil,2021,9
+169,,7.0,WND,Wind,2021,9
+169,,3.7,SUN,Solar,2021,9
+169,,51.5,DFO,Distillate Fuel Oil,2021,10
+169,,12.6,WND,Wind,2021,10
+169,,1.7,SUN,Solar,2021,10
+169,,74.7,DFO,Distillate Fuel Oil,2021,11
+169,,3.2,WND,Wind,2021,11
+169,,0.5,SUN,Solar,2021,11
+169,,63.1,DFO,Distillate Fuel Oil,2021,12
+169,,21.3,WND,Wind,2021,12
+169,,0.0,SUN,Solar,2021,12
+171,6580,4888.2,WAT,Water at Hydroelectric Turbine,2021,1
+171,6580,4067.3,WAT,Water at Hydroelectric Turbine,2021,2
+171,6580,3900.8,WAT,Water at Hydroelectric Turbine,2021,3
+171,6580,3440.8,WAT,Water at Hydroelectric Turbine,2021,4
+171,6580,4262.8,WAT,Water at Hydroelectric Turbine,2021,5
+171,6580,4589.7,WAT,Water at Hydroelectric Turbine,2021,6
+171,6580,4086.6,WAT,Water at Hydroelectric Turbine,2021,7
+171,6580,3856.0,WAT,Water at Hydroelectric Turbine,2021,8
+171,6580,3162.8,WAT,Water at Hydroelectric Turbine,2021,9
+171,6580,3245.6,WAT,Water at Hydroelectric Turbine,2021,10
+171,6580,3803.9,WAT,Water at Hydroelectric Turbine,2021,11
+171,6580,4887.7,WAT,Water at Hydroelectric Turbine,2021,12
+172,84,2355.3,WAT,Water at Hydroelectric Turbine,2021,1
+172,84,1959.8,WAT,Water at Hydroelectric Turbine,2021,2
+172,84,1879.6,WAT,Water at Hydroelectric Turbine,2021,3
+172,84,1657.9,WAT,Water at Hydroelectric Turbine,2021,4
+172,84,2054.0,WAT,Water at Hydroelectric Turbine,2021,5
+172,84,2211.5,WAT,Water at Hydroelectric Turbine,2021,6
+172,84,1969.1,WAT,Water at Hydroelectric Turbine,2021,7
+172,84,1858.0,WAT,Water at Hydroelectric Turbine,2021,8
+172,84,1524.0,WAT,Water at Hydroelectric Turbine,2021,9
+172,84,1563.9,WAT,Water at Hydroelectric Turbine,2021,10
+172,84,1832.9,WAT,Water at Hydroelectric Turbine,2021,11
+172,84,2355.1,WAT,Water at Hydroelectric Turbine,2021,12
+173,85,-8.1,DFO,Distillate Fuel Oil,2021,1
+173,85,-9.0,DFO,Distillate Fuel Oil,2021,2
+173,85,-9.7,DFO,Distillate Fuel Oil,2021,3
+173,85,-9.3,DFO,Distillate Fuel Oil,2021,4
+173,85,-4.8,DFO,Distillate Fuel Oil,2021,5
+173,85,-6.5,DFO,Distillate Fuel Oil,2021,6
+173,85,-6.3,DFO,Distillate Fuel Oil,2021,7
+173,85,-9.1,DFO,Distillate Fuel Oil,2021,8
+173,85,-11.9,DFO,Distillate Fuel Oil,2021,9
+173,85,-11.8,DFO,Distillate Fuel Oil,2021,10
+173,85,-9.2,DFO,Distillate Fuel Oil,2021,11
+173,85,-10.2,DFO,Distillate Fuel Oil,2021,12
+174,6581,1466.9,WAT,Water at Hydroelectric Turbine,2021,1
+174,6581,1220.6,WAT,Water at Hydroelectric Turbine,2021,2
+174,6581,1170.6,WAT,Water at Hydroelectric Turbine,2021,3
+174,6581,1032.5,WAT,Water at Hydroelectric Turbine,2021,4
+174,6581,1279.2,WAT,Water at Hydroelectric Turbine,2021,5
+174,6581,1377.3,WAT,Water at Hydroelectric Turbine,2021,6
+174,6581,1226.3,WAT,Water at Hydroelectric Turbine,2021,7
+174,6581,1157.2,WAT,Water at Hydroelectric Turbine,2021,8
+174,6581,949.1,WAT,Water at Hydroelectric Turbine,2021,9
+174,6581,974.0,WAT,Water at Hydroelectric Turbine,2021,10
+174,6581,1141.5,WAT,Water at Hydroelectric Turbine,2021,11
+174,6581,1466.8,WAT,Water at Hydroelectric Turbine,2021,12
+175,70,8227.8,WAT,Water at Hydroelectric Turbine,2021,1
+175,70,6846.1,WAT,Water at Hydroelectric Turbine,2021,2
+175,70,6565.8,WAT,Water at Hydroelectric Turbine,2021,3
+175,70,5791.5,WAT,Water at Hydroelectric Turbine,2021,4
+175,70,7175.1,WAT,Water at Hydroelectric Turbine,2021,5
+175,70,7725.4,WAT,Water at Hydroelectric Turbine,2021,6
+175,70,6878.5,WAT,Water at Hydroelectric Turbine,2021,7
+175,70,6490.5,WAT,Water at Hydroelectric Turbine,2021,8
+175,70,5323.6,WAT,Water at Hydroelectric Turbine,2021,9
+175,70,5462.9,WAT,Water at Hydroelectric Turbine,2021,10
+175,70,6402.7,WAT,Water at Hydroelectric Turbine,2021,11
+175,70,8227.1,WAT,Water at Hydroelectric Turbine,2021,12
+176,58977,1099.6,WAT,Water at Hydroelectric Turbine,2021,1
+176,58977,915.0,WAT,Water at Hydroelectric Turbine,2021,2
+176,58977,877.5,WAT,Water at Hydroelectric Turbine,2021,3
+176,58977,774.0,WAT,Water at Hydroelectric Turbine,2021,4
+176,58977,958.9,WAT,Water at Hydroelectric Turbine,2021,5
+176,58977,1032.5,WAT,Water at Hydroelectric Turbine,2021,6
+176,58977,919.3,WAT,Water at Hydroelectric Turbine,2021,7
+176,58977,867.4,WAT,Water at Hydroelectric Turbine,2021,8
+176,58977,711.5,WAT,Water at Hydroelectric Turbine,2021,9
+176,58977,730.1,WAT,Water at Hydroelectric Turbine,2021,10
+176,58977,855.7,WAT,Water at Hydroelectric Turbine,2021,11
+176,58977,1099.5,WAT,Water at Hydroelectric Turbine,2021,12
+177,7493,353.3,WAT,Water at Hydroelectric Turbine,2021,1
+177,7493,64.7,DFO,Distillate Fuel Oil,2021,1
+177,7493,294.0,WAT,Water at Hydroelectric Turbine,2021,2
+177,7493,71.7,DFO,Distillate Fuel Oil,2021,2
+177,7493,281.9,WAT,Water at Hydroelectric Turbine,2021,3
+177,7493,77.5,DFO,Distillate Fuel Oil,2021,3
+177,7493,248.7,WAT,Water at Hydroelectric Turbine,2021,4
+177,7493,74.5,DFO,Distillate Fuel Oil,2021,4
+177,7493,308.1,WAT,Water at Hydroelectric Turbine,2021,5
+177,7493,38.6,DFO,Distillate Fuel Oil,2021,5
+177,7493,331.7,WAT,Water at Hydroelectric Turbine,2021,6
+177,7493,51.8,DFO,Distillate Fuel Oil,2021,6
+177,7493,295.4,WAT,Water at Hydroelectric Turbine,2021,7
+177,7493,50.6,DFO,Distillate Fuel Oil,2021,7
+177,7493,278.7,WAT,Water at Hydroelectric Turbine,2021,8
+177,7493,73.0,DFO,Distillate Fuel Oil,2021,8
+177,7493,228.6,WAT,Water at Hydroelectric Turbine,2021,9
+177,7493,94.6,DFO,Distillate Fuel Oil,2021,9
+177,7493,234.6,WAT,Water at Hydroelectric Turbine,2021,10
+177,7493,94.0,DFO,Distillate Fuel Oil,2021,10
+177,7493,274.9,WAT,Water at Hydroelectric Turbine,2021,11
+177,7493,73.4,DFO,Distillate Fuel Oil,2021,11
+177,7493,353.3,WAT,Water at Hydroelectric Turbine,2021,12
+177,7493,81.6,DFO,Distillate Fuel Oil,2021,12
+178,,116.3,DFO,Distillate Fuel Oil,2021,1
+178,,87.4,WND,Wind,2021,1
+178,,100.0,DFO,Distillate Fuel Oil,2021,2
+178,,88.4,WND,Wind,2021,2
+178,,111.8,DFO,Distillate Fuel Oil,2021,3
+178,,68.7,WND,Wind,2021,3
+178,,110.6,DFO,Distillate Fuel Oil,2021,4
+178,,60.1,WND,Wind,2021,4
+178,,124.7,DFO,Distillate Fuel Oil,2021,5
+178,,29.0,WND,Wind,2021,5
+178,,98.2,DFO,Distillate Fuel Oil,2021,6
+178,,36.6,WND,Wind,2021,6
+178,,101.0,DFO,Distillate Fuel Oil,2021,7
+178,,34.1,WND,Wind,2021,7
+178,,108.4,DFO,Distillate Fuel Oil,2021,8
+178,,28.3,WND,Wind,2021,8
+178,,108.9,DFO,Distillate Fuel Oil,2021,9
+178,,37.0,WND,Wind,2021,9
+178,,106.1,DFO,Distillate Fuel Oil,2021,10
+178,,72.2,WND,Wind,2021,10
+178,,139.3,DFO,Distillate Fuel Oil,2021,11
+178,,43.8,WND,Wind,2021,11
+178,,119.8,DFO,Distillate Fuel Oil,2021,12
+178,,86.7,WND,Wind,2021,12
+180,58405,-21.6,MWH,Electricity used for Energy Storage,2021,1
+180,58405,-18.8,MWH,Electricity used for Energy Storage,2021,2
+180,58405,-21.2,MWH,Electricity used for Energy Storage,2021,3
+180,58405,-19.9,MWH,Electricity used for Energy Storage,2021,4
+180,58405,-20.6,MWH,Electricity used for Energy Storage,2021,5
+180,58405,-20.5,MWH,Electricity used for Energy Storage,2021,6
+180,58405,-21.1,MWH,Electricity used for Energy Storage,2021,7
+180,58405,-20.9,MWH,Electricity used for Energy Storage,2021,8
+180,58405,-19.8,MWH,Electricity used for Energy Storage,2021,9
+180,58405,-20.0,MWH,Electricity used for Energy Storage,2021,10
+180,58405,-19.9,MWH,Electricity used for Energy Storage,2021,11
+180,58405,-21.6,MWH,Electricity used for Energy Storage,2021,12
+181,60563,-25.6,MWH,Electricity used for Energy Storage,2021,1
+181,60563,-22.3,MWH,Electricity used for Energy Storage,2021,2
+181,60563,-25.1,MWH,Electricity used for Energy Storage,2021,3
+181,60563,-23.6,MWH,Electricity used for Energy Storage,2021,4
+181,60563,-24.4,MWH,Electricity used for Energy Storage,2021,5
+181,60563,-24.3,MWH,Electricity used for Energy Storage,2021,6
+181,60563,-25.0,MWH,Electricity used for Energy Storage,2021,7
+181,60563,-24.7,MWH,Electricity used for Energy Storage,2021,8
+181,60563,-23.5,MWH,Electricity used for Energy Storage,2021,9
+181,60563,-23.7,MWH,Electricity used for Energy Storage,2021,10
+181,60563,-23.5,MWH,Electricity used for Energy Storage,2021,11
+181,60563,-25.5,MWH,Electricity used for Energy Storage,2021,12
+182,6281,0.0,DFO,Distillate Fuel Oil,2021,1
+182,6281,0.0,DFO,Distillate Fuel Oil,2021,2
+182,6281,0.0,DFO,Distillate Fuel Oil,2021,3
+182,6281,0.0,DFO,Distillate Fuel Oil,2021,4
+182,6281,0.0,DFO,Distillate Fuel Oil,2021,5
+182,6281,0.0,DFO,Distillate Fuel Oil,2021,6
+182,6281,0.0,DFO,Distillate Fuel Oil,2021,7
+182,6281,0.0,DFO,Distillate Fuel Oil,2021,8
+182,6281,0.0,DFO,Distillate Fuel Oil,2021,9
+182,6281,0.0,DFO,Distillate Fuel Oil,2021,10
+182,6281,0.0,DFO,Distillate Fuel Oil,2021,11
+182,6281,0.0,DFO,Distillate Fuel Oil,2021,12
+183,7723,0.0,DFO,Distillate Fuel Oil,2021,1
+183,7723,0.0,DFO,Distillate Fuel Oil,2021,2
+183,7723,0.0,DFO,Distillate Fuel Oil,2021,3
+183,7723,0.0,DFO,Distillate Fuel Oil,2021,4
+183,7723,0.0,DFO,Distillate Fuel Oil,2021,5
+183,7723,0.0,DFO,Distillate Fuel Oil,2021,6
+183,7723,0.0,DFO,Distillate Fuel Oil,2021,7
+183,7723,0.0,DFO,Distillate Fuel Oil,2021,8
+183,7723,0.0,DFO,Distillate Fuel Oil,2021,9
+183,7723,0.0,DFO,Distillate Fuel Oil,2021,10
+183,7723,0.0,DFO,Distillate Fuel Oil,2021,11
+183,7723,0.0,DFO,Distillate Fuel Oil,2021,12
+184,57187,2186.1,WND,Wind,2021,1
+184,57187,1664.2,WND,Wind,2021,2
+184,57187,2073.9,WND,Wind,2021,3
+184,57187,1647.1,WND,Wind,2021,4
+184,57187,1945.4,WND,Wind,2021,5
+184,57187,2010.2,WND,Wind,2021,6
+184,57187,2367.9,WND,Wind,2021,7
+184,57187,2399.1,WND,Wind,2021,8
+184,57187,2458.2,WND,Wind,2021,9
+184,57187,2482.8,WND,Wind,2021,10
+184,57187,1410.7,WND,Wind,2021,11
+184,57187,2592.4,WND,Wind,2021,12
+186,60250,0.3,DFO,Distillate Fuel Oil,2021,1
+186,60250,0.3,DFO,Distillate Fuel Oil,2021,2
+186,60250,0.4,DFO,Distillate Fuel Oil,2021,3
+186,60250,0.4,DFO,Distillate Fuel Oil,2021,4
+186,60250,0.2,DFO,Distillate Fuel Oil,2021,5
+186,60250,0.2,DFO,Distillate Fuel Oil,2021,6
+186,60250,0.2,DFO,Distillate Fuel Oil,2021,7
+186,60250,0.3,DFO,Distillate Fuel Oil,2021,8
+186,60250,0.4,DFO,Distillate Fuel Oil,2021,9
+186,60250,0.4,DFO,Distillate Fuel Oil,2021,10
+186,60250,0.3,DFO,Distillate Fuel Oil,2021,11
+186,60250,0.4,DFO,Distillate Fuel Oil,2021,12
+187,71,13422.7,WAT,Water at Hydroelectric Turbine,2021,1
+187,71,11168.6,WAT,Water at Hydroelectric Turbine,2021,2
+187,71,10711.3,WAT,Water at Hydroelectric Turbine,2021,3
+187,71,9448.2,WAT,Water at Hydroelectric Turbine,2021,4
+187,71,11705.4,WAT,Water at Hydroelectric Turbine,2021,5
+187,71,12603.1,WAT,Water at Hydroelectric Turbine,2021,6
+187,71,11221.5,WAT,Water at Hydroelectric Turbine,2021,7
+187,71,10588.5,WAT,Water at Hydroelectric Turbine,2021,8
+187,71,8684.9,WAT,Water at Hydroelectric Turbine,2021,9
+187,71,8912.1,WAT,Water at Hydroelectric Turbine,2021,10
+187,71,10445.2,WAT,Water at Hydroelectric Turbine,2021,11
+187,71,13421.5,WAT,Water at Hydroelectric Turbine,2021,12
+188,,42.2,DFO,Distillate Fuel Oil,2021,1
+188,,40.7,DFO,Distillate Fuel Oil,2021,2
+188,,0.5,WND,Wind,2021,2
+188,,39.7,DFO,Distillate Fuel Oil,2021,3
+188,,3.1,WND,Wind,2021,3
+188,,31.4,DFO,Distillate Fuel Oil,2021,4
+188,,8.3,WND,Wind,2021,4
+188,,31.8,DFO,Distillate Fuel Oil,2021,5
+188,,0.5,WND,Wind,2021,5
+188,,29.9,DFO,Distillate Fuel Oil,2021,6
+188,,29.2,DFO,Distillate Fuel Oil,2021,7
+188,,31.9,DFO,Distillate Fuel Oil,2021,8
+188,,0.0,WND,Wind,2021,8
+188,,76.6,DFO,Distillate Fuel Oil,2021,9
+188,,0.1,WND,Wind,2021,9
+188,,58.6,DFO,Distillate Fuel Oil,2021,10
+188,,2.6,WND,Wind,2021,10
+188,,42.0,DFO,Distillate Fuel Oil,2021,11
+188,,3.1,WND,Wind,2021,11
+188,,44.7,DFO,Distillate Fuel Oil,2021,12
+189,6304,1682.1,DFO,Distillate Fuel Oil,2021,1
+189,6304,214.1,WND,Wind,2021,1
+189,6304,4.0,SUN,Solar,2021,1
+189,6304,-7.6,MWH,Electricity used for Energy Storage,2021,1
+189,6304,1873.4,DFO,Distillate Fuel Oil,2021,2
+189,6304,322.5,WND,Wind,2021,2
+189,6304,25.6,SUN,Solar,2021,2
+189,6304,-6.6,MWH,Electricity used for Energy Storage,2021,2
+189,6304,1352.9,DFO,Distillate Fuel Oil,2021,3
+189,6304,294.2,WND,Wind,2021,3
+189,6304,34.4,SUN,Solar,2021,3
+189,6304,-7.4,MWH,Electricity used for Energy Storage,2021,3
+189,6304,1843.7,DFO,Distillate Fuel Oil,2021,4
+189,6304,87.4,WND,Wind,2021,4
+189,6304,60.0,SUN,Solar,2021,4
+189,6304,-7.0,MWH,Electricity used for Energy Storage,2021,4
+189,6304,1468.0,DFO,Distillate Fuel Oil,2021,5
+189,6304,111.5,SUN,Solar,2021,5
+189,6304,59.5,WND,Wind,2021,5
+189,6304,-7.2,MWH,Electricity used for Energy Storage,2021,5
+189,6304,1276.6,DFO,Distillate Fuel Oil,2021,6
+189,6304,140.7,WND,Wind,2021,6
+189,6304,117.6,SUN,Solar,2021,6
+189,6304,-7.2,MWH,Electricity used for Energy Storage,2021,6
+189,6304,1274.0,DFO,Distillate Fuel Oil,2021,7
+189,6304,94.1,WND,Wind,2021,7
+189,6304,82.0,SUN,Solar,2021,7
+189,6304,-7.4,MWH,Electricity used for Energy Storage,2021,7
+189,6304,1289.3,DFO,Distillate Fuel Oil,2021,8
+189,6304,286.1,WND,Wind,2021,8
+189,6304,60.6,SUN,Solar,2021,8
+189,6304,-7.3,MWH,Electricity used for Energy Storage,2021,8
+189,6304,1377.0,DFO,Distillate Fuel Oil,2021,9
+189,6304,241.6,WND,Wind,2021,9
+189,6304,45.4,SUN,Solar,2021,9
+189,6304,-6.9,MWH,Electricity used for Energy Storage,2021,9
+189,6304,1389.0,DFO,Distillate Fuel Oil,2021,10
+189,6304,278.2,WND,Wind,2021,10
+189,6304,43.3,SUN,Solar,2021,10
+189,6304,-7.0,MWH,Electricity used for Energy Storage,2021,10
+189,6304,1860.1,DFO,Distillate Fuel Oil,2021,11
+189,6304,143.4,WND,Wind,2021,11
+189,6304,9.5,SUN,Solar,2021,11
+189,6304,-6.9,MWH,Electricity used for Energy Storage,2021,11
+189,6304,1657.3,DFO,Distillate Fuel Oil,2021,12
+189,6304,422.1,WND,Wind,2021,12
+189,6304,0.4,SUN,Solar,2021,12
+189,6304,-7.5,MWH,Electricity used for Energy Storage,2021,12
+190,,31.1,DFO,Distillate Fuel Oil,2021,1
+190,,21.1,DFO,Distillate Fuel Oil,2021,2
+190,,25.4,DFO,Distillate Fuel Oil,2021,7
+190,,115.4,DFO,Distillate Fuel Oil,2021,11
+191,,173.8,DFO,Distillate Fuel Oil,2021,1
+191,,150.3,DFO,Distillate Fuel Oil,2021,2
+191,,174.2,DFO,Distillate Fuel Oil,2021,3
+191,,147.0,DFO,Distillate Fuel Oil,2021,4
+191,,126.3,DFO,Distillate Fuel Oil,2021,5
+191,,124.3,DFO,Distillate Fuel Oil,2021,6
+191,,122.9,DFO,Distillate Fuel Oil,2021,7
+191,,124.8,DFO,Distillate Fuel Oil,2021,8
+191,,133.2,DFO,Distillate Fuel Oil,2021,9
+191,,152.2,DFO,Distillate Fuel Oil,2021,10
+191,,195.4,DFO,Distillate Fuel Oil,2021,11
+191,,176.1,DFO,Distillate Fuel Oil,2021,12
+192,,73.5,DFO,Distillate Fuel Oil,2021,1
+192,,50.3,WND,Wind,2021,1
+192,,86.1,DFO,Distillate Fuel Oil,2021,2
+192,,2.3,WND,Wind,2021,2
+192,,92.4,DFO,Distillate Fuel Oil,2021,3
+192,,95.2,DFO,Distillate Fuel Oil,2021,4
+192,,99.3,DFO,Distillate Fuel Oil,2021,5
+192,,0.1,WND,Wind,2021,5
+192,,76.4,DFO,Distillate Fuel Oil,2021,6
+192,,80.6,DFO,Distillate Fuel Oil,2021,7
+192,,105.4,DFO,Distillate Fuel Oil,2021,8
+192,,105.1,DFO,Distillate Fuel Oil,2021,9
+192,,109.4,DFO,Distillate Fuel Oil,2021,10
+192,,99.8,DFO,Distillate Fuel Oil,2021,11
+192,,120.9,DFO,Distillate Fuel Oil,2021,12
+192,,17.1,WND,Wind,2021,12
+194,,77.1,DFO,Distillate Fuel Oil,2021,2
+194,,43.1,DFO,Distillate Fuel Oil,2021,3
+194,,22.5,DFO,Distillate Fuel Oil,2021,4
+194,,30.7,DFO,Distillate Fuel Oil,2021,5
+194,,30.2,DFO,Distillate Fuel Oil,2021,6
+194,,31.8,DFO,Distillate Fuel Oil,2021,7
+194,,31.4,DFO,Distillate Fuel Oil,2021,8
+194,,32.8,DFO,Distillate Fuel Oil,2021,9
+194,,33.9,DFO,Distillate Fuel Oil,2021,10
+194,,100.3,DFO,Distillate Fuel Oil,2021,11
+194,,24.9,DFO,Distillate Fuel Oil,2021,12
+195,,3.9,DFO,Distillate Fuel Oil,2021,1
+196,,131.9,DFO,Distillate Fuel Oil,2021,1
+196,,115.4,DFO,Distillate Fuel Oil,2021,2
+196,,100.7,DFO,Distillate Fuel Oil,2021,8
+196,,142.0,DFO,Distillate Fuel Oil,2021,9
+196,,100.7,DFO,Distillate Fuel Oil,2021,10
+197,58989,55515.7,NG,Natural Gas,2021,1
+197,58989,47701.5,NG,Natural Gas,2021,2
+197,58989,46811.3,NG,Natural Gas,2021,3
+197,58989,46147.2,NG,Natural Gas,2021,4
+197,58989,50321.7,NG,Natural Gas,2021,5
+197,58989,63348.3,NG,Natural Gas,2021,6
+197,58989,71975.3,NG,Natural Gas,2021,7
+197,58989,72975.0,NG,Natural Gas,2021,8
+197,58989,59837.3,NG,Natural Gas,2021,9
+197,58989,56434.6,NG,Natural Gas,2021,10
+197,58989,52582.3,NG,Natural Gas,2021,11
+197,58989,54901.7,NG,Natural Gas,2021,12
+198,6555,197.3,DFO,Distillate Fuel Oil,2021,1
+198,6555,220.6,DFO,Distillate Fuel Oil,2021,2
+198,6555,204.3,DFO,Distillate Fuel Oil,2021,3
+198,6555,163.3,DFO,Distillate Fuel Oil,2021,4
+198,6555,139.6,DFO,Distillate Fuel Oil,2021,5
+198,6555,166.0,DFO,Distillate Fuel Oil,2021,6
+198,6555,151.8,DFO,Distillate Fuel Oil,2021,7
+198,6555,161.8,DFO,Distillate Fuel Oil,2021,8
+198,6555,162.6,DFO,Distillate Fuel Oil,2021,9
+198,6555,166.2,DFO,Distillate Fuel Oil,2021,10
+198,6555,220.6,DFO,Distillate Fuel Oil,2021,11
+198,6555,206.2,DFO,Distillate Fuel Oil,2021,12
+199,7112,58.2,DFO,Distillate Fuel Oil,2021,1
+199,7112,64.4,DFO,Distillate Fuel Oil,2021,2
+199,7112,69.7,DFO,Distillate Fuel Oil,2021,3
+199,7112,67.0,DFO,Distillate Fuel Oil,2021,4
+199,7112,34.7,DFO,Distillate Fuel Oil,2021,5
+199,7112,46.5,DFO,Distillate Fuel Oil,2021,6
+199,7112,45.5,DFO,Distillate Fuel Oil,2021,7
+199,7112,65.6,DFO,Distillate Fuel Oil,2021,8
+199,7112,85.0,DFO,Distillate Fuel Oil,2021,9
+199,7112,84.4,DFO,Distillate Fuel Oil,2021,10
+199,7112,65.9,DFO,Distillate Fuel Oil,2021,11
+199,7112,73.3,DFO,Distillate Fuel Oil,2021,12
+200,7168,365.3,WAT,Water at Hydroelectric Turbine,2021,1
+200,7168,303.9,WAT,Water at Hydroelectric Turbine,2021,2
+200,7168,291.5,WAT,Water at Hydroelectric Turbine,2021,3
+200,7168,257.1,WAT,Water at Hydroelectric Turbine,2021,4
+200,7168,318.5,WAT,Water at Hydroelectric Turbine,2021,5
+200,7168,343.0,WAT,Water at Hydroelectric Turbine,2021,6
+200,7168,305.4,WAT,Water at Hydroelectric Turbine,2021,7
+200,7168,288.1,WAT,Water at Hydroelectric Turbine,2021,8
+200,7168,236.3,WAT,Water at Hydroelectric Turbine,2021,9
+200,7168,242.5,WAT,Water at Hydroelectric Turbine,2021,10
+200,7168,284.2,WAT,Water at Hydroelectric Turbine,2021,11
+200,7168,365.2,WAT,Water at Hydroelectric Turbine,2021,12
+201,6302,1415.6,WAT,Water at Hydroelectric Turbine,2021,1
+201,6302,1177.9,WAT,Water at Hydroelectric Turbine,2021,2
+201,6302,1129.6,WAT,Water at Hydroelectric Turbine,2021,3
+201,6302,996.4,WAT,Water at Hydroelectric Turbine,2021,4
+201,6302,1234.5,WAT,Water at Hydroelectric Turbine,2021,5
+201,6302,1329.1,WAT,Water at Hydroelectric Turbine,2021,6
+201,6302,1183.4,WAT,Water at Hydroelectric Turbine,2021,7
+201,6302,1116.7,WAT,Water at Hydroelectric Turbine,2021,8
+201,6302,915.9,WAT,Water at Hydroelectric Turbine,2021,9
+201,6302,939.9,WAT,Water at Hydroelectric Turbine,2021,10
+201,6302,1101.6,WAT,Water at Hydroelectric Turbine,2021,11
+201,6302,1415.4,WAT,Water at Hydroelectric Turbine,2021,12
+202,,28.4,DFO,Distillate Fuel Oil,2021,1
+202,,28.4,DFO,Distillate Fuel Oil,2021,2
+202,,25.7,DFO,Distillate Fuel Oil,2021,3
+202,,21.7,DFO,Distillate Fuel Oil,2021,4
+202,,19.1,DFO,Distillate Fuel Oil,2021,5
+202,,15.3,DFO,Distillate Fuel Oil,2021,6
+202,,16.1,DFO,Distillate Fuel Oil,2021,7
+202,,17.5,DFO,Distillate Fuel Oil,2021,8
+202,,18.6,DFO,Distillate Fuel Oil,2021,9
+202,,22.0,DFO,Distillate Fuel Oil,2021,10
+202,,27.7,DFO,Distillate Fuel Oil,2021,11
+202,,31.6,DFO,Distillate Fuel Oil,2021,12
+203,,29.6,DFO,Distillate Fuel Oil,2021,1
+203,,27.9,DFO,Distillate Fuel Oil,2021,2
+203,,25.7,DFO,Distillate Fuel Oil,2021,3
+203,,24.2,DFO,Distillate Fuel Oil,2021,4
+203,,22.8,DFO,Distillate Fuel Oil,2021,5
+203,,23.8,DFO,Distillate Fuel Oil,2021,7
+203,,25.7,DFO,Distillate Fuel Oil,2021,8
+203,,21.9,DFO,Distillate Fuel Oil,2021,9
+203,,21.9,DFO,Distillate Fuel Oil,2021,10
+203,,35.4,DFO,Distillate Fuel Oil,2021,11
+203,,31.7,DFO,Distillate Fuel Oil,2021,12
+204,,7.8,DFO,Distillate Fuel Oil,2021,1
+204,,6.5,DFO,Distillate Fuel Oil,2021,2
+204,,6.6,DFO,Distillate Fuel Oil,2021,3
+204,,5.2,DFO,Distillate Fuel Oil,2021,4
+204,,4.9,DFO,Distillate Fuel Oil,2021,5
+204,,4.9,DFO,Distillate Fuel Oil,2021,6
+204,,5.8,DFO,Distillate Fuel Oil,2021,7
+204,,11.5,DFO,Distillate Fuel Oil,2021,8
+204,,5.4,DFO,Distillate Fuel Oil,2021,9
+204,,4.3,DFO,Distillate Fuel Oil,2021,10
+204,,7.1,DFO,Distillate Fuel Oil,2021,11
+204,,7.6,DFO,Distillate Fuel Oil,2021,12
+205,,29.1,DFO,Distillate Fuel Oil,2021,1
+205,,26.0,DFO,Distillate Fuel Oil,2021,2
+205,,28.2,DFO,Distillate Fuel Oil,2021,3
+205,,24.3,DFO,Distillate Fuel Oil,2021,4
+205,,22.2,DFO,Distillate Fuel Oil,2021,5
+205,,17.2,DFO,Distillate Fuel Oil,2021,6
+205,,19.0,DFO,Distillate Fuel Oil,2021,7
+205,,19.5,DFO,Distillate Fuel Oil,2021,8
+205,,19.7,DFO,Distillate Fuel Oil,2021,9
+205,,25.6,DFO,Distillate Fuel Oil,2021,10
+205,,28.6,DFO,Distillate Fuel Oil,2021,11
+205,,35.8,DFO,Distillate Fuel Oil,2021,12
+206,,13.7,DFO,Distillate Fuel Oil,2021,1
+206,,12.6,DFO,Distillate Fuel Oil,2021,2
+206,,13.3,DFO,Distillate Fuel Oil,2021,3
+206,,10.2,DFO,Distillate Fuel Oil,2021,4
+206,,10.5,DFO,Distillate Fuel Oil,2021,5
+206,,7.6,DFO,Distillate Fuel Oil,2021,6
+206,,8.6,DFO,Distillate Fuel Oil,2021,7
+206,,8.6,DFO,Distillate Fuel Oil,2021,8
+206,,11.2,DFO,Distillate Fuel Oil,2021,9
+206,,11.2,DFO,Distillate Fuel Oil,2021,10
+206,,13.3,DFO,Distillate Fuel Oil,2021,11
+206,,14.9,DFO,Distillate Fuel Oil,2021,12
+207,6301,1115.9,DFO,Distillate Fuel Oil,2021,1
+207,6301,1043.8,DFO,Distillate Fuel Oil,2021,2
+207,6301,1353.2,DFO,Distillate Fuel Oil,2021,3
+207,6301,1495.2,DFO,Distillate Fuel Oil,2021,4
+207,6301,3042.7,DFO,Distillate Fuel Oil,2021,5
+207,6301,2938.5,DFO,Distillate Fuel Oil,2021,6
+207,6301,6887.5,DFO,Distillate Fuel Oil,2021,7
+207,6301,1453.7,DFO,Distillate Fuel Oil,2021,8
+207,6301,1272.7,DFO,Distillate Fuel Oil,2021,9
+207,6301,1228.4,DFO,Distillate Fuel Oil,2021,10
+207,6301,1336.7,DFO,Distillate Fuel Oil,2021,11
+207,6301,1160.8,DFO,Distillate Fuel Oil,2021,12
+209,,107.4,DFO,Distillate Fuel Oil,2021,1
+209,,85.8,DFO,Distillate Fuel Oil,2021,2
+209,,117.4,DFO,Distillate Fuel Oil,2021,3
+209,,85.9,DFO,Distillate Fuel Oil,2021,4
+209,,81.6,DFO,Distillate Fuel Oil,2021,5
+209,,72.8,DFO,Distillate Fuel Oil,2021,6
+209,,86.6,DFO,Distillate Fuel Oil,2021,7
+209,,82.6,DFO,Distillate Fuel Oil,2021,8
+209,,91.6,DFO,Distillate Fuel Oil,2021,9
+209,,99.8,DFO,Distillate Fuel Oil,2021,10
+209,,98.6,DFO,Distillate Fuel Oil,2021,11
+209,,118.5,DFO,Distillate Fuel Oil,2021,12
+210,,76.5,DFO,Distillate Fuel Oil,2021,1
+210,,113.6,DFO,Distillate Fuel Oil,2021,2
+210,,100.5,DFO,Distillate Fuel Oil,2021,3
+210,,87.2,DFO,Distillate Fuel Oil,2021,4
+210,,84.5,DFO,Distillate Fuel Oil,2021,5
+210,,105.4,DFO,Distillate Fuel Oil,2021,6
+210,,92.9,DFO,Distillate Fuel Oil,2021,7
+210,,119.0,DFO,Distillate Fuel Oil,2021,8
+210,,123.2,DFO,Distillate Fuel Oil,2021,9
+210,,132.1,DFO,Distillate Fuel Oil,2021,10
+210,,149.3,DFO,Distillate Fuel Oil,2021,11
+212,,27.8,DFO,Distillate Fuel Oil,2021,1
+212,,25.2,DFO,Distillate Fuel Oil,2021,2
+212,,31.7,DFO,Distillate Fuel Oil,2021,3
+212,,29.2,DFO,Distillate Fuel Oil,2021,4
+212,,15.1,DFO,Distillate Fuel Oil,2021,5
+212,,24.4,DFO,Distillate Fuel Oil,2021,6
+212,,21.4,DFO,Distillate Fuel Oil,2021,7
+212,,25.7,DFO,Distillate Fuel Oil,2021,8
+212,,20.7,DFO,Distillate Fuel Oil,2021,9
+212,,22.8,DFO,Distillate Fuel Oil,2021,10
+212,,31.3,DFO,Distillate Fuel Oil,2021,11
+212,,28.3,DFO,Distillate Fuel Oil,2021,12
+213,,61.3,DFO,Distillate Fuel Oil,2021,1
+213,,55.2,DFO,Distillate Fuel Oil,2021,2
+213,,58.2,DFO,Distillate Fuel Oil,2021,3
+213,,56.9,DFO,Distillate Fuel Oil,2021,4
+213,,57.5,DFO,Distillate Fuel Oil,2021,5
+213,,51.8,DFO,Distillate Fuel Oil,2021,6
+213,,57.4,DFO,Distillate Fuel Oil,2021,7
+213,,54.8,DFO,Distillate Fuel Oil,2021,8
+213,,54.1,DFO,Distillate Fuel Oil,2021,9
+213,,55.8,DFO,Distillate Fuel Oil,2021,10
+213,,61.4,DFO,Distillate Fuel Oil,2021,11
+213,,66.3,DFO,Distillate Fuel Oil,2021,12
+214,,29.8,DFO,Distillate Fuel Oil,2021,1
+214,,40.9,DFO,Distillate Fuel Oil,2021,2
+214,,76.2,DFO,Distillate Fuel Oil,2021,4
+214,,35.0,DFO,Distillate Fuel Oil,2021,5
+214,,35.8,DFO,Distillate Fuel Oil,2021,7
+214,,58.6,DFO,Distillate Fuel Oil,2021,8
+214,,40.2,DFO,Distillate Fuel Oil,2021,10
+214,,62.0,DFO,Distillate Fuel Oil,2021,11
+214,,54.5,DFO,Distillate Fuel Oil,2021,12
+215,90,2695.2,DFO,Distillate Fuel Oil,2021,1
+215,90,334.3,WND,Wind,2021,1
+215,90,2894.2,DFO,Distillate Fuel Oil,2021,2
+215,90,120.7,WND,Wind,2021,2
+215,90,2593.7,DFO,Distillate Fuel Oil,2021,3
+215,90,99.7,WND,Wind,2021,3
+215,90,2695.0,DFO,Distillate Fuel Oil,2021,4
+215,90,243.3,WND,Wind,2021,4
+215,90,2389.4,DFO,Distillate Fuel Oil,2021,5
+215,90,69.6,WND,Wind,2021,5
+215,90,2324.7,DFO,Distillate Fuel Oil,2021,6
+215,90,79.4,WND,Wind,2021,6
+215,90,2216.5,DFO,Distillate Fuel Oil,2021,7
+215,90,86.2,WND,Wind,2021,7
+215,90,2298.8,DFO,Distillate Fuel Oil,2021,8
+215,90,171.4,WND,Wind,2021,8
+215,90,2302.5,DFO,Distillate Fuel Oil,2021,9
+215,90,159.8,WND,Wind,2021,9
+215,90,2324.0,DFO,Distillate Fuel Oil,2021,10
+215,90,192.5,WND,Wind,2021,10
+215,90,2619.9,DFO,Distillate Fuel Oil,2021,11
+215,90,209.9,WND,Wind,2021,11
+215,90,2854.9,DFO,Distillate Fuel Oil,2021,12
+215,90,259.4,WND,Wind,2021,12
+216,7487,410.0,DFO,Distillate Fuel Oil,2021,1
+216,7487,394.0,DFO,Distillate Fuel Oil,2021,2
+216,7487,425.0,DFO,Distillate Fuel Oil,2021,3
+216,7487,377.0,DFO,Distillate Fuel Oil,2021,4
+216,7487,348.0,DFO,Distillate Fuel Oil,2021,5
+216,7487,247.0,DFO,Distillate Fuel Oil,2021,6
+216,7487,332.0,DFO,Distillate Fuel Oil,2021,7
+216,7487,297.0,DFO,Distillate Fuel Oil,2021,8
+216,7487,300.0,DFO,Distillate Fuel Oil,2021,9
+216,7487,339.0,DFO,Distillate Fuel Oil,2021,10
+216,7487,370.0,DFO,Distillate Fuel Oil,2021,11
+216,7487,421.0,DFO,Distillate Fuel Oil,2021,12
+217,7482,165.4,DFO,Distillate Fuel Oil,2021,1
+217,7482,183.1,DFO,Distillate Fuel Oil,2021,2
+217,7482,198.0,DFO,Distillate Fuel Oil,2021,3
+217,7482,190.4,DFO,Distillate Fuel Oil,2021,4
+217,7482,98.6,DFO,Distillate Fuel Oil,2021,5
+217,7482,132.3,DFO,Distillate Fuel Oil,2021,6
+217,7482,129.3,DFO,Distillate Fuel Oil,2021,7
+217,7482,186.5,DFO,Distillate Fuel Oil,2021,8
+217,7482,241.6,DFO,Distillate Fuel Oil,2021,9
+217,7482,240.0,DFO,Distillate Fuel Oil,2021,10
+217,7482,187.4,DFO,Distillate Fuel Oil,2021,11
+217,7482,208.3,DFO,Distillate Fuel Oil,2021,12
+218,7483,445.5,DFO,Distillate Fuel Oil,2021,1
+218,7483,525.9,DFO,Distillate Fuel Oil,2021,3
+218,7483,457.3,DFO,Distillate Fuel Oil,2021,4
+218,7483,387.5,DFO,Distillate Fuel Oil,2021,5
+218,7483,286.0,DFO,Distillate Fuel Oil,2021,6
+218,7483,372.4,DFO,Distillate Fuel Oil,2021,7
+218,7483,362.9,DFO,Distillate Fuel Oil,2021,8
+218,7483,383.2,DFO,Distillate Fuel Oil,2021,9
+218,7483,423.1,DFO,Distillate Fuel Oil,2021,10
+218,7483,474.9,DFO,Distillate Fuel Oil,2021,11
+218,7483,537.3,DFO,Distillate Fuel Oil,2021,12
+219,7484,381.7,NG,Natural Gas,2021,1
+219,7484,203.9,DFO,Distillate Fuel Oil,2021,1
+219,7484,328.0,NG,Natural Gas,2021,2
+219,7484,225.7,DFO,Distillate Fuel Oil,2021,2
+219,7484,321.8,NG,Natural Gas,2021,3
+219,7484,244.1,DFO,Distillate Fuel Oil,2021,3
+219,7484,317.3,NG,Natural Gas,2021,4
+219,7484,234.7,DFO,Distillate Fuel Oil,2021,4
+219,7484,346.0,NG,Natural Gas,2021,5
+219,7484,121.5,DFO,Distillate Fuel Oil,2021,5
+219,7484,435.5,NG,Natural Gas,2021,6
+219,7484,163.1,DFO,Distillate Fuel Oil,2021,6
+219,7484,494.8,NG,Natural Gas,2021,7
+219,7484,159.4,DFO,Distillate Fuel Oil,2021,7
+219,7484,501.7,NG,Natural Gas,2021,8
+219,7484,229.9,DFO,Distillate Fuel Oil,2021,8
+219,7484,411.4,NG,Natural Gas,2021,9
+219,7484,297.8,DFO,Distillate Fuel Oil,2021,9
+219,7484,388.0,NG,Natural Gas,2021,10
+219,7484,295.9,DFO,Distillate Fuel Oil,2021,10
+219,7484,361.5,NG,Natural Gas,2021,11
+219,7484,231.0,DFO,Distillate Fuel Oil,2021,11
+219,7484,377.5,NG,Natural Gas,2021,12
+219,7484,256.8,DFO,Distillate Fuel Oil,2021,12
+220,7485,495.0,DFO,Distillate Fuel Oil,2021,1
+220,7485,548.1,DFO,Distillate Fuel Oil,2021,2
+220,7485,592.8,DFO,Distillate Fuel Oil,2021,3
+220,7485,569.8,DFO,Distillate Fuel Oil,2021,4
+220,7485,295.1,DFO,Distillate Fuel Oil,2021,5
+220,7485,396.1,DFO,Distillate Fuel Oil,2021,6
+220,7485,387.1,DFO,Distillate Fuel Oil,2021,7
+220,7485,558.3,DFO,Distillate Fuel Oil,2021,8
+220,7485,723.0,DFO,Distillate Fuel Oil,2021,9
+220,7485,718.4,DFO,Distillate Fuel Oil,2021,10
+220,7485,560.9,DFO,Distillate Fuel Oil,2021,11
+220,7485,623.5,DFO,Distillate Fuel Oil,2021,12
+221,7486,375.3,DFO,Distillate Fuel Oil,2021,1
+221,7486,366.1,DFO,Distillate Fuel Oil,2021,3
+221,7486,326.0,DFO,Distillate Fuel Oil,2021,4
+221,7486,296.5,DFO,Distillate Fuel Oil,2021,5
+221,7486,224.7,DFO,Distillate Fuel Oil,2021,6
+221,7486,266.8,DFO,Distillate Fuel Oil,2021,7
+221,7486,272.1,DFO,Distillate Fuel Oil,2021,8
+221,7486,308.2,DFO,Distillate Fuel Oil,2021,9
+221,7486,291.4,DFO,Distillate Fuel Oil,2021,10
+221,7486,305.6,DFO,Distillate Fuel Oil,2021,11
+221,7486,353.4,DFO,Distillate Fuel Oil,2021,12
+222,7488,711.6,DFO,Distillate Fuel Oil,2021,1
+222,7488,684.0,DFO,Distillate Fuel Oil,2021,2
+222,7488,737.5,DFO,Distillate Fuel Oil,2021,3
+222,7488,652.0,DFO,Distillate Fuel Oil,2021,4
+222,7488,583.0,DFO,Distillate Fuel Oil,2021,5
+222,7488,412.3,DFO,Distillate Fuel Oil,2021,6
+222,7488,605.1,DFO,Distillate Fuel Oil,2021,7
+222,7488,544.2,DFO,Distillate Fuel Oil,2021,8
+222,7488,536.0,DFO,Distillate Fuel Oil,2021,9
+222,7488,578.9,DFO,Distillate Fuel Oil,2021,10
+222,7488,597.9,DFO,Distillate Fuel Oil,2021,11
+222,7488,700.5,DFO,Distillate Fuel Oil,2021,12
+223,,83.5,DFO,Distillate Fuel Oil,2021,1
+223,,86.3,DFO,Distillate Fuel Oil,2021,2
+223,,93.9,DFO,Distillate Fuel Oil,2021,3
+223,,79.8,DFO,Distillate Fuel Oil,2021,4
+223,,59.1,DFO,Distillate Fuel Oil,2021,5
+223,,48.1,DFO,Distillate Fuel Oil,2021,6
+223,,46.7,DFO,Distillate Fuel Oil,2021,7
+223,,62.9,DFO,Distillate Fuel Oil,2021,8
+223,,55.6,DFO,Distillate Fuel Oil,2021,9
+223,,74.7,DFO,Distillate Fuel Oil,2021,10
+223,,81.6,DFO,Distillate Fuel Oil,2021,11
+223,,96.9,DFO,Distillate Fuel Oil,2021,12
+224,109,1482.8,DFO,Distillate Fuel Oil,2021,1
+224,109,1476.5,DFO,Distillate Fuel Oil,2021,2
+224,109,1305.1,DFO,Distillate Fuel Oil,2021,3
+224,109,1395.4,DFO,Distillate Fuel Oil,2021,4
+224,109,1351.2,DFO,Distillate Fuel Oil,2021,5
+224,109,1531.9,DFO,Distillate Fuel Oil,2021,6
+224,109,3064.9,DFO,Distillate Fuel Oil,2021,7
+224,109,1970.5,DFO,Distillate Fuel Oil,2021,8
+224,109,1273.2,DFO,Distillate Fuel Oil,2021,9
+224,109,1310.3,DFO,Distillate Fuel Oil,2021,10
+224,109,1415.5,DFO,Distillate Fuel Oil,2021,11
+224,109,1522.7,DFO,Distillate Fuel Oil,2021,12
+225,,65.2,DFO,Distillate Fuel Oil,2021,1
+225,,61.6,DFO,Distillate Fuel Oil,2021,2
+225,,44.8,DFO,Distillate Fuel Oil,2021,3
+225,,55.2,DFO,Distillate Fuel Oil,2021,4
+225,,50.2,DFO,Distillate Fuel Oil,2021,5
+225,,45.5,DFO,Distillate Fuel Oil,2021,6
+225,,47.5,DFO,Distillate Fuel Oil,2021,7
+225,,49.0,DFO,Distillate Fuel Oil,2021,8
+225,,55.6,DFO,Distillate Fuel Oil,2021,9
+225,,59.4,DFO,Distillate Fuel Oil,2021,10
+225,,65.1,DFO,Distillate Fuel Oil,2021,11
+225,,69.0,DFO,Distillate Fuel Oil,2021,12
+227,,16.5,DFO,Distillate Fuel Oil,2021,1
+227,,15.5,DFO,Distillate Fuel Oil,2021,2
+227,,16.8,DFO,Distillate Fuel Oil,2021,3
+227,,15.8,DFO,Distillate Fuel Oil,2021,4
+227,,17.1,DFO,Distillate Fuel Oil,2021,5
+227,,15.6,DFO,Distillate Fuel Oil,2021,6
+227,,21.2,DFO,Distillate Fuel Oil,2021,7
+227,,19.4,DFO,Distillate Fuel Oil,2021,8
+227,,18.4,DFO,Distillate Fuel Oil,2021,9
+227,,15.4,DFO,Distillate Fuel Oil,2021,10
+227,,18.8,DFO,Distillate Fuel Oil,2021,11
+227,,18.8,DFO,Distillate Fuel Oil,2021,12
+228,6702,89.4,WAT,Water at Hydroelectric Turbine,2021,1
+228,6702,32.1,DFO,Distillate Fuel Oil,2021,1
+228,6702,74.4,WAT,Water at Hydroelectric Turbine,2021,2
+228,6702,35.6,DFO,Distillate Fuel Oil,2021,2
+228,6702,71.3,WAT,Water at Hydroelectric Turbine,2021,3
+228,6702,38.5,DFO,Distillate Fuel Oil,2021,3
+228,6702,62.9,WAT,Water at Hydroelectric Turbine,2021,4
+228,6702,37.0,DFO,Distillate Fuel Oil,2021,4
+228,6702,77.9,WAT,Water at Hydroelectric Turbine,2021,5
+228,6702,19.2,DFO,Distillate Fuel Oil,2021,5
+228,6702,83.9,WAT,Water at Hydroelectric Turbine,2021,6
+228,6702,25.7,DFO,Distillate Fuel Oil,2021,6
+228,6702,74.7,WAT,Water at Hydroelectric Turbine,2021,7
+228,6702,25.1,DFO,Distillate Fuel Oil,2021,7
+228,6702,70.5,WAT,Water at Hydroelectric Turbine,2021,8
+228,6702,36.3,DFO,Distillate Fuel Oil,2021,8
+228,6702,57.8,WAT,Water at Hydroelectric Turbine,2021,9
+228,6702,47.0,DFO,Distillate Fuel Oil,2021,9
+228,6702,59.3,WAT,Water at Hydroelectric Turbine,2021,10
+228,6702,46.6,DFO,Distillate Fuel Oil,2021,10
+228,6702,69.5,WAT,Water at Hydroelectric Turbine,2021,11
+228,6702,36.4,DFO,Distillate Fuel Oil,2021,11
+228,6702,89.4,WAT,Water at Hydroelectric Turbine,2021,12
+228,6702,40.5,DFO,Distillate Fuel Oil,2021,12
+229,91,1371.3,WAT,Water at Hydroelectric Turbine,2021,1
+229,91,66.1,DFO,Distillate Fuel Oil,2021,1
+229,91,1141.1,WAT,Water at Hydroelectric Turbine,2021,2
+229,91,73.2,DFO,Distillate Fuel Oil,2021,2
+229,91,1094.3,WAT,Water at Hydroelectric Turbine,2021,3
+229,91,79.1,DFO,Distillate Fuel Oil,2021,3
+229,91,965.3,WAT,Water at Hydroelectric Turbine,2021,4
+229,91,76.1,DFO,Distillate Fuel Oil,2021,4
+229,91,1195.9,WAT,Water at Hydroelectric Turbine,2021,5
+229,91,39.4,DFO,Distillate Fuel Oil,2021,5
+229,91,1287.6,WAT,Water at Hydroelectric Turbine,2021,6
+229,91,52.9,DFO,Distillate Fuel Oil,2021,6
+229,91,1146.5,WAT,Water at Hydroelectric Turbine,2021,7
+229,91,51.7,DFO,Distillate Fuel Oil,2021,7
+229,91,1081.8,WAT,Water at Hydroelectric Turbine,2021,8
+229,91,74.5,DFO,Distillate Fuel Oil,2021,8
+229,91,887.3,WAT,Water at Hydroelectric Turbine,2021,9
+229,91,96.5,DFO,Distillate Fuel Oil,2021,9
+229,91,910.5,WAT,Water at Hydroelectric Turbine,2021,10
+229,91,95.9,DFO,Distillate Fuel Oil,2021,10
+229,91,1067.2,WAT,Water at Hydroelectric Turbine,2021,11
+229,91,74.9,DFO,Distillate Fuel Oil,2021,11
+229,91,1371.2,WAT,Water at Hydroelectric Turbine,2021,12
+229,91,83.2,DFO,Distillate Fuel Oil,2021,12
+230,,40.3,DFO,Distillate Fuel Oil,2021,1
+230,,36.0,DFO,Distillate Fuel Oil,2021,2
+230,,36.8,DFO,Distillate Fuel Oil,2021,3
+230,,31.7,DFO,Distillate Fuel Oil,2021,4
+230,,31.9,DFO,Distillate Fuel Oil,2021,5
+230,,35.1,DFO,Distillate Fuel Oil,2021,6
+230,,49.6,DFO,Distillate Fuel Oil,2021,7
+230,,32.2,DFO,Distillate Fuel Oil,2021,8
+230,,34.1,DFO,Distillate Fuel Oil,2021,9
+230,,41.9,DFO,Distillate Fuel Oil,2021,10
+230,,48.7,DFO,Distillate Fuel Oil,2021,11
+230,,44.1,DFO,Distillate Fuel Oil,2021,12
+232,,57.1,DFO,Distillate Fuel Oil,2021,1
+232,,56.6,DFO,Distillate Fuel Oil,2021,2
+232,,69.8,DFO,Distillate Fuel Oil,2021,3
+232,,46.0,DFO,Distillate Fuel Oil,2021,4
+232,,41.3,DFO,Distillate Fuel Oil,2021,5
+232,,45.2,DFO,Distillate Fuel Oil,2021,6
+232,,43.5,DFO,Distillate Fuel Oil,2021,7
+232,,42.6,DFO,Distillate Fuel Oil,2021,8
+232,,48.1,DFO,Distillate Fuel Oil,2021,9
+232,,51.4,DFO,Distillate Fuel Oil,2021,10
+232,,54.4,DFO,Distillate Fuel Oil,2021,11
+232,,65.8,DFO,Distillate Fuel Oil,2021,12
+233,,81.1,DFO,Distillate Fuel Oil,2021,1
+233,,55.9,WND,Wind,2021,1
+233,,72.4,WND,Wind,2021,2
+233,,51.6,DFO,Distillate Fuel Oil,2021,2
+233,,76.1,WND,Wind,2021,3
+233,,60.5,DFO,Distillate Fuel Oil,2021,3
+233,,63.8,WND,Wind,2021,4
+233,,58.1,DFO,Distillate Fuel Oil,2021,4
+233,,82.8,DFO,Distillate Fuel Oil,2021,5
+233,,19.4,WND,Wind,2021,5
+233,,63.3,DFO,Distillate Fuel Oil,2021,6
+233,,35.9,WND,Wind,2021,6
+233,,57.4,DFO,Distillate Fuel Oil,2021,7
+233,,41.4,WND,Wind,2021,7
+233,,77.8,DFO,Distillate Fuel Oil,2021,8
+233,,28.3,WND,Wind,2021,8
+233,,64.6,DFO,Distillate Fuel Oil,2021,9
+233,,41.8,WND,Wind,2021,9
+233,,64.9,DFO,Distillate Fuel Oil,2021,10
+233,,63.9,WND,Wind,2021,10
+233,,94.2,DFO,Distillate Fuel Oil,2021,11
+233,,48.9,WND,Wind,2021,11
+233,,84.6,WND,Wind,2021,12
+233,,60.4,DFO,Distillate Fuel Oil,2021,12
+234,,16.8,DFO,Distillate Fuel Oil,2021,7
+234,,16.4,DFO,Distillate Fuel Oil,2021,8
+234,,17.6,DFO,Distillate Fuel Oil,2021,9
+234,,16.4,DFO,Distillate Fuel Oil,2021,10
+234,,31.6,DFO,Distillate Fuel Oil,2021,11
+234,,24.0,DFO,Distillate Fuel Oil,2021,12
+236,,68.9,DFO,Distillate Fuel Oil,2021,1
+236,,63.2,DFO,Distillate Fuel Oil,2021,2
+236,,66.3,DFO,Distillate Fuel Oil,2021,3
+236,,54.5,DFO,Distillate Fuel Oil,2021,4
+236,,49.3,DFO,Distillate Fuel Oil,2021,5
+236,,46.1,DFO,Distillate Fuel Oil,2021,6
+236,,42.5,DFO,Distillate Fuel Oil,2021,7
+236,,47.2,DFO,Distillate Fuel Oil,2021,8
+236,,51.0,DFO,Distillate Fuel Oil,2021,9
+236,,56.9,DFO,Distillate Fuel Oil,2021,10
+236,,64.6,DFO,Distillate Fuel Oil,2021,11
+236,,69.0,DFO,Distillate Fuel Oil,2021,12
+237,,50.9,DFO,Distillate Fuel Oil,2021,1
+237,,52.0,DFO,Distillate Fuel Oil,2021,2
+237,,51.5,DFO,Distillate Fuel Oil,2021,3
+237,,52.6,DFO,Distillate Fuel Oil,2021,4
+237,,66.9,DFO,Distillate Fuel Oil,2021,5
+237,,37.9,DFO,Distillate Fuel Oil,2021,6
+237,,39.1,DFO,Distillate Fuel Oil,2021,7
+237,,42.1,DFO,Distillate Fuel Oil,2021,8
+237,,43.1,DFO,Distillate Fuel Oil,2021,9
+237,,42.4,DFO,Distillate Fuel Oil,2021,12
+238,,275.5,DFO,Distillate Fuel Oil,2021,1
+238,,290.3,DFO,Distillate Fuel Oil,2021,2
+238,,305.8,DFO,Distillate Fuel Oil,2021,3
+238,,281.1,DFO,Distillate Fuel Oil,2021,4
+238,,269.0,DFO,Distillate Fuel Oil,2021,5
+238,,231.9,DFO,Distillate Fuel Oil,2021,6
+238,,247.9,DFO,Distillate Fuel Oil,2021,7
+238,,251.5,DFO,Distillate Fuel Oil,2021,8
+238,,254.8,DFO,Distillate Fuel Oil,2021,9
+238,,316.2,DFO,Distillate Fuel Oil,2021,10
+238,,277.8,DFO,Distillate Fuel Oil,2021,11
+238,,303.3,DFO,Distillate Fuel Oil,2021,12
+239,92,25.6,DFO,Distillate Fuel Oil,2021,1
+239,92,28.4,DFO,Distillate Fuel Oil,2021,2
+239,92,30.7,DFO,Distillate Fuel Oil,2021,3
+239,92,29.5,DFO,Distillate Fuel Oil,2021,4
+239,92,15.3,DFO,Distillate Fuel Oil,2021,5
+239,92,20.5,DFO,Distillate Fuel Oil,2021,6
+239,92,20.0,DFO,Distillate Fuel Oil,2021,7
+239,92,28.9,DFO,Distillate Fuel Oil,2021,8
+239,92,37.4,DFO,Distillate Fuel Oil,2021,9
+239,92,37.2,DFO,Distillate Fuel Oil,2021,10
+239,92,29.1,DFO,Distillate Fuel Oil,2021,11
+239,92,32.3,DFO,Distillate Fuel Oil,2021,12
+240,93,7895.2,WAT,Water at Hydroelectric Turbine,2021,1
+240,93,6569.4,WAT,Water at Hydroelectric Turbine,2021,2
+240,93,6300.4,WAT,Water at Hydroelectric Turbine,2021,3
+240,93,5557.4,WAT,Water at Hydroelectric Turbine,2021,4
+240,93,6885.1,WAT,Water at Hydroelectric Turbine,2021,5
+240,93,7413.1,WAT,Water at Hydroelectric Turbine,2021,6
+240,93,6600.5,WAT,Water at Hydroelectric Turbine,2021,7
+240,93,6228.1,WAT,Water at Hydroelectric Turbine,2021,8
+240,93,5108.4,WAT,Water at Hydroelectric Turbine,2021,9
+240,93,5242.1,WAT,Water at Hydroelectric Turbine,2021,10
+240,93,6143.9,WAT,Water at Hydroelectric Turbine,2021,11
+240,93,7894.5,WAT,Water at Hydroelectric Turbine,2021,12
+241,313,4214.5,WAT,Water at Hydroelectric Turbine,2021,1
+241,313,3506.7,WAT,Water at Hydroelectric Turbine,2021,2
+241,313,3363.1,WAT,Water at Hydroelectric Turbine,2021,3
+241,313,2966.5,WAT,Water at Hydroelectric Turbine,2021,4
+241,313,3675.3,WAT,Water at Hydroelectric Turbine,2021,5
+241,313,3957.1,WAT,Water at Hydroelectric Turbine,2021,6
+241,313,3523.3,WAT,Water at Hydroelectric Turbine,2021,7
+241,313,3324.6,WAT,Water at Hydroelectric Turbine,2021,8
+241,313,2726.9,WAT,Water at Hydroelectric Turbine,2021,9
+241,313,2798.2,WAT,Water at Hydroelectric Turbine,2021,10
+241,313,3279.6,WAT,Water at Hydroelectric Turbine,2021,11
+241,313,4214.1,WAT,Water at Hydroelectric Turbine,2021,12
+242,6801,-60.8,DFO,Distillate Fuel Oil,2021,1
+242,6801,-67.4,DFO,Distillate Fuel Oil,2021,2
+242,6801,-72.9,DFO,Distillate Fuel Oil,2021,3
+242,6801,-70.0,DFO,Distillate Fuel Oil,2021,4
+242,6801,-36.3,DFO,Distillate Fuel Oil,2021,5
+242,6801,-48.7,DFO,Distillate Fuel Oil,2021,6
+242,6801,-47.6,DFO,Distillate Fuel Oil,2021,7
+242,6801,-68.6,DFO,Distillate Fuel Oil,2021,8
+242,6801,-88.9,DFO,Distillate Fuel Oil,2021,9
+242,6801,-88.3,DFO,Distillate Fuel Oil,2021,10
+242,6801,-68.9,DFO,Distillate Fuel Oil,2021,11
+242,6801,-76.6,DFO,Distillate Fuel Oil,2021,12
+244,61166,8933.1,WAT,Water at Hydroelectric Turbine,2021,1
+244,61166,7433.0,WAT,Water at Hydroelectric Turbine,2021,2
+244,61166,7128.6,WAT,Water at Hydroelectric Turbine,2021,3
+244,61166,6288.0,WAT,Water at Hydroelectric Turbine,2021,4
+244,61166,7790.2,WAT,Water at Hydroelectric Turbine,2021,5
+244,61166,8387.7,WAT,Water at Hydroelectric Turbine,2021,6
+244,61166,7468.2,WAT,Water at Hydroelectric Turbine,2021,7
+244,61166,7046.9,WAT,Water at Hydroelectric Turbine,2021,8
+244,61166,5780.0,WAT,Water at Hydroelectric Turbine,2021,9
+244,61166,5931.3,WAT,Water at Hydroelectric Turbine,2021,10
+244,61166,6951.6,WAT,Water at Hydroelectric Turbine,2021,11
+244,61166,8932.3,WAT,Water at Hydroelectric Turbine,2021,12
+247,,24.1,DFO,Distillate Fuel Oil,2021,1
+247,,22.9,DFO,Distillate Fuel Oil,2021,11
+247,,13.6,DFO,Distillate Fuel Oil,2021,12
+248,,72.4,DFO,Distillate Fuel Oil,2021,1
+248,,64.9,DFO,Distillate Fuel Oil,2021,2
+248,,73.1,DFO,Distillate Fuel Oil,2021,3
+248,,67.3,DFO,Distillate Fuel Oil,2021,4
+248,,73.7,DFO,Distillate Fuel Oil,2021,5
+248,,84.4,DFO,Distillate Fuel Oil,2021,6
+248,,92.2,DFO,Distillate Fuel Oil,2021,7
+248,,86.6,DFO,Distillate Fuel Oil,2021,8
+248,,85.2,DFO,Distillate Fuel Oil,2021,9
+248,,74.7,DFO,Distillate Fuel Oil,2021,10
+248,,78.6,DFO,Distillate Fuel Oil,2021,11
+248,,81.3,DFO,Distillate Fuel Oil,2021,12
+249,,120.8,DFO,Distillate Fuel Oil,2021,1
+249,,125.4,DFO,Distillate Fuel Oil,2021,2
+249,,115.8,DFO,Distillate Fuel Oil,2021,3
+249,,101.0,DFO,Distillate Fuel Oil,2021,4
+249,,90.4,DFO,Distillate Fuel Oil,2021,5
+249,,86.2,DFO,Distillate Fuel Oil,2021,6
+249,,88.6,DFO,Distillate Fuel Oil,2021,7
+249,,90.0,DFO,Distillate Fuel Oil,2021,8
+249,,89.1,DFO,Distillate Fuel Oil,2021,9
+249,,102.3,DFO,Distillate Fuel Oil,2021,10
+249,,113.8,DFO,Distillate Fuel Oil,2021,11
+249,,125.1,DFO,Distillate Fuel Oil,2021,12
+250,,38.5,DFO,Distillate Fuel Oil,2021,1
+250,,35.6,DFO,Distillate Fuel Oil,2021,2
+250,,38.3,DFO,Distillate Fuel Oil,2021,3
+250,,33.9,DFO,Distillate Fuel Oil,2021,4
+250,,33.5,DFO,Distillate Fuel Oil,2021,5
+250,,34.0,DFO,Distillate Fuel Oil,2021,6
+250,,33.9,DFO,Distillate Fuel Oil,2021,7
+250,,26.5,DFO,Distillate Fuel Oil,2021,8
+250,,35.2,DFO,Distillate Fuel Oil,2021,9
+250,,38.5,DFO,Distillate Fuel Oil,2021,10
+250,,42.1,DFO,Distillate Fuel Oil,2021,11
+250,,36.7,DFO,Distillate Fuel Oil,2021,12
+251,,182.2,DFO,Distillate Fuel Oil,2021,1
+251,,171.6,DFO,Distillate Fuel Oil,2021,2
+251,,173.1,DFO,Distillate Fuel Oil,2021,3
+251,,192.1,DFO,Distillate Fuel Oil,2021,4
+251,,174.0,DFO,Distillate Fuel Oil,2021,5
+251,,167.7,DFO,Distillate Fuel Oil,2021,6
+251,,155.4,DFO,Distillate Fuel Oil,2021,7
+251,,150.6,DFO,Distillate Fuel Oil,2021,8
+251,,165.6,DFO,Distillate Fuel Oil,2021,9
+251,,127.3,DFO,Distillate Fuel Oil,2021,10
+251,,186.5,DFO,Distillate Fuel Oil,2021,12
+252,1,11.6,WND,Wind,2021,1
+252,1,8.8,WND,Wind,2021,2
+252,1,11.0,WND,Wind,2021,3
+252,1,8.7,WND,Wind,2021,4
+252,1,10.3,WND,Wind,2021,5
+252,1,10.7,WND,Wind,2021,6
+252,1,12.6,WND,Wind,2021,7
+252,1,12.7,WND,Wind,2021,8
+252,1,13.1,WND,Wind,2021,9
+252,1,13.2,WND,Wind,2021,10
+252,1,7.5,WND,Wind,2021,11
+252,1,13.8,WND,Wind,2021,12
+252,,344.5,DFO,Distillate Fuel Oil,2021,1
+252,,311.6,DFO,Distillate Fuel Oil,2021,2
+252,,288.4,DFO,Distillate Fuel Oil,2021,3
+252,,333.4,DFO,Distillate Fuel Oil,2021,4
+252,,298.1,DFO,Distillate Fuel Oil,2021,5
+252,,265.8,DFO,Distillate Fuel Oil,2021,6
+252,,235.2,DFO,Distillate Fuel Oil,2021,7
+252,,286.3,DFO,Distillate Fuel Oil,2021,8
+252,,319.7,DFO,Distillate Fuel Oil,2021,9
+252,,316.9,DFO,Distillate Fuel Oil,2021,10
+252,,296.0,DFO,Distillate Fuel Oil,2021,11
+252,,299.8,DFO,Distillate Fuel Oil,2021,12
+253,7171,55.3,DFO,Distillate Fuel Oil,2021,1
+253,7171,59.2,DFO,Distillate Fuel Oil,2021,2
+253,7171,50.6,DFO,Distillate Fuel Oil,2021,3
+253,7171,46.6,DFO,Distillate Fuel Oil,2021,4
+253,7171,37.6,DFO,Distillate Fuel Oil,2021,5
+253,7171,43.9,DFO,Distillate Fuel Oil,2021,6
+253,7171,42.1,DFO,Distillate Fuel Oil,2021,7
+253,7171,43.5,DFO,Distillate Fuel Oil,2021,8
+253,7171,46.7,DFO,Distillate Fuel Oil,2021,9
+253,7171,48.5,DFO,Distillate Fuel Oil,2021,10
+253,7171,56.5,DFO,Distillate Fuel Oil,2021,11
+253,7171,68.3,DFO,Distillate Fuel Oil,2021,12
+254,58278,4065.8,NG,Natural Gas,2021,1
+254,58278,3493.5,NG,Natural Gas,2021,2
+254,58278,3428.3,NG,Natural Gas,2021,3
+254,58278,3379.7,NG,Natural Gas,2021,4
+254,58278,3685.4,NG,Natural Gas,2021,5
+254,58278,4639.4,NG,Natural Gas,2021,6
+254,58278,5271.2,NG,Natural Gas,2021,7
+254,58278,5344.5,NG,Natural Gas,2021,8
+254,58278,4382.3,NG,Natural Gas,2021,9
+254,58278,4133.1,NG,Natural Gas,2021,10
+254,58278,3851.0,NG,Natural Gas,2021,11
+254,58278,4020.8,NG,Natural Gas,2021,12
+255,58117,-30.7,NG,Natural Gas,2021,1
+255,58117,-26.4,NG,Natural Gas,2021,2
+255,58117,-25.9,NG,Natural Gas,2021,3
+255,58117,-25.5,NG,Natural Gas,2021,4
+255,58117,-27.8,NG,Natural Gas,2021,5
+255,58117,-35.0,NG,Natural Gas,2021,6
+255,58117,-39.8,NG,Natural Gas,2021,7
+255,58117,-40.3,NG,Natural Gas,2021,8
+255,58117,-33.1,NG,Natural Gas,2021,9
+255,58117,-31.2,NG,Natural Gas,2021,10
+255,58117,-29.1,NG,Natural Gas,2021,11
+255,58117,-30.3,NG,Natural Gas,2021,12
+256,,35.6,DFO,Distillate Fuel Oil,2021,1
+256,,34.4,DFO,Distillate Fuel Oil,2021,2
+256,,33.6,DFO,Distillate Fuel Oil,2021,3
+256,,31.5,DFO,Distillate Fuel Oil,2021,4
+256,,31.5,DFO,Distillate Fuel Oil,2021,5
+256,,27.8,DFO,Distillate Fuel Oil,2021,6
+256,,37.5,DFO,Distillate Fuel Oil,2021,7
+256,,34.8,DFO,Distillate Fuel Oil,2021,8
+256,,31.7,DFO,Distillate Fuel Oil,2021,9
+256,,34.7,DFO,Distillate Fuel Oil,2021,10
+256,,39.3,DFO,Distillate Fuel Oil,2021,11
+256,,42.5,DFO,Distillate Fuel Oil,2021,12
+257,52184,6496.0,NG,Natural Gas,2021,1
+257,52184,5708.0,NG,Natural Gas,2021,2
+257,52184,5989.0,NG,Natural Gas,2021,3
+257,52184,6116.0,NG,Natural Gas,2021,4
+257,52184,6196.0,NG,Natural Gas,2021,5
+257,52184,6035.0,NG,Natural Gas,2021,6
+257,52184,5897.0,NG,Natural Gas,2021,7
+257,52184,5385.0,NG,Natural Gas,2021,8
+257,52184,4657.0,NG,Natural Gas,2021,9
+257,52184,4500.0,NG,Natural Gas,2021,10
+257,52184,3064.0,NG,Natural Gas,2021,11
+257,52184,4835.0,NG,Natural Gas,2021,12
+259,,107.3,DFO,Distillate Fuel Oil,2021,1
+259,,12.8,WND,Wind,2021,1
+259,,89.9,DFO,Distillate Fuel Oil,2021,2
+259,,11.5,WND,Wind,2021,2
+259,,130.6,DFO,Distillate Fuel Oil,2021,3
+259,,1.1,WND,Wind,2021,3
+259,,211.6,DFO,Distillate Fuel Oil,2021,4
+259,,84.3,DFO,Distillate Fuel Oil,2021,6
+259,,1.9,WND,Wind,2021,6
+259,,82.9,DFO,Distillate Fuel Oil,2021,7
+259,,87.7,DFO,Distillate Fuel Oil,2021,8
+259,,0.1,WND,Wind,2021,8
+259,,93.6,DFO,Distillate Fuel Oil,2021,9
+259,,108.1,DFO,Distillate Fuel Oil,2021,10
+259,,0.9,WND,Wind,2021,10
+259,,118.2,DFO,Distillate Fuel Oil,2021,11
+259,,0.6,WND,Wind,2021,11
+259,,103.0,DFO,Distillate Fuel Oil,2021,12
+259,,17.9,WND,Wind,2021,12
+261,,17.3,DFO,Distillate Fuel Oil,2021,1
+261,,15.4,DFO,Distillate Fuel Oil,2021,2
+261,,15.5,DFO,Distillate Fuel Oil,2021,7
+261,,15.9,DFO,Distillate Fuel Oil,2021,8
+261,,15.3,DFO,Distillate Fuel Oil,2021,9
+261,,15.9,DFO,Distillate Fuel Oil,2021,12
+262,6299,294.6,DFO,Distillate Fuel Oil,2021,1
+262,6299,102.4,WND,Wind,2021,1
+262,6299,326.5,DFO,Distillate Fuel Oil,2021,2
+262,6299,58.3,WND,Wind,2021,2
+262,6299,261.0,DFO,Distillate Fuel Oil,2021,3
+262,6299,82.4,WND,Wind,2021,3
+262,6299,298.9,DFO,Distillate Fuel Oil,2021,4
+262,6299,64.8,WND,Wind,2021,4
+262,6299,255.0,DFO,Distillate Fuel Oil,2021,5
+262,6299,32.2,WND,Wind,2021,5
+262,6299,260.9,DFO,Distillate Fuel Oil,2021,6
+262,6299,40.6,WND,Wind,2021,6
+262,6299,269.6,DFO,Distillate Fuel Oil,2021,7
+262,6299,32.6,WND,Wind,2021,7
+262,6299,309.6,DFO,Distillate Fuel Oil,2021,8
+262,6299,61.4,WND,Wind,2021,8
+262,6299,298.4,DFO,Distillate Fuel Oil,2021,9
+262,6299,66.5,WND,Wind,2021,9
+262,6299,290.6,DFO,Distillate Fuel Oil,2021,10
+262,6299,61.0,WND,Wind,2021,10
+262,6299,314.8,DFO,Distillate Fuel Oil,2021,11
+262,6299,49.1,WND,Wind,2021,11
+262,6299,376.4,DFO,Distillate Fuel Oil,2021,12
+262,6299,30.9,WND,Wind,2021,12
+263,7502,2619.0,DFO,Distillate Fuel Oil,2021,1
+263,7502,4058.0,DFO,Distillate Fuel Oil,2021,2
+263,7502,5023.0,DFO,Distillate Fuel Oil,2021,3
+263,7502,4515.0,DFO,Distillate Fuel Oil,2021,4
+263,7502,3151.0,DFO,Distillate Fuel Oil,2021,5
+263,7502,2812.0,DFO,Distillate Fuel Oil,2021,6
+263,7502,3586.0,DFO,Distillate Fuel Oil,2021,7
+263,7502,4470.0,DFO,Distillate Fuel Oil,2021,8
+263,7502,4524.0,DFO,Distillate Fuel Oil,2021,9
+263,7502,4471.0,DFO,Distillate Fuel Oil,2021,10
+263,7502,3419.0,DFO,Distillate Fuel Oil,2021,11
+263,7502,3006.0,DFO,Distillate Fuel Oil,2021,12
+264,7503,87.5,DFO,Distillate Fuel Oil,2021,1
+264,7503,96.9,DFO,Distillate Fuel Oil,2021,2
+264,7503,104.8,DFO,Distillate Fuel Oil,2021,3
+264,7503,100.7,DFO,Distillate Fuel Oil,2021,4
+264,7503,52.1,DFO,Distillate Fuel Oil,2021,5
+264,7503,70.0,DFO,Distillate Fuel Oil,2021,6
+264,7503,68.4,DFO,Distillate Fuel Oil,2021,7
+264,7503,98.7,DFO,Distillate Fuel Oil,2021,8
+264,7503,127.8,DFO,Distillate Fuel Oil,2021,9
+264,7503,126.9,DFO,Distillate Fuel Oil,2021,10
+264,7503,99.1,DFO,Distillate Fuel Oil,2021,11
+264,7503,110.2,DFO,Distillate Fuel Oil,2021,12
+265,,54.2,DFO,Distillate Fuel Oil,2021,1
+265,,42.3,DFO,Distillate Fuel Oil,2021,2
+265,,36.1,DFO,Distillate Fuel Oil,2021,7
+265,,50.8,DFO,Distillate Fuel Oil,2021,9
+265,,97.7,DFO,Distillate Fuel Oil,2021,11
+266,54422,2229.9,DFO,Distillate Fuel Oil,2021,1
+266,54422,2469.2,DFO,Distillate Fuel Oil,2021,2
+266,54422,2670.4,DFO,Distillate Fuel Oil,2021,3
+266,54422,2567.0,DFO,Distillate Fuel Oil,2021,4
+266,54422,1329.4,DFO,Distillate Fuel Oil,2021,5
+266,54422,1784.5,DFO,Distillate Fuel Oil,2021,6
+266,54422,1743.9,DFO,Distillate Fuel Oil,2021,7
+266,54422,2515.0,DFO,Distillate Fuel Oil,2021,8
+266,54422,3257.4,DFO,Distillate Fuel Oil,2021,9
+266,54422,3236.3,DFO,Distillate Fuel Oil,2021,10
+266,54422,2526.9,DFO,Distillate Fuel Oil,2021,11
+266,54422,2809.0,DFO,Distillate Fuel Oil,2021,12
+267,50711,4635.0,CL,Coal,2021,1
+267,50711,-44.0,DFO,Distillate Fuel Oil,2021,1
+267,50711,4532.0,CL,Coal,2021,2
+267,50711,-41.0,DFO,Distillate Fuel Oil,2021,2
+267,50711,4650.0,CL,Coal,2021,3
+267,50711,-47.0,DFO,Distillate Fuel Oil,2021,3
+267,50711,6244.0,CL,Coal,2021,4
+267,50711,-46.0,DFO,Distillate Fuel Oil,2021,4
+267,50711,87.2,CL,Coal,2021,5
+267,50711,2.7,NG,Natural Gas,2021,5
+267,50711,-12.9,DFO,Distillate Fuel Oil,2021,5
+267,50711,5849.0,CL,Coal,2021,6
+267,50711,-47.0,DFO,Distillate Fuel Oil,2021,6
+267,50711,6314.0,CL,Coal,2021,7
+267,50711,-48.0,DFO,Distillate Fuel Oil,2021,7
+267,50711,8282.0,CL,Coal,2021,8
+267,50711,-50.0,DFO,Distillate Fuel Oil,2021,8
+267,50711,7978.2,CL,Coal,2021,9
+267,50711,112.8,DFO,Distillate Fuel Oil,2021,9
+267,50711,8636.0,CL,Coal,2021,10
+267,50711,-49.0,DFO,Distillate Fuel Oil,2021,10
+267,50711,9232.0,CL,Coal,2021,11
+267,50711,-51.0,DFO,Distillate Fuel Oil,2021,11
+267,50711,4180.3,CL,Coal,2021,12
+267,50711,671.9,JF,Jet Fuel,2021,12
+267,50711,0.8,NG,Natural Gas,2021,12
+268,50392,6923.0,CL,Coal,2021,1
+268,50392,22.3,DFO,Distillate Fuel Oil,2021,1
+268,50392,6425.0,CL,Coal,2021,2
+268,50392,24.7,DFO,Distillate Fuel Oil,2021,2
+268,50392,6629.0,CL,Coal,2021,3
+268,50392,26.8,DFO,Distillate Fuel Oil,2021,3
+268,50392,6069.0,CL,Coal,2021,4
+268,50392,25.7,DFO,Distillate Fuel Oil,2021,4
+268,50392,5571.0,CL,Coal,2021,5
+268,50392,13.3,DFO,Distillate Fuel Oil,2021,5
+268,50392,5359.0,CL,Coal,2021,6
+268,50392,17.9,DFO,Distillate Fuel Oil,2021,6
+268,50392,5413.0,CL,Coal,2021,7
+268,50392,17.5,DFO,Distillate Fuel Oil,2021,7
+268,50392,5632.0,CL,Coal,2021,8
+268,50392,25.2,DFO,Distillate Fuel Oil,2021,8
+268,50392,5607.0,CL,Coal,2021,9
+268,50392,32.6,DFO,Distillate Fuel Oil,2021,9
+268,50392,5992.0,CL,Coal,2021,10
+268,50392,32.4,DFO,Distillate Fuel Oil,2021,10
+268,50392,6903.0,CL,Coal,2021,11
+268,50392,25.3,DFO,Distillate Fuel Oil,2021,11
+268,50392,7137.0,CL,Coal,2021,12
+268,50392,28.1,DFO,Distillate Fuel Oil,2021,12
+270,,43.0,DFO,Distillate Fuel Oil,2021,7
+270,,46.5,DFO,Distillate Fuel Oil,2021,8
+270,,69.9,DFO,Distillate Fuel Oil,2021,9
+270,,63.5,DFO,Distillate Fuel Oil,2021,10
+270,,54.7,DFO,Distillate Fuel Oil,2021,11
+270,,67.1,DFO,Distillate Fuel Oil,2021,12
+271,54305,1026.0,DFO,Distillate Fuel Oil,2021,1
+271,54305,1075.0,DFO,Distillate Fuel Oil,2021,2
+271,54305,1156.0,DFO,Distillate Fuel Oil,2021,3
+271,54305,1106.0,DFO,Distillate Fuel Oil,2021,4
+271,54305,890.0,DFO,Distillate Fuel Oil,2021,5
+271,54305,1662.0,DFO,Distillate Fuel Oil,2021,6
+271,54305,2419.0,DFO,Distillate Fuel Oil,2021,7
+271,54305,2596.0,DFO,Distillate Fuel Oil,2021,8
+271,54305,1707.0,DFO,Distillate Fuel Oil,2021,9
+271,54305,955.0,DFO,Distillate Fuel Oil,2021,10
+271,54305,897.0,DFO,Distillate Fuel Oil,2021,11
+271,54305,802.0,DFO,Distillate Fuel Oil,2021,12
+272,,170.9,DFO,Distillate Fuel Oil,2021,1
+272,,88.9,DFO,Distillate Fuel Oil,2021,3
+272,,75.4,DFO,Distillate Fuel Oil,2021,4
+272,,65.1,DFO,Distillate Fuel Oil,2021,5
+272,,60.6,DFO,Distillate Fuel Oil,2021,6
+272,,59.6,DFO,Distillate Fuel Oil,2021,7
+272,,63.3,DFO,Distillate Fuel Oil,2021,8
+272,,65.9,DFO,Distillate Fuel Oil,2021,9
+272,,71.4,DFO,Distillate Fuel Oil,2021,10
+272,,80.2,DFO,Distillate Fuel Oil,2021,11
+272,,90.4,DFO,Distillate Fuel Oil,2021,12
+273,95,39.8,DFO,Distillate Fuel Oil,2021,1
+273,95,44.1,DFO,Distillate Fuel Oil,2021,2
+273,95,47.7,DFO,Distillate Fuel Oil,2021,3
+273,95,45.8,DFO,Distillate Fuel Oil,2021,4
+273,95,23.7,DFO,Distillate Fuel Oil,2021,5
+273,95,31.8,DFO,Distillate Fuel Oil,2021,6
+273,95,31.1,DFO,Distillate Fuel Oil,2021,7
+273,95,44.9,DFO,Distillate Fuel Oil,2021,8
+273,95,58.1,DFO,Distillate Fuel Oil,2021,9
+273,95,57.8,DFO,Distillate Fuel Oil,2021,10
+273,95,45.1,DFO,Distillate Fuel Oil,2021,11
+273,95,50.1,DFO,Distillate Fuel Oil,2021,12
+292,,1017.7,WAT,Water at Hydroelectric Turbine,2021,1
+292,,785.6,DFO,Distillate Fuel Oil,2021,1
+292,,1339.9,DFO,Distillate Fuel Oil,2021,2
+292,,357.3,WAT,Water at Hydroelectric Turbine,2021,2
+292,,1651.8,DFO,Distillate Fuel Oil,2021,3
+292,,163.0,WAT,Water at Hydroelectric Turbine,2021,3
+292,,1245.1,DFO,Distillate Fuel Oil,2021,4
+292,,575.3,WAT,Water at Hydroelectric Turbine,2021,4
+292,,1814.7,WAT,Water at Hydroelectric Turbine,2021,5
+292,,206.0,DFO,Distillate Fuel Oil,2021,5
+292,,2381.3,WAT,Water at Hydroelectric Turbine,2021,6
+292,,34.5,DFO,Distillate Fuel Oil,2021,6
+292,,3731.8,WAT,Water at Hydroelectric Turbine,2021,7
+292,,369.2,DFO,Distillate Fuel Oil,2021,7
+292,,3655.2,WAT,Water at Hydroelectric Turbine,2021,8
+292,,338.9,DFO,Distillate Fuel Oil,2021,8
+292,,2083.4,WAT,Water at Hydroelectric Turbine,2021,9
+292,,28.9,DFO,Distillate Fuel Oil,2021,9
+292,,1944.8,WAT,Water at Hydroelectric Turbine,2021,10
+292,,86.3,DFO,Distillate Fuel Oil,2021,10
+292,,1008.0,WAT,Water at Hydroelectric Turbine,2021,11
+292,,724.9,DFO,Distillate Fuel Oil,2021,11
+292,,1581.1,DFO,Distillate Fuel Oil,2021,12
+292,,345.1,WAT,Water at Hydroelectric Turbine,2021,12
+293,59037,168.7,WAT,Water at Hydroelectric Turbine,2021,1
+293,59037,140.4,WAT,Water at Hydroelectric Turbine,2021,2
+293,59037,134.6,WAT,Water at Hydroelectric Turbine,2021,3
+293,59037,118.7,WAT,Water at Hydroelectric Turbine,2021,4
+293,59037,147.1,WAT,Water at Hydroelectric Turbine,2021,5
+293,59037,158.4,WAT,Water at Hydroelectric Turbine,2021,6
+293,59037,141.0,WAT,Water at Hydroelectric Turbine,2021,7
+293,59037,133.1,WAT,Water at Hydroelectric Turbine,2021,8
+293,59037,109.1,WAT,Water at Hydroelectric Turbine,2021,9
+293,59037,112.0,WAT,Water at Hydroelectric Turbine,2021,10
+293,59037,131.3,WAT,Water at Hydroelectric Turbine,2021,11
+293,59037,168.7,WAT,Water at Hydroelectric Turbine,2021,12
