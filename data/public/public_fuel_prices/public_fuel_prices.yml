@@ -1,0 +1,54 @@
+resource:
+  name: public_fuel_prices # Filename stub
+  title: Community Fuel Prices # Dataset title
+  summary: | # Short version of the description to appear in data explorer list
+    Heat fuel and gasoline prices for Alaskan communities are a composite of three distinct datasets.
+  description: | # Description of what this dataset is and what it is doing here
+    Heat fuel and gasoline prices for Alaskan communities are a composite of three distinct datasets. The best data is for 100 communities that have been directly surveyed by the Alaska Division of Community and Regional Affairs (DCRA) since 2005. To cover communities not surveyed, DCRA computes regional averages over their economic regions, which AEDG associates with every community within that region. DCRA's survey intentionally omits the urban area of Anchorage because that area is separately surveyed by the Consumer Price Index of the U. S. Bureau of Labor Statistics (BLS). These three sources are combined into this summary dataset.
+  path: "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/public/public_fuel_prices.csv" # link to dataset in GitHub
+  keywords:
+    - heating fuel
+    - gasoline
+    - price
+    - community
+    - survey
+  topics:
+    - Energy
+  publisher: acep
+  sources: # list of directory names in https://github.com/acep-aedg/aedg-etl-2024/tree/main/data-sources to get source.yml
+    - dol.places
+    - dcra.communities
+    - dcra.heating_fuel_prices
+    - dcra.regional_gas_prices
+    - bls.anchorage_gas_prices
+    - dcra.economic_regions
+  licenses: # list of keys in the license.yml registry
+    - CC-BY-4.0
+  spatial:
+    name: Alaska
+    boundingBox: [-187.55, 51.21, -130.0, 71.35]
+    crs: OGC:CRS84
+  temporal:
+    referenceDate: "2025-01-01"  # equivalent to as_of_date
+    timeseries:  # is a list of possibly multiple time periods
+      - start: "2005"
+        end: "2025"
+        resolutionValue: "6"
+        resolutionUnit: month
+        alignment: null
+        aggregationType: null
+  primaryKey: # list of the fields that uniquely identifies each row in the table
+    - fips_code
+    - reporting_season
+    - reporting_year
+  contributors: # who helped make the dataset
+    - organization: acep
+      roles:
+        - DataCurator
+      date: now
+      object: data via https://github.com/acep-aedg/aedg-etl-2024
+      comment: |
+        1. Identified 3 data sources that provide prices for different areas of Alaska and integrated it into the data pipeline.
+        2. Compiled community names, locations, and FIPS identifiers for AEDG.
+        3. Integrate data from the 3 sources into a single file.
+        4. Joined fuel price data with AEDG communities to create this dataset.
