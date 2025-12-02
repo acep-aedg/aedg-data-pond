@@ -1,0 +1,35 @@
+name: dol.places
+fetch:
+  source:
+    name: Alaska Dept of Labor and Workforce Development
+    url: https://live.laborstats.alaska.gov/article/maps-gis-data
+  files:
+    dol.places:
+      file_type: zip
+      url: https://live.laborstats.alaska.gov/cen/maps/gis/Places2020.zip
+      sha256: d6700eb6caa01e5f4f6ff881e5a0d83a805dac30ac64bce65606bed42c2ca36f
+      save_as: source/dol.places/data/dol.places.zip
+preprocess:
+  archive: source/dol.places/data/dol.places.zip
+  inputs:
+    dol.places: source/dol.places/data/dol.places/Places2020.shp
+  outputs:
+    dol.places: preprocess/places/data/places.geojson
+  corrections: []
+database:
+  ddl-info:
+    dol.places:
+      location: load/places/ddl.sql
+      table-name: l1_places
+metadata:
+  title: Places (Cities and CDPs) Shapefile
+  authors:
+    - United States Census Bureau
+    - Alaska Department of Labor and Workforce Development (DOLWD)
+  description: |
+    This is an ESRI Shapefile for use in GIS software that contains place data from the 2020 US Census for Alaska. The definition of places includes all incorporated cities as well as Census Designated Places (CDPs). Each geographic unit is identified using Federal Information Processing Standards (FIPS) numbers. Coordinate System: North American Datum 1983 Alaska Albers. Source: 2020 US Census, PL94-171 Redistricting File; 2020 US Census Tiger Shapefiles. Documentation of field names: https://live.laborstats.alaska.gov/cen/maps/gis/Places2020.pdf. The Alaska Department of Labor and Workforce Development has had a cooperative agreement with the U.S. Census Bureau since 1981 to assist with geographic programs and help Alaskans find Census Bureau data.
+    AEDG uses this list to define canonical community locations to use in spatial joins and relations, to associate places with FIPS codes, and to establish total community population.
+  publicationYear: "2020"
+  path: https://live.laborstats.alaska.gov/article/maps-gis-data
+  sourceLicenses: # none found
+    - null

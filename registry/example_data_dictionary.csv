@@ -1,0 +1,12 @@
+name,long_name,description,type,nullable,unit,file
+fips_code,Community FIPS Code,Do not use this one,string,FALSE,null,default
+grid,Grid Name,"The unique grid name, which is based on the primary Alaskan community in the grid",string,FALSE,null,default
+name,Community Name,Name of the community,string,FALSE,null,default
+net_generation_mwh,Net Generation (MWh),Net electrical generation as Megawatt Hour aggregated by grid,number,TRUE,MWh,default
+fuel_type_code,Fuel Type Code,Code indicating generation fuel as defined by the U.S. Energy Information Administration (EIA),string,FALSE,null,default
+fuel_type,Fuel Type,Generation fuel as defined by the U.S. Energy Information Administration (EIA),string,TRUE,null,default
+year,Year,Four digit year as Common Era (CE) not this,integer,FALSE,null,no_default.csv
+month,Month,Month as 1-12 for which generation was reported,integer,FALSE,null,default
+fips_code,FIPS Code,"5-digit Federal Information Processing Series (FIPS) code identifier for places and boroughs (counties), assigned and maintained by the Census Bureau",string,FALSE,null,public_monthly_generation.csv
+fips_code,Community FIPS Code,not this one either,string,FALSE,null,public_another.csv
+year,Year,Four digit year as Common Era (CE),integer,FALSE,null,public_monthly_generation.csv
