@@ -26,8 +26,8 @@ fips_code,name,service_area_capacity_mw,fuel_type,year
 0203440,Angoon,1.5,Distillate Fuel Oil,2021
 0203550,Aniak,2.2,Distillate Fuel Oil,2021
 0203880,Anvik,0.4,Distillate Fuel Oil,2021
-0204210,Atka,0.3,Distillate Fuel Oil,2021
 0204210,Atka,0.3,Water at Hydroelectric Turbine,2021
+0204210,Atka,0.3,Distillate Fuel Oil,2021
 0204430,Atmautluak,1.1,Distillate Fuel Oil,2021
 0204500,Atqasuk,3.2,Distillate Fuel Oil,2021
 0205000,Badger,0.6,Solar,2021
@@ -125,7 +125,8 @@ fips_code,name,service_area_capacity_mw,fuel_type,year
 0217410,Cordova,1.0,Electricity used for Energy Storage,2021
 0217410,Cordova,7.2,Water at Hydroelectric Turbine,2021
 0217410,Cordova,10.7,Distillate Fuel Oil,2021
-0217740,Craig,4.5,Water at Hydroelectric Turbine,2021
+0217670,Covenant Life,0.6,Water at Hydroelectric Turbine,2021
+0217740,Craig,6.5,Water at Hydroelectric Turbine,2021
 0217740,Craig,12.6,Distillate Fuel Oil,2021
 0217850,Crooked Creek,0.3,Distillate Fuel Oil,2021
 0217960,Crown Point,15.6,Distillate Fuel Oil,2021
@@ -160,6 +161,10 @@ fips_code,name,service_area_capacity_mw,fuel_type,year
 0219720,Dot Lake,5.2,Distillate Fuel Oil,2021
 0219750,Dot Lake Village,5.2,Distillate Fuel Oil,2021
 0220020,Dry Creek,5.2,Distillate Fuel Oil,2021
+0220380,Eagle,0.0,Solar,2021
+0220380,Eagle,0.5,Distillate Fuel Oil,2021
+0220600,Eagle Village,0.0,Solar,2021
+0220600,Eagle Village,0.5,Distillate Fuel Oil,2021
 0221040,Eek,1.1,Distillate Fuel Oil,2021
 0221150,Egegik,1.0,Distillate Fuel Oil,2021
 0221370,Eielson AFB,0.6,Solar,2021
@@ -207,12 +212,7 @@ fips_code,name,service_area_capacity_mw,fuel_type,year
 0225550,Fishhook,11.5,Landfill Gas,2021
 0225550,Fishhook,45.6,Water at Hydroelectric Turbine,2021
 0225550,Fishhook,171.0,Natural Gas,2021
-0226100,Fort Greely,0.6,Solar,2021
-0226100,Fort Greely,26.5,Wind,2021
-0226100,Fort Greely,40.0,Electricity used for Energy Storage,2021
-0226100,Fort Greely,60.0,Waste Oil,2021
-0226100,Fort Greely,194.8,Coal,2021
-0226100,Fort Greely,219.5,Distillate Fuel Oil,2021
+0226100,Fort Greely,7.4,Distillate Fuel Oil,2021
 0226760,Fort Yukon,2.8,Distillate Fuel Oil,2021
 0226835,Four Mile Road,0.6,Solar,2021
 0226835,Four Mile Road,26.5,Wind,2021
@@ -269,7 +269,8 @@ fips_code,name,service_area_capacity_mw,fuel_type,year
 0230500,Gulkana,18.5,Water at Hydroelectric Turbine,2021
 0230940,Gustavus,0.8,Water at Hydroelectric Turbine,2021
 0230940,Gustavus,1.4,Distillate Fuel Oil,2021
-0231050,Haines,10.0,Distillate Fuel Oil,2021
+0231050,Haines,0.3,Water at Hydroelectric Turbine,2021
+0231050,Haines,11.5,Distillate Fuel Oil,2021
 0231270,Halibut Cove,2.2,Distillate Fuel Oil,2021
 0231270,Halibut Cove,93.0,Electricity used for Energy Storage,2021
 0231270,Halibut Cove,126.0,Water at Hydroelectric Turbine,2021
@@ -278,13 +279,20 @@ fips_code,name,service_area_capacity_mw,fuel_type,year
 0231710,Happy Valley,93.0,Electricity used for Energy Storage,2021
 0231710,Happy Valley,126.0,Water at Hydroelectric Turbine,2021
 0231710,Happy Valley,378.6,Natural Gas,2021
+0231765,Harding-Birch Lakes,0.6,Solar,2021
+0231765,Harding-Birch Lakes,26.5,Wind,2021
+0231765,Harding-Birch Lakes,40.0,Electricity used for Energy Storage,2021
+0231765,Harding-Birch Lakes,60.0,Waste Oil,2021
+0231765,Harding-Birch Lakes,194.8,Coal,2021
+0231765,Harding-Birch Lakes,212.1,Distillate Fuel Oil,2021
 0232150,Healy,0.6,Solar,2021
 0232150,Healy,26.5,Wind,2021
 0232150,Healy,40.0,Electricity used for Energy Storage,2021
 0232150,Healy,60.0,Waste Oil,2021
 0232150,Healy,194.8,Coal,2021
 0232150,Healy,212.1,Distillate Fuel Oil,2021
-0232810,Hollis,4.5,Water at Hydroelectric Turbine,2021
+0232310,Healy Lake,0.1,Distillate Fuel Oil,2021
+0232810,Hollis,6.5,Water at Hydroelectric Turbine,2021
 0232810,Hollis,12.6,Distillate Fuel Oil,2021
 0233030,Holy Cross,0.6,Distillate Fuel Oil,2021
 0233140,Homer,2.2,Distillate Fuel Oil,2021
@@ -308,10 +316,13 @@ fips_code,name,service_area_capacity_mw,fuel_type,year
 0233910,Hughes,0.4,Distillate Fuel Oil,2021
 0234350,Huslia,0.8,Distillate Fuel Oil,2021
 0234460,Hydaburg,1.4,Distillate Fuel Oil,2021
+0234460,Hydaburg,5.0,Water at Hydroelectric Turbine,2021
 0234790,Igiugig,0.0,Water at Hydroelectric Turbine,2021
 0234790,Igiugig,0.1,Electricity used for Energy Storage,2021
 0234790,Igiugig,0.2,Distillate Fuel Oil,2021
-0236400,Juneau,14.1,Water at Hydroelectric Turbine,2021
+0235120,Iliamna,0.8,Water at Hydroelectric Turbine,2021
+0235120,Iliamna,0.9,Distillate Fuel Oil,2021
+0236400,Juneau,28.4,Water at Hydroelectric Turbine,2021
 0236400,Juneau,147.7,Distillate Fuel Oil,2021
 0236540,Kachemak,2.2,Distillate Fuel Oil,2021
 0236540,Kachemak,93.0,Electricity used for Energy Storage,2021
@@ -319,6 +330,7 @@ fips_code,name,service_area_capacity_mw,fuel_type,year
 0236540,Kachemak,378.6,Natural Gas,2021
 0236770,Kake,0.5,Water at Hydroelectric Turbine,2021
 0236770,Kake,3.1,Distillate Fuel Oil,2021
+0236990,Kaktovik,2.6,Distillate Fuel Oil,2021
 0237250,Kalifornsky,2.2,Distillate Fuel Oil,2021
 0237250,Kalifornsky,93.0,Electricity used for Energy Storage,2021
 0237250,Kalifornsky,126.0,Water at Hydroelectric Turbine,2021
@@ -326,7 +338,7 @@ fips_code,name,service_area_capacity_mw,fuel_type,year
 0237430,Kaltag,0.0,Solar,2021
 0237430,Kaltag,0.8,Distillate Fuel Oil,2021
 0237540,Karluk,0.2,Distillate Fuel Oil,2021
-0237650,Kasaan,4.5,Water at Hydroelectric Turbine,2021
+0237650,Kasaan,6.5,Water at Hydroelectric Turbine,2021
 0237650,Kasaan,12.6,Distillate Fuel Oil,2021
 0237975,Kasigluk,0.3,Wind,2021
 0237975,Kasigluk,3.5,Distillate Fuel Oil,2021
@@ -341,15 +353,18 @@ fips_code,name,service_area_capacity_mw,fuel_type,year
 0238910,Kenny Lake,5.3,Waste Oil,2021
 0238910,Kenny Lake,17.8,Distillate Fuel Oil,2021
 0238910,Kenny Lake,18.5,Water at Hydroelectric Turbine,2021
-0238970,Ketchikan,16.5,Water at Hydroelectric Turbine,2021
 0238970,Ketchikan,25.9,Distillate Fuel Oil,2021
+0238970,Ketchikan,61.7,Water at Hydroelectric Turbine,2021
 0239300,Kiana,1.2,Distillate Fuel Oil,2021
+0239410,King Cove,1.2,Water at Hydroelectric Turbine,2021
+0239410,King Cove,1.8,Distillate Fuel Oil,2021
 0239630,King Salmon,16.5,Distillate Fuel Oil,2021
 0239740,Kipnuk,0.6,Wind,2021
 0239740,Kipnuk,1.4,Distillate Fuel Oil,2021
 0239960,Kivalina,2.2,Distillate Fuel Oil,2021
-0240400,Klawock,4.5,Water at Hydroelectric Turbine,2021
+0240400,Klawock,6.5,Water at Hydroelectric Turbine,2021
 0240400,Klawock,12.6,Distillate Fuel Oil,2021
+0240510,Klukwan,0.6,Water at Hydroelectric Turbine,2021
 0240670,Knik River,1.3,Solar,2021
 0240670,Knik River,11.5,Landfill Gas,2021
 0240670,Knik River,45.6,Water at Hydroelectric Turbine,2021
@@ -367,7 +382,14 @@ fips_code,name,service_area_capacity_mw,fuel_type,year
 0241280,Kokhanok,0.2,Wind,2021
 0241280,Kokhanok,0.6,Distillate Fuel Oil,2021
 0241500,Koliganek,0.7,Distillate Fuel Oil,2021
+0241610,Kongiganak,0.3,Electricity used for Energy Storage,2021
+0241610,Kongiganak,0.5,Wind,2021
+0241610,Kongiganak,1.9,Distillate Fuel Oil,2021
 0241720,Kotlik,1.4,Distillate Fuel Oil,2021
+0241830,Kotzebue,0.8,Solar,2021
+0241830,Kotzebue,1.2,Electricity used for Energy Storage,2021
+0241830,Kotzebue,3.3,Wind,2021
+0241830,Kotzebue,11.8,Distillate Fuel Oil,2021
 0241940,Koyuk,2.0,Distillate Fuel Oil,2021
 0242050,Koyukuk,0.1,Distillate Fuel Oil,2021
 0242380,Kwethluk,1.1,Distillate Fuel Oil,2021
@@ -389,7 +411,8 @@ fips_code,name,service_area_capacity_mw,fuel_type,year
 0244580,Livengood,212.1,Distillate Fuel Oil,2021
 0245295,Lowell Point,15.6,Distillate Fuel Oil,2021
 0245460,Lower Kalskag,1.1,Distillate Fuel Oil,2021
-0245700,Lutak,10.0,Distillate Fuel Oil,2021
+0245700,Lutak,0.3,Water at Hydroelectric Turbine,2021
+0245700,Lutak,11.5,Distillate Fuel Oil,2021
 0246780,Manley Hot Springs,0.4,Distillate Fuel Oil,2021
 0246890,Manokotak,0.6,Distillate Fuel Oil,2021
 0247000,Marshall,2.4,Distillate Fuel Oil,2021
@@ -417,9 +440,11 @@ fips_code,name,service_area_capacity_mw,fuel_type,year
 0250190,Moose Pass,3.0,Electricity used for Energy Storage,2021
 0250190,Moose Pass,19.4,Water at Hydroelectric Turbine,2021
 0250190,Moose Pass,641.7,Natural Gas,2021
+0250800,Mosquito Lake,0.6,Water at Hydroelectric Turbine,2021
 0251180,Mountain Village,0.9,Wind,2021
 0251180,Mountain Village,4.6,Distillate Fuel Oil,2021
-0251455,Mud Bay,10.0,Distillate Fuel Oil,2021
+0251455,Mud Bay,0.3,Water at Hydroelectric Turbine,2021
+0251455,Mud Bay,11.5,Distillate Fuel Oil,2021
 0252060,Naknek,16.5,Distillate Fuel Oil,2021
 0252210,Nanwalek,2.2,Distillate Fuel Oil,2021
 0252210,Nanwalek,93.0,Electricity used for Energy Storage,2021
@@ -438,6 +463,8 @@ fips_code,name,service_area_capacity_mw,fuel_type,year
 0253050,Nenana,194.8,Coal,2021
 0253050,Nenana,212.1,Distillate Fuel Oil,2021
 0253710,New Stuyahok,2.4,Distillate Fuel Oil,2021
+0253270,Newhalen,0.8,Water at Hydroelectric Turbine,2021
+0253270,Newhalen,0.9,Distillate Fuel Oil,2021
 0253820,Newtok,0.4,Distillate Fuel Oil,2021
 0253930,Nightmute,0.3,Distillate Fuel Oil,2021
 0254050,Nikiski,2.2,Distillate Fuel Oil,2021
@@ -455,6 +482,8 @@ fips_code,name,service_area_capacity_mw,fuel_type,year
 0254700,Noatak,2.6,Distillate Fuel Oil,2021
 0254920,Nome,1.8,Wind,2021
 0254920,Nome,16.6,Distillate Fuel Oil,2021
+0255030,Nondalton,0.8,Water at Hydroelectric Turbine,2021
+0255030,Nondalton,0.9,Distillate Fuel Oil,2021
 0255140,Noorvik,0.0,Solar,2021
 0255140,Noorvik,1.6,Distillate Fuel Oil,2021
 0255745,North Lakes,1.3,Solar,2021
@@ -468,13 +497,15 @@ fips_code,name,service_area_capacity_mw,fuel_type,year
 0255910,North Pole,194.8,Coal,2021
 0255910,North Pole,212.1,Distillate Fuel Oil,2021
 0256220,Northway,1.1,Distillate Fuel Oil,2021
-0256320,Nuiqsut,2.2,Natural Gas,2021
 0256320,Nuiqsut,2.2,Distillate Fuel Oil,2021
+0256320,Nuiqsut,2.2,Natural Gas,2021
 0256350,Nulato,1.0,Distillate Fuel Oil,2021
 0256600,Nunam Iqua,1.7,Distillate Fuel Oil,2021
 0256680,Nunapitchuk,0.3,Wind,2021
 0256680,Nunapitchuk,3.5,Distillate Fuel Oil,2021
 0257340,Old Harbor,1.0,Distillate Fuel Oil,2021
+0258330,Oscarville,0.9,Wind,2021
+0258330,Oscarville,12.6,Distillate Fuel Oil,2021
 0258550,Ouzinkie,0.1,Water at Hydroelectric Turbine,2021
 0258550,Ouzinkie,0.3,Distillate Fuel Oil,2021
 0258660,Palmer,1.3,Solar,2021
@@ -503,6 +534,7 @@ fips_code,name,service_area_capacity_mw,fuel_type,year
 0261120,Pleasant Valley,60.0,Waste Oil,2021
 0261120,Pleasant Valley,194.8,Coal,2021
 0261120,Pleasant Valley,212.1,Distillate Fuel Oil,2021
+0261630,Point Hope,3.1,Distillate Fuel Oil,2021
 0261700,Point Lay,2.4,Distillate Fuel Oil,2021
 0261788,Point MacKenzie,1.3,Solar,2021
 0261788,Point MacKenzie,11.5,Landfill Gas,2021
@@ -517,6 +549,8 @@ fips_code,name,service_area_capacity_mw,fuel_type,year
 0263610,Port Lions,0.5,Distillate Fuel Oil,2021
 0263610,Port Lions,33.6,Water at Hydroelectric Turbine,2021
 0264240,Primrose,15.6,Distillate Fuel Oil,2021
+0264380,Prudhoe Bay,0.3,Distillate Fuel Oil,2021
+0264380,Prudhoe Bay,33.2,Natural Gas,2021
 0264600,Quinhagak,0.6,Wind,2021
 0264600,Quinhagak,2.6,Distillate Fuel Oil,2021
 0264820,Rampart,0.3,Distillate Fuel Oil,2021
@@ -547,8 +581,8 @@ fips_code,name,service_area_capacity_mw,fuel_type,year
 0267020,Sand Point,2.9,Distillate Fuel Oil,2021
 0267460,Savoonga,0.4,Wind,2021
 0267460,Savoonga,3.0,Distillate Fuel Oil,2021
-0267570,Saxman,16.5,Water at Hydroelectric Turbine,2021
 0267570,Saxman,25.9,Distillate Fuel Oil,2021
+0267570,Saxman,61.7,Water at Hydroelectric Turbine,2021
 0267680,Scammon Bay,2.2,Distillate Fuel Oil,2021
 0268230,Selawik,0.3,Wind,2021
 0268230,Selawik,2.3,Distillate Fuel Oil,2021
@@ -565,8 +599,8 @@ fips_code,name,service_area_capacity_mw,fuel_type,year
 0268890,Shaktoolik,0.2,Wind,2021
 0268890,Shaktoolik,0.8,Distillate Fuel Oil,2021
 0269770,Shishmaref,1.4,Distillate Fuel Oil,2021
-0270100,Shungnak,0.4,Solar,2021
 0270100,Shungnak,0.4,Electricity used for Energy Storage,2021
+0270100,Shungnak,0.4,Solar,2021
 0270100,Shungnak,3.0,Distillate Fuel Oil,2021
 0270320,Silver Springs,5.3,Waste Oil,2021
 0270320,Silver Springs,17.8,Distillate Fuel Oil,2021
@@ -574,7 +608,8 @@ fips_code,name,service_area_capacity_mw,fuel_type,year
 0270540,Sitka,25.6,Distillate Fuel Oil,2021
 0270540,Sitka,34.5,Water at Hydroelectric Turbine,2021
 0270760,Skagway,3.4,Distillate Fuel Oil,2021
-0270760,Skagway,5.9,Water at Hydroelectric Turbine,2021
+0270760,Skagway,8.9,Water at Hydroelectric Turbine,2021
+0270930,Slana,1.1,Distillate Fuel Oil,2021
 0271090,Sleetmute,0.3,Distillate Fuel Oil,2021
 0271640,Soldotna,2.2,Distillate Fuel Oil,2021
 0271640,Soldotna,93.0,Electricity used for Energy Storage,2021
@@ -602,6 +637,8 @@ fips_code,name,service_area_capacity_mw,fuel_type,year
 0273070,Sterling,93.0,Electricity used for Energy Storage,2021
 0273070,Sterling,126.0,Water at Hydroelectric Turbine,2021
 0273070,Sterling,378.6,Natural Gas,2021
+0273290,Stevens Village,0.3,Distillate Fuel Oil,2021
+0273400,Stony River,0.1,Distillate Fuel Oil,2021
 0273950,Sunrise,2.0,Distillate Fuel Oil,2021
 0273950,Sunrise,3.0,Electricity used for Energy Storage,2021
 0273950,Sunrise,19.4,Water at Hydroelectric Turbine,2021
@@ -629,10 +666,10 @@ fips_code,name,service_area_capacity_mw,fuel_type,year
 0275480,Tazlina,17.8,Distillate Fuel Oil,2021
 0275480,Tazlina,18.5,Water at Hydroelectric Turbine,2021
 0275930,Teller,2.2,Distillate Fuel Oil,2021
-0276260,Tenakee Springs,0.2,Water at Hydroelectric Turbine,2021
 0276260,Tenakee Springs,0.2,Distillate Fuel Oil,2021
+0276260,Tenakee Springs,0.2,Water at Hydroelectric Turbine,2021
 0276590,Tetlin,5.2,Distillate Fuel Oil,2021
-0277140,Thorne Bay,4.5,Water at Hydroelectric Turbine,2021
+0277140,Thorne Bay,6.5,Water at Hydroelectric Turbine,2021
 0277140,Thorne Bay,12.6,Distillate Fuel Oil,2021
 0277690,Togiak,2.6,Distillate Fuel Oil,2021
 0277800,Tok,5.2,Distillate Fuel Oil,2021
@@ -654,6 +691,7 @@ fips_code,name,service_area_capacity_mw,fuel_type,year
 0279120,Tuntutuliak,1.7,Distillate Fuel Oil,2021
 0279230,Tununak,0.2,Wind,2021
 0279230,Tununak,4.3,Distillate Fuel Oil,2021
+0279780,Twin Hills,0.3,Distillate Fuel Oil,2021
 0279830,Two Rivers,0.6,Solar,2021
 0279830,Two Rivers,26.5,Wind,2021
 0279830,Two Rivers,40.0,Electricity used for Energy Storage,2021
@@ -663,6 +701,8 @@ fips_code,name,service_area_capacity_mw,fuel_type,year
 0279890,Tyonek,312.4,Natural Gas,2021
 0280660,Unalakleet,0.6,Wind,2021
 0280660,Unalakleet,1.9,Distillate Fuel Oil,2021
+0280770,Unalaska,0.2,Waste Heat,2021
+0280770,Unalaska,47.1,Distillate Fuel Oil,2021
 0281320,Upper Kalskag,1.1,Distillate Fuel Oil,2021
 0281920,Utqiagvik,20.3,Natural Gas,2021
 0282200,Valdez,5.3,Waste Oil,2021
@@ -700,3 +740,4 @@ fips_code,name,service_area_capacity_mw,fuel_type,year
 0285680,Womens Bay,9.0,Wind,2021
 0285680,Womens Bay,36.7,Distillate Fuel Oil,2021
 0286380,Wrangell,8.5,Distillate Fuel Oil,2021
+0286490,Yakutat,4.2,Distillate Fuel Oil,2021
