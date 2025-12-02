@@ -6,7 +6,11 @@ export_to_geojson() {
   local output_dir=$1
   local filename=$2
   local table_name=$3
-  ogr2ogr -f "GeoJSON" ./data/$output_dir/$filename/$filename.geojson PG:"host=$PG_HOST user=$PG_USER dbname=$PG_DB" -sql "SELECT * FROM $table_name"
+  local full_output_dir="./data/$output_dir/$filename"
+
+  mkdir -p "$full_output_dir"
+
+  ogr2ogr -f "GeoJSON" $full_output_dir/$filename.geojson PG:"host=$PG_HOST user=$PG_USER dbname=$PG_DB" -sql "SELECT * FROM $table_name"
 }
 
 # Convert tables to GeoJSON
@@ -27,7 +31,11 @@ export_to_csv() {
   local output_dir=$1
   local filename=$2
   local table_name=$3
-  psql -h "$PG_HOST" -p "$PG_PORT" -U "$PG_USER" -d "$PG_DB" -c "\COPY $table_name TO ./data/$output_dir/$filename/$filename.csv DELIMITER ',' CSV HEADER;"
+  local full_output_dir="./data/$output_dir/$filename"
+
+  mkdir -p "$full_output_dir"
+
+  psql -h "$PG_HOST" -p "$PG_PORT" -U "$PG_USER" -d "$PG_DB" -c "\COPY $table_name TO $full_output_dir/$filename.csv DELIMITER ',' CSV HEADER;"
 }
 
 # Export tables to CSV
