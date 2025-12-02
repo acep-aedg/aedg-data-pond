@@ -26,8 +26,8 @@ fips_code,name,service_area_capacity_mw,fuel_type,year
 0203440,Angoon,1.5,Distillate Fuel Oil,2021
 0203550,Aniak,2.2,Distillate Fuel Oil,2021
 0203880,Anvik,0.4,Distillate Fuel Oil,2021
-0204210,Atka,0.3,Water at Hydroelectric Turbine,2021
 0204210,Atka,0.3,Distillate Fuel Oil,2021
+0204210,Atka,0.3,Water at Hydroelectric Turbine,2021
 0204430,Atmautluak,1.1,Distillate Fuel Oil,2021
 0204500,Atqasuk,3.2,Distillate Fuel Oil,2021
 0205000,Badger,0.6,Solar,2021
@@ -497,8 +497,8 @@ fips_code,name,service_area_capacity_mw,fuel_type,year
 0255910,North Pole,194.8,Coal,2021
 0255910,North Pole,212.1,Distillate Fuel Oil,2021
 0256220,Northway,1.1,Distillate Fuel Oil,2021
-0256320,Nuiqsut,2.2,Distillate Fuel Oil,2021
 0256320,Nuiqsut,2.2,Natural Gas,2021
+0256320,Nuiqsut,2.2,Distillate Fuel Oil,2021
 0256350,Nulato,1.0,Distillate Fuel Oil,2021
 0256600,Nunam Iqua,1.7,Distillate Fuel Oil,2021
 0256680,Nunapitchuk,0.3,Wind,2021
@@ -599,8 +599,8 @@ fips_code,name,service_area_capacity_mw,fuel_type,year
 0268890,Shaktoolik,0.2,Wind,2021
 0268890,Shaktoolik,0.8,Distillate Fuel Oil,2021
 0269770,Shishmaref,1.4,Distillate Fuel Oil,2021
-0270100,Shungnak,0.4,Electricity used for Energy Storage,2021
 0270100,Shungnak,0.4,Solar,2021
+0270100,Shungnak,0.4,Electricity used for Energy Storage,2021
 0270100,Shungnak,3.0,Distillate Fuel Oil,2021
 0270320,Silver Springs,5.3,Waste Oil,2021
 0270320,Silver Springs,17.8,Distillate Fuel Oil,2021
