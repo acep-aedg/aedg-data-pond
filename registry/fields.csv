@@ -69,6 +69,7 @@ residential_rate,Residential Rate,Price of electricity as US dollars per killowa
 residents_employed,Residents Employed,Number of residents ,integer,TRUE,null,default
 road_connection,Road Connection,"Answers the question: Is the Community connected to a road system to other communities? (""t"" for yes, and ""f"" for no)",boolean,TRUE,null,default
 road_or_ferry,Road or Ferry,"Answers the question: Is the Community served by a state ferry or a road? (""t"" for yes, and ""f"" for no)",boolean,TRUE,null,default
+service_area_capacity_mw,Service Area Capacity (MW),Sum of nameplace capacities of all generation plants within the service area,number,TRUE,MW,default
 source,Source of Fuel Price Data,"Name of reporting entity if surveyed, or DCRA if regionally averaged",string,TRUE,null,public_fuel_prices.csv
 start_year,Start Year,Beginning of the data collection period,integer,FALSE,null,default
 state_ferry,State Ferry,"Answers the question: Is the Community served by a state ferry? (""t"" for yes, and ""f"" for no)",boolean,TRUE,null,default

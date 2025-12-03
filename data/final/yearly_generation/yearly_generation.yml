@@ -37,19 +37,13 @@ resource:
         resolutionUnit: year
         alignment: null
         aggregationType: sum
-  fields: # column names
-    - grid_id
-    - net_generation_mwh
-    - fuel_type_code
-    - fuel_type_name
-    - year
   primaryKey: # An array of fields that uniquely identifies each row in the table
-    - grid_id
+    - aea_plant_id
     - fuel_type_code
     - year
   contributors: # roles from https://datacite-metadata-schema.readthedocs.io/en/4.5/properties/contributor/#a-contributortype
     - title: Neil McMahon
-      organization: dowl
+      organization: acep
       roles:
         - DataCollector
       date: 2024

@@ -3,7 +3,7 @@
 
 datasets:
 
-# Final datasets should be located below
+# /final datasets should be located below
 
   # boroughs:
   bulk_fuel:
@@ -15,11 +15,49 @@ datasets:
     data_path: data/final/capacity/capacity.csv
     bbox: infer
     time: specify
+  # communities:
+  # communities_grids:
+  # communities_service_area_geoms:
+  # electric_rates:
+  # employment:
+  # fuel_prices:
+  # grids:
+  # heating_degree_days:
+  # house_districts:
+  # household_income:
+  # income_poverty:
+  monthly_generation:
+    data_path: data/final/monthly_generation/monthly_generation.csv
+    bbox: infer
+    time: specify
+  # plants:
+  # populations:
+  # populations_ages_sexes:
+  # regional_corporations:
+  # reporting_entities:
+  # sales:
+  # school_districts:
+  # senate_districts:
+  # service_area_geoms:
+  # service_areas:
+  # taxes:
+  transportation:
+    data_path: data/final/transportation/transportation.csv
+    bbox: infer
+    time: specify
+  yearly_generation:
+    data_path: data/final/yearly_generation/yearly_generation.csv
+    bbox: infer
+    time: specify
+
   
 
 
-
-# Public datasets should be located below
+# /public datasets should be located below
+  public_capacity:
+    data_path: data/public/public_capacity/public_capacity.csv
+    bbox: infer
+    time: specify
   public_transportation:
     data_path: data/public/public_transportation/public_transportation.csv
     bbox: infer

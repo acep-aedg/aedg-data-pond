@@ -31,17 +31,6 @@ resource:
   temporal:
     referenceDate: "2024-05-15"  # equivalent to as_of_date
     timeseries: null # is a list of possibly multiple time periods
-  fields: # list of column names in the dataset linking to fields.csv registry
-    - community_fips_code
-    - airport
-    - harbor_dock
-    - state_ferry
-    - cargo_barge
-    - road_connection
-    - coastal
-    - road_or_ferry
-    - description
-    - as_of_date
   primaryKey: # list of the fields that uniquely identifies each row in the table
     - community_fips_code
   contributors: # who helped make the dataset
