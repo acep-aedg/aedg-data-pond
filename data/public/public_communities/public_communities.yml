@@ -1,0 +1,52 @@
+resource:
+  name: public_communities # Filename stub
+  title: Alaska Energy Data Gateway Communities # Dataset title
+  summary: | # Short version of the description to appear in data explorer list
+    List of the communities displayed in the Alaska Energy Data Gateway (AEDG), cross-walked to other regional energy, governmental, and Indigenous organizations.
+  description: | # Description of what this dataset is and what it is doing here
+    List of the communities displayed in the Alaska Energy Data Gateway (AEDG), cross-walked to other regional energy, governmental, governmental and Indigenous organizations.
+  path: "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/public/public_communities.csv" # link to dataset in GitHub
+  keywords:
+    - community
+    - Alaska Native corporation
+    - borough
+    - census area
+    - grid
+    - Public Use Microdata Areas (PUMAs)
+  topics:
+    - Social
+    - Electricity
+  publisher: acep
+  sources: # list of directory names in https://github.com/acep-aedg/aedg-etl-2024/tree/main/data-sources to get source.yml
+    - dol.places
+    - dcra.communities
+    - usgs.federal_codes
+    - census.regional_corporations
+    - dcra.boroughs
+    - acep.es_infrastructure
+    - acep.es_annual_sales
+    - census.pumas
+    - dcra.economic_regions
+    - dcra.pce_eligibility
+    - snap.heating_degree_days
+  licenses: # list of keys in the license.yml registry
+    - CC-BY-4.0
+  spatial:
+    name: Alaska
+    boundingBox: [-187.55, 51.21, -130.0, 71.35]
+    crs: OGC:CRS84
+  temporal: # too many sources to nail this down. Pop off temporal with argument to gen_meta
+    referenceDate: null
+    timeseries: null
+  primaryKey: # list of the fields that uniquely identifies each row in the table
+    - fips_code
+  contributors: # who helped make the dataset
+    - organization: acep
+      roles:
+        - DataCurator
+      date: now
+      object: data via https://github.com/acep-aedg/aedg-etl-2024
+      comment: |
+        1. Identified data sources and integrated them into the data pipeline.
+        2. Complied community names, locations, and FIPS identifiers for AEDG
+        3. Used spatial joins to crosswalk AEDG communities with other organizations to create this dataset

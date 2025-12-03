@@ -1,0 +1,40 @@
+attribute,word_or_phrase
+keyword,EIA Form 923
+keyword,Power Cost Equalization (PCE)
+keyword,age
+keyword,airport
+keyword,barge
+keyword,borough
+keyword,census
+keyword,census area
+keyword,coastal
+keyword,community
+keyword,dock
+keyword,economy
+keyword,electricity
+keyword,employment
+keyword,ferry
+keyword,fuel type
+keyword,gasoline
+keyword,generation
+keyword,grid
+keyword,harbor
+keyword,heating fuel
+keyword,native corporation
+keyword,population conditions
+keyword,power plant
+keyword,property
+keyword,puma
+keyword,report
+keyword,revenue
+keyword,road
+keyword,sales
+keyword,sex
+keyword,ship
+keyword,survey
+keyword,taxes
+keyword,total population
+topic,Electricity
+topic,Energy
+topic,Infrastructure
+topic,Social

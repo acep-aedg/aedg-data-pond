@@ -6,7 +6,11 @@ export_to_geojson() {
   local output_dir=$1
   local filename=$2
   local table_name=$3
-  ogr2ogr -f "GeoJSON" ./data/$output_dir/$filename.geojson PG:"host=$PG_HOST user=$PG_USER dbname=$PG_DB" -sql "SELECT * FROM $table_name"
+  local full_output_dir="./data/$output_dir/$filename"
+
+  mkdir -p "$full_output_dir"
+
+  ogr2ogr -f "GeoJSON" $full_output_dir/$filename.geojson PG:"host=$PG_HOST user=$PG_USER dbname=$PG_DB" -sql "SELECT * FROM $table_name"
 }
 
 # Convert tables to GeoJSON
@@ -27,7 +31,11 @@ export_to_csv() {
   local output_dir=$1
   local filename=$2
   local table_name=$3
-  psql -h "$PG_HOST" -p "$PG_PORT" -U "$PG_USER" -d "$PG_DB" -c "\COPY $table_name TO ./data/$output_dir/$filename.csv DELIMITER ',' CSV HEADER;"
+  local full_output_dir="./data/$output_dir/$filename"
+
+  mkdir -p "$full_output_dir"
+
+  psql -h "$PG_HOST" -p "$PG_PORT" -U "$PG_USER" -d "$PG_DB" -c "\COPY $table_name TO $full_output_dir/$filename.csv DELIMITER ',' CSV HEADER;"
 }
 
 # Export tables to CSV
@@ -59,7 +67,7 @@ export_to_csv "public" "public_employment" "(SELECT * FROM public_employment)"
 export_to_csv "public" "public_fuel_prices" "(SELECT * FROM public_fuel_prices)"
 export_to_csv "public" "public_monthly_generation" "(SELECT * FROM public_monthly_generation)"
 export_to_csv "public" "public_populations_ages_sexes" "(SELECT * FROM public_populations_ages_sexes)"
-export_to_csv "public" "public_rates" "(SELECT * FROM public_rates)"
+export_to_csv "public" "public_rates" "(SELECT * FROM public_electric_rates)"
 export_to_csv "public" "public_service_areas" "(SELECT * FROM public_service_areas)"
 export_to_csv "public" "public_taxes" "(SELECT * FROM public_taxes)"
 export_to_csv "public" "public_transportation" "(SELECT * FROM public_transportation)"

@@ -1,0 +1,24 @@
+name,long_name,description,type,nullable,unit,file
+aea_id,Alaska Energy Authority ID,Identification number given by Alaska Energy Authority,string,TRUE,NULL,bulk_fuel.geojson
+av_gas_capacity,Aviation Gas Capacity,Capacity of aviation gas (avgas) in gallons,number,TRUE,gallons,bulk_fuel.geojson
+barge_delivery,Barge Delivery,Does this community receive fuel via barge?,boolean,TRUE,NULL,bulk_fuel.geojson
+community_fips_code,Community FIPS Code,,string,FALSE,NULL,bulk_fuel.geojson
+data_source,Data Source,,string,TRUE,NULL,bulk_fuel.geojson
+dcra_code,DCRA Code,Identification number given to this record by AK DCRA,string,FALSE,NULL,bulk_fuel.geojson
+diesel_capacity,Diesel Capacity,Capacity of diesel in gallons,number,TRUE,gallons,bulk_fuel.geojson
+distance_to_barge_mooring,Distance to Barge Mooring,,number,TRUE,NULL,bulk_fuel.geojson
+entity_name,Entity Name,,string,TRUE,NULL,bulk_fuel.geojson
+fuel_supplier,Fuel Supplier,,string,TRUE,NULL,bulk_fuel.geojson
+gasoline_capacity,Gasoline Capacity,Capacity of gasoline in gallons,number,TRUE,gallons,bulk_fuel.geojson
+inspected_by_uscg,Inspected by USCG,Is this facility inspected by United States Coast Guard?,boolean,TRUE,NULL,bulk_fuel.geojson
+jet_fuel_capacity,Jet Fuel Capacity,Capacity of jet fuel in gallons,number,TRUE,gallons,bulk_fuel.geojson
+number_of_tanks,Number of Tanks,Number of tanks in the facility,number,TRUE,NULL,bulk_fuel.geojson
+other_fuel_capacity,Other Fuel Capacity,Capacity of other fuel (non diesel; jet fuel; gasoline; or avgas) in gallons,number,TRUE,gallons,bulk_fuel.geojson
+plane_delivery,Plane Delivery,Does this community receive fuel via airplane?,boolean,TRUE,NULL,bulk_fuel.geojson
+recommendations_by_aea,Recommendations by AEA,,string,TRUE,NULL,bulk_fuel.geojson
+report,Report,,string,TRUE,NULL,bulk_fuel.geojson
+road_delivery,Road Delivery,Does this community recieve fuel via road?,boolean,TRUE,NULL,bulk_fuel.geojson
+tank_farm_evaluation_id,Tank Farm Evaluation ID,,string,TRUE,NULL,bulk_fuel.geojson
+tank_farm_id,Tank Farm ID,,string,TRUE,NULL,bulk_fuel.geojson
+total_capacity,Total Capacity,Total capacity of tank farm,number,TRUE,gallons,bulk_fuel.geojson
+uscg_id,USCG ID,Identification number given by United States Coast Guard,string,TRUE,NULL,bulk_fuel.geojson

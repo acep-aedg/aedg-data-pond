@@ -1,0 +1,48 @@
+resource:
+  name: bulk_fuel # Filename stub
+  title: Bulk Fuel Facilities # Dataset title
+  summary: | # Short version of the description to appear in data explorer list
+    Inventory of bulk fuel facilities in Alaska.
+  description: | # Description of what this dataset is and what it is doing here
+    This dataset derived from the Bulk Fuel Inventory, a list of bulk fuel facilities in Alaska including photos, assessments, and tank details provided by the Alaska Energy Authority, the U.S. Coast Guard, and Division of Community and Regional Affairs.
+  path: "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/final/bulk_fuel.geojson" # link to dataset in GitHub
+  keywords: # list of keywords and short phrases
+    - barge
+    - airport
+    - road
+    - community
+  topics: # 1-2 broad topics for display in AEDG (which not all datasets need?)
+    - Electricity
+    - Infrastructure
+  publisher: acep
+  sources:  # optional if this is original data and there are no other sources. Otherwise choose one:
+    # list of directory names in https://github.com/acep-aedg/aedg-etl-2024/tree/main/data-sources to get source.yml.
+    - dcra.bulk_fuel
+    - dol.places
+    - dcra.communities
+  licenses: # list of keys in the license.yml registry
+    - CC-BY-4.0
+  spatial:  # optional if `-bbox none`
+    name: Alaska
+    boundingBox: [-187.55, 51.21, -130.0, 71.35]
+    crs: OGC:CRS84
+  temporal:  # optional if `-time none`
+    referenceDate: "2023-04-12"  # equivalent to as_of_date
+    timeseries:  # is a list of possibly multiple time periods
+      - start: "1980-01"
+        end: "2015-06"
+        resolutionValue: "1"
+        resolutionUnit: month
+        alignment: null
+        aggregationType: sum
+  primaryKey: # list of the fields that uniquely identifies each row in the table. Fields harvested from posted file.
+    - dcra_code
+  contributors: # who helped make the dataset
+    - organization: acep
+      roles:
+        - DataCurator
+      date: now
+      object: data via https://github.com/acep-aedg/aedg-etl-2024
+      comment: |
+        1. Identified data source and integrated it into the data pipeline.
+        2. Complied community names, locations, and FIPS identifiers for AEDG

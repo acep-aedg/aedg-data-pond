@@ -1,0 +1,82 @@
+# Schema Descriptions for agents (organizations) in the context of AEDG
+#
+#  code (string): code used in configurations
+#  name (string): the title of the organization
+#  home_page (string): URL where can find more information on the organization
+#  description (string): a mission statement or description of the organization to give context
+#  These fields will be used in various OEMetadata contexts
+#
+  acep:
+    name: Alaska Center for Energy and Power (ACEP) at the University of Alaska Fairbanks
+      (UAF)
+    homepage: https://www.uaf.edu/acep/
+    description: |
+      The Alaska Center for Energy and Power (ACEP) is a research entity of the University of Alaska Fairbanks that focuses on community and industry-scale power generation, transmission, heating, and transportation fuels. ACEP received the charge from the Alaska Legislature to reinvigorate the Alaska Energy Data Gateway and led the data management and frontend development portions of the project.
+  acs:
+    name: American Community Survey (ACS)
+    homepage: https://www.census.gov/programs-surveys/acs/
+    description: |
+      The American Community Survey (ACS) is a project of the U.S. Census Bureau that helps local officials, community leaders, and businesses understand the changes in population, housing, and workforce. It is the best source for detailed population and housing information about our nation.
+  aea:
+    name: Alaska Energy Authority (AEA)
+    homepage: https://www.akenergyauthority.org/
+    description: |
+      The Alaska Energy Authority (AEA) is a public corporation dedicated to reducing energy costs in Alaska by delivering essential services and supporting energy projects that improve safety, reliability, and affordability across the state. AEA receives reporting data from communities for the Power Cost Equalization program, and tracks energy generation projects throughout Alaska. AEA personnel collaborated with the Institute of Social and Economic Research (ISER), University of Alaska Anchorage (UAA) to develop the original Alaska Energy Data Gateway (AEDG).
+  bls:
+    name: U. S. Bureau of Labor Statistics (BLS)
+    homepage: https://www.bls.gov
+    description: |
+      Within the United States Department of Labor, the Bureau of Labor Statistics (BLS) collects data on labor economics and statistics and serves as part of the U.S. Federal Statistical System. BLS collects, calculates, analyzes, and publishes data essential to the public, employers, researchers, and government organizations.
+  catalyst:
+    name: Catalyst Cooperative
+    homepage: https://catalyst.coop/
+    description: |
+      Catalyst Cooperative is a data engineering and analysis consultancy, specializing in energy system and utility financial data. They primarily serve non-profit organizations, academic researchers, journalists, climate policy advocates, public policymakers, and occasionally smaller business users.They produce the Public Utility Data Liberation Project, which AEDG uses as a source of cleaned and normalized data from EIA and FERC reporting forms.
+  census:
+    name: United States Census Bureau
+    homepage: https://www.census.gov
+    description: |
+      The Census Bureau's mission is to serve as the nation's leading provider of quality data about its people and economy. Every ten years, the census counts every resident of the United States as mandated by the Constitution.
+  dcra:
+    name: Alaska Division of Community and Regional Affairs (DCRA)
+    homepage: https://www.commerce.alaska.gov/web/dcra/
+    description: |
+      The Alaska Division of Community and Regional Affairs (DCRA) has been an advocate for Alaskan communities since its creation in 1959 by constitutional mandate under Article X of the Alaska Constitution. DCRA's purpose is to provide
+      for maximum local self-government with a minimum of local government units, and to prevent duplication of tax-levying jurisdictions. DCRA was established to advise and assist local governments, review their activities. It collects and publishes local government information and perform other duties as prescribed by law.
+  deed:
+    name: Alaska Department of Education & Early Development (DEED)
+    homepage: https://education.alaska.gov/
+    description: |
+      The Alaska Department of Education and Early Development (DEED) provides leadership, resources, and oversight to ensure every student receives an excellent education, every day, through effective programs, funding, and partnerships. Their data on school enrollment and districts is incorporated into the Alaska Energy Data Gateway.
+  dolwd:
+    name: Alaska Department of Labor and Workforce Development (DOLWD)
+    homepage: https://www.labor.alaska.gov/
+    description: |
+      The Alaska Department of Labor and Workforce Development (DOLWD) addresses the state's labor and workforce issues. It aims to provide safe, legal working conditions and advance opportunities for employment in Alaska. DOLWD maintains statistics on employment and unemployment.
+  eia:
+    name: U.S. Energy Information Administration (EIA)
+    homepage: https://www.eia.gov/
+    description: |
+      The U.S. Energy Information Administration (EIA) collects, analyzes, and disseminates independent and impartial energy information to promote sound policymaking, efficient markets, and public understanding of energy and its interaction with the economy and the environment. Power plants and utilities report fuel usage and other statistics to the EIA.
+  ferc:
+    name: Federal Energy Regulatory Commission (FERC)
+    homepage: https://ferc.gov/
+    description: |
+      The Federal Energy Regulatory Commission (FERC) is the source of energy system financial data reported to the United States government. The data published in FERC Form 1 refers to the same utilities, power plants, and generators that are reported by EIA. Reported records correspond to prime mover, primary fuel source, technology type, plants, or generator units. AEDG accesses these data via Catalyst Cooperative's PUDL dataset.
+  iser:
+    name: Institute of Social and Economic Research (ISER), University of Alaska Anchorage
+      (UAA)
+    homepage: https://iseralaska.org/
+    description: |
+      The Institute of Social and Economic Research (ISER) at the University of Alaska Anchorage has been at the forefront of public policy research in Alaska for half a century. ISER's mission is to enhance the well-being of Alaskans and others, through non-partisan research that helps people understand social and economic systems and supports informed public and private decision-making. ISER personnel developed the original Alaska Energy Data Gateway (AEDG) with the Alaska Energy Authority (AEA), and provide socioeconomic expertise to the current effort
+      to renew AEDG.
+  rca:
+    name: Regulatory Commission of Alaska (RCA)
+    homepage: https://rca.alaska.gov/RCAWeb/Home.aspx
+    description: |
+      The Regulatory Commission of Alaska (RCA) regulates public utilities by certifying qualified providers of public utility and pipeline services and ensuring that they provide safe and adequate services and facilities at just and reasonable rates, terms, and conditions.
+  usgs:
+    name: U.S. Geological Survey (USGS)
+    homepage: https://www.usgs.gov
+    description: |
+      U.S. Geological Survey (USGS) provides "science for a changing world". As the science arm of the Department of the Interior, the USGS studies earth, water, and biology and provides expertise in mapping data. The data processing pipeline of the Alaska Energy Data Gateway uses numeric identifiers for the community determined by Geographic Names Information System (GNIS) code maintained by the USGS.

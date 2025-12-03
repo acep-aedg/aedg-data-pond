@@ -1,0 +1,51 @@
+resource:
+  name: public_populations_ages_sexes # Filename stub
+  title: American Community Survey Populations # Dataset title
+  summary: | # Short version of the description to appear in data explorer list
+    Summary of the total population of each community with categorizations by age and sex.
+  description: | # Description of what this dataset is and what it is doing here
+    Total populations were measured by the U. S. Census and associated with communities by the Alaska Division of Community and Regional Affairs (DCRA). This dataset includes population size by sex in Alaskan communities for the most recent 5-year American Community Survey (ACS) intervals. It also includes population by age. The 5-year interval data sets are published approximately 1/2 a period later than the End Year listed.
+  path: "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/public/public_populations_ages_sexes.csv" # link to dataset in GitHub
+  keywords:
+    - total population
+    - age
+    - sex
+    - population conditions
+    - survey
+    - census
+  topics:
+    - Social
+  publisher: acep
+  sources: # list of directory names in https://github.com/acep-aedg/aedg-etl-2024/tree/main/data-sources to get source.yml
+    - dol.places
+    - dcra.communities
+    - acs.populations_ages
+    - acs.populations_sexes
+  licenses: # list of keys in the license.yml registry
+    - CC-BY-4.0
+  spatial:
+    name: Alaska
+    boundingBox: [-187.55, 51.21, -130.0, 71.35]
+    crs: OGC:CRS84
+  temporal:
+    referenceDate: "2025-06-01"  # half a period (2.5 years) later than end year
+    timeseries:
+      - start: "2019"
+        end: "2023"
+        resolutionValue: null
+        resolutionUnit: null
+        alignment: right
+        aggregationType: current
+  primaryKey: # list of the fields that uniquely identifies each row in the table
+    - fips_code
+    - end_year
+  contributors: # who helped make the dataset
+    - organization: acep
+      roles:
+        - DataCurator
+      date: now
+      object: data via https://github.com/acep-aedg/aedg-etl-2024
+      comment: |
+        1. Identified data source and integrated it into the data pipeline.
+        2. Complied community names, locations, and FIPS identifiers for AEDG
+        3. Joined population data with AEDG communities to create this dataset
