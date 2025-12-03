@@ -53,11 +53,6 @@
     homepage: https://www.labor.alaska.gov/
     description: |
       The Alaska Department of Labor and Workforce Development (DOLWD) addresses the state's labor and workforce issues. It aims to provide safe, legal working conditions and advance opportunities for employment in Alaska. DOLWD maintains statistics on employment and unemployment.
-  dowl:
-    name: DOWL Engineering
-    homepage: https://www.dowl.com/
-    description: |
-      The Alaska Center for Energy and Power (ACEP)  contracted Neil McMahon, an employee of DOWL Engineering, to update the Energy Statistics Workbooks. This product and the results are described in the methods section of the Alaska Electricity Trends Report (https://acep-uaf.github.io/aetr-web-book-2024/methods.html), and the resulting workbooks are published in a GitHub repo (https://acep-uaf.github.io/ak-energy-statistics-2011_2021/).
   eia:
     name: U.S. Energy Information Administration (EIA)
     homepage: https://www.eia.gov/
