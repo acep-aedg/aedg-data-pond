@@ -33,7 +33,7 @@ done
 source ./src/file_dump.sh
  
 # run metadata pull script
-source ./src/pull_metadata.sh
+source ./src/generate_metadata.sh
 
 
 

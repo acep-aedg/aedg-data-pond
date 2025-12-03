@@ -1,0 +1,8 @@
+datasets:
+  bulk_fuel:
+    data_path: data/final/bulk_fuel/bulk_fuel.geojson
+    data_dictionary: bulk_fuel_data_dictionary.csv
+    bbox: infer
+    time: specify
+  # public_yearly_generation:
+  #   data_path: data/public/public_yearly_generation.csv
