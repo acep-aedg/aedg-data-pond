@@ -1,8 +1,26 @@
+# This is the configuration file for the metadata generation script generate_metadata.sh
+# In order to preserve sanity, please respect alphabetical order of datasets, with respect to dirs 'final' and 'public'
+
 datasets:
+
+# Final datasets should be located below
+
+  # boroughs:
   bulk_fuel:
     data_path: data/final/bulk_fuel/bulk_fuel.geojson
     data_dictionary: bulk_fuel_data_dictionary.csv
     bbox: infer
     time: specify
-  # public_yearly_generation:
-  #   data_path: data/public/public_yearly_generation.csv
+  capacity:
+    data_path: data/final/capacity/capacity.csv
+    bbox: infer
+    time: specify
+  
+
+
+
+# Public datasets should be located below
+  public_transportation:
+    data_path: data/public/public_transportation/public_transportation.csv
+    bbox: infer
+    time: specify
