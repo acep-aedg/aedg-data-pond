@@ -31,19 +31,11 @@ resource:
   temporal:
     referenceDate: "2023-11-13"  # equivalent to as_of_date
     timeseries: null # is a list of possibly multiple time periods
-  fields: # column names
-    - grid_id
-    - capacity_mw
-    - fuel_type_code
-    - fuel_type_name
-    - year
   primaryKey: # An array of fields that uniquely identifies each row in the table
-    - grid_id
-    - fuel_type_code
-    - year
+    - aea_plant_id
   contributors: # roles from https://datacite-metadata-schema.readthedocs.io/en/4.5/properties/contributor/#a-contributortype
     - title: Neil McMahon
-      organization: dowl
+      organization: acep
       roles:
         - DataCollector
       date: 2024
