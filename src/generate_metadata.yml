@@ -58,7 +58,40 @@ datasets:
     data_path: data/public/public_capacity/public_capacity.csv
     bbox: infer
     time: specify
+  public_communities:
+    data_path: data/public/public_communities/public_communities.csv
+    bbox: infer
+    time: specify
+  public_employment:
+    data_path: data/public/public_employment/public_employment.csv
+    bbox: infer
+    time: specify
+  public_fuel_prices:
+    data_path: data/public/public_fuel_prices/public_fuel_prices.csv
+    bbox: infer
+    time: specify
+  public_monthly_generation:
+    data_path: data/public/public_monthly_generation/public_monthly_generation.csv
+    bbox: infer
+    time: specify
+  public_populations_ages_sexes:
+    data_path: data/public/public_populations_ages_sexes/public_populations_ages_sexes.csv
+    bbox: infer
+    time: specify
+  public_rates:
+    data_path: data/public/public_rates/public_rates.csv
+    bbox: infer
+    time: specify
+  # public_service_areas:
+  public_taxes:
+    data_path: data/public/public_taxes/public_taxes.csv
+    bbox: infer
+    time: specify
   public_transportation:
     data_path: data/public/public_transportation/public_transportation.csv
+    bbox: infer
+    time: specify
+  public_yearly_generation:
+    data_path: data/public/public_yearly_generation/public_yearly_generation.csv
     bbox: infer
     time: specify

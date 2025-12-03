@@ -21,8 +21,8 @@ estimated_pop_age_21_plus,Estimated Population 21+ Years Old,Estimated populatio
 estimated_pop_age_25_34,Estimated Population 25-34 Years Old,Estimated population between ages 25-34 years old,number,TRUE,null,default
 estimated_pop_age_35_44,Estimated Population 35-44 Years Old,Estimated population between ages 35-44 years old,number,TRUE,null,default
 estimated_pop_age_45_54,Estimated Population 45-54 Years Old,Estimated population between ages 45-54 years old,number,TRUE,null,default
-estimated_pop_age_5_9,Estimated Population 5-9 Years Old,Estimated population between ages 5-9 years old,number,TRUE,null,default
 estimated_pop_age_55_59,Estimated Population 55-59 Years Old,Estimated population between ages 55-59 years old,number,TRUE,null,default
+estimated_pop_age_5_9,Estimated Population 5-9 Years Old,Estimated population between ages 5-9 years old,number,TRUE,null,default
 estimated_pop_age_60_64,Estimated Population 60-64 Years Old,Estimated population between ages 60-64 years old,number,TRUE,null,default
 estimated_pop_age_62_plus,Estimated Population 62+ Years Old,Estimated population 62+ years old,number,TRUE,null,default
 estimated_pop_age_65_74,Estimated Population 65-74 Years Old,Estimated population between ages 65-74 years old,number,TRUE,null,default
@@ -37,8 +37,8 @@ estimated_pop_female,Estimated Female Population,Estimated female population,num
 estimated_pop_male,Estimated Male Population,Estimated male population,number,TRUE,null,default
 estimated_pop_total,Estimated Population All Ages,Estimated population of all ages,number,TRUE,null,default
 fips_code,FIPS Code,"5-digit Federal Information Processing Series (FIPS) code identifier for places and boroughs (counties), assigned and maintained by the Census Bureau",string,FALSE,null,default
-fuel_type,Fuel Type,Generation fuel as defined by the U.S. Energy Information Administration (EIA),string,TRUE,null,default
 fuel_type,Fuel Type,"Name of fuel type reported, either heating fuel or gasoline",string,TRUE,null,public_fuel_prices.csv
+fuel_type,Fuel Type,Generation fuel as defined by the U.S. Energy Information Administration (EIA),string,TRUE,null,default
 fuel_type_code,Fuel Type Code,Code indicating generation fuel as defined by the U.S. Energy Information Administration (EIA),string,FALSE,null,default
 fuel_type_name,Fuel Type,Generation fuel,string,FALSE,null,default
 gnis_code,GNIS Code,"The GNIS contains information about physical geographic features of many types in the United States, associated areas, and Antarctica, current and historical, but not including roads and highways or cultural features. The database holds the Federally recognized name of each feature and defines the feature location by state, county, USGS topographic map, and geographic coordinates.",integer,TRUE,null,default
@@ -63,6 +63,7 @@ property_tax_rev_usd,Property Tax Revenue,Propery tax revenue in U.S. Dollars (U
 puma,Public Use Microdata Area,"Public Use Microdata Areas (PUMAs) are non-overlapping, statistical geographic areas that partition each state or equivalent entity into geographic areas containing no fewer than 100,000 people each.",string,TRUE,null,default
 regional_corporation,Alaska Native Regional Corporation,Alaska Native regional corporations were created by the Alaska Native Claims Settlement Act (ANCSA),string,TRUE,null,default
 reporting_entity,Reporting Entity,The name of the electric service area providing electricity to the community,string,TRUE,null,default
+reporting_entity_cpcn_id,Reporting Entity Certificate Number,"A CPCN (Certificate of Public Convenience & Necessity) number, also called a certificate number, denotes a unique CPCN/certificate assigned by the Regulatory Commission of Alaska to a reporting entity.",integer,FALSE,null,default
 reporting_season,Reporting Season,"Season for which the fuel data was reported, Winter or Summer",string,TRUE,null,public_fuel_prices.csv
 reporting_year,Reporting Year,Four digit year as Common Era (CE) for which the fuel data was reported,integer,TRUE,null,public_fuel_prices.csv
 residential_rate,Residential Rate,Price of electricity as US dollars per killowatt hour for residential customers,number,TRUE,USD//kWh,default
@@ -70,6 +71,7 @@ residents_employed,Residents Employed,Number of residents ,integer,TRUE,null,def
 road_connection,Road Connection,"Answers the question: Is the Community connected to a road system to other communities? (""t"" for yes, and ""f"" for no)",boolean,TRUE,null,default
 road_or_ferry,Road or Ferry,"Answers the question: Is the Community served by a state ferry or a road? (""t"" for yes, and ""f"" for no)",boolean,TRUE,null,default
 service_area_capacity_mw,Service Area Capacity (MW),Sum of nameplace capacities of all generation plants within the service area,number,TRUE,MW,default
+service_area_net_generation_mwh,Service Area Net Generation (MWh),Net generation of all plants within the service area,number,TRUE,MWh,default
 source,Source of Fuel Price Data,"Name of reporting entity if surveyed, or DCRA if regionally averaged",string,TRUE,null,public_fuel_prices.csv
 start_year,Start Year,Beginning of the data collection period,integer,FALSE,null,default
 state_ferry,State Ferry,"Answers the question: Is the Community served by a state ferry? (""t"" for yes, and ""f"" for no)",boolean,TRUE,null,default
@@ -79,9 +81,9 @@ total_rev_for_special_taxes_usd,Total Special Tax Revenue,Total special tax reve
 total_sales_tax_rev_usd,Total Sales Tax Revenue,Total sales tax revenue in U.S. Dollars (USD) for either the community or the borough,integer,TRUE,USD,default
 total_tax_rev_usd,Total Tax Revenue,Total tax revenue in U.S. Dollars (USD) for either the community or the borough,integer,TRUE,USD,default
 unemployment_insurance_claimants,Unemployment Insurance Claimants,Number of people who claimed unimployment insurance,integer,TRUE,null,default
-year,Year,Four digit year as Common Era (CE),integer,FALSE,null,default
 year,Year,Four digit year as Common Era (CE) for which generation capacity was summarized,integer,FALSE,null,capacity.csv
 year,Year,Four digit year as Common Era (CE) for which generation capacity was summarized,integer,FALSE,null,public_capacity.csv
-year,Year,Four digit year as Common Era (CE) when the population was measured,integer,FALSE,null,public_population.csv
 year,Year,Four digit year as Common Era (CE) for which monthly reported generation was summed,integer,FALSE,null,public_yearly_generation.csv
 year,Year,Four digit year as Common Era (CE) for which monthly reported generation was summed,integer,FALSE,null,yearly_generation.csv
+year,Year,Four digit year as Common Era (CE) when the population was measured,integer,FALSE,null,public_population.csv
+year,Year,Four digit year as Common Era (CE),integer,FALSE,null,default
