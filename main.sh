@@ -24,16 +24,16 @@ declare -a types=("csv" "geojson" "json")
 # Remove files
 for dir in "${dirs[@]}"; do
   for type in "${types[@]}"; do
-    rm ./data/$dir/*.$type
+    rm ./data/$dir/*/*.$type
   done
 done
 
 
-# # run data dump script
+# run data dump script
 source ./src/file_dump.sh
  
 # run metadata pull script
-source ./src/pull_metadata.sh
+source ./src/generate_metadata.sh
 
 
 

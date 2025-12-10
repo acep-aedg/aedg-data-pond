@@ -1,0 +1,65 @@
+resource:
+  name: "public_monthly_generation"
+  title: "Monthly Electrical Generation by Community"
+  summary: |
+     This dataset is monthly electrical generation aggregated by grid and associated with every community connected to the grid. It summarizes the amount of electrical power produced for a community and the fuels that were used to generate it.
+  description: |
+    This dataset is monthly electrical generation aggregated by grid and associated with every community connected to the grid. It summarizes the amount of electrical power produced for a community and the fuels that were used to generate it. Two factors complicate this simple seeming dataset. First, there is no single state or federal agency that collects data on all the generation sources in Alaska. Second, some communities have isolated microgrids where generation sources are easy to identify, but other communities are interconnected with interties into grids where generation sources are shared. In those cases, it is therefore impossible to pair a community with individual power stations (called plants) or the operators/utilities for which generation is recorded even if the plant is physically located within a community.
+    To address the first issue, this dataset derives from the Alaska Energy Statistics workbooks, which in turn compiles data from multiple sources including community Power Cost Equalization reports collated by the Alaska Energy Authority and reporting to the U.S. Energy Information Administration (EIA). Source data was harmonized to account for differences in reporting through a combination of subject matter expertise and transformations.
+    To address the second issue, generation is summed over all the generators with different fuels - diesel and natural gas boilers, solar installations, wind turbines - that are connected to a grid. Grids were defined as an element of the Alaska Energy Statistics workbooks and implemented with a lookup table that joins them to individual plants. The same values for total generation are reported for all the communities on a grid, which creates multiple duplicate values in this dataset.
+  path: "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/public/public_monthly_generation.csv"
+  keywords:
+    - generation
+    - electricity
+    - fuel type
+    - grid
+    - power plant
+    - report
+    - Power Cost Equalization (PCE)
+    - EIA Form 923
+    - community
+  topics:
+    - Electricity
+  publisher: acep
+  sources:
+    - dcra.communities
+    - dol.places
+    - acep.es_monthly_generation
+  licenses:
+    - CC-BY-4.0
+  spatial:
+    name: Alaska
+    boundingBox: [-187.55, 51.21, -130.0, 71.35]
+    crs: OGC:CRS84
+  temporal:
+    referenceDate: "2024-02-29"  # equivalent to as_of_date
+    timeseries:  # is a list of possibly multiple time periods
+      - start: "2021-01"
+        end: "2021-12"
+        resolutionValue: "1"
+        resolutionUnit: month
+        alignment: null
+        aggregationType: sum
+  primaryKey: # An array of fields that uniquely identifies each row in the table
+    - fips_code
+    - fuel_type
+    - year
+    - month
+  contributors: # roles from https://datacite-metadata-schema.readthedocs.io/en/4.5/properties/contributor/#a-contributortype
+    - title: Neil McMahon
+      organization: acep
+      roles:
+        - DataCollector
+      date: 2024
+      object: data from the Alaska Energy Statistics Electrical Generation Tables
+      comment: |
+        Pulled data from the original sources, the compiled, corrected, harmonized, transformed data into Excel Workbooks as annual datasets and as Financial and Generation timeseries.
+    - organization: acep
+      roles:
+        - DataCurator
+      date: now
+      object: data via https://github.com/acep-aedg/aedg-etl-2024
+      comment: |
+        1. Contracted Neil McMahon to produce the Workbooks, and then posted them in GitHub for distribution.
+        2. Complied community names, locations, and FIPS identifiers for AEDG
+        3. Joined generation data with AEDG communities to create this dataset

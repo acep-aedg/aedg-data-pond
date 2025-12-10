@@ -1,0 +1,218 @@
+{
+    "@context": "",
+    "name": "public_rates",
+    "title": "Electricity Rates for Communities",
+    "description": "This dataset is sales by communities as they are recorded by reporting entities (i.e. utilities).\n",
+    "@id": "",
+    "resources": [
+        {
+            "@id": "",
+            "name": "public_rates",
+            "topics": [
+                "Electricity"
+            ],
+            "title": "Electricity Rates for Communities",
+            "path": "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/public/public_rates.csv",
+            "description": "This dataset is sales by communities as they are recorded by reporting entities (i.e. utilities). There is no single state or federal agency that collects data on all utility sales in Alaska.\nThis dataset derives from the Alaska Energy Statistics workbooks, which in turn compiles data from multiple sources including community Power Cost Equalization reports collated by the Alaska Energy Authority and reporting to the U.S. Energy Information Administration (EIA). Source data was harmonized to account for differences in reporting through a combination of subject matter expertise and transformations.\nTo address the second issue, ... The same values for sales are reported for all the communities served by the reporting entity [even for AVEC?], which creates multiple duplicate values in this dataset.\n",
+            "languages": [
+                "en-US"
+            ],
+            "keywords": [
+                "sales",
+                "electricity",
+                "report",
+                "Power Cost Equalization (PCE)",
+                "EIA Form 923",
+                "community"
+            ],
+            "publicationDate": "2025-12-03",
+            "context": {
+                "title": "Alaska Energy Data Gateway v3.0",
+                "homepage": "https://akenergygateway.alaska.edu/",
+                "publisher": "Alaska Center for Energy and Power (ACEP) at the University of Alaska Fairbanks (UAF)",
+                "fundingAgency": "State of Alaska"
+            },
+            "spatial": {
+                "extent": {
+                    "name": "Alaska",
+                    "boundingBox": [
+                        -187.55,
+                        51.21,
+                        -130.0,
+                        71.35
+                    ],
+                    "crs": "OGC:CRS84"
+                }
+            },
+            "temporal": {
+                "referenceDate": "2024-02-29",
+                "timeseries": [
+                    {
+                        "start": "2021",
+                        "end": "2021",
+                        "resolutionUnit": "year",
+                        "alignment": "centre",
+                        "aggregationType": "average"
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "title": "Alaska Communities",
+                    "authors": [
+                        "Alaska Division of Community and Regional Affairs (DCRA)"
+                    ],
+                    "description": "The Alaska Communities dataset is the reference list of place locations, represented as points, used by the Alaska Division of Community and Regional Affairs (DCRA). In includes community locations but for historical reasons, it is a mix of Communities, Places of Interest, Borough/Census Area as well as Alaska centroid. DCRA uses it to link communities to their internal key GUID used elsewhere in their systems.\nAEDG uses this list to define canonical community names since, as free text, these can vary in different contexts, and to establish locations to use in spatial joins and relations.\n",
+                    "publicationYear": "2023",
+                    "path": "https://maps.commerce.alaska.gov/server/rest/services/Community_Related/Community_Locations_and_Boundaries/MapServer/0",
+                    "sourceLicenses": []
+                },
+                {
+                    "title": "Places (Cities and CDPs) Shapefile",
+                    "authors": [
+                        "United States Census Bureau",
+                        "Alaska Department of Labor and Workforce Development (DOLWD)"
+                    ],
+                    "description": "This is an ESRI Shapefile for use in GIS software that contains place data from the 2020 US Census for Alaska. The definition of places includes all incorporated cities as well as Census Designated Places (CDPs). Each geographic unit is identified using Federal Information Processing Standards (FIPS) numbers. Coordinate System: North American Datum 1983 Alaska Albers. Source: 2020 US Census, PL94-171 Redistricting File; 2020 US Census Tiger Shapefiles. Documentation of field names: https://live.laborstats.alaska.gov/cen/maps/gis/Places2020.pdf. The Alaska Department of Labor and Workforce Development has had a cooperative agreement with the U.S. Census Bureau since 1981 to assist with geographic programs and help Alaskans find Census Bureau data.\nAEDG uses this list to define canonical community locations to use in spatial joins and relations, to associate places with FIPS codes, and to establish total community population.\n",
+                    "publicationYear": "2020",
+                    "path": "https://live.laborstats.alaska.gov/article/maps-gis-data",
+                    "sourceLicenses": []
+                },
+                {
+                    "title": "Alaska Energy Statistics Financial Tables",
+                    "authors": [
+                        "Alaska Center for Energy and Power (ACEP), University of Alaska Fairbanks (UAF)",
+                        "Neil McMahon, DOWL Engineering",
+                        "Alaska Energy Authority (AEA)",
+                        "Institute of Social and Economic Research (ISER), University of Alaska Anchorage (UAA)"
+                    ],
+                    "description": "The Alaska Energy Statistics is a long-running collection of data and reports about energy production, consumption, and related topics specific to the state of Alaska. The workbooks were developed to provide community and utility level datasets that support regional and statewide aggregations for use in the 2024 Alaska Electricity Trends Report. This is a continuation of a 40+ year effort to create and maintain high level views of the state\u2019s energy profile that are useful for policy makers, businesses, researchers, and others interested in Alaska\u2019s energy sector. Data are derived from community Power Cost Equalization reports collated by the Alaska Energy Authority and power plant reporting to the U.S. Energy Information Administration (EIA). These sources are supplemented by annual filings to the Regulatory Commission of Alaska (RCA), village and powerhouse assessments, and direct communications with utilities and hydro/wind program managers.\nAdditional funding was contributed by Office of Naval Research (ONR) funded Alaska Regional Collaboration for Technology Innovation and Commercialization (ARCTIC) program, the Denali Commission, and the State of Alaska.\nAEDG uses this dataset as the best available compilation of electricity sales, incorporating data from multiple sources into a single source.\n",
+                    "publicationYear": "2024",
+                    "path": "https://acep-uaf.github.io/ak-energy-statistics-2011_2021/",
+                    "sourceLicenses": [
+                        {
+                            "name": "CC-SA-4.0",
+                            "title": "Creative Commons Attribution-ShareAlike 4.0 International",
+                            "path": "https://creativecommons.org/licenses/by-sa/4.0/",
+                            "instruction": "You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.\n",
+                            "attribution": "Alaska Center for Energy and Power, University of Alaska Fairbanks"
+                        }
+                    ]
+                }
+            ],
+            "licenses": [
+                {
+                    "name": "CC-BY-4.0",
+                    "title": "Creative Commons Attribution 4.0 International",
+                    "path": "https://creativecommons.org/licenses/by/4.0/",
+                    "instruction": "You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.\n",
+                    "attribution": "Alaska Center for Energy and Power, University of Alaska Fairbanks"
+                }
+            ],
+            "contributors": [
+                {
+                    "title": "Neil McMahon",
+                    "organization": "Alaska Center for Energy and Power (ACEP) at the University of Alaska Fairbanks (UAF)",
+                    "roles": [
+                        "DataCollector"
+                    ],
+                    "date": "2024",
+                    "object": "data from the Alaska Energy Statistics Financial Tables",
+                    "comment": "Pulled data from the original sources, the compiled, corrected, harmonized, transformed data into Excel Workbooks as annual datasets and as Financial and Generation timeseries. Additional corrections were applied to the yearly data.\n",
+                    "path": "https://www.uaf.edu/acep/"
+                },
+                {
+                    "organization": "Alaska Center for Energy and Power (ACEP) at the University of Alaska Fairbanks (UAF)",
+                    "roles": [
+                        "DataCurator"
+                    ],
+                    "date": "2025-12-03",
+                    "object": "data via https://github.com/acep-aedg/aedg-etl-2024",
+                    "comment": "1. Contracted Neil McMahon to produce the Workbooks, and then posted them in GitHub for distribution.\n2. Complied community names, locations, and FIPS identifiers for AEDG\n3. residential rates are pre-calculated as residential_rate for all reporting entities and post-subsidy effective_rate for PCE reporting entities\n4. data for commercial and industrial was reported only as sales and revenue. For these categories, rates were calculated by dividing revenue/sales_mwh, producing the columns industrial_rate_calculated and commercial_rate_calculated.\n5. For good measure, residential rates were also calculated this way. residential_rate pre-calculated in the Workbooks, should equal residential_rate_calculated, calculated by us. (spoiler: they are equal when rounded to 2 decimals, which I codified in a DBT data test)\n6. For a few non-PCE reporting entities, especially Railbelt utilities, neither residential rates nor effective rates were calculated. For this reason, I experimented with combining rates into a single column: starting with effective_rate and filling with residential_rate_calculated when effective_rate was NULL. I\u2019m not sure this is the best approach since they are different situations (non-PCE vs PCE), I suppose that\u2019s worth discussing. We could leave the two columns side by side in order to maintain clarity. Rails would need a smart query to pull calculated_rate when effective_rate was NULL, essentially making that column on the fly. For now, I left all 4 columns so we can look at this in detail.\n7. Joined sales data with AEDG communities to create this dataset\n",
+                    "path": "https://www.uaf.edu/acep/"
+                },
+                {
+                    "organization": "Alaska Center for Energy and Power (ACEP) at the University of Alaska Fairbanks (UAF)",
+                    "roles": [
+                        "DataCurator"
+                    ],
+                    "date": "2025-12-03",
+                    "object": "metadata via https://github.com/acep-aedg/aedg-metadata",
+                    "comment": "Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.\n",
+                    "path": "https://www.uaf.edu/acep/"
+                }
+            ],
+            "type": "table",
+            "format": "csv",
+            "encoding": "",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "fips_code",
+                        "long_name": "FIPS Code",
+                        "description": "5-digit Federal Information Processing Series (FIPS) code identifier for places and boroughs (counties), assigned and maintained by the Census Bureau",
+                        "type": "string",
+                        "nullable": false,
+                        "unit": null
+                    },
+                    {
+                        "name": "name",
+                        "long_name": "Community Name",
+                        "description": "Name of the community",
+                        "type": "string",
+                        "nullable": false,
+                        "unit": null
+                    },
+                    {
+                        "name": "residential_rate",
+                        "long_name": "Residential Rate",
+                        "description": "Price of electricity as US dollars per killowatt hour for residential customers",
+                        "type": "number",
+                        "nullable": true,
+                        "unit": "USD//kWh"
+                    },
+                    {
+                        "name": "commercial_rate",
+                        "long_name": "Commercial Rate",
+                        "description": "Price of electricity as US dollars per killowatt hour for commercial customers",
+                        "type": "number",
+                        "nullable": true,
+                        "unit": "USD//kWh"
+                    },
+                    {
+                        "name": "industrial_rate",
+                        "long_name": "Industrial Rate",
+                        "description": "Price of electricity as US dollars per killowatt hour for industrial customers",
+                        "type": "number",
+                        "nullable": true,
+                        "unit": "USD//kWh"
+                    },
+                    {
+                        "name": "year",
+                        "long_name": "Year",
+                        "description": "Four digit year as Common Era (CE)",
+                        "type": "integer",
+                        "nullable": false,
+                        "unit": null
+                    }
+                ],
+                "primaryKey": [
+                    "fips_code",
+                    "year"
+                ]
+            },
+            "dialect": {
+                "delimiter": ",",
+                "decimalSeparator": "."
+            }
+        }
+    ],
+    "metaMetadata": {
+        "metadataVersion": "OEMetadata-2.0.4",
+        "metadataLicense": {
+            "name": "CC0-1.0",
+            "title": "Creative Commons Zero v1.0 Universal",
+            "path": "https://creativecommons.org/publicdomain/zero/1.0"
+        }
+    }
+}

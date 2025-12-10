@@ -1,0 +1,48 @@
+resource:
+  name: public_taxes
+  title: Taxes for Communities and Boroughs
+  summary: | # Short version of the description to appear in data explorer list
+    Sales, property, and special tax revenue for communities and boroughs.
+  description: | # Description of what this dataset is and what it is doing here
+    Sales, property, and special tax revenue for communities and boroughs, 2017-2024.
+  path: "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/public/public_taxes.csv" # link to dataset in GitHub
+  keywords:
+    - revenue
+    - taxes
+    - sales
+    - property
+    - economy
+  topics:
+    - Social
+  publisher: acep
+  sources: # list of directory names in https://github.com/acep-aedg/aedg-etl-2024/tree/main/data-sources to get source.yml
+    - dcra.communities
+    - dol.places
+    - dcra.taxes
+  licenses: # list of keys in the license.yml registry
+    - CC-BY-4.0
+  spatial:
+    name: Alaska
+    boundingBox: [-187.55, 51.21, -130.0, 71.35]
+    crs: OGC:CRS84
+  temporal:
+    referenceDate: "2016"  # equivalent to as_of_date
+    timeseries:
+      - start: "2017"
+        end: "2024"
+        resolutionValue: "1"
+        resolutionUnit: year
+        alignment: centre
+        aggregationType: sum
+  primaryKey: # list of the fields that uniquely identifies each row in the table
+    - fips_code
+  contributors: # who helped make the dataset
+    - organization: acep
+      roles:
+        - DataCurator
+      date: now
+      object: data via https://github.com/acep-aedg/aedg-etl-2024
+      comment: |
+        1. Identified data source and integrated it into the data pipeline.
+        2. Complied community names, locations, and FIPS identifiers for AEDG
+        3. Joined tax data with AEDG communities to create this dataset

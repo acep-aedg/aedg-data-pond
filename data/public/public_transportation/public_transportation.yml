@@ -1,0 +1,49 @@
+# Two notes on transportation
+# 1. data model includes a column for "as of date", which is currently encoded in the metadata instead
+# 2. boolean values are "t" and "f", which is weird. Change to "TRUE"/"FALSE"?
+resource:
+  name: public_transportation # Filename stub
+  title: Community Transportation Summary # Dataset title
+  summary: | # Short version of the description to appear in data explorer list
+    Summary of the types of transportation available to each community.
+  description: | # Description of what this dataset is and what it is doing here
+    Summary of the types of transportation available to each community. Includes information on airports, roads, the state ferry, harbors and docks, coastal status, and cargo barge. The price a community pays for energy depends significantly on the transportation options available for fuel and construction materials.
+  path: "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/public/public_transportation.csv" # link to dataset in GitHub
+  keywords:
+    - ferry
+    - road
+    - ship
+    - barge
+    - airport
+    - community
+    - harbor
+    - dock
+    - coastal
+  topics:
+    - Infrastructure
+  publisher: acep
+  sources: # list of directory names in https://github.com/acep-aedg/aedg-etl-2024/tree/main/data-sources to get source.yml
+    - dol.places
+    - dcra.communities
+    - dcra.transportation
+  licenses: # list of keys in the license.yml registry
+    - CC-BY-4.0
+  spatial:
+    name: Alaska
+    boundingBox: [-187.55, 51.21, -130.0, 71.35]
+    crs: OGC:CRS84
+  temporal:
+    referenceDate: "2024-05-15"  # equivalent to as_of_date
+    timeseries: null # is a list of possibly multiple time periods
+  primaryKey: # list of the fields that uniquely identifies each row in the table
+    - fips_code
+  contributors: # who helped make the dataset
+    - organization: acep
+      roles:
+        - DataCurator
+      date: now
+      object: data via https://github.com/acep-aedg/aedg-etl-2024
+      comment: |
+        1. Identified data source and integrated it into the data pipeline.
+        2. Complied community names, locations, and FIPS identifiers for AEDG
+        3. Joined transportation data with AEDG communities to create this dataset

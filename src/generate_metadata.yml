@@ -1,0 +1,97 @@
+# This is the configuration file for the metadata generation script generate_metadata.sh
+# In order to preserve sanity, please respect alphabetical order of datasets, with respect to dirs 'final' and 'public'
+
+datasets:
+
+# /final datasets should be located below
+
+  # boroughs:
+  bulk_fuel:
+    data_path: data/final/bulk_fuel/bulk_fuel.geojson
+    data_dictionary: bulk_fuel_data_dictionary.csv
+    bbox: infer
+    time: specify
+  capacity:
+    data_path: data/final/capacity/capacity.csv
+    bbox: infer
+    time: specify
+  # communities:
+  # communities_grids:
+  # communities_service_area_geoms:
+  # electric_rates:
+  # employment:
+  # fuel_prices:
+  # grids:
+  # heating_degree_days:
+  # house_districts:
+  # household_income:
+  # income_poverty:
+  monthly_generation:
+    data_path: data/final/monthly_generation/monthly_generation.csv
+    bbox: infer
+    time: specify
+  # plants:
+  # populations:
+  # populations_ages_sexes:
+  # regional_corporations:
+  # reporting_entities:
+  # sales:
+  # school_districts:
+  # senate_districts:
+  # service_area_geoms:
+  # service_areas:
+  # taxes:
+  transportation:
+    data_path: data/final/transportation/transportation.csv
+    bbox: infer
+    time: specify
+  yearly_generation:
+    data_path: data/final/yearly_generation/yearly_generation.csv
+    bbox: infer
+    time: specify
+
+  
+
+
+# /public datasets should be located below
+  public_capacity:
+    data_path: data/public/public_capacity/public_capacity.csv
+    bbox: infer
+    time: specify
+  public_communities:
+    data_path: data/public/public_communities/public_communities.csv
+    bbox: infer
+    time: specify
+  public_employment:
+    data_path: data/public/public_employment/public_employment.csv
+    bbox: infer
+    time: specify
+  public_fuel_prices:
+    data_path: data/public/public_fuel_prices/public_fuel_prices.csv
+    bbox: infer
+    time: specify
+  public_monthly_generation:
+    data_path: data/public/public_monthly_generation/public_monthly_generation.csv
+    bbox: infer
+    time: specify
+  public_populations_ages_sexes:
+    data_path: data/public/public_populations_ages_sexes/public_populations_ages_sexes.csv
+    bbox: infer
+    time: specify
+  public_rates:
+    data_path: data/public/public_rates/public_rates.csv
+    bbox: infer
+    time: specify
+  # public_service_areas:
+  public_taxes:
+    data_path: data/public/public_taxes/public_taxes.csv
+    bbox: infer
+    time: specify
+  public_transportation:
+    data_path: data/public/public_transportation/public_transportation.csv
+    bbox: infer
+    time: specify
+  public_yearly_generation:
+    data_path: data/public/public_yearly_generation/public_yearly_generation.csv
+    bbox: infer
+    time: specify

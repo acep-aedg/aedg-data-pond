@@ -1,0 +1,61 @@
+resource:
+  name: # Filename stub
+  title: # Dataset title
+  summary: | # Short version of the description to appear in data explorer list
+    .
+  description: | # Description of what this dataset is and what it is doing here
+    .
+  path: "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/public/public_communities_monthly_generation.csv" # link to dataset in GitHub
+  keywords: # list of keywords and short phrases
+    - one
+    - two
+  topics: # 1-2 broad topics for display in AEDG (which not all datasets need?)
+    - Electricity
+  publisher: acep
+  sources:  # optional if this is original data and there are no other sources. Otherwise choose one:
+    # list of directory names in https://github.com/acep-aedg/aedg-etl-2024/tree/main/data-sources to get source.yml.
+    - acep.es_generation
+    # Or use the tag "metadata" to indicate the source that is defined within this file.
+    - metadata:
+      title: Energy Sources
+      authors:
+        - U.S. Energy Information Administration (EIA)
+      description: |
+        This source is described here.
+      path: https://www.eia.gov/electricity/monthly/pdf/AppendixC.pdf
+      sourceLicenses:
+        - public-domain
+  licenses: # list of keys in the license.yml registry
+    - CC-BY-4.0
+  spatial:  # optional if `-bbox none`
+    name: Alaska
+    boundingBox: [-187.55, 51.21, -130.0, 71.35]
+    crs: OGC:CRS84
+  temporal:  # optional if `-time none`
+    referenceDate: "2025-01-01"  # equivalent to as_of_date
+    timeseries:  # is a list of possibly multiple time periods
+      - start: "2021-01"
+        end: "2021-12"
+        resolutionValue: "1"
+        resolutionUnit: month
+        alignment: null
+        aggregationType: sum
+  primaryKey: # list of the fields that uniquely identifies each row in the table. Fields harvested from posted file.
+    - one
+  contributors: # who helped make the dataset
+    - title: # name of a person (optional)
+      organization: # link to key in agents.yml
+      roles: # list of roles from https://datacite-metadata-schema.readthedocs.io/en/4.5/properties/contributor/#a-contributortype
+        - DataCurator
+      date: 2024 # when did they do the things
+      object: # what was the thing affected (i.e. "data and metadata")
+      comment: | # free text description of what was done
+    - organization: acep
+      roles:
+        - DataCurator
+      date: now
+      object: data via https://github.com/acep-aedg/aedg-etl-2024
+      comment: |
+        1. Identified data source and integrated it into the data pipeline.
+        2. Complied community names, locations, and FIPS identifiers for AEDG
+        3. Joined generation data with AEDG communities to create this dataset

@@ -1,0 +1,218 @@
+{
+    "@context": "",
+    "name": "transportation",
+    "title": "Community Transportation Summary",
+    "description": "Summary of the types of transportation available to each community. This is a normalized table intended for internal use within the AEDG database.\n",
+    "@id": "",
+    "resources": [
+        {
+            "@id": "",
+            "name": "transportation",
+            "topics": [
+                "Infrastructure"
+            ],
+            "title": "Community Transportation Summary",
+            "path": "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/final/transportation.csv",
+            "description": "Summary of the types of transportation available to each community. Includes information on airports, roads, the state ferry, harbors and docks, coastal status, and cargo barge. The price a community pays for energy depends significantly on the transportation options available for fuel and construction materials.\n",
+            "languages": [
+                "en-US"
+            ],
+            "keywords": [
+                "ferry",
+                "road",
+                "ship",
+                "barge",
+                "airport",
+                "community",
+                "harbor",
+                "dock",
+                "coastal"
+            ],
+            "publicationDate": "2025-12-03",
+            "context": {
+                "title": "Alaska Energy Data Gateway v3.0",
+                "homepage": "https://akenergygateway.alaska.edu/",
+                "publisher": "Alaska Center for Energy and Power (ACEP) at the University of Alaska Fairbanks (UAF)",
+                "fundingAgency": "State of Alaska"
+            },
+            "spatial": {
+                "extent": {
+                    "name": "Alaska",
+                    "boundingBox": [
+                        -187.55,
+                        51.21,
+                        -130.0,
+                        71.35
+                    ],
+                    "crs": "OGC:CRS84"
+                }
+            },
+            "temporal": {
+                "referenceDate": "2024-05-15",
+                "timeseries": []
+            },
+            "sources": [
+                {
+                    "title": "Community Transportation Overview",
+                    "authors": [
+                        "Alaska Division of Community and Regional Affairs (DCRA)"
+                    ],
+                    "description": "Summary of the types of transportation available to each community. Includes information on airports, roads, the state ferry, harbors and docks, coastal status, and cargo barge. Most communities in Alaska typically have an unmanned general aviation airport of which Alaska DOT P&F owns and operates 237 airports. This data is relatively static.\nAEDG uses these data to display transportation options because these greatly influence the prices paid for fuel and other energy sources. Communities who rely only on air freight will likely pay a much higher amount for energy.\n",
+                    "publicationYear": "2024",
+                    "path": "https://maps.commerce.alaska.gov/server/rest/services/Transportation/Transportation_Overview/MapServer/0",
+                    "sourceLicenses": []
+                },
+                {
+                    "title": "2024 US Census Place Gazetteer File, Alaska",
+                    "authors": [
+                        "United States Census Bureau"
+                    ],
+                    "description": "The U.S. Gazetteer File provide a listing of all geographic areas in Alaska. The files include geographic identifier codes, names, area measurements, and representative latitude and longitude coordinates.\nAEDG used to use the ANSI codes in this dataset as an identifier of communities but this was discontinued.\n",
+                    "publicationYear": "2024",
+                    "path": "https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2024_Gazetteer/2024_gaz_place_02.txt",
+                    "sourceLicenses": [
+                        {
+                            "name": "public-domain",
+                            "title": "U.S. Public Domain",
+                            "path": "http://www.usa.gov/publicdomain/label/1.0/",
+                            "instruction": "Data and content created by government employees within the scope of their employment are not subject\nto domestic copyright protection under 17 U.S.C. \u00a7 105. Government works are by default in the U.S.\nPublic Domain. You cannot use government materials in a way that implies endorsement by a government agency, official, or employee. You also cannot use federal government trademarks or federal government agency logos without permission - https://resources.data.gov/open-licenses/.\n"
+                        }
+                    ]
+                }
+            ],
+            "licenses": [
+                {
+                    "name": "CC-BY-4.0",
+                    "title": "Creative Commons Attribution 4.0 International",
+                    "path": "https://creativecommons.org/licenses/by/4.0/",
+                    "instruction": "You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.\n",
+                    "attribution": "Alaska Center for Energy and Power, University of Alaska Fairbanks"
+                }
+            ],
+            "contributors": [
+                {
+                    "organization": "Alaska Center for Energy and Power (ACEP) at the University of Alaska Fairbanks (UAF)",
+                    "roles": [
+                        "DataCurator"
+                    ],
+                    "date": "2025-12-03",
+                    "object": "data via https://github.com/acep-aedg/aedg-etl-2024",
+                    "comment": "1. Identified data source and integrated it into the data pipeline.\n2. Joined transportation data with community FIPS codes to create this table\n",
+                    "path": "https://www.uaf.edu/acep/"
+                },
+                {
+                    "organization": "Alaska Center for Energy and Power (ACEP) at the University of Alaska Fairbanks (UAF)",
+                    "roles": [
+                        "DataCurator"
+                    ],
+                    "date": "2025-12-03",
+                    "object": "metadata via https://github.com/acep-aedg/aedg-metadata",
+                    "comment": "Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.\n",
+                    "path": "https://www.uaf.edu/acep/"
+                }
+            ],
+            "type": "table",
+            "format": "csv",
+            "encoding": "",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "community_fips_code",
+                        "long_name": "Community FIPS Code",
+                        "description": "5-digit Federal Information Processing Series (FIPS) code identifier for places, assigned and maintained by the Census Bureau",
+                        "type": "string",
+                        "nullable": false,
+                        "unit": null
+                    },
+                    {
+                        "name": "airport",
+                        "long_name": "Airport",
+                        "description": "Answers the question: Does the Community have an airport? (\"t\" for yes, and \"f\" for no)",
+                        "type": "boolean",
+                        "nullable": true,
+                        "unit": null
+                    },
+                    {
+                        "name": "harbor_dock",
+                        "long_name": "Harbor Dock",
+                        "description": "Answers the question: Does the Community have a harbor with a dock? (\"t\" for yes, and \"f\" for no)",
+                        "type": "boolean",
+                        "nullable": true,
+                        "unit": null
+                    },
+                    {
+                        "name": "state_ferry",
+                        "long_name": "State Ferry",
+                        "description": "Answers the question: Is the Community served by a state ferry? (\"t\" for yes, and \"f\" for no)",
+                        "type": "boolean",
+                        "nullable": true,
+                        "unit": null
+                    },
+                    {
+                        "name": "cargo_barge",
+                        "long_name": "Cargo Barge",
+                        "description": "Answers the question: Is the Community served by a cargo barge? (\"t\" for yes, and \"f\" for no)",
+                        "type": "boolean",
+                        "nullable": true,
+                        "unit": null
+                    },
+                    {
+                        "name": "road_connection",
+                        "long_name": "Road Connection",
+                        "description": "Answers the question: Is the Community connected to a road system to other communities? (\"t\" for yes, and \"f\" for no)",
+                        "type": "boolean",
+                        "nullable": true,
+                        "unit": null
+                    },
+                    {
+                        "name": "coastal",
+                        "long_name": "Coastal",
+                        "description": "Answers the question: Is the Community located on the coast? (\"t\" for yes, and \"f\" for no)",
+                        "type": "boolean",
+                        "nullable": true,
+                        "unit": null
+                    },
+                    {
+                        "name": "road_or_ferry",
+                        "long_name": "Road or Ferry",
+                        "description": "Answers the question: Is the Community served by a state ferry or a road? (\"t\" for yes, and \"f\" for no)",
+                        "type": "boolean",
+                        "nullable": true,
+                        "unit": null
+                    },
+                    {
+                        "name": "description",
+                        "long_name": "Description",
+                        "description": "Narrative description",
+                        "type": "string",
+                        "nullable": true,
+                        "unit": null
+                    },
+                    {
+                        "name": "as_of_date",
+                        "long_name": "As of Date",
+                        "description": "When the transportation dataset last updated",
+                        "type": "string",
+                        "nullable": true,
+                        "unit": null
+                    }
+                ],
+                "primaryKey": [
+                    "community_fips_code"
+                ]
+            },
+            "dialect": {
+                "delimiter": ",",
+                "decimalSeparator": "."
+            }
+        }
+    ],
+    "metaMetadata": {
+        "metadataVersion": "OEMetadata-2.0.4",
+        "metadataLicense": {
+            "name": "CC0-1.0",
+            "title": "Creative Commons Zero v1.0 Universal",
+            "path": "https://creativecommons.org/publicdomain/zero/1.0"
+        }
+    }
+}

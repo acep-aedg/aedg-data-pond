@@ -1,0 +1,201 @@
+id,grid_id,cpcn_id,name,year
+1,222,1,Alaska Electric Light & Power Co.,2021
+2,215,121,Anchorage Municipal Light and Power,2020
+3,215,8,Chugach Electric Assn Inc,2021
+4,215,13,Golden Valley Elec Assn Inc,2021
+5,215,32,Homer Electric Assn Inc,2021
+6,217,103,Ketchikan Public Utilities,2021
+7,223,16,Kodiak Electric Assn Inc,2021
+8,215,18,Matanuska Electric Assn Inc,2021
+9,226,91,Paxson Inn & Lodge,2011
+10,224,227,TDX North Slope Generating Co,2021
+11,186,684,TDX Adak Generating LLC,2021
+12,1,449,City of Akhiok,2021
+13,2,412,Akiachak Native Community,2021
+14,3,635,Akiak City Council,2021
+15,4,293,City of Akutan,2021
+16,45,169,Alaska Village Electric Cooperative,2021
+17,5,2,Alaska Power & Telephone Company,2021
+18,35,169,Alaska Village Electric Cooperative,2021
+19,160,254,North Slope Borough Power & Light,2021
+20,125,240,Inside Passage Electric,2021
+21,93,5,Aniak Light & Power,2021
+22,36,169,Alaska Village Electric Cooperative,2021
+23,94,747,Arctic Village Electric Company,2021
+24,95,291,City of Atka,2021
+25,96,337,Atmautluak Tribal Utilities,2021
+26,161,254,North Slope Borough Power & Light,2021
+27,97,420,Beaver Joint Utilities,2021
+28,34,169,Alaska Village Electric Cooperative,2021
+29,7,2,Alaska Power & Telephone Company,2021
+30,98,767,Birch Creek Electric Company,2021
+31,39,169,Alaska Village Electric Cooperative,2021
+32,99,432,City of Buckland,2021
+33,116,341,Gold Country Energy,2021
+34,100,682,Chalkyitsik Village Council,2021
+35,154,365,Naterkaq Light Plant (City of Chefornak),2021
+36,101,686,Chenega Ira Council,2021
+37,40,169,Alaska Village Electric Cooperative,2021
+38,104,297,City of Chignik,2021
+39,102,658,Chignik Lagoon Power Utility,2021
+40,103,437,Chignik Lake Electric Utility,2021
+41,32,240,Inside Passage Electric,2021
+42,26,2,Alaska Power & Telephone Company,2021
+43,105,368,Chitina Electric Inc,2021
+44,144,343,Middle Kuskokwim Electric,2021
+45,106,256,Circle Electric Utility,2021
+46,107,360,City of Clark's Point,2021
+47,23,2,Alaska Power & Telephone Company,2021
+48,114,88,G & K Inc,2021
+49,14,160,Cordova Electric Cooperative,2021
+50,23,2,Alaska Power & Telephone Company,2021
+51,145,343,Middle Kuskokwim Electric,2021
+52,130,369,Ipnatchiaq Electric Company,2021
+53,169,45,Nushagak Electric Cooperative,2021
+54,110,383,Diomede Joint Utilities,2021
+55,15,2,Alaska Power & Telephone Company,2021
+56,9,2,Alaska Power & Telephone Company,2021
+57,41,169,Alaska Village Electric Cooperative,2021
+58,111,320,Egegik Light & Power Co,2021
+59,65,169,Alaska Village Electric Cooperative,2021
+60,112,701,Elfin Cove Utility Commission,2021
+61,43,169,Alaska Village Electric Cooperative,2021
+62,45,169,Alaska Village Electric Cooperative,2021
+63,113,442,City of False Pass,2021
+64,119,63,Gwitchyaa Zhee Utilities Company,2021
+65,115,274,City of Galena,2021
+66,46,169,Alaska Village Electric Cooperative,2021
+67,117,373,Golovin Power Utilities,2021
+68,47,169,Alaska Village Electric Cooperative,2021
+69,48,169,Alaska Village Electric Cooperative,2021
+70,118,2,Alaska Power & Telephone Company,2021
+71,32,2,Alaska Power & Telephone Company,2021
+72,11,2,Alaska Power & Telephone Company,2021
+73,23,2,Alaska Power & Telephone Company,2021
+74,49,169,Alaska Village Electric Cooperative,2021
+75,128,240,Inside Passage Electric,2021
+76,50,169,Alaska Village Electric Cooperative,2021
+77,120,332,Hughes Power & Light,2021
+78,51,169,Alaska Village Electric Cooperative,2021
+79,23,2,Alaska Power & Telephone Company,2021
+80,121,681,Igiugig Electric Company,2021
+81,123,280,I-N-N Electric Coop Inc,2021
+82,129,240,Inside Passage Electric,2021
+83,162,254,North Slope Borough Power & Light,2021
+84,52,169,Alaska Village Electric Cooperative,2021
+85,54,169,Alaska Village Electric Cooperative,2021
+86,92,683,Alutiiq Power Company,2021
+87,55,169,Alaska Village Electric Cooperative,2021
+88,57,169,Alaska Village Electric Cooperative,2021
+89,131,289,City of King Cove,2017
+90,132,446,Kipnuk Light Plant,2021
+91,58,169,Alaska Village Electric Cooperative,2021
+92,23,2,Alaska Power & Telephone Company,2021
+93,32,240,Inside Passage Electric,2021
+94,149,169,Alaska Village Electric Cooperative,2021
+95,134,660,Kokhanok Village Council,2021
+96,157,661,New Koliganek Village Council,2021
+97,176,395,Puvurnaq Power Company,2021
+98,59,169,Alaska Village Electric Cooperative,2021
+99,135,17,Kotzebue Electric Association,2021
+100,60,169,Alaska Village Electric Cooperative,2021
+101,136,687,City of Koyukuk,2021
+102,137,281,Kwethluk Incorporated d/b/a Kuiggluum Kallugvia,2021
+103,138,376,Kwigillingok Power Company,2021
+104,139,353,Larsen Bay Utility Company,2020
+105,140,330,Levelock Electrical Coop,2021
+106,141,570,Lime Village Electric Utility,2021
+107,52,169,Alaska Village Electric Cooperative,2021
+108,188,72,TDX Manley Generating LLC,2021
+109,142,321,Manokotak Power Company,2021
+110,61,169,Alaska Village Electric Cooperative,2021
+111,143,44,Mcgrath Light & Power,2021
+112,62,169,Alaska Village Electric Cooperative,2021
+113,26,2,Alaska Power & Telephone Company,2021
+114,63,169,Alaska Village Electric Cooperative,2021
+115,75,169,Alaska Village Electric Cooperative,2021
+116,150,22,Naknek Electric Association,2021
+117,34,319,Napakiak Ircinraq,2021
+118,153,625,Napaskiak Electric Utility,2021
+119,23,2,Alaska Power & Telephone Company,2021
+120,156,340,Nelson Lagoon Electrical Coop,2021
+121,65,169,Alaska Village Electric Cooperative,2021
+122,196,375,Ungusraq Power Company,2021
+123,88,169,Alaska Village Electric Cooperative,2021
+124,158,416,City of Nikolai,2021
+125,193,242,Umnak Power Company,2021
+126,66,169,Alaska Village Electric Cooperative,2021
+127,159,150,Nome Joint Utility Systems,2021
+128,67,169,Alaska Village Electric Cooperative,2021
+129,12,2,Alaska Power & Telephone Company,2021
+130,163,254,North Slope Borough Power & Light,2021
+131,68,169,Alaska Village Electric Cooperative,2021
+132,167,408,Nunam Iqua Electric Company,2021
+133,55,169,Alaska Village Electric Cooperative,2021
+134,69,169,Alaska Village Electric Cooperative,2021
+135,170,357,City of Ouzinkie,2021
+136,171,662,Pedro Bay Village Council,2021
+137,172,24,Pelican Utility,2021
+138,155,659,Native Village of Perryville,2020
+139,173,425,Pilot Point Electric Utility,2021
+140,70,169,Alaska Village Electric Cooperative,2021
+141,75,169,Alaska Village Electric Cooperative,2021
+142,174,765,Platinum Commercial Company LLC.,2017
+143,164,254,North Slope Borough Power & Light,2021
+144,165,254,North Slope Borough Power & Light,2021
+145,183,447,Tanalian Electric Cooperative,2021
+146,175,399,Port Heiden Utilities,2021
+147,71,169,Alaska Village Electric Cooperative,2021
+148,177,759,Rampart Village Council,2021
+149,146,343,Middle Kuskokwim Electric,2021
+150,178,364,City of Ruby,2021
+151,72,169,Alaska Village Electric Cooperative,2021
+152,179,410,City of Saint George,2021
+153,75,169,Alaska Village Electric Cooperative,2021
+154,84,169,Alaska Village Electric Cooperative,2021
+155,180,339,Saint Paul Municipal Electric,2021
+156,187,749,TDX Corporation,2021
+157,76,169,Alaska Village Electric Cooperative,2021
+158,77,169,Alaska Village Electric Cooperative,2021
+159,78,169,Alaska Village Electric Cooperative,2021
+160,79,169,Alaska Village Electric Cooperative,2021
+161,80,169,Alaska Village Electric Cooperative,2021
+162,81,169,Alaska Village Electric Cooperative,2021
+163,149,169,Alaska Village Electric Cooperative,2021
+164,32,2,Alaska Power & Telephone Company,2021
+165,26,2,Alaska Power & Telephone Company,2021
+166,147,343,Middle Kuskokwim Electric,2021
+167,84,169,Alaska Village Electric Cooperative,2021
+168,181,709,Stevens Village Ira Council,2018
+169,148,343,Middle Kuskokwim Electric,2021
+170,182,394,Takotna Community Assoc Inc,2021
+171,184,92,Tanana Power Company Inc,2021
+172,185,586,Tatitlek Village Ira Council,2021
+173,85,169,Alaska Village Electric Cooperative,2021
+174,189,363,City of Tenakee Springs,2021
+175,15,2,Alaska Power & Telephone Company,2021
+176,23,2,Alaska Power & Telephone Company,2021
+177,86,169,Alaska Village Electric Cooperative,2021
+178,15,2,Alaska Power & Telephone Company,2021
+179,88,169,Alaska Village Electric Cooperative,2021
+180,190,664,Tuluksak Traditional,2019
+181,191,344,Tuntutuliak Community,2021
+182,88,169,Alaska Village Electric Cooperative,2021
+183,192,729,Twin Hills Village Council,2021
+184,194,741,Unalakleet Valley Electric Cooperative,2021
+185,195,106,City of Unalaska,2021
+186,197,663,Venetie Village Electric,2021
+187,166,254,North Slope Borough Power & Light,2021
+188,90,169,Alaska Village Electric Cooperative,2021
+189,213,2,Alaska Power & Telephone Company,2021
+190,198,409,City of White Mountain,2021
+191,91,169,Alaska Village Electric Cooperative,2021
+192,216,10,Copper Valley Elec Assn Inc,2021
+193,219,100,City & Borough of Sitka,2021
+194,221,214,Barrow Utils & Elec Coop Inc,2021
+195,225,,Metlakatla Power & Light,2021
+197,224,,Arctic Utilities Inc,2002
+198,217,212,Petersburg Borough,2021
+199,215,108,City of Seward,2021
+200,217,111,City of Wrangell,2021
+201,215,,U S Air Force-Eielson AFB,2001
