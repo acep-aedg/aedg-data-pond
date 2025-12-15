@@ -63,6 +63,7 @@ property_tax_rev_usd,Property Tax Revenue,Propery tax revenue in U.S. Dollars (U
 puma,Public Use Microdata Area,"Public Use Microdata Areas (PUMAs) are non-overlapping, statistical geographic areas that partition each state or equivalent entity into geographic areas containing no fewer than 100,000 people each.",string,TRUE,null,default
 regional_corporation,Alaska Native Regional Corporation,Alaska Native regional corporations were created by the Alaska Native Claims Settlement Act (ANCSA),string,TRUE,null,default
 reporting_entity,Reporting Entity,The name of the electric service area providing electricity to the community,string,TRUE,null,default
+reporting_entity_name,Reporting Entity,The name of the electric service area providing electricity to the community,string,TRUE,null,default
 reporting_entity_cpcn_id,Reporting Entity Certificate Number,"A CPCN (Certificate of Public Convenience & Necessity) number, also called a certificate number, denotes a unique CPCN/certificate assigned by the Regulatory Commission of Alaska to a reporting entity.",integer,FALSE,null,default
 reporting_season,Reporting Season,"Season for which the fuel data was reported, Winter or Summer",string,TRUE,null,public_fuel_prices.csv
 reporting_year,Reporting Year,Four digit year as Common Era (CE) for which the fuel data was reported,integer,TRUE,null,public_fuel_prices.csv
