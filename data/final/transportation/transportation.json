@@ -12,7 +12,7 @@
                 "Infrastructure"
             ],
             "title": "Community Transportation Summary",
-            "path": "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/final/transportation.csv",
+            "path": "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/final/transportation/transportation.csv",
             "description": "Summary of the types of transportation available to each community. Includes information on airports, roads, the state ferry, harbors and docks, coastal status, and cargo barge. The price a community pays for energy depends significantly on the transportation options available for fuel and construction materials.\n",
             "languages": [
                 "en-US"
@@ -28,7 +28,7 @@
                 "dock",
                 "coastal"
             ],
-            "publicationDate": "2025-12-03",
+            "publicationDate": "2025-12-15",
             "context": {
                 "title": "Alaska Energy Data Gateway v3.0",
                 "homepage": "https://akenergygateway.alaska.edu/",
@@ -95,7 +95,7 @@
                     "roles": [
                         "DataCurator"
                     ],
-                    "date": "2025-12-03",
+                    "date": "2025-12-15",
                     "object": "data via https://github.com/acep-aedg/aedg-etl-2024",
                     "comment": "1. Identified data source and integrated it into the data pipeline.\n2. Joined transportation data with community FIPS codes to create this table\n",
                     "path": "https://www.uaf.edu/acep/"
@@ -105,7 +105,7 @@
                     "roles": [
                         "DataCurator"
                     ],
-                    "date": "2025-12-03",
+                    "date": "2025-12-15",
                     "object": "metadata via https://github.com/acep-aedg/aedg-metadata",
                     "comment": "Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.\n",
                     "path": "https://www.uaf.edu/acep/"
