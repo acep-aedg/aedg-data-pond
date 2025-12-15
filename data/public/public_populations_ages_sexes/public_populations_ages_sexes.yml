@@ -5,7 +5,7 @@ resource:
     Summary of the total population of each community with categorizations by age and sex.
   description: | # Description of what this dataset is and what it is doing here
     Total populations were measured by the U. S. Census and associated with communities by the Alaska Division of Community and Regional Affairs (DCRA). This dataset includes population size by sex in Alaskan communities for the most recent 5-year American Community Survey (ACS) intervals. It also includes population by age. The 5-year interval data sets are published approximately 1/2 a period later than the End Year listed.
-  path: "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/public/public_populations_ages_sexes.csv" # link to dataset in GitHub
+  path: "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/public/public_populations_ages_sexes/public_populations_ages_sexes.csv" # link to dataset in GitHub
   keywords:
     - total population
     - age

@@ -12,7 +12,7 @@
                 "Social"
             ],
             "title": "Taxes for Communities and Boroughs",
-            "path": "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/public/public_taxes.csv",
+            "path": "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/public/public_taxes/public_taxes.csv",
             "description": "Sales, property, and special tax revenue for communities and boroughs, 2017-2024.\n",
             "languages": [
                 "en-US"
@@ -24,7 +24,7 @@
                 "property",
                 "economy"
             ],
-            "publicationDate": "2025-12-03",
+            "publicationDate": "2025-12-15",
             "context": {
                 "title": "Alaska Energy Data Gateway v3.0",
                 "homepage": "https://akenergygateway.alaska.edu/",
@@ -105,7 +105,7 @@
                     "roles": [
                         "DataCurator"
                     ],
-                    "date": "2025-12-03",
+                    "date": "2025-12-15",
                     "object": "data via https://github.com/acep-aedg/aedg-etl-2024",
                     "comment": "1. Identified data source and integrated it into the data pipeline.\n2. Complied community names, locations, and FIPS identifiers for AEDG\n3. Joined tax data with AEDG communities to create this dataset\n",
                     "path": "https://www.uaf.edu/acep/"
@@ -115,7 +115,7 @@
                     "roles": [
                         "DataCurator"
                     ],
-                    "date": "2025-12-03",
+                    "date": "2025-12-15",
                     "object": "metadata via https://github.com/acep-aedg/aedg-metadata",
                     "comment": "Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.\n",
                     "path": "https://www.uaf.edu/acep/"
