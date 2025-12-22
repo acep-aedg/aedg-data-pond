@@ -1,11 +1,13 @@
-id,grid_id,cpcn_id,name,year
+id,grid_id,cpcn_id,name,most_recent_year
 1,222,1,Alaska Electric Light & Power Co.,2021
+2,215,121,Anchorage Municipal Light and Power,2020
 3,215,8,Chugach Electric Assn Inc,2021
 4,215,13,Golden Valley Elec Assn Inc,2021
 5,215,32,Homer Electric Assn Inc,2021
 6,217,103,Ketchikan Public Utilities,2021
 7,223,16,Kodiak Electric Assn Inc,2021
 8,215,18,Matanuska Electric Assn Inc,2021
+9,226,91,Paxson Inn & Lodge,2011
 10,224,227,TDX North Slope Generating Co,2021
 11,186,684,TDX Adak Generating LLC,2021
 12,1,449,City of Akhiok,2021
@@ -85,6 +87,7 @@ id,grid_id,cpcn_id,name,year
 86,92,683,Alutiiq Power Company,2021
 87,55,169,Alaska Village Electric Cooperative,2021
 88,57,169,Alaska Village Electric Cooperative,2021
+89,131,289,City of King Cove,2017
 90,132,446,Kipnuk Light Plant,2021
 91,58,169,Alaska Village Electric Cooperative,2021
 92,23,2,Alaska Power & Telephone Company,2021
@@ -137,6 +140,7 @@ id,grid_id,cpcn_id,name,year
 139,173,425,Pilot Point Electric Utility,2021
 140,70,169,Alaska Village Electric Cooperative,2021
 141,75,169,Alaska Village Electric Cooperative,2021
+142,174,765,Platinum Commercial Company LLC.,2017
 143,164,254,North Slope Borough Power & Light,2021
 144,165,254,North Slope Borough Power & Light,2021
 145,183,447,Tanalian Electric Cooperative,2021
@@ -189,6 +193,9 @@ id,grid_id,cpcn_id,name,year
 192,216,10,Copper Valley Elec Assn Inc,2021
 193,219,100,City & Borough of Sitka,2021
 194,221,214,Barrow Utils & Elec Coop Inc,2021
+195,225,,Metlakatla Power & Light,2021
+197,224,,Arctic Utilities Inc,2002
 198,217,212,Petersburg Borough,2021
 199,215,108,City of Seward,2021
 200,217,111,City of Wrangell,2021
+201,215,,U S Air Force-Eielson AFB,2001
