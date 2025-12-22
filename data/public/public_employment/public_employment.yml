@@ -5,7 +5,7 @@ resource:
     The number of employed residents and the number of unemployment insurance claimants for each community.
   description: | # Description of what this dataset is and what it is doing here
     The number of employed residents and the number of unemployment insurance claimants for each community. Data are available for 2001 to 2016.
-  path: "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/public/public_employment.csv" # link to dataset in GitHub
+  path: "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/public/public_employment/public_employment.csv" # link to dataset in GitHub
   keywords:
     - employment
     - community

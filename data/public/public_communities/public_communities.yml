@@ -5,7 +5,7 @@ resource:
     List of the communities displayed in the Alaska Energy Data Gateway (AEDG), cross-walked to other regional energy, governmental, and Indigenous organizations.
   description: | # Description of what this dataset is and what it is doing here
     List of the communities displayed in the Alaska Energy Data Gateway (AEDG), cross-walked to other regional energy, governmental, governmental and Indigenous organizations.
-  path: "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/public/public_communities.csv" # link to dataset in GitHub
+  path: "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/public/public_communities/public_communities.csv" # link to dataset in GitHub
   keywords:
     - community
     - Alaska Native corporation

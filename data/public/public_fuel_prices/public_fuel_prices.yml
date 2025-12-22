@@ -5,7 +5,7 @@ resource:
     Heating fuel oil and gasoline prices for Alaskan communities are a composite of three distinct datasets.
   description: | # Description of what this dataset is and what it is doing here
     Heating fuel oil and gasoline prices for Alaskan communities are a composite of three distinct datasets. The best data is for 100 communities that have been directly surveyed by the Alaska Division of Community and Regional Affairs (DCRA) since 2005. To cover communities not surveyed, DCRA computes regional averages over their economic regions, which AEDG associates with every community within that region. DCRA's survey intentionally omits the urban area of Anchorage because that area is separately surveyed by the Consumer Price Index of the U. S. Bureau of Labor Statistics (BLS). These three sources are combined into this summary dataset.
-  path: "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/public/public_fuel_prices.csv" # link to dataset in GitHub
+  path: "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/public/public_fuel_prices/public_fuel_prices.csv" # link to dataset in GitHub
   keywords:
     - heating fuel
     - gasoline

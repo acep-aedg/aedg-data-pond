@@ -5,7 +5,7 @@ resource:
     Sales, property, and special tax revenue for communities and boroughs.
   description: | # Description of what this dataset is and what it is doing here
     Sales, property, and special tax revenue for communities and boroughs, 2017-2024.
-  path: "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/public/public_taxes.csv" # link to dataset in GitHub
+  path: "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/public/public_taxes/public_taxes.csv" # link to dataset in GitHub
   keywords:
     - revenue
     - taxes
