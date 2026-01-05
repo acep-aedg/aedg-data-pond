@@ -35,7 +35,8 @@ source ./src/file_dump.sh
 # run metadata pull script
 source ./src/generate_metadata.sh
 
-
+# run stale data script
+source ./src/identify_stale_datasets.sh
 
 
 # End time
