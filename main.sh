@@ -32,12 +32,13 @@ done
 # run data dump script
 source ./src/file_dump.sh
  
-# run metadata pull script
+# run metadata generation script
 source ./src/generate_metadata.sh
 
-# run stale data script
-source ./src/identify_stale_datasets.sh
+# run stale data identification script
+source ./src/identify_stale_datasets.sh 2023
 
+# run metadata to markdown script
 source ./src/generate_markdown.sh
 
 
