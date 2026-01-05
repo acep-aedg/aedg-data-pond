@@ -1,0 +1,39 @@
+#!/bin/bash
+
+METADATA_FILES=$(find "data" -type f -name "*.json")
+
+echo ""
+
+for METADATA_FILE in $METADATA_FILES; do
+    REPORT_PATH="${METADATA_FILE%.json}.md"
+    
+    # single jq command to build the doc
+    jq -r '
+      .resources[0] | 
+      (
+        "# " + .title + "\n\n" +
+        "## Description\n" + .description + "\n\n" +
+        
+        "## Responsible Party\n" +
+        "* **Publisher:** " + .context.publisher + "\n" +
+        "* **Funding Agency:** " + .context.fundingAgency + "\n\n" +
+        
+        "## Data Lineage\n" +
+        "* **Path:** [" + .path + "](" + .path + ")\n" +
+        "* **Publication Date:** " + .publicationDate + "\n\n" +
+        
+        "### Sources\n" +
+        ([.sources[] | "* **" + .title + "** (" + .publicationYear + ")\n  " + .description] | join("\n")) + "\n\n" +
+        
+        "### Data Dictionary\n" +
+        "| Column Name | Type | Unit | Description |\n" +
+        "| :--- | :--- | :--- | :--- |\n" +
+        ([.schema.fields[] | "| " + .long_name + " | " + .type + " | " + (.unit // "None") + " | " + .description + " |"] | join("\n"))
+      )
+    ' "$METADATA_FILE" > "$REPORT_PATH"
+
+    printf "Converted: %s\n" "$REPORT_PATH"
+done
+
+
+

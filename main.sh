@@ -38,6 +38,8 @@ source ./src/generate_metadata.sh
 # run stale data script
 source ./src/identify_stale_datasets.sh
 
+source ./src/generate_markdown.sh
+
 
 # End time
 end_time=$(date +%s.%N)
