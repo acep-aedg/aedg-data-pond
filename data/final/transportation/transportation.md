@@ -9,16 +9,18 @@ Summary of the types of transportation available to each community. Includes inf
 * **Funding Agency:** State of Alaska
 
 ## Data Lineage
-* **Path:** [https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/final/transportation/transportation.csv](https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/final/transportation/transportation.csv)
-* **Publication Date:** 2025-12-15
+* **URL:** [https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/final/transportation/transportation.csv](https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/final/transportation/transportation.csv)
+* **Reference Date:** 2024-05-15
 
 ### Sources
 * **Community Transportation Overview** (2024)
-  Summary of the types of transportation available to each community. Includes information on airports, roads, the state ferry, harbors and docks, coastal status, and cargo barge. Most communities in Alaska typically have an unmanned general aviation airport of which Alaska DOT P&F owns and operates 237 airports. This data is relatively static.
+  https://maps.commerce.alaska.gov/server/rest/services/Transportation/Transportation_Overview/MapServer/0
+ Summary of the types of transportation available to each community. Includes information on airports, roads, the state ferry, harbors and docks, coastal status, and cargo barge. Most communities in Alaska typically have an unmanned general aviation airport of which Alaska DOT P&F owns and operates 237 airports. This data is relatively static.
 AEDG uses these data to display transportation options because these greatly influence the prices paid for fuel and other energy sources. Communities who rely only on air freight will likely pay a much higher amount for energy.
 
 * **2024 US Census Place Gazetteer File, Alaska** (2024)
-  The U.S. Gazetteer File provide a listing of all geographic areas in Alaska. The files include geographic identifier codes, names, area measurements, and representative latitude and longitude coordinates.
+  https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2024_Gazetteer/2024_gaz_place_02.txt
+ The U.S. Gazetteer File provide a listing of all geographic areas in Alaska. The files include geographic identifier codes, names, area measurements, and representative latitude and longitude coordinates.
 AEDG used to use the ANSI codes in this dataset as an identifier of communities but this was discontinued.
 
 
@@ -35,3 +37,9 @@ AEDG used to use the ANSI codes in this dataset as an identifier of communities 
 | Road or Ferry | boolean | None | Answers the question: Is the Community served by a state ferry or a road? ("t" for yes, and "f" for no) |
 | Description | string | None | Narrative description |
 | As of Date | string | None | When the transportation dataset last updated |
+
+## License
+CC-BY-4.0
+Creative Commons Attribution 4.0 International
+https://creativecommons.org/licenses/by/4.0/
+

@@ -19,16 +19,21 @@ for METADATA_FILE in $METADATA_FILES; do
         "* **Funding Agency:** " + .context.fundingAgency + "\n\n" +
         
         "## Data Lineage\n" +
-        "* **Path:** [" + .path + "](" + .path + ")\n" +
-        "* **Publication Date:** " + .publicationDate + "\n\n" +
+        "* **URL:** [" + .path + "](" + .path + ")\n" +
+        "* **Reference Date:** " + .temporal.referenceDate + "\n\n" +
         
         "### Sources\n" +
-        ([.sources[] | "* **" + .title + "** (" + .publicationYear + ")\n  " + .description] | join("\n")) + "\n\n" +
+        ([.sources[] | "* **" + .title + "** (" + .publicationYear + ")\n  " + .path + "\n " + .description] | join("\n")) + "\n\n" +
         
         "### Data Dictionary\n" +
         "| Column Name | Type | Unit | Description |\n" +
         "| :--- | :--- | :--- | :--- |\n" +
-        ([.schema.fields[] | "| " + .long_name + " | " + .type + " | " + (.unit // "None") + " | " + .description + " |"] | join("\n"))
+        ([.schema.fields[] | "| " + .long_name + " | " + .type + " | " + (.unit // "None") + " | " + .description + " |"] | join("\n")) + "\n\n" +
+
+        "## License\n" +
+        .licenses[].name + "\n" +
+        .licenses[].title + "\n" +
+        .licenses[].path + "\n"
       )
     ' "$METADATA_FILE" > "$REPORT_PATH"
 

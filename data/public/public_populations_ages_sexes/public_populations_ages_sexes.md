@@ -9,24 +9,28 @@ Total populations were measured by the U. S. Census and associated with communit
 * **Funding Agency:** State of Alaska
 
 ## Data Lineage
-* **Path:** [https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/public/public_populations_ages_sexes/public_populations_ages_sexes.csv](https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/public/public_populations_ages_sexes/public_populations_ages_sexes.csv)
-* **Publication Date:** 2025-12-15
+* **URL:** [https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/public/public_populations_ages_sexes/public_populations_ages_sexes.csv](https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/public/public_populations_ages_sexes/public_populations_ages_sexes.csv)
+* **Reference Date:** 2025-06-01
 
 ### Sources
 * **Places (Cities and CDPs) Shapefile** (2020)
-  This is an ESRI Shapefile for use in GIS software that contains place data from the 2020 US Census for Alaska. The definition of places includes all incorporated cities as well as Census Designated Places (CDPs). Each geographic unit is identified using Federal Information Processing Standards (FIPS) numbers. Coordinate System: North American Datum 1983 Alaska Albers. Source: 2020 US Census, PL94-171 Redistricting File; 2020 US Census Tiger Shapefiles. Documentation of field names: https://live.laborstats.alaska.gov/cen/maps/gis/Places2020.pdf. The Alaska Department of Labor and Workforce Development has had a cooperative agreement with the U.S. Census Bureau since 1981 to assist with geographic programs and help Alaskans find Census Bureau data.
+  https://live.laborstats.alaska.gov/article/maps-gis-data
+ This is an ESRI Shapefile for use in GIS software that contains place data from the 2020 US Census for Alaska. The definition of places includes all incorporated cities as well as Census Designated Places (CDPs). Each geographic unit is identified using Federal Information Processing Standards (FIPS) numbers. Coordinate System: North American Datum 1983 Alaska Albers. Source: 2020 US Census, PL94-171 Redistricting File; 2020 US Census Tiger Shapefiles. Documentation of field names: https://live.laborstats.alaska.gov/cen/maps/gis/Places2020.pdf. The Alaska Department of Labor and Workforce Development has had a cooperative agreement with the U.S. Census Bureau since 1981 to assist with geographic programs and help Alaskans find Census Bureau data.
 AEDG uses this list to define canonical community locations to use in spatial joins and relations, to associate places with FIPS codes, and to establish total community population.
 
 * **Alaska Communities** (2023)
-  The Alaska Communities dataset is the reference list of place locations, represented as points, used by the Alaska Division of Community and Regional Affairs (DCRA). In includes community locations but for historical reasons, it is a mix of Communities, Places of Interest, Borough/Census Area as well as Alaska centroid. DCRA uses it to link communities to their internal key GUID used elsewhere in their systems.
+  https://maps.commerce.alaska.gov/server/rest/services/Community_Related/Community_Locations_and_Boundaries/MapServer/0
+ The Alaska Communities dataset is the reference list of place locations, represented as points, used by the Alaska Division of Community and Regional Affairs (DCRA). In includes community locations but for historical reasons, it is a mix of Communities, Places of Interest, Borough/Census Area as well as Alaska centroid. DCRA uses it to link communities to their internal key GUID used elsewhere in their systems.
 AEDG uses this list to define canonical community names since, as free text, these can vary in different contexts, and to establish locations to use in spatial joins and relations.
 
 * **American Community Survey Population Characteristics, Age** (2022)
-  Population by age in Alaskan communities for the most recent 5-year American Community Survey (ACS) interval. GIS data shows the median age of each community. This data has been visualized in a Geographic Information Systems (GIS) format and is provided as a service in the DCRA Information Portal by the Alaska Department of Commerce, Community, and Economic Development Division of Community and Regional Affairs (SOA DCCED DCRA), Research and Analysis section. SOA DCCED DCRA Research and Analysis is not the authoritative source for this data. For more information and for questions about this data, see: US Census - The Significance of Age and Sex Data and Alaska DOLWD ACS Data
+  https://maps.commerce.alaska.gov/server/rest/services/Demographics/Alaska_American_Community_Survey/MapServer/5
+ Population by age in Alaskan communities for the most recent 5-year American Community Survey (ACS) interval. GIS data shows the median age of each community. This data has been visualized in a Geographic Information Systems (GIS) format and is provided as a service in the DCRA Information Portal by the Alaska Department of Commerce, Community, and Economic Development Division of Community and Regional Affairs (SOA DCCED DCRA), Research and Analysis section. SOA DCCED DCRA Research and Analysis is not the authoritative source for this data. For more information and for questions about this data, see: US Census - The Significance of Age and Sex Data and Alaska DOLWD ACS Data
 AEDG uses this dataset to associate places (point locations) with population divided into age ranges.
 
 * **American Community Survey Population Characteristics, Sex** (2022)
-  Population size by sex in Alaskan communities for the most recent 5-year American Community Survey (ACS) intervals. GIS data shows the male to female ratio of each community. This data has been visualized in a Geographic Information Systems (GIS) format and is provided as a service in the DCRA Information Portal by the Alaska Department of Commerce, Community, and Economic Development Division of Community and Regional Affairs (SOA DCCED DCRA), Research and Analysis section. SOA DCCED DCRA Research and Analysis is not the authoritative source for this data. For more information and for questions about this data, see: US Census - The Significance of Age and Sex Data.
+  https://maps.commerce.alaska.gov/server/rest/services/Demographics/Alaska_American_Community_Survey/MapServer/0
+ Population size by sex in Alaskan communities for the most recent 5-year American Community Survey (ACS) intervals. GIS data shows the male to female ratio of each community. This data has been visualized in a Geographic Information Systems (GIS) format and is provided as a service in the DCRA Information Portal by the Alaska Department of Commerce, Community, and Economic Development Division of Community and Regional Affairs (SOA DCCED DCRA), Research and Analysis section. SOA DCCED DCRA Research and Analysis is not the authoritative source for this data. For more information and for questions about this data, see: US Census - The Significance of Age and Sex Data.
 AEDG uses this dataset to associate places (point locations) with population divided into male and female.
 
 
@@ -60,3 +64,9 @@ AEDG uses this dataset to associate places (point locations) with population div
 | Estimated Population All Ages | number | None | Estimated population of all ages |
 | Estimated Male Population | number | None | Estimated male population |
 | Estimated Female Population | number | None | Estimated female population |
+
+## License
+CC-BY-4.0
+Creative Commons Attribution 4.0 International
+https://creativecommons.org/licenses/by/4.0/
+
