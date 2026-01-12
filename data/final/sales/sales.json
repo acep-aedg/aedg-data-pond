@@ -1,0 +1,236 @@
+{
+    "@context": "",
+    "name": "sales",
+    "title": "Annual Sales Revenue and Customers by Reporting Entity",
+    "description": "Annual sales, revenue, and customer data aggregated by reporting entity. \n",
+    "@id": "",
+    "resources": [
+        {
+            "@id": "",
+            "name": "sales",
+            "topics": [
+                "Electricity"
+            ],
+            "title": "Annual Sales Revenue and Customers by Reporting Entity",
+            "path": "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/final/sales/sales.csv",
+            "description": "Annual sales, revenue, and customer data aggregated by reporting entity.\n",
+            "languages": [
+                "en-US"
+            ],
+            "keywords": [
+                "sales",
+                "revenue",
+                "electricity",
+                "Power Cost Equalization (PCE)",
+                "EIA Form 923"
+            ],
+            "publicationDate": "2026-01-12",
+            "context": {
+                "title": "Alaska Energy Data Gateway v3.0",
+                "homepage": "https://akenergygateway.alaska.edu/",
+                "publisher": "Alaska Center for Energy and Power (ACEP) at the University of Alaska Fairbanks (UAF)",
+                "fundingAgency": "State of Alaska"
+            },
+            "spatial": {
+                "extent": {
+                    "name": "Alaska",
+                    "boundingBox": [
+                        -187.55,
+                        51.21,
+                        -130.0,
+                        71.35
+                    ],
+                    "crs": "OGC:CRS84"
+                }
+            },
+            "temporal": {
+                "referenceDate": "2021",
+                "timeseries": [
+                    {
+                        "start": "2021-01",
+                        "end": "2021-12",
+                        "resolutionValue": "1",
+                        "resolutionUnit": "month",
+                        "aggregationType": "sum"
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "title": "Alaska Energy Statistics Financial Tables",
+                    "authors": [
+                        "Alaska Center for Energy and Power (ACEP), University of Alaska Fairbanks (UAF)",
+                        "Neil McMahon, DOWL Engineering",
+                        "Alaska Energy Authority (AEA)",
+                        "Institute of Social and Economic Research (ISER), University of Alaska Anchorage (UAA)"
+                    ],
+                    "description": "The Alaska Energy Statistics is a long-running collection of data and reports about energy production, consumption, and related topics specific to the state of Alaska. The workbooks were developed to provide community and utility level datasets that support regional and statewide aggregations for use in the 2024 Alaska Electricity Trends Report. This is a continuation of a 40+ year effort to create and maintain high level views of the state\u2019s energy profile that are useful for policy makers, businesses, researchers, and others interested in Alaska\u2019s energy sector. Data are derived from community Power Cost Equalization reports collated by the Alaska Energy Authority and power plant reporting to the U.S. Energy Information Administration (EIA). These sources are supplemented by annual filings to the Regulatory Commission of Alaska (RCA), village and powerhouse assessments, and direct communications with utilities and hydro/wind program managers.\nAdditional funding was contributed by Office of Naval Research (ONR) funded Alaska Regional Collaboration for Technology Innovation and Commercialization (ARCTIC) program, the Denali Commission, and the State of Alaska.\nAEDG uses this dataset as the best available compilation of electricity sales, incorporating data from multiple sources into a single source.\n",
+                    "publicationYear": "2024",
+                    "path": "https://acep-uaf.github.io/ak-energy-statistics-2011_2021/",
+                    "sourceLicenses": [
+                        {
+                            "name": "CC-SA-4.0",
+                            "title": "Creative Commons Attribution-ShareAlike 4.0 International",
+                            "path": "https://creativecommons.org/licenses/by-sa/4.0/",
+                            "instruction": "You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.\n",
+                            "attribution": "Alaska Center for Energy and Power, University of Alaska Fairbanks"
+                        }
+                    ]
+                }
+            ],
+            "licenses": [
+                {
+                    "name": "CC-BY-4.0",
+                    "title": "Creative Commons Attribution 4.0 International",
+                    "path": "https://creativecommons.org/licenses/by/4.0/",
+                    "instruction": "You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.\n",
+                    "attribution": "Alaska Center for Energy and Power, University of Alaska Fairbanks"
+                }
+            ],
+            "contributors": [
+                {
+                    "title": "Neil McMahon",
+                    "organization": "Alaska Center for Energy and Power (ACEP) at the University of Alaska Fairbanks (UAF)",
+                    "roles": [
+                        "DataCollector"
+                    ],
+                    "date": "2024",
+                    "object": "data from the Alaska Energy Statistics Electrical Generation Tables",
+                    "comment": "Pulled data from the original sources, the compiled, corrected, harmonized, transformed data into Excel Workbooks as annual datasets and as Financial and Generation timeseries. Additional corrections were applied to the yearly data.\n",
+                    "path": "https://www.uaf.edu/acep/"
+                },
+                {
+                    "organization": "Alaska Center for Energy and Power (ACEP) at the University of Alaska Fairbanks (UAF)",
+                    "roles": [
+                        "DataCurator"
+                    ],
+                    "date": "2025",
+                    "object": "data via https://github.com/acep-aedg/aedg-etl-2024",
+                    "comment": "1. Alakanuk and Emmonak intertied in 2016, both reported partial annual data, we combined data into single record.\n2. Andreanof Electric Corp transfered to City of Atka in 2008, both reported partial annual data, we combined data into single record.\n3. Bethel Utilities Corp transfered to AVEC, both reported partial annual data, we combined data into single record.\n4. Central Electric Inc transfered to Gold Country Energy in 2010, both reported partial annual data, we combined data into single record.\n5. Coffman Cove intertied to Prince of Wales Island grid in 2015, both reported partial annual data, we combined data into single record.\n6. City of Ekwok transfered to AVEC in 2011, both reported partial annual data, we combined data into single record.\n7. Gustavus Electric Co transfered to Alaska Power & Telephone Company in 2014, both reported partial annual data, we combined data into single record.\n8. City of King Cove transfered to King Cove Corporation in 2017, both reported partial annual data, we combined data into single record.\n9. Kobuk Valley Electric Company transfered to AVEC in 2012, both reported partial annual data, we combined data into single record.\n10. Kotlik Joint Utility transfered to AVEC in 2008, both reported partial annual data, we combined data into single record.\n11. Mentasta Lake connected to Slana grid in 2011, both reported partial annual data, we combined data into single record.\n12. Nightmute connected to Toksook Bay grid in 2008, both reported partial annual data, we combined data into single record.\n13. Nunapitchuk connected to Kasigluk grid in 2006, both reported partial annual data, we combined data into single record.\n14. Yakutat Power Inc transfered to AVEC in 2017, both reported partial annual data, we combined data into single record.\n",
+                    "path": "https://www.uaf.edu/acep/"
+                },
+                {
+                    "organization": "Alaska Center for Energy and Power (ACEP) at the University of Alaska Fairbanks (UAF)",
+                    "roles": [
+                        "DataCurator"
+                    ],
+                    "date": "2026-01-12",
+                    "object": "metadata via https://github.com/acep-aedg/aedg-metadata",
+                    "comment": "Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.\n",
+                    "path": "https://www.uaf.edu/acep/"
+                }
+            ],
+            "type": "table",
+            "format": "csv",
+            "encoding": "",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "reporting_entity_id",
+                        "long_name": "Reporting Entity ID",
+                        "description": "Sales reporting identification number managed by Alaska Energy Authority",
+                        "type": "string",
+                        "nullable": true,
+                        "unit": null
+                    },
+                    {
+                        "name": "year",
+                        "long_name": "Year",
+                        "description": "Four digit year as Common Era (CE)",
+                        "type": "integer",
+                        "nullable": false,
+                        "unit": null
+                    },
+                    {
+                        "name": "residential_revenue",
+                        "long_name": "Residential Revenue",
+                        "description": "Revenue generated by sales to residential customers",
+                        "type": "number",
+                        "nullable": true,
+                        "unit": "USD"
+                    },
+                    {
+                        "name": "residential_sales",
+                        "long_name": "Residential Sales",
+                        "description": "Sales of electricity to residential customers",
+                        "type": "number",
+                        "nullable": true,
+                        "unit": "MWh"
+                    },
+                    {
+                        "name": "residential_customers",
+                        "long_name": "Residential Customers",
+                        "description": "Number of residential customers reported",
+                        "type": "integer",
+                        "nullable": true,
+                        "unit": null
+                    },
+                    {
+                        "name": "commercial_revenue",
+                        "long_name": "Commercial Revenue",
+                        "description": "Revenue generated by sales to commercial customers",
+                        "type": "number",
+                        "nullable": true,
+                        "unit": "USD"
+                    },
+                    {
+                        "name": "commercial_sales",
+                        "long_name": "Commercial Sales",
+                        "description": "Sales of electricity to commercial customers",
+                        "type": "number",
+                        "nullable": true,
+                        "unit": "MWh"
+                    },
+                    {
+                        "name": "commercial_customers",
+                        "long_name": "Commercial Customers",
+                        "description": "Number of commercial customers reported",
+                        "type": "integer",
+                        "nullable": true,
+                        "unit": null
+                    },
+                    {
+                        "name": "total_revenue",
+                        "long_name": "Total Revenue",
+                        "description": "Revenue generated by sales to total customers",
+                        "type": "number",
+                        "nullable": true,
+                        "unit": "USD"
+                    },
+                    {
+                        "name": "total_sales",
+                        "long_name": "Total Sales",
+                        "description": "Sales of electricity to total customers",
+                        "type": "number",
+                        "nullable": true,
+                        "unit": "MWh"
+                    },
+                    {
+                        "name": "total_customers",
+                        "long_name": "Total Customers",
+                        "description": "Number of total customers reported",
+                        "type": "integer",
+                        "nullable": true,
+                        "unit": null
+                    }
+                ],
+                "primaryKey": [
+                    "reporting_entity_id",
+                    "year"
+                ]
+            },
+            "dialect": {
+                "delimiter": ",",
+                "decimalSeparator": "."
+            }
+        }
+    ],
+    "metaMetadata": {
+        "metadataVersion": "OEMetadata-2.0.4",
+        "metadataLicense": {
+            "name": "CC0-1.0",
+            "title": "Creative Commons Zero v1.0 Universal",
+            "path": "https://creativecommons.org/publicdomain/zero/1.0"
+        }
+    }
+}
