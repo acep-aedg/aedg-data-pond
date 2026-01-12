@@ -43,6 +43,22 @@ AEDG uses this dataset as the best available compilation of electricity sales, i
 | Industrial Rate | number | USD//kWh | Price of electricity as US dollars per killowatt hour for industrial customers |
 | Year | integer | None | Four digit year as Common Era (CE) |
 
+### Comments
+> **2024**: Pulled data from the original sources, the compiled, corrected, harmonized, transformed data into Excel Workbooks as annual datasets and as Financial and Generation timeseries. Additional corrections were applied to the yearly data.
+> 
+
+> **2025**: 1. Contracted Neil McMahon to produce the Workbooks, and then posted them in GitHub for distribution.
+> 2. Complied community names, locations, and FIPS identifiers for AEDG
+> 3. residential rates are pre-calculated as residential_rate for all reporting entities and post-subsidy effective_rate for PCE reporting entities
+> 4. data for commercial and industrial was reported only as sales and revenue. For these categories, rates were calculated by dividing revenue/sales_mwh, producing the columns industrial_rate_calculated and commercial_rate_calculated.
+> 5. For good measure, residential rates were also calculated this way. residential_rate pre-calculated in the Workbooks, should equal residential_rate_calculated, calculated by us. (spoiler: they are equal when rounded to 2 decimals, which I codified in a DBT data test)
+> 6. For a few non-PCE reporting entities, especially Railbelt utilities, neither residential rates nor effective rates were calculated. For this reason, I experimented with combining rates into a single column: starting with effective_rate and filling with residential_rate_calculated when effective_rate was NULL. I’m not sure this is the best approach since they are different situations (non-PCE vs PCE), I suppose that’s worth discussing. We could leave the two columns side by side in order to maintain clarity. Rails would need a smart query to pull calculated_rate when effective_rate was NULL, essentially making that column on the fly. For now, I left all 4 columns so we can look at this in detail.
+> 7. Joined sales data with AEDG communities to create this dataset
+> 
+
+> **2026-01-12**: Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.
+> 
+
 ## License
 CC-BY-4.0
 Creative Commons Attribution 4.0 International

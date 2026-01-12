@@ -24,7 +24,7 @@
                 "road",
                 "community"
             ],
-            "publicationDate": "2025-12-15",
+            "publicationDate": "2026-01-12",
             "context": {
                 "title": "Alaska Energy Data Gateway v3.0",
                 "homepage": "https://akenergygateway.alaska.edu/",
@@ -44,16 +44,8 @@
                 }
             },
             "temporal": {
-                "referenceDate": "2023-04-12",
-                "timeseries": [
-                    {
-                        "start": "1980-01",
-                        "end": "2015-06",
-                        "resolutionValue": "1",
-                        "resolutionUnit": "month",
-                        "aggregationType": "sum"
-                    }
-                ]
+                "referenceDate": "2025",
+                "timeseries": []
             },
             "sources": [
                 {
@@ -110,7 +102,7 @@
                     "roles": [
                         "DataCurator"
                     ],
-                    "date": "2025-12-15",
+                    "date": "2025",
                     "object": "data via https://github.com/acep-aedg/aedg-etl-2024",
                     "comment": "1. Identified data source and integrated it into the data pipeline.\n2. Complied community names, locations, and FIPS identifiers for AEDG\n",
                     "path": "https://www.uaf.edu/acep/"
@@ -120,7 +112,7 @@
                     "roles": [
                         "DataCurator"
                     ],
-                    "date": "2025-12-15",
+                    "date": "2026-01-12",
                     "object": "metadata via https://github.com/acep-aedg/aedg-metadata",
                     "comment": "Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.\n",
                     "path": "https://www.uaf.edu/acep/"

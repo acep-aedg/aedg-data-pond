@@ -32,6 +32,17 @@ AEDG uses this dataset as the best available compilation of electrical generatio
 | Fuel Type | string | None | Generation fuel |
 | Year | integer | None | Four digit year as Common Era (CE) for which generation capacity was summarized |
 
+### Comments
+> **2024**: Pulled data from the original sources, the compiled, corrected, harmonized, transformed data into Excel Workbooks as annual datasets and as Financial and Generation timeseries and as Infrastructure summaries.
+> 
+
+> **2025**: 1. Contracted Neil McMahon to produce the Workbooks, and then posted them in GitHub for distribution.
+> 2. Extracted a the most recent capacity figures for each unique grid.
+> 
+
+> **2026-01-12**: Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.
+> 
+
 ## License
 CC-BY-4.0
 Creative Commons Attribution 4.0 International

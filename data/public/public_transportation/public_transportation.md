@@ -43,6 +43,15 @@ AEDG uses these data to display transportation options because these greatly inf
 | Road or Ferry | boolean | None | Answers the question: Is the Community served by a state ferry or a road? ("t" for yes, and "f" for no) |
 | Description | string | None | Narrative description |
 
+### Comments
+> **2025**: 1. Identified data source and integrated it into the data pipeline.
+> 2. Complied community names, locations, and FIPS identifiers for AEDG
+> 3. Joined transportation data with AEDG communities to create this dataset
+> 
+
+> **2026-01-12**: Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.
+> 
+
 ## License
 CC-BY-4.0
 Creative Commons Attribution 4.0 International

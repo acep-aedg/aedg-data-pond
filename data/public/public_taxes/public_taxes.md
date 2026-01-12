@@ -42,6 +42,15 @@ AEDG includes tax data as a measure of economic activity. From our analysis, thi
 | Community Report | boolean | USD | Answers the question: Did the community report these taxes?  ("t" for yes, and "f" for no) |
 | Most Recent Taxes | boolean | USD | Answers the question: Are these the most recent values for these taxes?  ("t" for yes, and "f" for no) |
 
+### Comments
+> **2025**: 1. Identified data source and integrated it into the data pipeline.
+> 2. Complied community names, locations, and FIPS identifiers for AEDG
+> 3. Joined tax data with AEDG communities to create this dataset
+> 
+
+> **2026-01-12**: Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.
+> 
+
 ## License
 CC-BY-4.0
 Creative Commons Attribution 4.0 International
