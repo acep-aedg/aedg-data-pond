@@ -28,7 +28,7 @@
                 "EIA Form 923",
                 "community"
             ],
-            "publicationDate": "2025-12-15",
+            "publicationDate": "2026-01-14",
             "context": {
                 "title": "Alaska Energy Data Gateway v3.0",
                 "homepage": "https://akenergygateway.alaska.edu/",
@@ -74,15 +74,15 @@
                     "sourceLicenses": []
                 },
                 {
-                    "title": "Alaska Energy Statistics Infrastructure Tables",
+                    "title": "Alaska Energy Statistics Infrastructure Table",
                     "authors": [
                         "Alaska Center for Energy and Power (ACEP), University of Alaska Fairbanks (UAF)",
-                        "Neil McMahon, DOWL Engineering",
+                        "Neil McMahon, ACEP",
                         "Alaska Energy Authority (AEA)",
                         "Institute of Social and Economic Research (ISER), University of Alaska Anchorage (UAA)"
                     ],
                     "description": "The Alaska Energy Statistics is a long-running collection of data and reports about energy production, consumption, and related topics specific to the state of Alaska. The workbooks were developed to provide community and utility level datasets that support regional and statewide aggregations for use in the 2024 Alaska Electricity Trends Report. This is a continuation of a 40+ year effort to create and maintain high level views of the state\u2019s energy profile that are useful for policy makers, businesses, researchers, and others interested in Alaska\u2019s energy sector. Data are derived from community Power Cost Equalization reports collated by the Alaska Energy Authority and power plant reporting to the U.S. Energy Information Administration (EIA). These sources are supplemented by annual filings to the Regulatory Commission of Alaska (RCA), village and powerhouse assessments, and direct communications with utilities and hydro/wind program managers.\nAdditional funding was contributed by Office of Naval Research (ONR) funded Alaska Regional Collaboration for Technology Innovation and Commercialization (ARCTIC) program, the Denali Commission, and the State of Alaska.\nAEDG uses this dataset as the best available compilation of electrical generation capacity, incorporating data from multiple sources into a single source.\n",
-                    "publicationYear": "2024",
+                    "publicationYear": "2023",
                     "path": "https://acep-uaf.github.io/ak-energy-statistics-2011_2021/",
                     "sourceLicenses": [
                         {
@@ -121,7 +121,7 @@
                     "roles": [
                         "DataCurator"
                     ],
-                    "date": "2025-12-15",
+                    "date": "2026-01-14",
                     "object": "data via https://github.com/acep-aedg/aedg-etl-2024",
                     "comment": "1. Contracted Neil McMahon to produce the Workbooks, and then posted them in GitHub for distribution.\n2. Extracted a the most recent capacity figures for each unique grid.\n",
                     "path": "https://www.uaf.edu/acep/"
@@ -131,7 +131,7 @@
                     "roles": [
                         "DataCurator"
                     ],
-                    "date": "2025-12-15",
+                    "date": "2026-01-14",
                     "object": "metadata via https://github.com/acep-aedg/aedg-metadata",
                     "comment": "Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.\n",
                     "path": "https://www.uaf.edu/acep/"
