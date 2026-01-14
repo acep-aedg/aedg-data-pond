@@ -54,7 +54,7 @@ resource:
     - organization: acep
       roles:
         - DataCurator
-      date: now
+      date: 2025
       object: data via https://github.com/acep-aedg/aedg-etl-2024
       comment: |
         1. Contracted Neil McMahon to produce the Workbooks, and then posted them in GitHub for distribution.

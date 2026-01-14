@@ -27,21 +27,15 @@ resource:
     boundingBox: [-187.55, 51.21, -130.0, 71.35]
     crs: OGC:CRS84
   temporal:  # optional if `-time none`
-    referenceDate: "2023-04-12"  # equivalent to as_of_date
-    timeseries:  # is a list of possibly multiple time periods
-      - start: "1980-01"
-        end: "2015-06"
-        resolutionValue: "1"
-        resolutionUnit: month
-        alignment: null
-        aggregationType: sum
+    referenceDate: "2025"  # equivalent to as_of_date
+    timeseries:  null
   primaryKey: # list of the fields that uniquely identifies each row in the table. Fields harvested from posted file.
     - dcra_code
   contributors: # who helped make the dataset
     - organization: acep
       roles:
         - DataCurator
-      date: now
+      date: 2025
       object: data via https://github.com/acep-aedg/aedg-etl-2024
       comment: |
         1. Identified data source and integrated it into the data pipeline.

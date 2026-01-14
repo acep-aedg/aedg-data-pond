@@ -38,6 +38,15 @@ AEDG uses this dataset to provide employment figures for communities. However, t
 | Unemployment Insurance Claimants | integer | None | Number of people who claimed unimployment insurance |
 | Year | integer | None | Four digit year as Common Era (CE) |
 
+### Comments
+> **2025**: 1. Identified data source and integrated it into the data pipeline.
+> 2. Complied community names, locations, and FIPS identifiers for AEDG
+> 3. Joined employment data with AEDG communities to create this dataset
+> 
+
+> **2026-01-12**: Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.
+> 
+
 ## License
 CC-BY-4.0
 Creative Commons Attribution 4.0 International

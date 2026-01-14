@@ -10,7 +10,7 @@ This dataset derived from the Bulk Fuel Inventory, a list of bulk fuel facilitie
 
 ## Data Lineage
 * **URL:** [https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/final/bulk_fuel/bulk_fuel.geojson](https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/final/bulk_fuel/bulk_fuel.geojson)
-* **Reference Date:** 2023-04-12
+* **Reference Date:** 2025
 
 ### Sources
 * **Bulk Fuel Inventory** (2025)
@@ -54,6 +54,14 @@ AEDG uses this list to define canonical community names since, as free text, the
 | Tank Farm ID | string | None |  |
 | Total Capacity | number | gallons | Total capacity of tank farm |
 | USCG ID | string | None | Identification number given by United States Coast Guard |
+
+### Comments
+> **2025**: 1. Identified data source and integrated it into the data pipeline.
+> 2. Complied community names, locations, and FIPS identifiers for AEDG
+> 
+
+> **2026-01-12**: Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.
+> 
 
 ## License
 CC-BY-4.0
