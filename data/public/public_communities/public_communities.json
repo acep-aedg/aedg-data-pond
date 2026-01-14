@@ -26,7 +26,7 @@
                 "grid",
                 "Public Use Microdata Areas (PUMAs)"
             ],
-            "publicationDate": "2025-12-15",
+            "publicationDate": "2026-01-12",
             "context": {
                 "title": "Alaska Energy Data Gateway v3.0",
                 "homepage": "https://akenergygateway.alaska.edu/",
@@ -238,7 +238,7 @@
                     "roles": [
                         "DataCurator"
                     ],
-                    "date": "2025-12-15",
+                    "date": "2025",
                     "object": "data via https://github.com/acep-aedg/aedg-etl-2024",
                     "comment": "1. Identified data sources and integrated them into the data pipeline.\n2. Complied community names, locations, and FIPS identifiers for AEDG\n3. Used spatial joins to crosswalk AEDG communities with other organizations to create this dataset\n",
                     "path": "https://www.uaf.edu/acep/"
@@ -248,7 +248,7 @@
                     "roles": [
                         "DataCurator"
                     ],
-                    "date": "2025-12-15",
+                    "date": "2026-01-12",
                     "object": "metadata via https://github.com/acep-aedg/aedg-metadata",
                     "comment": "Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.\n",
                     "path": "https://www.uaf.edu/acep/"
@@ -304,22 +304,6 @@
                         "long_name": "Grid Name",
                         "description": "The unique grid name, which is based on the primary Alaskan community in the grid",
                         "type": "string",
-                        "nullable": false,
-                        "unit": null
-                    },
-                    {
-                        "name": "reporting_entity",
-                        "long_name": "Reporting Entity",
-                        "description": "The name of the electric service area providing electricity to the community",
-                        "type": "string",
-                        "nullable": true,
-                        "unit": null
-                    },
-                    {
-                        "name": "reporting_entity_cpcn_id",
-                        "long_name": "Reporting Entity Certificate Number",
-                        "description": "A CPCN (Certificate of Public Convenience & Necessity) number, also called a certificate number, denotes a unique CPCN/certificate assigned by the Regulatory Commission of Alaska to a reporting entity.",
-                        "type": "integer",
                         "nullable": false,
                         "unit": null
                     },

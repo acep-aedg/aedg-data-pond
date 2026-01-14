@@ -38,6 +38,14 @@ AEDG used to use the ANSI codes in this dataset as an identifier of communities 
 | Description | string | None | Narrative description |
 | As of Date | string | None | When the transportation dataset last updated |
 
+### Comments
+> **2025**: 1. Identified data source and integrated it into the data pipeline.
+> 2. Joined transportation data with community FIPS codes to create this table
+> 
+
+> **2026-01-12**: Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.
+> 
+
 ## License
 CC-BY-4.0
 Creative Commons Attribution 4.0 International

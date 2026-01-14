@@ -25,7 +25,7 @@
                 "EIA Form 923",
                 "community"
             ],
-            "publicationDate": "2025-12-22",
+            "publicationDate": "2026-01-12",
             "context": {
                 "title": "Alaska Energy Data Gateway v3.0",
                 "homepage": "https://akenergygateway.alaska.edu/",
@@ -126,7 +126,7 @@
                     "roles": [
                         "DataCurator"
                     ],
-                    "date": "2025-12-22",
+                    "date": "2025",
                     "object": "data via https://github.com/acep-aedg/aedg-etl-2024",
                     "comment": "1. Contracted Neil McMahon to produce the Workbooks, and then posted them in GitHub for distribution.\n2. Complied community names, locations, and FIPS identifiers for AEDG\n3. residential rates are pre-calculated as residential_rate for all reporting entities and post-subsidy effective_rate for PCE reporting entities\n4. data for commercial and industrial was reported only as sales and revenue. For these categories, rates were calculated by dividing revenue/sales_mwh, producing the columns industrial_rate_calculated and commercial_rate_calculated.\n5. For good measure, residential rates were also calculated this way. residential_rate pre-calculated in the Workbooks, should equal residential_rate_calculated, calculated by us. (spoiler: they are equal when rounded to 2 decimals, which I codified in a DBT data test)\n6. For a few non-PCE reporting entities, especially Railbelt utilities, neither residential rates nor effective rates were calculated. For this reason, I experimented with combining rates into a single column: starting with effective_rate and filling with residential_rate_calculated when effective_rate was NULL. I\u2019m not sure this is the best approach since they are different situations (non-PCE vs PCE), I suppose that\u2019s worth discussing. We could leave the two columns side by side in order to maintain clarity. Rails would need a smart query to pull calculated_rate when effective_rate was NULL, essentially making that column on the fly. For now, I left all 4 columns so we can look at this in detail.\n7. Joined sales data with AEDG communities to create this dataset\n",
                     "path": "https://www.uaf.edu/acep/"
@@ -136,7 +136,7 @@
                     "roles": [
                         "DataCurator"
                     ],
-                    "date": "2025-12-22",
+                    "date": "2026-01-12",
                     "object": "metadata via https://github.com/acep-aedg/aedg-metadata",
                     "comment": "Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.\n",
                     "path": "https://www.uaf.edu/acep/"

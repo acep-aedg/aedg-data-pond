@@ -42,6 +42,18 @@ AEDG uses this dataset as the best available compilation of electrical generatio
 | Year | integer | None | Four digit year as Common Era (CE) |
 | Month | integer | None | Month as 1-12 for which generation was reported |
 
+### Comments
+> **2024**: Pulled data from the original sources, the compiled, corrected, harmonized, transformed data into Excel Workbooks as annual datasets and as Financial and Generation timeseries.
+> 
+
+> **2025**: 1. Contracted Neil McMahon to produce the Workbooks, and then posted them in GitHub for distribution.
+> 2. Complied community names, locations, and FIPS identifiers for AEDG
+> 3. Joined generation data with AEDG communities to create this dataset
+> 
+
+> **2026-01-12**: Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.
+> 
+
 ## License
 CC-BY-4.0
 Creative Commons Attribution 4.0 International

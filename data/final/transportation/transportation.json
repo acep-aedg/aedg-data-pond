@@ -28,7 +28,7 @@
                 "dock",
                 "coastal"
             ],
-            "publicationDate": "2025-12-15",
+            "publicationDate": "2026-01-12",
             "context": {
                 "title": "Alaska Energy Data Gateway v3.0",
                 "homepage": "https://akenergygateway.alaska.edu/",
@@ -95,7 +95,7 @@
                     "roles": [
                         "DataCurator"
                     ],
-                    "date": "2025-12-15",
+                    "date": "2025",
                     "object": "data via https://github.com/acep-aedg/aedg-etl-2024",
                     "comment": "1. Identified data source and integrated it into the data pipeline.\n2. Joined transportation data with community FIPS codes to create this table\n",
                     "path": "https://www.uaf.edu/acep/"
@@ -105,7 +105,7 @@
                     "roles": [
                         "DataCurator"
                     ],
-                    "date": "2025-12-15",
+                    "date": "2026-01-12",
                     "object": "metadata via https://github.com/acep-aedg/aedg-metadata",
                     "comment": "Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.\n",
                     "path": "https://www.uaf.edu/acep/"
