@@ -1,0 +1,66 @@
+resource:
+  name: "sales"
+  title: "Annual Sales Revenue and Customers by Reporting Entity"
+  summary: | # Short version of the description to appear in data explorer list
+    Annual sales, revenue, and customer data aggregated by reporting entity. 
+  description: | # Description of what this dataset is and what it is doing here
+    Annual sales, revenue, and customer data aggregated by reporting entity.
+  path: "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/final/sales/sales.csv"
+  keywords: 
+    - sales
+    - revenue
+    - electricity
+    - Power Cost Equalization (PCE)
+    - EIA Form 923
+  topics: 
+    - Electricity
+  publisher: acep
+  sources:
+    - acep.es_annual_sales
+  licenses: 
+    - CC-BY-4.0
+  spatial: 
+    name: Alaska
+    boundingBox: [-187.55, 51.21, -130.0, 71.35]
+    crs: OGC:CRS84
+  temporal: 
+    referenceDate: "2021"
+    timeseries:  
+      - start: "2021-01"
+        end: "2021-12"
+        resolutionValue: "1"
+        resolutionUnit: month
+        alignment: null
+        aggregationType: sum
+  primaryKey:
+    - reporting_entity_id
+    - year
+  contributors: # roles from https://datacite-metadata-schema.readthedocs.io/en/4.5/properties/contributor/#a-contributortype
+    - title: Neil McMahon
+      organization: acep
+      roles:
+        - DataCollector
+      date: 2024
+      object: data from the Alaska Energy Statistics Electrical Generation Tables
+      comment: |
+        Pulled data from the original sources, the compiled, corrected, harmonized, transformed data into Excel Workbooks as annual datasets and as Financial and Generation timeseries. Additional corrections were applied to the yearly data.
+    - organization: acep
+      roles:
+        - DataCurator
+      date: 2025
+      object: data via https://github.com/acep-aedg/aedg-etl-2024
+      comment: |
+        1. Alakanuk and Emmonak intertied in 2016, both reported partial annual data, we combined data into single record.
+        2. Andreanof Electric Corp transfered to City of Atka in 2008, both reported partial annual data, we combined data into single record.
+        3. Bethel Utilities Corp transfered to AVEC, both reported partial annual data, we combined data into single record.
+        4. Central Electric Inc transfered to Gold Country Energy in 2010, both reported partial annual data, we combined data into single record.
+        5. Coffman Cove intertied to Prince of Wales Island grid in 2015, both reported partial annual data, we combined data into single record.
+        6. City of Ekwok transfered to AVEC in 2011, both reported partial annual data, we combined data into single record.
+        7. Gustavus Electric Co transfered to Alaska Power & Telephone Company in 2014, both reported partial annual data, we combined data into single record.
+        8. City of King Cove transfered to King Cove Corporation in 2017, both reported partial annual data, we combined data into single record.
+        9. Kobuk Valley Electric Company transfered to AVEC in 2012, both reported partial annual data, we combined data into single record.
+        10. Kotlik Joint Utility transfered to AVEC in 2008, both reported partial annual data, we combined data into single record.
+        11. Mentasta Lake connected to Slana grid in 2011, both reported partial annual data, we combined data into single record.
+        12. Nightmute connected to Toksook Bay grid in 2008, both reported partial annual data, we combined data into single record.
+        13. Nunapitchuk connected to Kasigluk grid in 2006, both reported partial annual data, we combined data into single record.
+        14. Yakutat Power Inc transfered to AVEC in 2017, both reported partial annual data, we combined data into single record.

@@ -30,6 +30,11 @@ for METADATA_FILE in $METADATA_FILES; do
         "| :--- | :--- | :--- | :--- |\n" +
         ([.schema.fields[] | "| " + .long_name + " | " + .type + " | " + (.unit // "None") + " | " + .description + " |"] | join("\n")) + "\n\n" +
 
+        "### Comments\n" +
+        ([.contributors[] | select(.comment != null) | 
+          ( "> **" + .date + "**: " + (.comment | gsub("\n"; "\n> ")) )
+        ] | join("\n\n")) + "\n\n" +
+
         "## License\n" +
         .licenses[].name + "\n" +
         .licenses[].title + "\n" +

@@ -56,6 +56,16 @@ AEDG uses this dataset to add the economic region spatial polygon to Anchorage g
 | Reporting Season | string | None | Season for which the fuel data was reported, Winter or Summer |
 | Reporting Year | integer | None | Four digit year as Common Era (CE) for which the fuel data was reported |
 
+### Comments
+> **2025**: 1. Identified 3 data sources that provide prices for different areas of Alaska and integrated it into the data pipeline.
+> 2. Compiled community names, locations, and FIPS identifiers for AEDG.
+> 3. Integrate data from the 3 sources into a single file.
+> 4. Joined fuel price data with AEDG communities to create this dataset.
+> 
+
+> **2026-01-12**: Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.
+> 
+
 ## License
 CC-BY-4.0
 Creative Commons Attribution 4.0 International
