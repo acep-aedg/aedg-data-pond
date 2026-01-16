@@ -35,7 +35,10 @@ datasets:
   # populations_ages_sexes:
   # regional_corporations:
   # reporting_entities:
-  # sales:
+  sales:
+    data_path: data/final/sales/sales.csv
+    bbox: infer
+    time: specify
   # school_districts:
   # senate_districts:
   # service_area_geoms:

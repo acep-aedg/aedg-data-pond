@@ -65,6 +65,15 @@ AEDG uses this dataset to associate places (point locations) with population div
 | Estimated Male Population | number | None | Estimated male population |
 | Estimated Female Population | number | None | Estimated female population |
 
+### Comments
+> **2025**: 1. Identified data source and integrated it into the data pipeline.
+> 2. Complied community names, locations, and FIPS identifiers for AEDG
+> 3. Joined population data with AEDG communities to create this dataset
+> 
+
+> **2026-01-12**: Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.
+> 
+
 ## License
 CC-BY-4.0
 Creative Commons Attribution 4.0 International

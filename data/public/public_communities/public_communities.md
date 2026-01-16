@@ -81,13 +81,20 @@ Heating degree days (HDD), defined in the U.S. as degrees F below 65 multiplied 
 | Alaska Native Regional Corporation | string | None | Alaska Native regional corporations were created by the Alaska Native Claims Settlement Act (ANCSA) |
 | Borough or Census Area Name | string | None | Boroughs are analagous to a county in other places. Census areas are statistical subdivisions of the  the Unorganized Borough, which does not have a government. |
 | Grid Name | string | None | The unique grid name, which is based on the primary Alaskan community in the grid |
-| Reporting Entity | string | None | The name of the electric service area providing electricity to the community |
-| Reporting Entity Certificate Number | integer | None | A CPCN (Certificate of Public Convenience & Necessity) number, also called a certificate number, denotes a unique CPCN/certificate assigned by the Regulatory Commission of Alaska to a reporting entity. |
 | Public Use Microdata Area | string | None | Public Use Microdata Areas (PUMAs) are non-overlapping, statistical geographic areas that partition each state or equivalent entity into geographic areas containing no fewer than 100,000 people each. |
 | DCRA Economic Region | string | None | Alaska Division of Community and Regional Affairs (DCRA) economic regions were determined based on 2013 borough and census area geography by the Alaska Department of Labor & Workforce Development. |
 | PCE Eligibility | boolean | None | Answers the question: Is this community eligible for the Alaska Energy Authority's Power Cost Equalization program? ("t" for yes, and "f" for no) Eligibility is determined by the Regulatory Commission of Alaska under Alaska Statutes 42.45.100-170. |
 | Latitude | number | degrees N | Latitude |
 | Longitude | number | degrees E | Longitude |
+
+### Comments
+> **2025**: 1. Identified data sources and integrated them into the data pipeline.
+> 2. Complied community names, locations, and FIPS identifiers for AEDG
+> 3. Used spatial joins to crosswalk AEDG communities with other organizations to create this dataset
+> 
+
+> **2026-01-12**: Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.
+> 
 
 ## License
 CC-BY-4.0

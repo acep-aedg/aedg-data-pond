@@ -44,7 +44,7 @@ resource:
     - organization: acep
       roles:
         - DataCurator
-      date: now
+      date: 2025
       object: data via https://github.com/acep-aedg/aedg-etl-2024
       comment: |
         1. Identified data sources and integrated them into the data pipeline.
