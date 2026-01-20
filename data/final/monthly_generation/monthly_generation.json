@@ -27,8 +27,7 @@
                 "Power Cost Equalization (PCE)",
                 "EIA Form 923"
             ],
-            "publicationDate": "2026-01-15",
-            "publicationDate": "2026-01-12",
+            "publicationDate": "2026-01-20",
             "context": {
                 "title": "Alaska Energy Data Gateway v3.0",
                 "homepage": "https://akenergygateway.alaska.edu/",
@@ -118,7 +117,7 @@
                     "roles": [
                         "DataCurator"
                     ],
-                    "date": "2026-01-12",
+                    "date": "2026-01-20",
                     "object": "metadata via https://github.com/acep-aedg/aedg-metadata",
                     "comment": "Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.\n",
                     "path": "https://www.uaf.edu/acep/"
