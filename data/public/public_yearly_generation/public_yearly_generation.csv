@@ -101,25 +101,25 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0201090,Akutan,29,Water at Hydroelectric Turbine,2020
 0201090,Akutan,516,Distillate Fuel Oil,2021
 0201090,Akutan,168,Water at Hydroelectric Turbine,2021
-0201200,Alakanuk,3096,Distillate Fuel Oil,2001
-0201200,Alakanuk,3306,Distillate Fuel Oil,2002
-0201200,Alakanuk,3640,Distillate Fuel Oil,2003
-0201200,Alakanuk,3692,Distillate Fuel Oil,2004
-0201200,Alakanuk,3542,Distillate Fuel Oil,2005
-0201200,Alakanuk,3423,Distillate Fuel Oil,2006
-0201200,Alakanuk,3629,Distillate Fuel Oil,2007
-0201200,Alakanuk,3730,Distillate Fuel Oil,2008
-0201200,Alakanuk,3729,Distillate Fuel Oil,2009
-0201200,Alakanuk,3775,Distillate Fuel Oil,2010
-0201200,Alakanuk,3943,Distillate Fuel Oil,2011
-0201200,Alakanuk,4137,Distillate Fuel Oil,2012
-0201200,Alakanuk,4659,Distillate Fuel Oil,2013
-0201200,Alakanuk,4568,Distillate Fuel Oil,2014
-0201200,Alakanuk,4322,Distillate Fuel Oil,2015
-0201200,Alakanuk,2566,Distillate Fuel Oil,2016
-0201200,Alakanuk,113,Jet Fuel,2017
+0201200,Alakanuk,1549,Distillate Fuel Oil,2001
+0201200,Alakanuk,1653,Distillate Fuel Oil,2002
+0201200,Alakanuk,1820,Distillate Fuel Oil,2003
+0201200,Alakanuk,1846,Distillate Fuel Oil,2004
+0201200,Alakanuk,1770,Distillate Fuel Oil,2005
+0201200,Alakanuk,1711,Distillate Fuel Oil,2006
+0201200,Alakanuk,1813,Distillate Fuel Oil,2007
+0201200,Alakanuk,1863,Distillate Fuel Oil,2008
+0201200,Alakanuk,1862,Distillate Fuel Oil,2009
+0201200,Alakanuk,1888,Distillate Fuel Oil,2010
+0201200,Alakanuk,1973,Distillate Fuel Oil,2011
+0201200,Alakanuk,2068,Distillate Fuel Oil,2012
+0201200,Alakanuk,2331,Distillate Fuel Oil,2013
+0201200,Alakanuk,2284,Distillate Fuel Oil,2014
+0201200,Alakanuk,2161,Distillate Fuel Oil,2015
+0201200,Alakanuk,1283,Distillate Fuel Oil,2016
+0201200,Alakanuk,56,Jet Fuel,2017
 0201200,Alakanuk,0,Jet Fuel,2018
-0201200,Alakanuk,-27,Jet Fuel,2019
+0201200,Alakanuk,-13,Jet Fuel,2019
 0201200,Alakanuk,0,Jet Fuel,2020
 0201200,Alakanuk,0,Jet Fuel,2021
 0201305,Alatna,575,Distillate Fuel Oil,2001
@@ -207,27 +207,27 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0201860,Allakaket,610,Distillate Fuel Oil,2019
 0201860,Allakaket,668,Distillate Fuel Oil,2020
 0201860,Allakaket,663,Distillate Fuel Oil,2021
-0201970,Ambler,2227,Distillate Fuel Oil,2001
-0201970,Ambler,2362,Distillate Fuel Oil,2002
-0201970,Ambler,2620,Distillate Fuel Oil,2003
-0201970,Ambler,2851,Distillate Fuel Oil,2004
-0201970,Ambler,2590,Distillate Fuel Oil,2005
-0201970,Ambler,2631,Distillate Fuel Oil,2006
-0201970,Ambler,2749,Distillate Fuel Oil,2007
-0201970,Ambler,2517,Distillate Fuel Oil,2008
-0201970,Ambler,2507,Distillate Fuel Oil,2009
-0201970,Ambler,2571,Distillate Fuel Oil,2010
-0201970,Ambler,2619,Distillate Fuel Oil,2011
-0201970,Ambler,2702,Distillate Fuel Oil,2012
-0201970,Ambler,2577,Distillate Fuel Oil,2013
-0201970,Ambler,2469,Distillate Fuel Oil,2014
-0201970,Ambler,2727,Distillate Fuel Oil,2015
-0201970,Ambler,2676,Distillate Fuel Oil,2016
-0201970,Ambler,2604,Distillate Fuel Oil,2017
-0201970,Ambler,2470,Distillate Fuel Oil,2018
-0201970,Ambler,2353,Distillate Fuel Oil,2019
-0201970,Ambler,2492,Distillate Fuel Oil,2020
-0201970,Ambler,2661,Distillate Fuel Oil,2021
+0201970,Ambler,1113,Distillate Fuel Oil,2001
+0201970,Ambler,1180,Distillate Fuel Oil,2002
+0201970,Ambler,1311,Distillate Fuel Oil,2003
+0201970,Ambler,1427,Distillate Fuel Oil,2004
+0201970,Ambler,1295,Distillate Fuel Oil,2005
+0201970,Ambler,1315,Distillate Fuel Oil,2006
+0201970,Ambler,1373,Distillate Fuel Oil,2007
+0201970,Ambler,1261,Distillate Fuel Oil,2008
+0201970,Ambler,1254,Distillate Fuel Oil,2009
+0201970,Ambler,1286,Distillate Fuel Oil,2010
+0201970,Ambler,1308,Distillate Fuel Oil,2011
+0201970,Ambler,1349,Distillate Fuel Oil,2012
+0201970,Ambler,1288,Distillate Fuel Oil,2013
+0201970,Ambler,1235,Distillate Fuel Oil,2014
+0201970,Ambler,1363,Distillate Fuel Oil,2015
+0201970,Ambler,1340,Distillate Fuel Oil,2016
+0201970,Ambler,1302,Distillate Fuel Oil,2017
+0201970,Ambler,1233,Distillate Fuel Oil,2018
+0201970,Ambler,1175,Distillate Fuel Oil,2019
+0201970,Ambler,1245,Distillate Fuel Oil,2020
+0201970,Ambler,1331,Distillate Fuel Oil,2021
 0202080,Anaktuvuk Pass,1818,Distillate Fuel Oil,2001
 0202080,Anaktuvuk Pass,4110,Distillate Fuel Oil,2002
 0202080,Anaktuvuk Pass,3921,Distillate Fuel Oil,2003
@@ -250,10 +250,10 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0202080,Anaktuvuk Pass,4094,Distillate Fuel Oil,2020
 0202080,Anaktuvuk Pass,4260,Distillate Fuel Oil,2021
 0203110,Anchor Point,491,Distillate Fuel Oil,2001
-0203110,Anchor Point,599922,Natural Gas,2001
+0203110,Anchor Point,426712,Natural Gas,2001
 0203110,Anchor Point,345681,Water at Hydroelectric Turbine,2001
 0203110,Anchor Point,357,Distillate Fuel Oil,2002
-0203110,Anchor Point,778192,Natural Gas,2002
+0203110,Anchor Point,473327,Natural Gas,2002
 0203110,Anchor Point,484899,Water at Hydroelectric Turbine,2002
 0203110,Anchor Point,243,Distillate Fuel Oil,2003
 0203110,Anchor Point,399766,Natural Gas,2003
@@ -301,34 +301,34 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0203110,Anchor Point,368254,Water at Hydroelectric Turbine,2013
 0203110,Anchor Point,446,Distillate Fuel Oil,2014
 0203110,Anchor Point,0,Jet Fuel,2014
-0203110,Anchor Point,352625,Natural Gas,2014
+0203110,Anchor Point,306144,Natural Gas,2014
 0203110,Anchor Point,0,Waste Oil,2014
 0203110,Anchor Point,432575,Water at Hydroelectric Turbine,2014
 0203110,Anchor Point,228,Distillate Fuel Oil,2015
 0203110,Anchor Point,0,Jet Fuel,2015
-0203110,Anchor Point,356878,Natural Gas,2015
+0203110,Anchor Point,315792,Natural Gas,2015
 0203110,Anchor Point,471705,Water at Hydroelectric Turbine,2015
 0203110,Anchor Point,87,Distillate Fuel Oil,2016
 0203110,Anchor Point,0,Jet Fuel,2016
-0203110,Anchor Point,356059,Natural Gas,2016
+0203110,Anchor Point,316448,Natural Gas,2016
 0203110,Anchor Point,430509,Water at Hydroelectric Turbine,2016
 0203110,Anchor Point,14,Distillate Fuel Oil,2017
 0203110,Anchor Point,0,Jet Fuel,2017
-0203110,Anchor Point,334660,Natural Gas,2017
+0203110,Anchor Point,316493,Natural Gas,2017
 0203110,Anchor Point,387060,Water at Hydroelectric Turbine,2017
 0203110,Anchor Point,85,Distillate Fuel Oil,2018
 0203110,Anchor Point,0,Jet Fuel,2018
-0203110,Anchor Point,299784,Natural Gas,2018
+0203110,Anchor Point,276029,Natural Gas,2018
 0203110,Anchor Point,404480,Water at Hydroelectric Turbine,2018
 0203110,Anchor Point,63,Distillate Fuel Oil,2019
 0203110,Anchor Point,0,Jet Fuel,2019
-0203110,Anchor Point,283833,Natural Gas,2019
+0203110,Anchor Point,237333,Natural Gas,2019
 0203110,Anchor Point,413593,Water at Hydroelectric Turbine,2019
 0203110,Anchor Point,4331,Distillate Fuel Oil,2020
-0203110,Anchor Point,337386,Natural Gas,2020
+0203110,Anchor Point,302127,Natural Gas,2020
 0203110,Anchor Point,466636,Water at Hydroelectric Turbine,2020
 0203110,Anchor Point,224,Distillate Fuel Oil,2021
-0203110,Anchor Point,323633,Natural Gas,2021
+0203110,Anchor Point,290509,Natural Gas,2021
 0203110,Anchor Point,391019,Water at Hydroelectric Turbine,2021
 0203000,Anchorage,571,Distillate Fuel Oil,2001
 0203000,Anchorage,2690002,Natural Gas,2001
@@ -402,6 +402,7 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0203000,Anchorage,937447,Natural Gas,2021
 0203000,Anchorage,36381,Water at Hydroelectric Turbine,2021
 0203000,Anchorage,41759,Wind,2021
+0203000,Anchorage,,,
 0203220,Anderson,320200,Coal,2001
 0203220,Anderson,10179,Distillate Fuel Oil,2001
 0203220,Anderson,579967,Residual Fuel Oil,2001
@@ -411,12 +412,12 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0203220,Anderson,32,Waste Oil,2002
 0203220,Anderson,1031,Wood Waste Solids,2002
 0203220,Anderson,456747,Coal,2003
-0203220,Anderson,6309,Distillate Fuel Oil,2003
+0203220,Anderson,6205,Distillate Fuel Oil,2003
 0203220,Anderson,453733,Residual Fuel Oil,2003
 0203220,Anderson,64,Waste Oil,2003
 0203220,Anderson,761,Wood Waste Solids,2003
 0203220,Anderson,519937,Coal,2004
-0203220,Anderson,9963,Distillate Fuel Oil,2004
+0203220,Anderson,10202,Distillate Fuel Oil,2004
 0203220,Anderson,360379,Residual Fuel Oil,2004
 0203220,Anderson,0,Waste Oil,2004
 0203220,Anderson,388,Wood Waste Solids,2004
@@ -536,6 +537,7 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0203220,Anderson,4,Natural Gas,2021
 0203220,Anderson,184970,Waste Oil,2021
 0203220,Anderson,60301,Wind,2021
+0203220,Anderson,,,
 0203440,Angoon,974,Distillate Fuel Oil,2001
 0203440,Angoon,1997,Distillate Fuel Oil,2002
 0203440,Angoon,2016,Distillate Fuel Oil,2003
@@ -681,12 +683,12 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0205000,Badger,32,Waste Oil,2002
 0205000,Badger,1031,Wood Waste Solids,2002
 0205000,Badger,456747,Coal,2003
-0205000,Badger,6309,Distillate Fuel Oil,2003
+0205000,Badger,6205,Distillate Fuel Oil,2003
 0205000,Badger,453733,Residual Fuel Oil,2003
 0205000,Badger,64,Waste Oil,2003
 0205000,Badger,761,Wood Waste Solids,2003
 0205000,Badger,519937,Coal,2004
-0205000,Badger,9963,Distillate Fuel Oil,2004
+0205000,Badger,10202,Distillate Fuel Oil,2004
 0205000,Badger,360379,Residual Fuel Oil,2004
 0205000,Badger,0,Waste Oil,2004
 0205000,Badger,388,Wood Waste Solids,2004
@@ -806,6 +808,7 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0205000,Badger,4,Natural Gas,2021
 0205000,Badger,184970,Waste Oil,2021
 0205000,Badger,60301,Wind,2021
+0205000,Badger,,,
 0205585,Bear Creek,580,Distillate Fuel Oil,2002
 0205585,Bear Creek,0,Distillate Fuel Oil,2003
 0205585,Bear Creek,240,Distillate Fuel Oil,2004
@@ -912,6 +915,7 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0206245,Beluga,937447,Natural Gas,2021
 0206245,Beluga,36381,Water at Hydroelectric Turbine,2021
 0206245,Beluga,41759,Wind,2021
+0206245,Beluga,,,
 0206520,Bethel,21297,Distillate Fuel Oil,2001
 0206520,Bethel,41564,Distillate Fuel Oil,2002
 0206520,Bethel,42942,Distillate Fuel Oil,2003
@@ -967,12 +971,12 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0206850,Big Delta,32,Waste Oil,2002
 0206850,Big Delta,1031,Wood Waste Solids,2002
 0206850,Big Delta,456747,Coal,2003
-0206850,Big Delta,6309,Distillate Fuel Oil,2003
+0206850,Big Delta,6205,Distillate Fuel Oil,2003
 0206850,Big Delta,453733,Residual Fuel Oil,2003
 0206850,Big Delta,64,Waste Oil,2003
 0206850,Big Delta,761,Wood Waste Solids,2003
 0206850,Big Delta,519937,Coal,2004
-0206850,Big Delta,9963,Distillate Fuel Oil,2004
+0206850,Big Delta,10202,Distillate Fuel Oil,2004
 0206850,Big Delta,360379,Residual Fuel Oil,2004
 0206850,Big Delta,0,Waste Oil,2004
 0206850,Big Delta,388,Wood Waste Solids,2004
@@ -1092,6 +1096,7 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0206850,Big Delta,4,Natural Gas,2021
 0206850,Big Delta,184970,Waste Oil,2021
 0206850,Big Delta,60301,Wind,2021
+0206850,Big Delta,,,
 0207070,Big Lake,146252,Water at Hydroelectric Turbine,2001
 0207070,Big Lake,161266,Water at Hydroelectric Turbine,2002
 0207070,Big Lake,177204,Water at Hydroelectric Turbine,2003
@@ -1136,32 +1141,33 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0207070,Big Lake,38071,Landfill Gas,2021
 0207070,Big Lake,678574,Natural Gas,2021
 0207070,Big Lake,139993,Water at Hydroelectric Turbine,2021
+0207070,Big Lake,,,
 0207620,Birch Creek,18,Distillate Fuel Oil,2017
 0207620,Birch Creek,106,Distillate Fuel Oil,2018
 0207620,Birch Creek,108,Distillate Fuel Oil,2019
 0207620,Birch Creek,97,Distillate Fuel Oil,2020
 0207620,Birch Creek,81,Distillate Fuel Oil,2021
-0208740,Brevig Mission,1307,Distillate Fuel Oil,2001
-0208740,Brevig Mission,1568,Distillate Fuel Oil,2002
-0208740,Brevig Mission,1675,Distillate Fuel Oil,2003
-0208740,Brevig Mission,1779,Distillate Fuel Oil,2004
-0208740,Brevig Mission,1843,Distillate Fuel Oil,2005
-0208740,Brevig Mission,1855,Distillate Fuel Oil,2006
-0208740,Brevig Mission,1910,Distillate Fuel Oil,2007
-0208740,Brevig Mission,2049,Distillate Fuel Oil,2008
-0208740,Brevig Mission,2275,Distillate Fuel Oil,2009
-0208740,Brevig Mission,2414,Distillate Fuel Oil,2010
-0208740,Brevig Mission,2458,Distillate Fuel Oil,2011
-0208740,Brevig Mission,2475,Distillate Fuel Oil,2012
-0208740,Brevig Mission,2311,Distillate Fuel Oil,2013
-0208740,Brevig Mission,2202,Distillate Fuel Oil,2014
-0208740,Brevig Mission,2285,Distillate Fuel Oil,2015
-0208740,Brevig Mission,2359,Distillate Fuel Oil,2016
-0208740,Brevig Mission,2377,Distillate Fuel Oil,2017
-0208740,Brevig Mission,2401,Distillate Fuel Oil,2018
-0208740,Brevig Mission,2378,Distillate Fuel Oil,2019
-0208740,Brevig Mission,2583,Distillate Fuel Oil,2020
-0208740,Brevig Mission,2641,Distillate Fuel Oil,2021
+0208740,Brevig Mission,653,Distillate Fuel Oil,2001
+0208740,Brevig Mission,784,Distillate Fuel Oil,2002
+0208740,Brevig Mission,839,Distillate Fuel Oil,2003
+0208740,Brevig Mission,891,Distillate Fuel Oil,2004
+0208740,Brevig Mission,922,Distillate Fuel Oil,2005
+0208740,Brevig Mission,928,Distillate Fuel Oil,2006
+0208740,Brevig Mission,954,Distillate Fuel Oil,2007
+0208740,Brevig Mission,1027,Distillate Fuel Oil,2008
+0208740,Brevig Mission,1137,Distillate Fuel Oil,2009
+0208740,Brevig Mission,1207,Distillate Fuel Oil,2010
+0208740,Brevig Mission,1228,Distillate Fuel Oil,2011
+0208740,Brevig Mission,1238,Distillate Fuel Oil,2012
+0208740,Brevig Mission,1157,Distillate Fuel Oil,2013
+0208740,Brevig Mission,1103,Distillate Fuel Oil,2014
+0208740,Brevig Mission,1143,Distillate Fuel Oil,2015
+0208740,Brevig Mission,1180,Distillate Fuel Oil,2016
+0208740,Brevig Mission,1188,Distillate Fuel Oil,2017
+0208740,Brevig Mission,1199,Distillate Fuel Oil,2018
+0208740,Brevig Mission,1188,Distillate Fuel Oil,2019
+0208740,Brevig Mission,1291,Distillate Fuel Oil,2020
+0208740,Brevig Mission,1322,Distillate Fuel Oil,2021
 0209600,Buckland,414,Distillate Fuel Oil,2001
 0209600,Buckland,909,Distillate Fuel Oil,2002
 0209600,Buckland,1150,Distillate Fuel Oil,2003
@@ -1234,6 +1240,7 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0209657,Buffalo Soapstone,38071,Landfill Gas,2021
 0209657,Buffalo Soapstone,678574,Natural Gas,2021
 0209657,Buffalo Soapstone,139993,Water at Hydroelectric Turbine,2021
+0209657,Buffalo Soapstone,,,
 0209710,Butte,146252,Water at Hydroelectric Turbine,2001
 0209710,Butte,161266,Water at Hydroelectric Turbine,2002
 0209710,Butte,177204,Water at Hydroelectric Turbine,2003
@@ -1278,6 +1285,7 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0209710,Butte,38071,Landfill Gas,2021
 0209710,Butte,678574,Natural Gas,2021
 0209710,Butte,139993,Water at Hydroelectric Turbine,2021
+0209710,Butte,,,
 0210150,Cantwell,320200,Coal,2001
 0210150,Cantwell,10179,Distillate Fuel Oil,2001
 0210150,Cantwell,579967,Residual Fuel Oil,2001
@@ -1287,12 +1295,12 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0210150,Cantwell,32,Waste Oil,2002
 0210150,Cantwell,1031,Wood Waste Solids,2002
 0210150,Cantwell,456747,Coal,2003
-0210150,Cantwell,6309,Distillate Fuel Oil,2003
+0210150,Cantwell,6205,Distillate Fuel Oil,2003
 0210150,Cantwell,453733,Residual Fuel Oil,2003
 0210150,Cantwell,64,Waste Oil,2003
 0210150,Cantwell,761,Wood Waste Solids,2003
 0210150,Cantwell,519937,Coal,2004
-0210150,Cantwell,9963,Distillate Fuel Oil,2004
+0210150,Cantwell,10202,Distillate Fuel Oil,2004
 0210150,Cantwell,360379,Residual Fuel Oil,2004
 0210150,Cantwell,0,Waste Oil,2004
 0210150,Cantwell,388,Wood Waste Solids,2004
@@ -1412,6 +1420,7 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0210150,Cantwell,4,Natural Gas,2021
 0210150,Cantwell,184970,Waste Oil,2021
 0210150,Cantwell,60301,Wind,2021
+0210150,Cantwell,,,
 0211690,Central,325,Distillate Fuel Oil,2001
 0211690,Central,619,Distillate Fuel Oil,2002
 0211690,Central,484,Distillate Fuel Oil,2003
@@ -1492,6 +1501,7 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0212350,Chase,38071,Landfill Gas,2021
 0212350,Chase,678574,Natural Gas,2021
 0212350,Chase,139993,Water at Hydroelectric Turbine,2021
+0212350,Chase,,,
 0212680,Chefornak,449,Distillate Fuel Oil,2001
 0212680,Chefornak,846,Distillate Fuel Oil,2002
 0212680,Chefornak,822,Distillate Fuel Oil,2003
@@ -1522,12 +1532,12 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0212920,Chena Ridge,32,Waste Oil,2002
 0212920,Chena Ridge,1031,Wood Waste Solids,2002
 0212920,Chena Ridge,456747,Coal,2003
-0212920,Chena Ridge,6309,Distillate Fuel Oil,2003
+0212920,Chena Ridge,6205,Distillate Fuel Oil,2003
 0212920,Chena Ridge,453733,Residual Fuel Oil,2003
 0212920,Chena Ridge,64,Waste Oil,2003
 0212920,Chena Ridge,761,Wood Waste Solids,2003
 0212920,Chena Ridge,519937,Coal,2004
-0212920,Chena Ridge,9963,Distillate Fuel Oil,2004
+0212920,Chena Ridge,10202,Distillate Fuel Oil,2004
 0212920,Chena Ridge,360379,Residual Fuel Oil,2004
 0212920,Chena Ridge,0,Waste Oil,2004
 0212920,Chena Ridge,388,Wood Waste Solids,2004
@@ -1647,6 +1657,7 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0212920,Chena Ridge,4,Natural Gas,2021
 0212920,Chena Ridge,184970,Waste Oil,2021
 0212920,Chena Ridge,60301,Wind,2021
+0212920,Chena Ridge,,,
 0212970,Chenega,154,Distillate Fuel Oil,2001
 0212970,Chenega,282,Distillate Fuel Oil,2002
 0212970,Chenega,271,Distillate Fuel Oil,2003
@@ -1745,6 +1756,7 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0213340,Chickaloon,38071,Landfill Gas,2021
 0213340,Chickaloon,678574,Natural Gas,2021
 0213340,Chickaloon,139993,Water at Hydroelectric Turbine,2021
+0213340,Chickaloon,,,
 0213450,Chicken,,,
 0213550,Chignik,,,
 0213670,Chignik Lagoon,320,Distillate Fuel Oil,2001
@@ -1920,10 +1932,10 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0214880,Circle,409,Distillate Fuel Oil,2020
 0214880,Circle,421,Distillate Fuel Oil,2021
 0215320,Clam Gulch,491,Distillate Fuel Oil,2001
-0215320,Clam Gulch,599922,Natural Gas,2001
+0215320,Clam Gulch,426712,Natural Gas,2001
 0215320,Clam Gulch,345681,Water at Hydroelectric Turbine,2001
 0215320,Clam Gulch,357,Distillate Fuel Oil,2002
-0215320,Clam Gulch,778192,Natural Gas,2002
+0215320,Clam Gulch,473327,Natural Gas,2002
 0215320,Clam Gulch,484899,Water at Hydroelectric Turbine,2002
 0215320,Clam Gulch,243,Distillate Fuel Oil,2003
 0215320,Clam Gulch,399766,Natural Gas,2003
@@ -1971,34 +1983,34 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0215320,Clam Gulch,368254,Water at Hydroelectric Turbine,2013
 0215320,Clam Gulch,446,Distillate Fuel Oil,2014
 0215320,Clam Gulch,0,Jet Fuel,2014
-0215320,Clam Gulch,352625,Natural Gas,2014
+0215320,Clam Gulch,306144,Natural Gas,2014
 0215320,Clam Gulch,0,Waste Oil,2014
 0215320,Clam Gulch,432575,Water at Hydroelectric Turbine,2014
 0215320,Clam Gulch,228,Distillate Fuel Oil,2015
 0215320,Clam Gulch,0,Jet Fuel,2015
-0215320,Clam Gulch,356878,Natural Gas,2015
+0215320,Clam Gulch,315792,Natural Gas,2015
 0215320,Clam Gulch,471705,Water at Hydroelectric Turbine,2015
 0215320,Clam Gulch,87,Distillate Fuel Oil,2016
 0215320,Clam Gulch,0,Jet Fuel,2016
-0215320,Clam Gulch,356059,Natural Gas,2016
+0215320,Clam Gulch,316448,Natural Gas,2016
 0215320,Clam Gulch,430509,Water at Hydroelectric Turbine,2016
 0215320,Clam Gulch,14,Distillate Fuel Oil,2017
 0215320,Clam Gulch,0,Jet Fuel,2017
-0215320,Clam Gulch,334660,Natural Gas,2017
+0215320,Clam Gulch,316493,Natural Gas,2017
 0215320,Clam Gulch,387060,Water at Hydroelectric Turbine,2017
 0215320,Clam Gulch,85,Distillate Fuel Oil,2018
 0215320,Clam Gulch,0,Jet Fuel,2018
-0215320,Clam Gulch,299784,Natural Gas,2018
+0215320,Clam Gulch,276029,Natural Gas,2018
 0215320,Clam Gulch,404480,Water at Hydroelectric Turbine,2018
 0215320,Clam Gulch,63,Distillate Fuel Oil,2019
 0215320,Clam Gulch,0,Jet Fuel,2019
-0215320,Clam Gulch,283833,Natural Gas,2019
+0215320,Clam Gulch,237333,Natural Gas,2019
 0215320,Clam Gulch,413593,Water at Hydroelectric Turbine,2019
 0215320,Clam Gulch,4331,Distillate Fuel Oil,2020
-0215320,Clam Gulch,337386,Natural Gas,2020
+0215320,Clam Gulch,302127,Natural Gas,2020
 0215320,Clam Gulch,466636,Water at Hydroelectric Turbine,2020
 0215320,Clam Gulch,224,Distillate Fuel Oil,2021
-0215320,Clam Gulch,323633,Natural Gas,2021
+0215320,Clam Gulch,290509,Natural Gas,2021
 0215320,Clam Gulch,391019,Water at Hydroelectric Turbine,2021
 0215430,Clark's Point,,,
 0216360,Coffman Cove,764,Distillate Fuel Oil,2001
@@ -2017,10 +2029,10 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0216360,Coffman Cove,16,Distillate Fuel Oil,2014
 0216360,Coffman Cove,8,Distillate Fuel Oil,2015
 0216420,Cohoe,491,Distillate Fuel Oil,2001
-0216420,Cohoe,599922,Natural Gas,2001
+0216420,Cohoe,426712,Natural Gas,2001
 0216420,Cohoe,345681,Water at Hydroelectric Turbine,2001
 0216420,Cohoe,357,Distillate Fuel Oil,2002
-0216420,Cohoe,778192,Natural Gas,2002
+0216420,Cohoe,473327,Natural Gas,2002
 0216420,Cohoe,484899,Water at Hydroelectric Turbine,2002
 0216420,Cohoe,243,Distillate Fuel Oil,2003
 0216420,Cohoe,399766,Natural Gas,2003
@@ -2068,34 +2080,34 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0216420,Cohoe,368254,Water at Hydroelectric Turbine,2013
 0216420,Cohoe,446,Distillate Fuel Oil,2014
 0216420,Cohoe,0,Jet Fuel,2014
-0216420,Cohoe,352625,Natural Gas,2014
+0216420,Cohoe,306144,Natural Gas,2014
 0216420,Cohoe,0,Waste Oil,2014
 0216420,Cohoe,432575,Water at Hydroelectric Turbine,2014
 0216420,Cohoe,228,Distillate Fuel Oil,2015
 0216420,Cohoe,0,Jet Fuel,2015
-0216420,Cohoe,356878,Natural Gas,2015
+0216420,Cohoe,315792,Natural Gas,2015
 0216420,Cohoe,471705,Water at Hydroelectric Turbine,2015
 0216420,Cohoe,87,Distillate Fuel Oil,2016
 0216420,Cohoe,0,Jet Fuel,2016
-0216420,Cohoe,356059,Natural Gas,2016
+0216420,Cohoe,316448,Natural Gas,2016
 0216420,Cohoe,430509,Water at Hydroelectric Turbine,2016
 0216420,Cohoe,14,Distillate Fuel Oil,2017
 0216420,Cohoe,0,Jet Fuel,2017
-0216420,Cohoe,334660,Natural Gas,2017
+0216420,Cohoe,316493,Natural Gas,2017
 0216420,Cohoe,387060,Water at Hydroelectric Turbine,2017
 0216420,Cohoe,85,Distillate Fuel Oil,2018
 0216420,Cohoe,0,Jet Fuel,2018
-0216420,Cohoe,299784,Natural Gas,2018
+0216420,Cohoe,276029,Natural Gas,2018
 0216420,Cohoe,404480,Water at Hydroelectric Turbine,2018
 0216420,Cohoe,63,Distillate Fuel Oil,2019
 0216420,Cohoe,0,Jet Fuel,2019
-0216420,Cohoe,283833,Natural Gas,2019
+0216420,Cohoe,237333,Natural Gas,2019
 0216420,Cohoe,413593,Water at Hydroelectric Turbine,2019
 0216420,Cohoe,4331,Distillate Fuel Oil,2020
-0216420,Cohoe,337386,Natural Gas,2020
+0216420,Cohoe,302127,Natural Gas,2020
 0216420,Cohoe,466636,Water at Hydroelectric Turbine,2020
 0216420,Cohoe,224,Distillate Fuel Oil,2021
-0216420,Cohoe,323633,Natural Gas,2021
+0216420,Cohoe,290509,Natural Gas,2021
 0216420,Cohoe,391019,Water at Hydroelectric Turbine,2021
 0216530,Cold Bay,1424,Distillate Fuel Oil,2001
 0216530,Cold Bay,2929,Distillate Fuel Oil,2002
@@ -2128,12 +2140,12 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0216750,College,32,Waste Oil,2002
 0216750,College,1031,Wood Waste Solids,2002
 0216750,College,456747,Coal,2003
-0216750,College,6309,Distillate Fuel Oil,2003
+0216750,College,6205,Distillate Fuel Oil,2003
 0216750,College,453733,Residual Fuel Oil,2003
 0216750,College,64,Waste Oil,2003
 0216750,College,761,Wood Waste Solids,2003
 0216750,College,519937,Coal,2004
-0216750,College,9963,Distillate Fuel Oil,2004
+0216750,College,10202,Distillate Fuel Oil,2004
 0216750,College,360379,Residual Fuel Oil,2004
 0216750,College,0,Waste Oil,2004
 0216750,College,388,Wood Waste Solids,2004
@@ -2253,6 +2265,7 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0216750,College,4,Natural Gas,2021
 0216750,College,184970,Waste Oil,2021
 0216750,College,60301,Wind,2021
+0216750,College,,,
 0217190,Cooper Landing,571,Distillate Fuel Oil,2001
 0217190,Cooper Landing,2690002,Natural Gas,2001
 0217190,Cooper Landing,59447,Water at Hydroelectric Turbine,2001
@@ -2325,6 +2338,7 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0217190,Cooper Landing,937447,Natural Gas,2021
 0217190,Cooper Landing,36381,Water at Hydroelectric Turbine,2021
 0217190,Cooper Landing,41759,Wind,2021
+0217190,Cooper Landing,,,
 0217300,Copper Center,19013,Distillate Fuel Oil,2001
 0217300,Copper Center,50787,Water at Hydroelectric Turbine,2001
 0217300,Copper Center,11382,Distillate Fuel Oil,2002
@@ -2584,12 +2598,12 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0218620,Delta Junction,32,Waste Oil,2002
 0218620,Delta Junction,1031,Wood Waste Solids,2002
 0218620,Delta Junction,456747,Coal,2003
-0218620,Delta Junction,6309,Distillate Fuel Oil,2003
+0218620,Delta Junction,6205,Distillate Fuel Oil,2003
 0218620,Delta Junction,453733,Residual Fuel Oil,2003
 0218620,Delta Junction,64,Waste Oil,2003
 0218620,Delta Junction,761,Wood Waste Solids,2003
 0218620,Delta Junction,519937,Coal,2004
-0218620,Delta Junction,9963,Distillate Fuel Oil,2004
+0218620,Delta Junction,10202,Distillate Fuel Oil,2004
 0218620,Delta Junction,360379,Residual Fuel Oil,2004
 0218620,Delta Junction,0,Waste Oil,2004
 0218620,Delta Junction,388,Wood Waste Solids,2004
@@ -2709,6 +2723,7 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0218620,Delta Junction,4,Natural Gas,2021
 0218620,Delta Junction,184970,Waste Oil,2021
 0218620,Delta Junction,60301,Wind,2021
+0218620,Delta Junction,,,
 0218675,Deltana,320200,Coal,2001
 0218675,Deltana,10179,Distillate Fuel Oil,2001
 0218675,Deltana,579967,Residual Fuel Oil,2001
@@ -2718,12 +2733,12 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0218675,Deltana,32,Waste Oil,2002
 0218675,Deltana,1031,Wood Waste Solids,2002
 0218675,Deltana,456747,Coal,2003
-0218675,Deltana,6309,Distillate Fuel Oil,2003
+0218675,Deltana,6205,Distillate Fuel Oil,2003
 0218675,Deltana,453733,Residual Fuel Oil,2003
 0218675,Deltana,64,Waste Oil,2003
 0218675,Deltana,761,Wood Waste Solids,2003
 0218675,Deltana,519937,Coal,2004
-0218675,Deltana,9963,Distillate Fuel Oil,2004
+0218675,Deltana,10202,Distillate Fuel Oil,2004
 0218675,Deltana,360379,Residual Fuel Oil,2004
 0218675,Deltana,0,Waste Oil,2004
 0218675,Deltana,388,Wood Waste Solids,2004
@@ -2843,6 +2858,7 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0218675,Deltana,4,Natural Gas,2021
 0218675,Deltana,184970,Waste Oil,2021
 0218675,Deltana,60301,Wind,2021
+0218675,Deltana,,,
 0218805,Denali Park,320200,Coal,2001
 0218805,Denali Park,10179,Distillate Fuel Oil,2001
 0218805,Denali Park,579967,Residual Fuel Oil,2001
@@ -2852,12 +2868,12 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0218805,Denali Park,32,Waste Oil,2002
 0218805,Denali Park,1031,Wood Waste Solids,2002
 0218805,Denali Park,456747,Coal,2003
-0218805,Denali Park,6309,Distillate Fuel Oil,2003
+0218805,Denali Park,6205,Distillate Fuel Oil,2003
 0218805,Denali Park,453733,Residual Fuel Oil,2003
 0218805,Denali Park,64,Waste Oil,2003
 0218805,Denali Park,761,Wood Waste Solids,2003
 0218805,Denali Park,519937,Coal,2004
-0218805,Denali Park,9963,Distillate Fuel Oil,2004
+0218805,Denali Park,10202,Distillate Fuel Oil,2004
 0218805,Denali Park,360379,Residual Fuel Oil,2004
 0218805,Denali Park,0,Waste Oil,2004
 0218805,Denali Park,388,Wood Waste Solids,2004
@@ -2977,11 +2993,12 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0218805,Denali Park,4,Natural Gas,2021
 0218805,Denali Park,184970,Waste Oil,2021
 0218805,Denali Park,60301,Wind,2021
+0218805,Denali Park,,,
 0218925,Diamond Ridge,491,Distillate Fuel Oil,2001
-0218925,Diamond Ridge,599922,Natural Gas,2001
+0218925,Diamond Ridge,426712,Natural Gas,2001
 0218925,Diamond Ridge,345681,Water at Hydroelectric Turbine,2001
 0218925,Diamond Ridge,357,Distillate Fuel Oil,2002
-0218925,Diamond Ridge,778192,Natural Gas,2002
+0218925,Diamond Ridge,473327,Natural Gas,2002
 0218925,Diamond Ridge,484899,Water at Hydroelectric Turbine,2002
 0218925,Diamond Ridge,243,Distillate Fuel Oil,2003
 0218925,Diamond Ridge,399766,Natural Gas,2003
@@ -3029,34 +3046,34 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0218925,Diamond Ridge,368254,Water at Hydroelectric Turbine,2013
 0218925,Diamond Ridge,446,Distillate Fuel Oil,2014
 0218925,Diamond Ridge,0,Jet Fuel,2014
-0218925,Diamond Ridge,352625,Natural Gas,2014
+0218925,Diamond Ridge,306144,Natural Gas,2014
 0218925,Diamond Ridge,0,Waste Oil,2014
 0218925,Diamond Ridge,432575,Water at Hydroelectric Turbine,2014
 0218925,Diamond Ridge,228,Distillate Fuel Oil,2015
 0218925,Diamond Ridge,0,Jet Fuel,2015
-0218925,Diamond Ridge,356878,Natural Gas,2015
+0218925,Diamond Ridge,315792,Natural Gas,2015
 0218925,Diamond Ridge,471705,Water at Hydroelectric Turbine,2015
 0218925,Diamond Ridge,87,Distillate Fuel Oil,2016
 0218925,Diamond Ridge,0,Jet Fuel,2016
-0218925,Diamond Ridge,356059,Natural Gas,2016
+0218925,Diamond Ridge,316448,Natural Gas,2016
 0218925,Diamond Ridge,430509,Water at Hydroelectric Turbine,2016
 0218925,Diamond Ridge,14,Distillate Fuel Oil,2017
 0218925,Diamond Ridge,0,Jet Fuel,2017
-0218925,Diamond Ridge,334660,Natural Gas,2017
+0218925,Diamond Ridge,316493,Natural Gas,2017
 0218925,Diamond Ridge,387060,Water at Hydroelectric Turbine,2017
 0218925,Diamond Ridge,85,Distillate Fuel Oil,2018
 0218925,Diamond Ridge,0,Jet Fuel,2018
-0218925,Diamond Ridge,299784,Natural Gas,2018
+0218925,Diamond Ridge,276029,Natural Gas,2018
 0218925,Diamond Ridge,404480,Water at Hydroelectric Turbine,2018
 0218925,Diamond Ridge,63,Distillate Fuel Oil,2019
 0218925,Diamond Ridge,0,Jet Fuel,2019
-0218925,Diamond Ridge,283833,Natural Gas,2019
+0218925,Diamond Ridge,237333,Natural Gas,2019
 0218925,Diamond Ridge,413593,Water at Hydroelectric Turbine,2019
 0218925,Diamond Ridge,4331,Distillate Fuel Oil,2020
-0218925,Diamond Ridge,337386,Natural Gas,2020
+0218925,Diamond Ridge,302127,Natural Gas,2020
 0218925,Diamond Ridge,466636,Water at Hydroelectric Turbine,2020
 0218925,Diamond Ridge,224,Distillate Fuel Oil,2021
-0218925,Diamond Ridge,323633,Natural Gas,2021
+0218925,Diamond Ridge,290509,Natural Gas,2021
 0218925,Diamond Ridge,391019,Water at Hydroelectric Turbine,2021
 0218950,Dillingham,8984,Distillate Fuel Oil,2001
 0218950,Dillingham,18148,Distillate Fuel Oil,2002
@@ -3273,12 +3290,12 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0221370,Eielson AFB,32,Waste Oil,2002
 0221370,Eielson AFB,1031,Wood Waste Solids,2002
 0221370,Eielson AFB,456747,Coal,2003
-0221370,Eielson AFB,6309,Distillate Fuel Oil,2003
+0221370,Eielson AFB,6205,Distillate Fuel Oil,2003
 0221370,Eielson AFB,453733,Residual Fuel Oil,2003
 0221370,Eielson AFB,64,Waste Oil,2003
 0221370,Eielson AFB,761,Wood Waste Solids,2003
 0221370,Eielson AFB,519937,Coal,2004
-0221370,Eielson AFB,9963,Distillate Fuel Oil,2004
+0221370,Eielson AFB,10202,Distillate Fuel Oil,2004
 0221370,Eielson AFB,360379,Residual Fuel Oil,2004
 0221370,Eielson AFB,0,Waste Oil,2004
 0221370,Eielson AFB,388,Wood Waste Solids,2004
@@ -3398,6 +3415,7 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0221370,Eielson AFB,4,Natural Gas,2021
 0221370,Eielson AFB,184970,Waste Oil,2021
 0221370,Eielson AFB,60301,Wind,2021
+0221370,Eielson AFB,,,
 0221810,Ekwok,,,
 0222140,Elfin Cove,171,Distillate Fuel Oil,2001
 0222140,Elfin Cove,380,Distillate Fuel Oil,2002
@@ -3420,27 +3438,27 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0222140,Elfin Cove,323,Distillate Fuel Oil,2019
 0222140,Elfin Cove,303,Distillate Fuel Oil,2020
 0222140,Elfin Cove,373,Distillate Fuel Oil,2021
-0222250,Elim,2045,Distillate Fuel Oil,2001
-0222250,Elim,2499,Distillate Fuel Oil,2002
-0222250,Elim,2541,Distillate Fuel Oil,2003
-0222250,Elim,2411,Distillate Fuel Oil,2004
-0222250,Elim,2323,Distillate Fuel Oil,2005
-0222250,Elim,2294,Distillate Fuel Oil,2006
-0222250,Elim,2210,Distillate Fuel Oil,2007
-0222250,Elim,2188,Distillate Fuel Oil,2008
-0222250,Elim,2245,Distillate Fuel Oil,2009
-0222250,Elim,2306,Distillate Fuel Oil,2010
-0222250,Elim,2348,Distillate Fuel Oil,2011
-0222250,Elim,2398,Distillate Fuel Oil,2012
-0222250,Elim,2411,Distillate Fuel Oil,2013
-0222250,Elim,2433,Distillate Fuel Oil,2014
-0222250,Elim,2527,Distillate Fuel Oil,2015
-0222250,Elim,2589,Distillate Fuel Oil,2016
-0222250,Elim,2569,Distillate Fuel Oil,2017
-0222250,Elim,2667,Distillate Fuel Oil,2018
-0222250,Elim,2585,Distillate Fuel Oil,2019
-0222250,Elim,2548,Distillate Fuel Oil,2020
-0222250,Elim,2744,Distillate Fuel Oil,2021
+0222250,Elim,1023,Distillate Fuel Oil,2001
+0222250,Elim,1248,Distillate Fuel Oil,2002
+0222250,Elim,1271,Distillate Fuel Oil,2003
+0222250,Elim,1205,Distillate Fuel Oil,2004
+0222250,Elim,1160,Distillate Fuel Oil,2005
+0222250,Elim,1145,Distillate Fuel Oil,2006
+0222250,Elim,1106,Distillate Fuel Oil,2007
+0222250,Elim,1093,Distillate Fuel Oil,2008
+0222250,Elim,1123,Distillate Fuel Oil,2009
+0222250,Elim,1151,Distillate Fuel Oil,2010
+0222250,Elim,1176,Distillate Fuel Oil,2011
+0222250,Elim,1196,Distillate Fuel Oil,2012
+0222250,Elim,1206,Distillate Fuel Oil,2013
+0222250,Elim,1215,Distillate Fuel Oil,2014
+0222250,Elim,1263,Distillate Fuel Oil,2015
+0222250,Elim,1294,Distillate Fuel Oil,2016
+0222250,Elim,1285,Distillate Fuel Oil,2017
+0222250,Elim,1334,Distillate Fuel Oil,2018
+0222250,Elim,1293,Distillate Fuel Oil,2019
+0222250,Elim,1273,Distillate Fuel Oil,2020
+0222250,Elim,1372,Distillate Fuel Oil,2021
 0222910,Emmonak,2382,Distillate Fuel Oil,2001
 0222910,Emmonak,2514,Distillate Fuel Oil,2002
 0222910,Emmonak,2737,Distillate Fuel Oil,2003
@@ -3482,12 +3500,12 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0223460,Ester,32,Waste Oil,2002
 0223460,Ester,1031,Wood Waste Solids,2002
 0223460,Ester,456747,Coal,2003
-0223460,Ester,6309,Distillate Fuel Oil,2003
+0223460,Ester,6205,Distillate Fuel Oil,2003
 0223460,Ester,453733,Residual Fuel Oil,2003
 0223460,Ester,64,Waste Oil,2003
 0223460,Ester,761,Wood Waste Solids,2003
 0223460,Ester,519937,Coal,2004
-0223460,Ester,9963,Distillate Fuel Oil,2004
+0223460,Ester,10202,Distillate Fuel Oil,2004
 0223460,Ester,360379,Residual Fuel Oil,2004
 0223460,Ester,0,Waste Oil,2004
 0223460,Ester,388,Wood Waste Solids,2004
@@ -3607,6 +3625,7 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0223460,Ester,4,Natural Gas,2021
 0223460,Ester,184970,Waste Oil,2021
 0223460,Ester,60301,Wind,2021
+0223460,Ester,,,
 0223720,Eureka Roadhouse,19013,Distillate Fuel Oil,2001
 0223720,Eureka Roadhouse,50787,Water at Hydroelectric Turbine,2001
 0223720,Eureka Roadhouse,11382,Distillate Fuel Oil,2002
@@ -3708,12 +3727,12 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0224230,Fairbanks,32,Waste Oil,2002
 0224230,Fairbanks,1031,Wood Waste Solids,2002
 0224230,Fairbanks,456747,Coal,2003
-0224230,Fairbanks,6309,Distillate Fuel Oil,2003
+0224230,Fairbanks,6205,Distillate Fuel Oil,2003
 0224230,Fairbanks,453733,Residual Fuel Oil,2003
 0224230,Fairbanks,64,Waste Oil,2003
 0224230,Fairbanks,761,Wood Waste Solids,2003
 0224230,Fairbanks,519937,Coal,2004
-0224230,Fairbanks,9963,Distillate Fuel Oil,2004
+0224230,Fairbanks,10202,Distillate Fuel Oil,2004
 0224230,Fairbanks,360379,Residual Fuel Oil,2004
 0224230,Fairbanks,0,Waste Oil,2004
 0224230,Fairbanks,388,Wood Waste Solids,2004
@@ -3833,6 +3852,7 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0224230,Fairbanks,4,Natural Gas,2021
 0224230,Fairbanks,184970,Waste Oil,2021
 0224230,Fairbanks,60301,Wind,2021
+0224230,Fairbanks,,,
 0224660,False Pass,317,Distillate Fuel Oil,2001
 0224660,False Pass,671,Distillate Fuel Oil,2002
 0224660,False Pass,513,Distillate Fuel Oil,2003
@@ -3896,6 +3916,7 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0225000,Farm Loop,38071,Landfill Gas,2021
 0225000,Farm Loop,678574,Natural Gas,2021
 0225000,Farm Loop,139993,Water at Hydroelectric Turbine,2021
+0225000,Farm Loop,,,
 0224980,Farmers Loop,320200,Coal,2001
 0224980,Farmers Loop,10179,Distillate Fuel Oil,2001
 0224980,Farmers Loop,579967,Residual Fuel Oil,2001
@@ -3905,12 +3926,12 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0224980,Farmers Loop,32,Waste Oil,2002
 0224980,Farmers Loop,1031,Wood Waste Solids,2002
 0224980,Farmers Loop,456747,Coal,2003
-0224980,Farmers Loop,6309,Distillate Fuel Oil,2003
+0224980,Farmers Loop,6205,Distillate Fuel Oil,2003
 0224980,Farmers Loop,453733,Residual Fuel Oil,2003
 0224980,Farmers Loop,64,Waste Oil,2003
 0224980,Farmers Loop,761,Wood Waste Solids,2003
 0224980,Farmers Loop,519937,Coal,2004
-0224980,Farmers Loop,9963,Distillate Fuel Oil,2004
+0224980,Farmers Loop,10202,Distillate Fuel Oil,2004
 0224980,Farmers Loop,360379,Residual Fuel Oil,2004
 0224980,Farmers Loop,0,Waste Oil,2004
 0224980,Farmers Loop,388,Wood Waste Solids,2004
@@ -4030,6 +4051,7 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0224980,Farmers Loop,4,Natural Gas,2021
 0224980,Farmers Loop,184970,Waste Oil,2021
 0224980,Farmers Loop,60301,Wind,2021
+0224980,Farmers Loop,,,
 0225220,Ferry,320200,Coal,2001
 0225220,Ferry,10179,Distillate Fuel Oil,2001
 0225220,Ferry,579967,Residual Fuel Oil,2001
@@ -4039,12 +4061,12 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0225220,Ferry,32,Waste Oil,2002
 0225220,Ferry,1031,Wood Waste Solids,2002
 0225220,Ferry,456747,Coal,2003
-0225220,Ferry,6309,Distillate Fuel Oil,2003
+0225220,Ferry,6205,Distillate Fuel Oil,2003
 0225220,Ferry,453733,Residual Fuel Oil,2003
 0225220,Ferry,64,Waste Oil,2003
 0225220,Ferry,761,Wood Waste Solids,2003
 0225220,Ferry,519937,Coal,2004
-0225220,Ferry,9963,Distillate Fuel Oil,2004
+0225220,Ferry,10202,Distillate Fuel Oil,2004
 0225220,Ferry,360379,Residual Fuel Oil,2004
 0225220,Ferry,0,Waste Oil,2004
 0225220,Ferry,388,Wood Waste Solids,2004
@@ -4164,6 +4186,7 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0225220,Ferry,4,Natural Gas,2021
 0225220,Ferry,184970,Waste Oil,2021
 0225220,Ferry,60301,Wind,2021
+0225220,Ferry,,,
 0225550,Fishhook,146252,Water at Hydroelectric Turbine,2001
 0225550,Fishhook,161266,Water at Hydroelectric Turbine,2002
 0225550,Fishhook,177204,Water at Hydroelectric Turbine,2003
@@ -4208,6 +4231,7 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0225550,Fishhook,38071,Landfill Gas,2021
 0225550,Fishhook,678574,Natural Gas,2021
 0225550,Fishhook,139993,Water at Hydroelectric Turbine,2021
+0225550,Fishhook,,,
 0225880,Flat,,,
 0226100,Fort Greely,185,Distillate Fuel Oil,2001
 0226100,Fort Greely,140,Distillate Fuel Oil,2002
@@ -4260,12 +4284,12 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0226835,Four Mile Road,32,Waste Oil,2002
 0226835,Four Mile Road,1031,Wood Waste Solids,2002
 0226835,Four Mile Road,456747,Coal,2003
-0226835,Four Mile Road,6309,Distillate Fuel Oil,2003
+0226835,Four Mile Road,6205,Distillate Fuel Oil,2003
 0226835,Four Mile Road,453733,Residual Fuel Oil,2003
 0226835,Four Mile Road,64,Waste Oil,2003
 0226835,Four Mile Road,761,Wood Waste Solids,2003
 0226835,Four Mile Road,519937,Coal,2004
-0226835,Four Mile Road,9963,Distillate Fuel Oil,2004
+0226835,Four Mile Road,10202,Distillate Fuel Oil,2004
 0226835,Four Mile Road,360379,Residual Fuel Oil,2004
 0226835,Four Mile Road,0,Waste Oil,2004
 0226835,Four Mile Road,388,Wood Waste Solids,2004
@@ -4385,6 +4409,7 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0226835,Four Mile Road,4,Natural Gas,2021
 0226835,Four Mile Road,184970,Waste Oil,2021
 0226835,Four Mile Road,60301,Wind,2021
+0226835,Four Mile Road,,,
 0226870,Fox,320200,Coal,2001
 0226870,Fox,10179,Distillate Fuel Oil,2001
 0226870,Fox,579967,Residual Fuel Oil,2001
@@ -4394,12 +4419,12 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0226870,Fox,32,Waste Oil,2002
 0226870,Fox,1031,Wood Waste Solids,2002
 0226870,Fox,456747,Coal,2003
-0226870,Fox,6309,Distillate Fuel Oil,2003
+0226870,Fox,6205,Distillate Fuel Oil,2003
 0226870,Fox,453733,Residual Fuel Oil,2003
 0226870,Fox,64,Waste Oil,2003
 0226870,Fox,761,Wood Waste Solids,2003
 0226870,Fox,519937,Coal,2004
-0226870,Fox,9963,Distillate Fuel Oil,2004
+0226870,Fox,10202,Distillate Fuel Oil,2004
 0226870,Fox,360379,Residual Fuel Oil,2004
 0226870,Fox,0,Waste Oil,2004
 0226870,Fox,388,Wood Waste Solids,2004
@@ -4519,11 +4544,12 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0226870,Fox,4,Natural Gas,2021
 0226870,Fox,184970,Waste Oil,2021
 0226870,Fox,60301,Wind,2021
+0226870,Fox,,,
 0226910,Fox River,491,Distillate Fuel Oil,2001
-0226910,Fox River,599922,Natural Gas,2001
+0226910,Fox River,426712,Natural Gas,2001
 0226910,Fox River,345681,Water at Hydroelectric Turbine,2001
 0226910,Fox River,357,Distillate Fuel Oil,2002
-0226910,Fox River,778192,Natural Gas,2002
+0226910,Fox River,473327,Natural Gas,2002
 0226910,Fox River,484899,Water at Hydroelectric Turbine,2002
 0226910,Fox River,243,Distillate Fuel Oil,2003
 0226910,Fox River,399766,Natural Gas,2003
@@ -4571,40 +4597,40 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0226910,Fox River,368254,Water at Hydroelectric Turbine,2013
 0226910,Fox River,446,Distillate Fuel Oil,2014
 0226910,Fox River,0,Jet Fuel,2014
-0226910,Fox River,352625,Natural Gas,2014
+0226910,Fox River,306144,Natural Gas,2014
 0226910,Fox River,0,Waste Oil,2014
 0226910,Fox River,432575,Water at Hydroelectric Turbine,2014
 0226910,Fox River,228,Distillate Fuel Oil,2015
 0226910,Fox River,0,Jet Fuel,2015
-0226910,Fox River,356878,Natural Gas,2015
+0226910,Fox River,315792,Natural Gas,2015
 0226910,Fox River,471705,Water at Hydroelectric Turbine,2015
 0226910,Fox River,87,Distillate Fuel Oil,2016
 0226910,Fox River,0,Jet Fuel,2016
-0226910,Fox River,356059,Natural Gas,2016
+0226910,Fox River,316448,Natural Gas,2016
 0226910,Fox River,430509,Water at Hydroelectric Turbine,2016
 0226910,Fox River,14,Distillate Fuel Oil,2017
 0226910,Fox River,0,Jet Fuel,2017
-0226910,Fox River,334660,Natural Gas,2017
+0226910,Fox River,316493,Natural Gas,2017
 0226910,Fox River,387060,Water at Hydroelectric Turbine,2017
 0226910,Fox River,85,Distillate Fuel Oil,2018
 0226910,Fox River,0,Jet Fuel,2018
-0226910,Fox River,299784,Natural Gas,2018
+0226910,Fox River,276029,Natural Gas,2018
 0226910,Fox River,404480,Water at Hydroelectric Turbine,2018
 0226910,Fox River,63,Distillate Fuel Oil,2019
 0226910,Fox River,0,Jet Fuel,2019
-0226910,Fox River,283833,Natural Gas,2019
+0226910,Fox River,237333,Natural Gas,2019
 0226910,Fox River,413593,Water at Hydroelectric Turbine,2019
 0226910,Fox River,4331,Distillate Fuel Oil,2020
-0226910,Fox River,337386,Natural Gas,2020
+0226910,Fox River,302127,Natural Gas,2020
 0226910,Fox River,466636,Water at Hydroelectric Turbine,2020
 0226910,Fox River,224,Distillate Fuel Oil,2021
-0226910,Fox River,323633,Natural Gas,2021
+0226910,Fox River,290509,Natural Gas,2021
 0226910,Fox River,391019,Water at Hydroelectric Turbine,2021
 0227090,Fritz Creek,491,Distillate Fuel Oil,2001
-0227090,Fritz Creek,599922,Natural Gas,2001
+0227090,Fritz Creek,426712,Natural Gas,2001
 0227090,Fritz Creek,345681,Water at Hydroelectric Turbine,2001
 0227090,Fritz Creek,357,Distillate Fuel Oil,2002
-0227090,Fritz Creek,778192,Natural Gas,2002
+0227090,Fritz Creek,473327,Natural Gas,2002
 0227090,Fritz Creek,484899,Water at Hydroelectric Turbine,2002
 0227090,Fritz Creek,243,Distillate Fuel Oil,2003
 0227090,Fritz Creek,399766,Natural Gas,2003
@@ -4652,40 +4678,40 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0227090,Fritz Creek,368254,Water at Hydroelectric Turbine,2013
 0227090,Fritz Creek,446,Distillate Fuel Oil,2014
 0227090,Fritz Creek,0,Jet Fuel,2014
-0227090,Fritz Creek,352625,Natural Gas,2014
+0227090,Fritz Creek,306144,Natural Gas,2014
 0227090,Fritz Creek,0,Waste Oil,2014
 0227090,Fritz Creek,432575,Water at Hydroelectric Turbine,2014
 0227090,Fritz Creek,228,Distillate Fuel Oil,2015
 0227090,Fritz Creek,0,Jet Fuel,2015
-0227090,Fritz Creek,356878,Natural Gas,2015
+0227090,Fritz Creek,315792,Natural Gas,2015
 0227090,Fritz Creek,471705,Water at Hydroelectric Turbine,2015
 0227090,Fritz Creek,87,Distillate Fuel Oil,2016
 0227090,Fritz Creek,0,Jet Fuel,2016
-0227090,Fritz Creek,356059,Natural Gas,2016
+0227090,Fritz Creek,316448,Natural Gas,2016
 0227090,Fritz Creek,430509,Water at Hydroelectric Turbine,2016
 0227090,Fritz Creek,14,Distillate Fuel Oil,2017
 0227090,Fritz Creek,0,Jet Fuel,2017
-0227090,Fritz Creek,334660,Natural Gas,2017
+0227090,Fritz Creek,316493,Natural Gas,2017
 0227090,Fritz Creek,387060,Water at Hydroelectric Turbine,2017
 0227090,Fritz Creek,85,Distillate Fuel Oil,2018
 0227090,Fritz Creek,0,Jet Fuel,2018
-0227090,Fritz Creek,299784,Natural Gas,2018
+0227090,Fritz Creek,276029,Natural Gas,2018
 0227090,Fritz Creek,404480,Water at Hydroelectric Turbine,2018
 0227090,Fritz Creek,63,Distillate Fuel Oil,2019
 0227090,Fritz Creek,0,Jet Fuel,2019
-0227090,Fritz Creek,283833,Natural Gas,2019
+0227090,Fritz Creek,237333,Natural Gas,2019
 0227090,Fritz Creek,413593,Water at Hydroelectric Turbine,2019
 0227090,Fritz Creek,4331,Distillate Fuel Oil,2020
-0227090,Fritz Creek,337386,Natural Gas,2020
+0227090,Fritz Creek,302127,Natural Gas,2020
 0227090,Fritz Creek,466636,Water at Hydroelectric Turbine,2020
 0227090,Fritz Creek,224,Distillate Fuel Oil,2021
-0227090,Fritz Creek,323633,Natural Gas,2021
+0227090,Fritz Creek,290509,Natural Gas,2021
 0227090,Fritz Creek,391019,Water at Hydroelectric Turbine,2021
 0227145,Funny River,491,Distillate Fuel Oil,2001
-0227145,Funny River,599922,Natural Gas,2001
+0227145,Funny River,426712,Natural Gas,2001
 0227145,Funny River,345681,Water at Hydroelectric Turbine,2001
 0227145,Funny River,357,Distillate Fuel Oil,2002
-0227145,Funny River,778192,Natural Gas,2002
+0227145,Funny River,473327,Natural Gas,2002
 0227145,Funny River,484899,Water at Hydroelectric Turbine,2002
 0227145,Funny River,243,Distillate Fuel Oil,2003
 0227145,Funny River,399766,Natural Gas,2003
@@ -4733,34 +4759,34 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0227145,Funny River,368254,Water at Hydroelectric Turbine,2013
 0227145,Funny River,446,Distillate Fuel Oil,2014
 0227145,Funny River,0,Jet Fuel,2014
-0227145,Funny River,352625,Natural Gas,2014
+0227145,Funny River,306144,Natural Gas,2014
 0227145,Funny River,0,Waste Oil,2014
 0227145,Funny River,432575,Water at Hydroelectric Turbine,2014
 0227145,Funny River,228,Distillate Fuel Oil,2015
 0227145,Funny River,0,Jet Fuel,2015
-0227145,Funny River,356878,Natural Gas,2015
+0227145,Funny River,315792,Natural Gas,2015
 0227145,Funny River,471705,Water at Hydroelectric Turbine,2015
 0227145,Funny River,87,Distillate Fuel Oil,2016
 0227145,Funny River,0,Jet Fuel,2016
-0227145,Funny River,356059,Natural Gas,2016
+0227145,Funny River,316448,Natural Gas,2016
 0227145,Funny River,430509,Water at Hydroelectric Turbine,2016
 0227145,Funny River,14,Distillate Fuel Oil,2017
 0227145,Funny River,0,Jet Fuel,2017
-0227145,Funny River,334660,Natural Gas,2017
+0227145,Funny River,316493,Natural Gas,2017
 0227145,Funny River,387060,Water at Hydroelectric Turbine,2017
 0227145,Funny River,85,Distillate Fuel Oil,2018
 0227145,Funny River,0,Jet Fuel,2018
-0227145,Funny River,299784,Natural Gas,2018
+0227145,Funny River,276029,Natural Gas,2018
 0227145,Funny River,404480,Water at Hydroelectric Turbine,2018
 0227145,Funny River,63,Distillate Fuel Oil,2019
 0227145,Funny River,0,Jet Fuel,2019
-0227145,Funny River,283833,Natural Gas,2019
+0227145,Funny River,237333,Natural Gas,2019
 0227145,Funny River,413593,Water at Hydroelectric Turbine,2019
 0227145,Funny River,4331,Distillate Fuel Oil,2020
-0227145,Funny River,337386,Natural Gas,2020
+0227145,Funny River,302127,Natural Gas,2020
 0227145,Funny River,466636,Water at Hydroelectric Turbine,2020
 0227145,Funny River,224,Distillate Fuel Oil,2021
-0227145,Funny River,323633,Natural Gas,2021
+0227145,Funny River,290509,Natural Gas,2021
 0227145,Funny River,391019,Water at Hydroelectric Turbine,2021
 0227420,Gakona,19013,Distillate Fuel Oil,2001
 0227420,Gakona,50787,Water at Hydroelectric Turbine,2001
@@ -4852,40 +4878,40 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0227530,Galena,6033,Distillate Fuel Oil,2019
 0227530,Galena,5311,Distillate Fuel Oil,2020
 0227530,Galena,5361,Distillate Fuel Oil,2021
-0227640,Gambell,3883,Distillate Fuel Oil,2001
-0227640,Gambell,3966,Distillate Fuel Oil,2002
-0227640,Gambell,3937,Distillate Fuel Oil,2003
-0227640,Gambell,3980,Distillate Fuel Oil,2004
-0227640,Gambell,3816,Distillate Fuel Oil,2005
-0227640,Gambell,3705,Distillate Fuel Oil,2006
-0227640,Gambell,3669,Distillate Fuel Oil,2007
-0227640,Gambell,3805,Distillate Fuel Oil,2008
-0227640,Gambell,3667,Distillate Fuel Oil,2009
-0227640,Gambell,133,Wind,2009
-0227640,Gambell,3268,Distillate Fuel Oil,2010
-0227640,Gambell,434,Wind,2010
-0227640,Gambell,3214,Distillate Fuel Oil,2011
-0227640,Gambell,774,Wind,2011
-0227640,Gambell,3102,Distillate Fuel Oil,2012
-0227640,Gambell,909,Wind,2012
-0227640,Gambell,3095,Distillate Fuel Oil,2013
-0227640,Gambell,965,Wind,2013
-0227640,Gambell,3122,Distillate Fuel Oil,2014
-0227640,Gambell,845,Wind,2014
-0227640,Gambell,2832,Distillate Fuel Oil,2015
-0227640,Gambell,1071,Wind,2015
-0227640,Gambell,2649,Distillate Fuel Oil,2016
-0227640,Gambell,1369,Wind,2016
-0227640,Gambell,2832,Distillate Fuel Oil,2017
-0227640,Gambell,1141,Wind,2017
-0227640,Gambell,3012,Distillate Fuel Oil,2018
-0227640,Gambell,952,Wind,2018
-0227640,Gambell,3453,Distillate Fuel Oil,2019
-0227640,Gambell,539,Wind,2019
-0227640,Gambell,3279,Distillate Fuel Oil,2020
-0227640,Gambell,657,Wind,2020
-0227640,Gambell,4427,Distillate Fuel Oil,2021
-0227640,Gambell,73,Wind,2021
+0227640,Gambell,1938,Distillate Fuel Oil,2001
+0227640,Gambell,1984,Distillate Fuel Oil,2002
+0227640,Gambell,1969,Distillate Fuel Oil,2003
+0227640,Gambell,1989,Distillate Fuel Oil,2004
+0227640,Gambell,1910,Distillate Fuel Oil,2005
+0227640,Gambell,1853,Distillate Fuel Oil,2006
+0227640,Gambell,1836,Distillate Fuel Oil,2007
+0227640,Gambell,1902,Distillate Fuel Oil,2008
+0227640,Gambell,1833,Distillate Fuel Oil,2009
+0227640,Gambell,67,Wind,2009
+0227640,Gambell,1633,Distillate Fuel Oil,2010
+0227640,Gambell,217,Wind,2010
+0227640,Gambell,1605,Distillate Fuel Oil,2011
+0227640,Gambell,388,Wind,2011
+0227640,Gambell,1551,Distillate Fuel Oil,2012
+0227640,Gambell,452,Wind,2012
+0227640,Gambell,1546,Distillate Fuel Oil,2013
+0227640,Gambell,485,Wind,2013
+0227640,Gambell,1561,Distillate Fuel Oil,2014
+0227640,Gambell,425,Wind,2014
+0227640,Gambell,1416,Distillate Fuel Oil,2015
+0227640,Gambell,535,Wind,2015
+0227640,Gambell,1323,Distillate Fuel Oil,2016
+0227640,Gambell,685,Wind,2016
+0227640,Gambell,1415,Distillate Fuel Oil,2017
+0227640,Gambell,570,Wind,2017
+0227640,Gambell,1507,Distillate Fuel Oil,2018
+0227640,Gambell,476,Wind,2018
+0227640,Gambell,1726,Distillate Fuel Oil,2019
+0227640,Gambell,270,Wind,2019
+0227640,Gambell,1641,Distillate Fuel Oil,2020
+0227640,Gambell,329,Wind,2020
+0227640,Gambell,2213,Distillate Fuel Oil,2021
+0227640,Gambell,36,Wind,2021
 0227700,Game Creek,,,
 0228200,Gateway,146252,Water at Hydroelectric Turbine,2001
 0228200,Gateway,161266,Water at Hydroelectric Turbine,2002
@@ -4931,6 +4957,7 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0228200,Gateway,38071,Landfill Gas,2021
 0228200,Gateway,678574,Natural Gas,2021
 0228200,Gateway,139993,Water at Hydroelectric Turbine,2021
+0228200,Gateway,,,
 0228590,Glacier View,146252,Water at Hydroelectric Turbine,2001
 0228590,Glacier View,161266,Water at Hydroelectric Turbine,2002
 0228590,Glacier View,177204,Water at Hydroelectric Turbine,2003
@@ -4975,6 +5002,7 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0228590,Glacier View,38071,Landfill Gas,2021
 0228590,Glacier View,678574,Natural Gas,2021
 0228590,Glacier View,139993,Water at Hydroelectric Turbine,2021
+0228590,Glacier View,,,
 0228740,Glennallen,19013,Distillate Fuel Oil,2001
 0228740,Glennallen,50787,Water at Hydroelectric Turbine,2001
 0228740,Glennallen,11382,Distillate Fuel Oil,2002
@@ -5054,12 +5082,12 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0229130,Goldstream,32,Waste Oil,2002
 0229130,Goldstream,1031,Wood Waste Solids,2002
 0229130,Goldstream,456747,Coal,2003
-0229130,Goldstream,6309,Distillate Fuel Oil,2003
+0229130,Goldstream,6205,Distillate Fuel Oil,2003
 0229130,Goldstream,453733,Residual Fuel Oil,2003
 0229130,Goldstream,64,Waste Oil,2003
 0229130,Goldstream,761,Wood Waste Solids,2003
 0229130,Goldstream,519937,Coal,2004
-0229130,Goldstream,9963,Distillate Fuel Oil,2004
+0229130,Goldstream,10202,Distillate Fuel Oil,2004
 0229130,Goldstream,360379,Residual Fuel Oil,2004
 0229130,Goldstream,0,Waste Oil,2004
 0229130,Goldstream,388,Wood Waste Solids,2004
@@ -5179,6 +5207,7 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0229130,Goldstream,4,Natural Gas,2021
 0229130,Goldstream,184970,Waste Oil,2021
 0229130,Goldstream,60301,Wind,2021
+0229130,Goldstream,,,
 0229180,Golovin,277,Distillate Fuel Oil,2001
 0229180,Golovin,586,Distillate Fuel Oil,2002
 0229180,Golovin,690,Distillate Fuel Oil,2003
@@ -5369,10 +5398,10 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0231050,Haines,1388,Distillate Fuel Oil,2021
 0231050,Haines,,,
 0231270,Halibut Cove,491,Distillate Fuel Oil,2001
-0231270,Halibut Cove,599922,Natural Gas,2001
+0231270,Halibut Cove,426712,Natural Gas,2001
 0231270,Halibut Cove,345681,Water at Hydroelectric Turbine,2001
 0231270,Halibut Cove,357,Distillate Fuel Oil,2002
-0231270,Halibut Cove,778192,Natural Gas,2002
+0231270,Halibut Cove,473327,Natural Gas,2002
 0231270,Halibut Cove,484899,Water at Hydroelectric Turbine,2002
 0231270,Halibut Cove,243,Distillate Fuel Oil,2003
 0231270,Halibut Cove,399766,Natural Gas,2003
@@ -5420,40 +5449,40 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0231270,Halibut Cove,368254,Water at Hydroelectric Turbine,2013
 0231270,Halibut Cove,446,Distillate Fuel Oil,2014
 0231270,Halibut Cove,0,Jet Fuel,2014
-0231270,Halibut Cove,352625,Natural Gas,2014
+0231270,Halibut Cove,306144,Natural Gas,2014
 0231270,Halibut Cove,0,Waste Oil,2014
 0231270,Halibut Cove,432575,Water at Hydroelectric Turbine,2014
 0231270,Halibut Cove,228,Distillate Fuel Oil,2015
 0231270,Halibut Cove,0,Jet Fuel,2015
-0231270,Halibut Cove,356878,Natural Gas,2015
+0231270,Halibut Cove,315792,Natural Gas,2015
 0231270,Halibut Cove,471705,Water at Hydroelectric Turbine,2015
 0231270,Halibut Cove,87,Distillate Fuel Oil,2016
 0231270,Halibut Cove,0,Jet Fuel,2016
-0231270,Halibut Cove,356059,Natural Gas,2016
+0231270,Halibut Cove,316448,Natural Gas,2016
 0231270,Halibut Cove,430509,Water at Hydroelectric Turbine,2016
 0231270,Halibut Cove,14,Distillate Fuel Oil,2017
 0231270,Halibut Cove,0,Jet Fuel,2017
-0231270,Halibut Cove,334660,Natural Gas,2017
+0231270,Halibut Cove,316493,Natural Gas,2017
 0231270,Halibut Cove,387060,Water at Hydroelectric Turbine,2017
 0231270,Halibut Cove,85,Distillate Fuel Oil,2018
 0231270,Halibut Cove,0,Jet Fuel,2018
-0231270,Halibut Cove,299784,Natural Gas,2018
+0231270,Halibut Cove,276029,Natural Gas,2018
 0231270,Halibut Cove,404480,Water at Hydroelectric Turbine,2018
 0231270,Halibut Cove,63,Distillate Fuel Oil,2019
 0231270,Halibut Cove,0,Jet Fuel,2019
-0231270,Halibut Cove,283833,Natural Gas,2019
+0231270,Halibut Cove,237333,Natural Gas,2019
 0231270,Halibut Cove,413593,Water at Hydroelectric Turbine,2019
 0231270,Halibut Cove,4331,Distillate Fuel Oil,2020
-0231270,Halibut Cove,337386,Natural Gas,2020
+0231270,Halibut Cove,302127,Natural Gas,2020
 0231270,Halibut Cove,466636,Water at Hydroelectric Turbine,2020
 0231270,Halibut Cove,224,Distillate Fuel Oil,2021
-0231270,Halibut Cove,323633,Natural Gas,2021
+0231270,Halibut Cove,290509,Natural Gas,2021
 0231270,Halibut Cove,391019,Water at Hydroelectric Turbine,2021
 0231710,Happy Valley,491,Distillate Fuel Oil,2001
-0231710,Happy Valley,599922,Natural Gas,2001
+0231710,Happy Valley,426712,Natural Gas,2001
 0231710,Happy Valley,345681,Water at Hydroelectric Turbine,2001
 0231710,Happy Valley,357,Distillate Fuel Oil,2002
-0231710,Happy Valley,778192,Natural Gas,2002
+0231710,Happy Valley,473327,Natural Gas,2002
 0231710,Happy Valley,484899,Water at Hydroelectric Turbine,2002
 0231710,Happy Valley,243,Distillate Fuel Oil,2003
 0231710,Happy Valley,399766,Natural Gas,2003
@@ -5501,34 +5530,34 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0231710,Happy Valley,368254,Water at Hydroelectric Turbine,2013
 0231710,Happy Valley,446,Distillate Fuel Oil,2014
 0231710,Happy Valley,0,Jet Fuel,2014
-0231710,Happy Valley,352625,Natural Gas,2014
+0231710,Happy Valley,306144,Natural Gas,2014
 0231710,Happy Valley,0,Waste Oil,2014
 0231710,Happy Valley,432575,Water at Hydroelectric Turbine,2014
 0231710,Happy Valley,228,Distillate Fuel Oil,2015
 0231710,Happy Valley,0,Jet Fuel,2015
-0231710,Happy Valley,356878,Natural Gas,2015
+0231710,Happy Valley,315792,Natural Gas,2015
 0231710,Happy Valley,471705,Water at Hydroelectric Turbine,2015
 0231710,Happy Valley,87,Distillate Fuel Oil,2016
 0231710,Happy Valley,0,Jet Fuel,2016
-0231710,Happy Valley,356059,Natural Gas,2016
+0231710,Happy Valley,316448,Natural Gas,2016
 0231710,Happy Valley,430509,Water at Hydroelectric Turbine,2016
 0231710,Happy Valley,14,Distillate Fuel Oil,2017
 0231710,Happy Valley,0,Jet Fuel,2017
-0231710,Happy Valley,334660,Natural Gas,2017
+0231710,Happy Valley,316493,Natural Gas,2017
 0231710,Happy Valley,387060,Water at Hydroelectric Turbine,2017
 0231710,Happy Valley,85,Distillate Fuel Oil,2018
 0231710,Happy Valley,0,Jet Fuel,2018
-0231710,Happy Valley,299784,Natural Gas,2018
+0231710,Happy Valley,276029,Natural Gas,2018
 0231710,Happy Valley,404480,Water at Hydroelectric Turbine,2018
 0231710,Happy Valley,63,Distillate Fuel Oil,2019
 0231710,Happy Valley,0,Jet Fuel,2019
-0231710,Happy Valley,283833,Natural Gas,2019
+0231710,Happy Valley,237333,Natural Gas,2019
 0231710,Happy Valley,413593,Water at Hydroelectric Turbine,2019
 0231710,Happy Valley,4331,Distillate Fuel Oil,2020
-0231710,Happy Valley,337386,Natural Gas,2020
+0231710,Happy Valley,302127,Natural Gas,2020
 0231710,Happy Valley,466636,Water at Hydroelectric Turbine,2020
 0231710,Happy Valley,224,Distillate Fuel Oil,2021
-0231710,Happy Valley,323633,Natural Gas,2021
+0231710,Happy Valley,290509,Natural Gas,2021
 0231710,Happy Valley,391019,Water at Hydroelectric Turbine,2021
 0231765,Harding-Birch Lakes,320200,Coal,2001
 0231765,Harding-Birch Lakes,10179,Distillate Fuel Oil,2001
@@ -5539,12 +5568,12 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0231765,Harding-Birch Lakes,32,Waste Oil,2002
 0231765,Harding-Birch Lakes,1031,Wood Waste Solids,2002
 0231765,Harding-Birch Lakes,456747,Coal,2003
-0231765,Harding-Birch Lakes,6309,Distillate Fuel Oil,2003
+0231765,Harding-Birch Lakes,6205,Distillate Fuel Oil,2003
 0231765,Harding-Birch Lakes,453733,Residual Fuel Oil,2003
 0231765,Harding-Birch Lakes,64,Waste Oil,2003
 0231765,Harding-Birch Lakes,761,Wood Waste Solids,2003
 0231765,Harding-Birch Lakes,519937,Coal,2004
-0231765,Harding-Birch Lakes,9963,Distillate Fuel Oil,2004
+0231765,Harding-Birch Lakes,10202,Distillate Fuel Oil,2004
 0231765,Harding-Birch Lakes,360379,Residual Fuel Oil,2004
 0231765,Harding-Birch Lakes,0,Waste Oil,2004
 0231765,Harding-Birch Lakes,388,Wood Waste Solids,2004
@@ -5664,6 +5693,7 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0231765,Harding-Birch Lakes,4,Natural Gas,2021
 0231765,Harding-Birch Lakes,184970,Waste Oil,2021
 0231765,Harding-Birch Lakes,60301,Wind,2021
+0231765,Harding-Birch Lakes,,,
 0232150,Healy,320200,Coal,2001
 0232150,Healy,10179,Distillate Fuel Oil,2001
 0232150,Healy,579967,Residual Fuel Oil,2001
@@ -5673,12 +5703,12 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0232150,Healy,32,Waste Oil,2002
 0232150,Healy,1031,Wood Waste Solids,2002
 0232150,Healy,456747,Coal,2003
-0232150,Healy,6309,Distillate Fuel Oil,2003
+0232150,Healy,6205,Distillate Fuel Oil,2003
 0232150,Healy,453733,Residual Fuel Oil,2003
 0232150,Healy,64,Waste Oil,2003
 0232150,Healy,761,Wood Waste Solids,2003
 0232150,Healy,519937,Coal,2004
-0232150,Healy,9963,Distillate Fuel Oil,2004
+0232150,Healy,10202,Distillate Fuel Oil,2004
 0232150,Healy,360379,Residual Fuel Oil,2004
 0232150,Healy,0,Waste Oil,2004
 0232150,Healy,388,Wood Waste Solids,2004
@@ -5798,6 +5828,7 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0232150,Healy,4,Natural Gas,2021
 0232150,Healy,184970,Waste Oil,2021
 0232150,Healy,60301,Wind,2021
+0232150,Healy,,,
 0232310,Healy Lake,134,Distillate Fuel Oil,2001
 0232310,Healy Lake,150,Distillate Fuel Oil,2002
 0232310,Healy Lake,155,Distillate Fuel Oil,2003
@@ -5883,10 +5914,10 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0233030,Holy Cross,592,Distillate Fuel Oil,2020
 0233030,Holy Cross,576,Distillate Fuel Oil,2021
 0233140,Homer,491,Distillate Fuel Oil,2001
-0233140,Homer,599922,Natural Gas,2001
+0233140,Homer,426712,Natural Gas,2001
 0233140,Homer,345681,Water at Hydroelectric Turbine,2001
 0233140,Homer,357,Distillate Fuel Oil,2002
-0233140,Homer,778192,Natural Gas,2002
+0233140,Homer,473327,Natural Gas,2002
 0233140,Homer,484899,Water at Hydroelectric Turbine,2002
 0233140,Homer,243,Distillate Fuel Oil,2003
 0233140,Homer,399766,Natural Gas,2003
@@ -5934,34 +5965,34 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0233140,Homer,368254,Water at Hydroelectric Turbine,2013
 0233140,Homer,446,Distillate Fuel Oil,2014
 0233140,Homer,0,Jet Fuel,2014
-0233140,Homer,352625,Natural Gas,2014
+0233140,Homer,306144,Natural Gas,2014
 0233140,Homer,0,Waste Oil,2014
 0233140,Homer,432575,Water at Hydroelectric Turbine,2014
 0233140,Homer,228,Distillate Fuel Oil,2015
 0233140,Homer,0,Jet Fuel,2015
-0233140,Homer,356878,Natural Gas,2015
+0233140,Homer,315792,Natural Gas,2015
 0233140,Homer,471705,Water at Hydroelectric Turbine,2015
 0233140,Homer,87,Distillate Fuel Oil,2016
 0233140,Homer,0,Jet Fuel,2016
-0233140,Homer,356059,Natural Gas,2016
+0233140,Homer,316448,Natural Gas,2016
 0233140,Homer,430509,Water at Hydroelectric Turbine,2016
 0233140,Homer,14,Distillate Fuel Oil,2017
 0233140,Homer,0,Jet Fuel,2017
-0233140,Homer,334660,Natural Gas,2017
+0233140,Homer,316493,Natural Gas,2017
 0233140,Homer,387060,Water at Hydroelectric Turbine,2017
 0233140,Homer,85,Distillate Fuel Oil,2018
 0233140,Homer,0,Jet Fuel,2018
-0233140,Homer,299784,Natural Gas,2018
+0233140,Homer,276029,Natural Gas,2018
 0233140,Homer,404480,Water at Hydroelectric Turbine,2018
 0233140,Homer,63,Distillate Fuel Oil,2019
 0233140,Homer,0,Jet Fuel,2019
-0233140,Homer,283833,Natural Gas,2019
+0233140,Homer,237333,Natural Gas,2019
 0233140,Homer,413593,Water at Hydroelectric Turbine,2019
 0233140,Homer,4331,Distillate Fuel Oil,2020
-0233140,Homer,337386,Natural Gas,2020
+0233140,Homer,302127,Natural Gas,2020
 0233140,Homer,466636,Water at Hydroelectric Turbine,2020
 0233140,Homer,224,Distillate Fuel Oil,2021
-0233140,Homer,323633,Natural Gas,2021
+0233140,Homer,290509,Natural Gas,2021
 0233140,Homer,391019,Water at Hydroelectric Turbine,2021
 0233360,Hoonah,2458,Distillate Fuel Oil,2001
 0233360,Hoonah,4557,Distillate Fuel Oil,2002
@@ -6098,6 +6129,7 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0233580,Hope,937447,Natural Gas,2021
 0233580,Hope,36381,Water at Hydroelectric Turbine,2021
 0233580,Hope,41759,Wind,2021
+0233580,Hope,,,
 0233800,Houston,146252,Water at Hydroelectric Turbine,2001
 0233800,Houston,161266,Water at Hydroelectric Turbine,2002
 0233800,Houston,177204,Water at Hydroelectric Turbine,2003
@@ -6142,6 +6174,7 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0233800,Houston,38071,Landfill Gas,2021
 0233800,Houston,678574,Natural Gas,2021
 0233800,Houston,139993,Water at Hydroelectric Turbine,2021
+0233800,Houston,,,
 0233910,Hughes,303,Distillate Fuel Oil,2006
 0233910,Hughes,295,Distillate Fuel Oil,2007
 0233910,Hughes,324,Distillate Fuel Oil,2008
@@ -6310,10 +6343,10 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0236400,Juneau,-723,Distillate Fuel Oil,2021
 0236400,Juneau,433222,Water at Hydroelectric Turbine,2021
 0236540,Kachemak,491,Distillate Fuel Oil,2001
-0236540,Kachemak,599922,Natural Gas,2001
+0236540,Kachemak,426712,Natural Gas,2001
 0236540,Kachemak,345681,Water at Hydroelectric Turbine,2001
 0236540,Kachemak,357,Distillate Fuel Oil,2002
-0236540,Kachemak,778192,Natural Gas,2002
+0236540,Kachemak,473327,Natural Gas,2002
 0236540,Kachemak,484899,Water at Hydroelectric Turbine,2002
 0236540,Kachemak,243,Distillate Fuel Oil,2003
 0236540,Kachemak,399766,Natural Gas,2003
@@ -6361,34 +6394,34 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0236540,Kachemak,368254,Water at Hydroelectric Turbine,2013
 0236540,Kachemak,446,Distillate Fuel Oil,2014
 0236540,Kachemak,0,Jet Fuel,2014
-0236540,Kachemak,352625,Natural Gas,2014
+0236540,Kachemak,306144,Natural Gas,2014
 0236540,Kachemak,0,Waste Oil,2014
 0236540,Kachemak,432575,Water at Hydroelectric Turbine,2014
 0236540,Kachemak,228,Distillate Fuel Oil,2015
 0236540,Kachemak,0,Jet Fuel,2015
-0236540,Kachemak,356878,Natural Gas,2015
+0236540,Kachemak,315792,Natural Gas,2015
 0236540,Kachemak,471705,Water at Hydroelectric Turbine,2015
 0236540,Kachemak,87,Distillate Fuel Oil,2016
 0236540,Kachemak,0,Jet Fuel,2016
-0236540,Kachemak,356059,Natural Gas,2016
+0236540,Kachemak,316448,Natural Gas,2016
 0236540,Kachemak,430509,Water at Hydroelectric Turbine,2016
 0236540,Kachemak,14,Distillate Fuel Oil,2017
 0236540,Kachemak,0,Jet Fuel,2017
-0236540,Kachemak,334660,Natural Gas,2017
+0236540,Kachemak,316493,Natural Gas,2017
 0236540,Kachemak,387060,Water at Hydroelectric Turbine,2017
 0236540,Kachemak,85,Distillate Fuel Oil,2018
 0236540,Kachemak,0,Jet Fuel,2018
-0236540,Kachemak,299784,Natural Gas,2018
+0236540,Kachemak,276029,Natural Gas,2018
 0236540,Kachemak,404480,Water at Hydroelectric Turbine,2018
 0236540,Kachemak,63,Distillate Fuel Oil,2019
 0236540,Kachemak,0,Jet Fuel,2019
-0236540,Kachemak,283833,Natural Gas,2019
+0236540,Kachemak,237333,Natural Gas,2019
 0236540,Kachemak,413593,Water at Hydroelectric Turbine,2019
 0236540,Kachemak,4331,Distillate Fuel Oil,2020
-0236540,Kachemak,337386,Natural Gas,2020
+0236540,Kachemak,302127,Natural Gas,2020
 0236540,Kachemak,466636,Water at Hydroelectric Turbine,2020
 0236540,Kachemak,224,Distillate Fuel Oil,2021
-0236540,Kachemak,323633,Natural Gas,2021
+0236540,Kachemak,290509,Natural Gas,2021
 0236540,Kachemak,391019,Water at Hydroelectric Turbine,2021
 0236770,Kake,2262,Distillate Fuel Oil,2001
 0236770,Kake,4292,Distillate Fuel Oil,2002
@@ -6435,10 +6468,10 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0236990,Kaktovik,3883,Distillate Fuel Oil,2020
 0236990,Kaktovik,4655,Distillate Fuel Oil,2021
 0237250,Kalifornsky,491,Distillate Fuel Oil,2001
-0237250,Kalifornsky,599922,Natural Gas,2001
+0237250,Kalifornsky,426712,Natural Gas,2001
 0237250,Kalifornsky,345681,Water at Hydroelectric Turbine,2001
 0237250,Kalifornsky,357,Distillate Fuel Oil,2002
-0237250,Kalifornsky,778192,Natural Gas,2002
+0237250,Kalifornsky,473327,Natural Gas,2002
 0237250,Kalifornsky,484899,Water at Hydroelectric Turbine,2002
 0237250,Kalifornsky,243,Distillate Fuel Oil,2003
 0237250,Kalifornsky,399766,Natural Gas,2003
@@ -6486,34 +6519,34 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0237250,Kalifornsky,368254,Water at Hydroelectric Turbine,2013
 0237250,Kalifornsky,446,Distillate Fuel Oil,2014
 0237250,Kalifornsky,0,Jet Fuel,2014
-0237250,Kalifornsky,352625,Natural Gas,2014
+0237250,Kalifornsky,306144,Natural Gas,2014
 0237250,Kalifornsky,0,Waste Oil,2014
 0237250,Kalifornsky,432575,Water at Hydroelectric Turbine,2014
 0237250,Kalifornsky,228,Distillate Fuel Oil,2015
 0237250,Kalifornsky,0,Jet Fuel,2015
-0237250,Kalifornsky,356878,Natural Gas,2015
+0237250,Kalifornsky,315792,Natural Gas,2015
 0237250,Kalifornsky,471705,Water at Hydroelectric Turbine,2015
 0237250,Kalifornsky,87,Distillate Fuel Oil,2016
 0237250,Kalifornsky,0,Jet Fuel,2016
-0237250,Kalifornsky,356059,Natural Gas,2016
+0237250,Kalifornsky,316448,Natural Gas,2016
 0237250,Kalifornsky,430509,Water at Hydroelectric Turbine,2016
 0237250,Kalifornsky,14,Distillate Fuel Oil,2017
 0237250,Kalifornsky,0,Jet Fuel,2017
-0237250,Kalifornsky,334660,Natural Gas,2017
+0237250,Kalifornsky,316493,Natural Gas,2017
 0237250,Kalifornsky,387060,Water at Hydroelectric Turbine,2017
 0237250,Kalifornsky,85,Distillate Fuel Oil,2018
 0237250,Kalifornsky,0,Jet Fuel,2018
-0237250,Kalifornsky,299784,Natural Gas,2018
+0237250,Kalifornsky,276029,Natural Gas,2018
 0237250,Kalifornsky,404480,Water at Hydroelectric Turbine,2018
 0237250,Kalifornsky,63,Distillate Fuel Oil,2019
 0237250,Kalifornsky,0,Jet Fuel,2019
-0237250,Kalifornsky,283833,Natural Gas,2019
+0237250,Kalifornsky,237333,Natural Gas,2019
 0237250,Kalifornsky,413593,Water at Hydroelectric Turbine,2019
 0237250,Kalifornsky,4331,Distillate Fuel Oil,2020
-0237250,Kalifornsky,337386,Natural Gas,2020
+0237250,Kalifornsky,302127,Natural Gas,2020
 0237250,Kalifornsky,466636,Water at Hydroelectric Turbine,2020
 0237250,Kalifornsky,224,Distillate Fuel Oil,2021
-0237250,Kalifornsky,323633,Natural Gas,2021
+0237250,Kalifornsky,290509,Natural Gas,2021
 0237250,Kalifornsky,391019,Water at Hydroelectric Turbine,2021
 0237430,Kaltag,695,Distillate Fuel Oil,2001
 0237430,Kaltag,715,Distillate Fuel Oil,2002
@@ -6646,10 +6679,10 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0237975,Kasigluk,2466,Distillate Fuel Oil,2021
 0237975,Kasigluk,324,Wind,2021
 0238090,Kasilof,491,Distillate Fuel Oil,2001
-0238090,Kasilof,599922,Natural Gas,2001
+0238090,Kasilof,426712,Natural Gas,2001
 0238090,Kasilof,345681,Water at Hydroelectric Turbine,2001
 0238090,Kasilof,357,Distillate Fuel Oil,2002
-0238090,Kasilof,778192,Natural Gas,2002
+0238090,Kasilof,473327,Natural Gas,2002
 0238090,Kasilof,484899,Water at Hydroelectric Turbine,2002
 0238090,Kasilof,243,Distillate Fuel Oil,2003
 0238090,Kasilof,399766,Natural Gas,2003
@@ -6697,40 +6730,40 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0238090,Kasilof,368254,Water at Hydroelectric Turbine,2013
 0238090,Kasilof,446,Distillate Fuel Oil,2014
 0238090,Kasilof,0,Jet Fuel,2014
-0238090,Kasilof,352625,Natural Gas,2014
+0238090,Kasilof,306144,Natural Gas,2014
 0238090,Kasilof,0,Waste Oil,2014
 0238090,Kasilof,432575,Water at Hydroelectric Turbine,2014
 0238090,Kasilof,228,Distillate Fuel Oil,2015
 0238090,Kasilof,0,Jet Fuel,2015
-0238090,Kasilof,356878,Natural Gas,2015
+0238090,Kasilof,315792,Natural Gas,2015
 0238090,Kasilof,471705,Water at Hydroelectric Turbine,2015
 0238090,Kasilof,87,Distillate Fuel Oil,2016
 0238090,Kasilof,0,Jet Fuel,2016
-0238090,Kasilof,356059,Natural Gas,2016
+0238090,Kasilof,316448,Natural Gas,2016
 0238090,Kasilof,430509,Water at Hydroelectric Turbine,2016
 0238090,Kasilof,14,Distillate Fuel Oil,2017
 0238090,Kasilof,0,Jet Fuel,2017
-0238090,Kasilof,334660,Natural Gas,2017
+0238090,Kasilof,316493,Natural Gas,2017
 0238090,Kasilof,387060,Water at Hydroelectric Turbine,2017
 0238090,Kasilof,85,Distillate Fuel Oil,2018
 0238090,Kasilof,0,Jet Fuel,2018
-0238090,Kasilof,299784,Natural Gas,2018
+0238090,Kasilof,276029,Natural Gas,2018
 0238090,Kasilof,404480,Water at Hydroelectric Turbine,2018
 0238090,Kasilof,63,Distillate Fuel Oil,2019
 0238090,Kasilof,0,Jet Fuel,2019
-0238090,Kasilof,283833,Natural Gas,2019
+0238090,Kasilof,237333,Natural Gas,2019
 0238090,Kasilof,413593,Water at Hydroelectric Turbine,2019
 0238090,Kasilof,4331,Distillate Fuel Oil,2020
-0238090,Kasilof,337386,Natural Gas,2020
+0238090,Kasilof,302127,Natural Gas,2020
 0238090,Kasilof,466636,Water at Hydroelectric Turbine,2020
 0238090,Kasilof,224,Distillate Fuel Oil,2021
-0238090,Kasilof,323633,Natural Gas,2021
+0238090,Kasilof,290509,Natural Gas,2021
 0238090,Kasilof,391019,Water at Hydroelectric Turbine,2021
 0238420,Kenai,491,Distillate Fuel Oil,2001
-0238420,Kenai,599922,Natural Gas,2001
+0238420,Kenai,426712,Natural Gas,2001
 0238420,Kenai,345681,Water at Hydroelectric Turbine,2001
 0238420,Kenai,357,Distillate Fuel Oil,2002
-0238420,Kenai,778192,Natural Gas,2002
+0238420,Kenai,473327,Natural Gas,2002
 0238420,Kenai,484899,Water at Hydroelectric Turbine,2002
 0238420,Kenai,243,Distillate Fuel Oil,2003
 0238420,Kenai,399766,Natural Gas,2003
@@ -6778,34 +6811,34 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0238420,Kenai,368254,Water at Hydroelectric Turbine,2013
 0238420,Kenai,446,Distillate Fuel Oil,2014
 0238420,Kenai,0,Jet Fuel,2014
-0238420,Kenai,352625,Natural Gas,2014
+0238420,Kenai,306144,Natural Gas,2014
 0238420,Kenai,0,Waste Oil,2014
 0238420,Kenai,432575,Water at Hydroelectric Turbine,2014
 0238420,Kenai,228,Distillate Fuel Oil,2015
 0238420,Kenai,0,Jet Fuel,2015
-0238420,Kenai,356878,Natural Gas,2015
+0238420,Kenai,315792,Natural Gas,2015
 0238420,Kenai,471705,Water at Hydroelectric Turbine,2015
 0238420,Kenai,87,Distillate Fuel Oil,2016
 0238420,Kenai,0,Jet Fuel,2016
-0238420,Kenai,356059,Natural Gas,2016
+0238420,Kenai,316448,Natural Gas,2016
 0238420,Kenai,430509,Water at Hydroelectric Turbine,2016
 0238420,Kenai,14,Distillate Fuel Oil,2017
 0238420,Kenai,0,Jet Fuel,2017
-0238420,Kenai,334660,Natural Gas,2017
+0238420,Kenai,316493,Natural Gas,2017
 0238420,Kenai,387060,Water at Hydroelectric Turbine,2017
 0238420,Kenai,85,Distillate Fuel Oil,2018
 0238420,Kenai,0,Jet Fuel,2018
-0238420,Kenai,299784,Natural Gas,2018
+0238420,Kenai,276029,Natural Gas,2018
 0238420,Kenai,404480,Water at Hydroelectric Turbine,2018
 0238420,Kenai,63,Distillate Fuel Oil,2019
 0238420,Kenai,0,Jet Fuel,2019
-0238420,Kenai,283833,Natural Gas,2019
+0238420,Kenai,237333,Natural Gas,2019
 0238420,Kenai,413593,Water at Hydroelectric Turbine,2019
 0238420,Kenai,4331,Distillate Fuel Oil,2020
-0238420,Kenai,337386,Natural Gas,2020
+0238420,Kenai,302127,Natural Gas,2020
 0238420,Kenai,466636,Water at Hydroelectric Turbine,2020
 0238420,Kenai,224,Distillate Fuel Oil,2021
-0238420,Kenai,323633,Natural Gas,2021
+0238420,Kenai,290509,Natural Gas,2021
 0238420,Kenai,391019,Water at Hydroelectric Turbine,2021
 0238910,Kenny Lake,19013,Distillate Fuel Oil,2001
 0238910,Kenny Lake,50787,Water at Hydroelectric Turbine,2001
@@ -7038,27 +7071,27 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0239740,Kipnuk,469,Wind,2020
 0239740,Kipnuk,1345,Distillate Fuel Oil,2021
 0239740,Kipnuk,672,Wind,2021
-0239960,Kivalina,2176,Distillate Fuel Oil,2001
-0239960,Kivalina,2348,Distillate Fuel Oil,2002
-0239960,Kivalina,2393,Distillate Fuel Oil,2003
-0239960,Kivalina,2427,Distillate Fuel Oil,2004
-0239960,Kivalina,2376,Distillate Fuel Oil,2005
-0239960,Kivalina,2531,Distillate Fuel Oil,2006
-0239960,Kivalina,2552,Distillate Fuel Oil,2007
-0239960,Kivalina,2467,Distillate Fuel Oil,2008
-0239960,Kivalina,2548,Distillate Fuel Oil,2009
-0239960,Kivalina,2482,Distillate Fuel Oil,2010
-0239960,Kivalina,2458,Distillate Fuel Oil,2011
-0239960,Kivalina,2488,Distillate Fuel Oil,2012
-0239960,Kivalina,2604,Distillate Fuel Oil,2013
-0239960,Kivalina,2441,Distillate Fuel Oil,2014
-0239960,Kivalina,2429,Distillate Fuel Oil,2015
-0239960,Kivalina,2643,Distillate Fuel Oil,2016
-0239960,Kivalina,2652,Distillate Fuel Oil,2017
-0239960,Kivalina,2589,Distillate Fuel Oil,2018
-0239960,Kivalina,3358,Distillate Fuel Oil,2019
-0239960,Kivalina,3660,Distillate Fuel Oil,2020
-0239960,Kivalina,3748,Distillate Fuel Oil,2021
+0239960,Kivalina,1087,Distillate Fuel Oil,2001
+0239960,Kivalina,1176,Distillate Fuel Oil,2002
+0239960,Kivalina,1195,Distillate Fuel Oil,2003
+0239960,Kivalina,1213,Distillate Fuel Oil,2004
+0239960,Kivalina,1190,Distillate Fuel Oil,2005
+0239960,Kivalina,1264,Distillate Fuel Oil,2006
+0239960,Kivalina,1278,Distillate Fuel Oil,2007
+0239960,Kivalina,1235,Distillate Fuel Oil,2008
+0239960,Kivalina,1274,Distillate Fuel Oil,2009
+0239960,Kivalina,1242,Distillate Fuel Oil,2010
+0239960,Kivalina,1227,Distillate Fuel Oil,2011
+0239960,Kivalina,1243,Distillate Fuel Oil,2012
+0239960,Kivalina,1300,Distillate Fuel Oil,2013
+0239960,Kivalina,1222,Distillate Fuel Oil,2014
+0239960,Kivalina,1215,Distillate Fuel Oil,2015
+0239960,Kivalina,1324,Distillate Fuel Oil,2016
+0239960,Kivalina,1325,Distillate Fuel Oil,2017
+0239960,Kivalina,1296,Distillate Fuel Oil,2018
+0239960,Kivalina,1679,Distillate Fuel Oil,2019
+0239960,Kivalina,1829,Distillate Fuel Oil,2020
+0239960,Kivalina,1872,Distillate Fuel Oil,2021
 0240400,Klawock,590,Distillate Fuel Oil,2001
 0240400,Klawock,22826,Water at Hydroelectric Turbine,2001
 0240400,Klawock,3286,Distillate Fuel Oil,2002
@@ -7172,6 +7205,7 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0240670,Knik River,38071,Landfill Gas,2021
 0240670,Knik River,678574,Natural Gas,2021
 0240670,Knik River,139993,Water at Hydroelectric Turbine,2021
+0240670,Knik River,,,
 0240645,Knik-Fairview,146252,Water at Hydroelectric Turbine,2001
 0240645,Knik-Fairview,161266,Water at Hydroelectric Turbine,2002
 0240645,Knik-Fairview,177204,Water at Hydroelectric Turbine,2003
@@ -7216,6 +7250,7 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0240645,Knik-Fairview,38071,Landfill Gas,2021
 0240645,Knik-Fairview,678574,Natural Gas,2021
 0240645,Knik-Fairview,139993,Water at Hydroelectric Turbine,2021
+0240645,Knik-Fairview,,,
 0240840,Kobuk,,,
 0240950,Kodiak,41633,Distillate Fuel Oil,2001
 0240950,Kodiak,91854,Water at Hydroelectric Turbine,2001
@@ -7486,27 +7521,27 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0241830,Kotzebue,-86,Electricity used for Energy Storage,2021
 0241830,Kotzebue,593,Solar,2021
 0241830,Kotzebue,2583,Wind,2021
-0241940,Koyuk,2279,Distillate Fuel Oil,2001
-0241940,Koyuk,2328,Distillate Fuel Oil,2002
-0241940,Koyuk,2598,Distillate Fuel Oil,2003
-0241940,Koyuk,2890,Distillate Fuel Oil,2004
-0241940,Koyuk,2812,Distillate Fuel Oil,2005
-0241940,Koyuk,2670,Distillate Fuel Oil,2006
-0241940,Koyuk,2623,Distillate Fuel Oil,2007
-0241940,Koyuk,2721,Distillate Fuel Oil,2008
-0241940,Koyuk,2616,Distillate Fuel Oil,2009
-0241940,Koyuk,2771,Distillate Fuel Oil,2010
-0241940,Koyuk,2666,Distillate Fuel Oil,2011
-0241940,Koyuk,2679,Distillate Fuel Oil,2012
-0241940,Koyuk,2638,Distillate Fuel Oil,2013
-0241940,Koyuk,2520,Distillate Fuel Oil,2014
-0241940,Koyuk,2505,Distillate Fuel Oil,2015
-0241940,Koyuk,2608,Distillate Fuel Oil,2016
-0241940,Koyuk,2642,Distillate Fuel Oil,2017
-0241940,Koyuk,2614,Distillate Fuel Oil,2018
-0241940,Koyuk,2535,Distillate Fuel Oil,2019
-0241940,Koyuk,2528,Distillate Fuel Oil,2020
-0241940,Koyuk,2573,Distillate Fuel Oil,2021
+0241940,Koyuk,1142,Distillate Fuel Oil,2001
+0241940,Koyuk,1163,Distillate Fuel Oil,2002
+0241940,Koyuk,1299,Distillate Fuel Oil,2003
+0241940,Koyuk,1445,Distillate Fuel Oil,2004
+0241940,Koyuk,1408,Distillate Fuel Oil,2005
+0241940,Koyuk,1334,Distillate Fuel Oil,2006
+0241940,Koyuk,1311,Distillate Fuel Oil,2007
+0241940,Koyuk,1360,Distillate Fuel Oil,2008
+0241940,Koyuk,1307,Distillate Fuel Oil,2009
+0241940,Koyuk,1385,Distillate Fuel Oil,2010
+0241940,Koyuk,1333,Distillate Fuel Oil,2011
+0241940,Koyuk,1341,Distillate Fuel Oil,2012
+0241940,Koyuk,1318,Distillate Fuel Oil,2013
+0241940,Koyuk,1260,Distillate Fuel Oil,2014
+0241940,Koyuk,1254,Distillate Fuel Oil,2015
+0241940,Koyuk,1304,Distillate Fuel Oil,2016
+0241940,Koyuk,1322,Distillate Fuel Oil,2017
+0241940,Koyuk,1307,Distillate Fuel Oil,2018
+0241940,Koyuk,1267,Distillate Fuel Oil,2019
+0241940,Koyuk,1262,Distillate Fuel Oil,2020
+0241940,Koyuk,1287,Distillate Fuel Oil,2021
 0242050,Koyukuk,136,Distillate Fuel Oil,2001
 0242050,Koyukuk,283,Distillate Fuel Oil,2002
 0242050,Koyukuk,253,Distillate Fuel Oil,2003
@@ -7664,6 +7699,7 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0243260,Lazy Mountain,38071,Landfill Gas,2021
 0243260,Lazy Mountain,678574,Natural Gas,2021
 0243260,Lazy Mountain,139993,Water at Hydroelectric Turbine,2021
+0243260,Lazy Mountain,,,
 0243810,Levelock,210,Distillate Fuel Oil,2001
 0243810,Levelock,461,Distillate Fuel Oil,2002
 0243810,Levelock,440,Distillate Fuel Oil,2003
@@ -7714,12 +7750,12 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0244580,Livengood,32,Waste Oil,2002
 0244580,Livengood,1031,Wood Waste Solids,2002
 0244580,Livengood,456747,Coal,2003
-0244580,Livengood,6309,Distillate Fuel Oil,2003
+0244580,Livengood,6205,Distillate Fuel Oil,2003
 0244580,Livengood,453733,Residual Fuel Oil,2003
 0244580,Livengood,64,Waste Oil,2003
 0244580,Livengood,761,Wood Waste Solids,2003
 0244580,Livengood,519937,Coal,2004
-0244580,Livengood,9963,Distillate Fuel Oil,2004
+0244580,Livengood,10202,Distillate Fuel Oil,2004
 0244580,Livengood,360379,Residual Fuel Oil,2004
 0244580,Livengood,0,Waste Oil,2004
 0244580,Livengood,388,Wood Waste Solids,2004
@@ -7839,6 +7875,7 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0244580,Livengood,4,Natural Gas,2021
 0244580,Livengood,184970,Waste Oil,2021
 0244580,Livengood,60301,Wind,2021
+0244580,Livengood,,,
 0245020,Loring,,,
 0245295,Lowell Point,580,Distillate Fuel Oil,2002
 0245295,Lowell Point,0,Distillate Fuel Oil,2003
@@ -7897,27 +7934,27 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0245700,Lutak,124,Distillate Fuel Oil,2020
 0245700,Lutak,1388,Distillate Fuel Oil,2021
 0245700,Lutak,,,
-0246780,Manley Hot Springs,299,Distillate Fuel Oil,2001
-0246780,Manley Hot Springs,573,Distillate Fuel Oil,2002
-0246780,Manley Hot Springs,610,Distillate Fuel Oil,2003
-0246780,Manley Hot Springs,602,Distillate Fuel Oil,2004
-0246780,Manley Hot Springs,586,Distillate Fuel Oil,2005
-0246780,Manley Hot Springs,566,Distillate Fuel Oil,2006
-0246780,Manley Hot Springs,556,Distillate Fuel Oil,2007
-0246780,Manley Hot Springs,609,Distillate Fuel Oil,2008
-0246780,Manley Hot Springs,648,Distillate Fuel Oil,2009
-0246780,Manley Hot Springs,751,Distillate Fuel Oil,2010
-0246780,Manley Hot Springs,913,Distillate Fuel Oil,2011
-0246780,Manley Hot Springs,972,Distillate Fuel Oil,2012
-0246780,Manley Hot Springs,876,Distillate Fuel Oil,2013
-0246780,Manley Hot Springs,890,Distillate Fuel Oil,2014
-0246780,Manley Hot Springs,1024,Distillate Fuel Oil,2015
-0246780,Manley Hot Springs,1105,Distillate Fuel Oil,2016
-0246780,Manley Hot Springs,1085,Distillate Fuel Oil,2017
-0246780,Manley Hot Springs,1095,Distillate Fuel Oil,2018
-0246780,Manley Hot Springs,1091,Distillate Fuel Oil,2019
-0246780,Manley Hot Springs,1118,Distillate Fuel Oil,2020
-0246780,Manley Hot Springs,1197,Distillate Fuel Oil,2021
+0246780,Manley Hot Springs,150,Distillate Fuel Oil,2001
+0246780,Manley Hot Springs,289,Distillate Fuel Oil,2002
+0246780,Manley Hot Springs,306,Distillate Fuel Oil,2003
+0246780,Manley Hot Springs,301,Distillate Fuel Oil,2004
+0246780,Manley Hot Springs,293,Distillate Fuel Oil,2005
+0246780,Manley Hot Springs,282,Distillate Fuel Oil,2006
+0246780,Manley Hot Springs,277,Distillate Fuel Oil,2007
+0246780,Manley Hot Springs,305,Distillate Fuel Oil,2008
+0246780,Manley Hot Springs,326,Distillate Fuel Oil,2009
+0246780,Manley Hot Springs,377,Distillate Fuel Oil,2010
+0246780,Manley Hot Springs,454,Distillate Fuel Oil,2011
+0246780,Manley Hot Springs,484,Distillate Fuel Oil,2012
+0246780,Manley Hot Springs,437,Distillate Fuel Oil,2013
+0246780,Manley Hot Springs,445,Distillate Fuel Oil,2014
+0246780,Manley Hot Springs,510,Distillate Fuel Oil,2015
+0246780,Manley Hot Springs,552,Distillate Fuel Oil,2016
+0246780,Manley Hot Springs,543,Distillate Fuel Oil,2017
+0246780,Manley Hot Springs,548,Distillate Fuel Oil,2018
+0246780,Manley Hot Springs,546,Distillate Fuel Oil,2019
+0246780,Manley Hot Springs,560,Distillate Fuel Oil,2020
+0246780,Manley Hot Springs,598,Distillate Fuel Oil,2021
 0246890,Manokotak,156,Distillate Fuel Oil,2001
 0246890,Manokotak,398,Distillate Fuel Oil,2006
 0246890,Manokotak,1346,Distillate Fuel Oil,2007
@@ -7935,27 +7972,27 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0246890,Manokotak,1047,Distillate Fuel Oil,2019
 0246890,Manokotak,1203,Distillate Fuel Oil,2020
 0246890,Manokotak,591,Distillate Fuel Oil,2021
-0247000,Marshall,2115,Distillate Fuel Oil,2001
-0247000,Marshall,2167,Distillate Fuel Oil,2002
-0247000,Marshall,2148,Distillate Fuel Oil,2003
-0247000,Marshall,2250,Distillate Fuel Oil,2004
-0247000,Marshall,2304,Distillate Fuel Oil,2005
-0247000,Marshall,2415,Distillate Fuel Oil,2006
-0247000,Marshall,2420,Distillate Fuel Oil,2007
-0247000,Marshall,2546,Distillate Fuel Oil,2008
-0247000,Marshall,2616,Distillate Fuel Oil,2009
-0247000,Marshall,3091,Distillate Fuel Oil,2010
-0247000,Marshall,3358,Distillate Fuel Oil,2011
-0247000,Marshall,3326,Distillate Fuel Oil,2012
-0247000,Marshall,3236,Distillate Fuel Oil,2013
-0247000,Marshall,3038,Distillate Fuel Oil,2014
-0247000,Marshall,3013,Distillate Fuel Oil,2015
-0247000,Marshall,3020,Distillate Fuel Oil,2016
-0247000,Marshall,2941,Distillate Fuel Oil,2017
-0247000,Marshall,3003,Distillate Fuel Oil,2018
-0247000,Marshall,2844,Distillate Fuel Oil,2019
-0247000,Marshall,2983,Distillate Fuel Oil,2020
-0247000,Marshall,3129,Distillate Fuel Oil,2021
+0247000,Marshall,1057,Distillate Fuel Oil,2001
+0247000,Marshall,1083,Distillate Fuel Oil,2002
+0247000,Marshall,1074,Distillate Fuel Oil,2003
+0247000,Marshall,1124,Distillate Fuel Oil,2004
+0247000,Marshall,1154,Distillate Fuel Oil,2005
+0247000,Marshall,1207,Distillate Fuel Oil,2006
+0247000,Marshall,1210,Distillate Fuel Oil,2007
+0247000,Marshall,1274,Distillate Fuel Oil,2008
+0247000,Marshall,1307,Distillate Fuel Oil,2009
+0247000,Marshall,1543,Distillate Fuel Oil,2010
+0247000,Marshall,1681,Distillate Fuel Oil,2011
+0247000,Marshall,1664,Distillate Fuel Oil,2012
+0247000,Marshall,1616,Distillate Fuel Oil,2013
+0247000,Marshall,1519,Distillate Fuel Oil,2014
+0247000,Marshall,1505,Distillate Fuel Oil,2015
+0247000,Marshall,1509,Distillate Fuel Oil,2016
+0247000,Marshall,1470,Distillate Fuel Oil,2017
+0247000,Marshall,1504,Distillate Fuel Oil,2018
+0247000,Marshall,1421,Distillate Fuel Oil,2019
+0247000,Marshall,1491,Distillate Fuel Oil,2020
+0247000,Marshall,1565,Distillate Fuel Oil,2021
 0245790,McCarthy,,,
 0246010,McGrath,3111,Distillate Fuel Oil,2002
 0246010,McGrath,2969,Distillate Fuel Oil,2003
@@ -8021,6 +8058,7 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0247735,Meadow Lakes,38071,Landfill Gas,2021
 0247735,Meadow Lakes,678574,Natural Gas,2021
 0247735,Meadow Lakes,139993,Water at Hydroelectric Turbine,2021
+0247735,Meadow Lakes,,,
 0247990,Mekoryuk,814,Distillate Fuel Oil,2001
 0247990,Mekoryuk,849,Distillate Fuel Oil,2002
 0247990,Mekoryuk,859,Distillate Fuel Oil,2003
@@ -8230,12 +8268,12 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0250080,Moose Creek,32,Waste Oil,2002
 0250080,Moose Creek,1031,Wood Waste Solids,2002
 0250080,Moose Creek,456747,Coal,2003
-0250080,Moose Creek,6309,Distillate Fuel Oil,2003
+0250080,Moose Creek,6205,Distillate Fuel Oil,2003
 0250080,Moose Creek,453733,Residual Fuel Oil,2003
 0250080,Moose Creek,64,Waste Oil,2003
 0250080,Moose Creek,761,Wood Waste Solids,2003
 0250080,Moose Creek,519937,Coal,2004
-0250080,Moose Creek,9963,Distillate Fuel Oil,2004
+0250080,Moose Creek,10202,Distillate Fuel Oil,2004
 0250080,Moose Creek,360379,Residual Fuel Oil,2004
 0250080,Moose Creek,0,Waste Oil,2004
 0250080,Moose Creek,388,Wood Waste Solids,2004
@@ -8355,6 +8393,7 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0250080,Moose Creek,4,Natural Gas,2021
 0250080,Moose Creek,184970,Waste Oil,2021
 0250080,Moose Creek,60301,Wind,2021
+0250080,Moose Creek,,,
 0250190,Moose Pass,571,Distillate Fuel Oil,2001
 0250190,Moose Pass,2690002,Natural Gas,2001
 0250190,Moose Pass,59447,Water at Hydroelectric Turbine,2001
@@ -8427,6 +8466,7 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0250190,Moose Pass,937447,Natural Gas,2021
 0250190,Moose Pass,36381,Water at Hydroelectric Turbine,2021
 0250190,Moose Pass,41759,Wind,2021
+0250190,Moose Pass,,,
 0250800,Mosquito Lake,128,Distillate Fuel Oil,2001
 0250800,Mosquito Lake,707,,2001
 0250800,Mosquito Lake,1669,,2002
@@ -8523,10 +8563,10 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0252060,Naknek,21415,Distillate Fuel Oil,2020
 0252060,Naknek,24330,Distillate Fuel Oil,2021
 0252210,Nanwalek,491,Distillate Fuel Oil,2001
-0252210,Nanwalek,599922,Natural Gas,2001
+0252210,Nanwalek,426712,Natural Gas,2001
 0252210,Nanwalek,345681,Water at Hydroelectric Turbine,2001
 0252210,Nanwalek,357,Distillate Fuel Oil,2002
-0252210,Nanwalek,778192,Natural Gas,2002
+0252210,Nanwalek,473327,Natural Gas,2002
 0252210,Nanwalek,484899,Water at Hydroelectric Turbine,2002
 0252210,Nanwalek,243,Distillate Fuel Oil,2003
 0252210,Nanwalek,399766,Natural Gas,2003
@@ -8574,34 +8614,34 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0252210,Nanwalek,368254,Water at Hydroelectric Turbine,2013
 0252210,Nanwalek,446,Distillate Fuel Oil,2014
 0252210,Nanwalek,0,Jet Fuel,2014
-0252210,Nanwalek,352625,Natural Gas,2014
+0252210,Nanwalek,306144,Natural Gas,2014
 0252210,Nanwalek,0,Waste Oil,2014
 0252210,Nanwalek,432575,Water at Hydroelectric Turbine,2014
 0252210,Nanwalek,228,Distillate Fuel Oil,2015
 0252210,Nanwalek,0,Jet Fuel,2015
-0252210,Nanwalek,356878,Natural Gas,2015
+0252210,Nanwalek,315792,Natural Gas,2015
 0252210,Nanwalek,471705,Water at Hydroelectric Turbine,2015
 0252210,Nanwalek,87,Distillate Fuel Oil,2016
 0252210,Nanwalek,0,Jet Fuel,2016
-0252210,Nanwalek,356059,Natural Gas,2016
+0252210,Nanwalek,316448,Natural Gas,2016
 0252210,Nanwalek,430509,Water at Hydroelectric Turbine,2016
 0252210,Nanwalek,14,Distillate Fuel Oil,2017
 0252210,Nanwalek,0,Jet Fuel,2017
-0252210,Nanwalek,334660,Natural Gas,2017
+0252210,Nanwalek,316493,Natural Gas,2017
 0252210,Nanwalek,387060,Water at Hydroelectric Turbine,2017
 0252210,Nanwalek,85,Distillate Fuel Oil,2018
 0252210,Nanwalek,0,Jet Fuel,2018
-0252210,Nanwalek,299784,Natural Gas,2018
+0252210,Nanwalek,276029,Natural Gas,2018
 0252210,Nanwalek,404480,Water at Hydroelectric Turbine,2018
 0252210,Nanwalek,63,Distillate Fuel Oil,2019
 0252210,Nanwalek,0,Jet Fuel,2019
-0252210,Nanwalek,283833,Natural Gas,2019
+0252210,Nanwalek,237333,Natural Gas,2019
 0252210,Nanwalek,413593,Water at Hydroelectric Turbine,2019
 0252210,Nanwalek,4331,Distillate Fuel Oil,2020
-0252210,Nanwalek,337386,Natural Gas,2020
+0252210,Nanwalek,302127,Natural Gas,2020
 0252210,Nanwalek,466636,Water at Hydroelectric Turbine,2020
 0252210,Nanwalek,224,Distillate Fuel Oil,2021
-0252210,Nanwalek,323633,Natural Gas,2021
+0252210,Nanwalek,290509,Natural Gas,2021
 0252210,Nanwalek,391019,Water at Hydroelectric Turbine,2021
 0252390,Napakiak,,,
 0252720,Napaskiak,331,Distillate Fuel Oil,2001
@@ -8741,12 +8781,12 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0253050,Nenana,32,Waste Oil,2002
 0253050,Nenana,1031,Wood Waste Solids,2002
 0253050,Nenana,456747,Coal,2003
-0253050,Nenana,6309,Distillate Fuel Oil,2003
+0253050,Nenana,6205,Distillate Fuel Oil,2003
 0253050,Nenana,453733,Residual Fuel Oil,2003
 0253050,Nenana,64,Waste Oil,2003
 0253050,Nenana,761,Wood Waste Solids,2003
 0253050,Nenana,519937,Coal,2004
-0253050,Nenana,9963,Distillate Fuel Oil,2004
+0253050,Nenana,10202,Distillate Fuel Oil,2004
 0253050,Nenana,360379,Residual Fuel Oil,2004
 0253050,Nenana,0,Waste Oil,2004
 0253050,Nenana,388,Wood Waste Solids,2004
@@ -8866,27 +8906,28 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0253050,Nenana,4,Natural Gas,2021
 0253050,Nenana,184970,Waste Oil,2021
 0253050,Nenana,60301,Wind,2021
-0253710,New Stuyahok,2385,Distillate Fuel Oil,2001
-0253710,New Stuyahok,2386,Distillate Fuel Oil,2002
-0253710,New Stuyahok,2427,Distillate Fuel Oil,2003
-0253710,New Stuyahok,2382,Distillate Fuel Oil,2004
-0253710,New Stuyahok,2396,Distillate Fuel Oil,2005
-0253710,New Stuyahok,2432,Distillate Fuel Oil,2006
-0253710,New Stuyahok,2501,Distillate Fuel Oil,2007
-0253710,New Stuyahok,3224,Distillate Fuel Oil,2008
-0253710,New Stuyahok,3230,Distillate Fuel Oil,2009
-0253710,New Stuyahok,3034,Distillate Fuel Oil,2010
-0253710,New Stuyahok,3003,Distillate Fuel Oil,2011
-0253710,New Stuyahok,2961,Distillate Fuel Oil,2012
-0253710,New Stuyahok,2836,Distillate Fuel Oil,2013
-0253710,New Stuyahok,2745,Distillate Fuel Oil,2014
-0253710,New Stuyahok,2768,Distillate Fuel Oil,2015
-0253710,New Stuyahok,2755,Distillate Fuel Oil,2016
-0253710,New Stuyahok,3450,Distillate Fuel Oil,2017
-0253710,New Stuyahok,3664,Distillate Fuel Oil,2018
-0253710,New Stuyahok,3651,Distillate Fuel Oil,2019
-0253710,New Stuyahok,3773,Distillate Fuel Oil,2020
-0253710,New Stuyahok,3844,Distillate Fuel Oil,2021
+0253050,Nenana,,,
+0253710,New Stuyahok,1193,Distillate Fuel Oil,2001
+0253710,New Stuyahok,1191,Distillate Fuel Oil,2002
+0253710,New Stuyahok,1214,Distillate Fuel Oil,2003
+0253710,New Stuyahok,1191,Distillate Fuel Oil,2004
+0253710,New Stuyahok,1198,Distillate Fuel Oil,2005
+0253710,New Stuyahok,1215,Distillate Fuel Oil,2006
+0253710,New Stuyahok,1252,Distillate Fuel Oil,2007
+0253710,New Stuyahok,1611,Distillate Fuel Oil,2008
+0253710,New Stuyahok,1615,Distillate Fuel Oil,2009
+0253710,New Stuyahok,1515,Distillate Fuel Oil,2010
+0253710,New Stuyahok,1503,Distillate Fuel Oil,2011
+0253710,New Stuyahok,1482,Distillate Fuel Oil,2012
+0253710,New Stuyahok,1418,Distillate Fuel Oil,2013
+0253710,New Stuyahok,1373,Distillate Fuel Oil,2014
+0253710,New Stuyahok,1386,Distillate Fuel Oil,2015
+0253710,New Stuyahok,1378,Distillate Fuel Oil,2016
+0253710,New Stuyahok,1723,Distillate Fuel Oil,2017
+0253710,New Stuyahok,1832,Distillate Fuel Oil,2018
+0253710,New Stuyahok,1825,Distillate Fuel Oil,2019
+0253710,New Stuyahok,1887,Distillate Fuel Oil,2020
+0253710,New Stuyahok,1920,Distillate Fuel Oil,2021
 0253270,Newhalen,229,Distillate Fuel Oil,2001
 0253270,Newhalen,1317,Water at Hydroelectric Turbine,2001
 0253270,Newhalen,928,Distillate Fuel Oil,2002
@@ -8959,10 +9000,10 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0253930,Nightmute,617,Distillate Fuel Oil,2007
 0253930,Nightmute,219,Distillate Fuel Oil,2008
 0254050,Nikiski,491,Distillate Fuel Oil,2001
-0254050,Nikiski,599922,Natural Gas,2001
+0254050,Nikiski,426712,Natural Gas,2001
 0254050,Nikiski,345681,Water at Hydroelectric Turbine,2001
 0254050,Nikiski,357,Distillate Fuel Oil,2002
-0254050,Nikiski,778192,Natural Gas,2002
+0254050,Nikiski,473327,Natural Gas,2002
 0254050,Nikiski,484899,Water at Hydroelectric Turbine,2002
 0254050,Nikiski,243,Distillate Fuel Oil,2003
 0254050,Nikiski,399766,Natural Gas,2003
@@ -9010,40 +9051,40 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0254050,Nikiski,368254,Water at Hydroelectric Turbine,2013
 0254050,Nikiski,446,Distillate Fuel Oil,2014
 0254050,Nikiski,0,Jet Fuel,2014
-0254050,Nikiski,352625,Natural Gas,2014
+0254050,Nikiski,306144,Natural Gas,2014
 0254050,Nikiski,0,Waste Oil,2014
 0254050,Nikiski,432575,Water at Hydroelectric Turbine,2014
 0254050,Nikiski,228,Distillate Fuel Oil,2015
 0254050,Nikiski,0,Jet Fuel,2015
-0254050,Nikiski,356878,Natural Gas,2015
+0254050,Nikiski,315792,Natural Gas,2015
 0254050,Nikiski,471705,Water at Hydroelectric Turbine,2015
 0254050,Nikiski,87,Distillate Fuel Oil,2016
 0254050,Nikiski,0,Jet Fuel,2016
-0254050,Nikiski,356059,Natural Gas,2016
+0254050,Nikiski,316448,Natural Gas,2016
 0254050,Nikiski,430509,Water at Hydroelectric Turbine,2016
 0254050,Nikiski,14,Distillate Fuel Oil,2017
 0254050,Nikiski,0,Jet Fuel,2017
-0254050,Nikiski,334660,Natural Gas,2017
+0254050,Nikiski,316493,Natural Gas,2017
 0254050,Nikiski,387060,Water at Hydroelectric Turbine,2017
 0254050,Nikiski,85,Distillate Fuel Oil,2018
 0254050,Nikiski,0,Jet Fuel,2018
-0254050,Nikiski,299784,Natural Gas,2018
+0254050,Nikiski,276029,Natural Gas,2018
 0254050,Nikiski,404480,Water at Hydroelectric Turbine,2018
 0254050,Nikiski,63,Distillate Fuel Oil,2019
 0254050,Nikiski,0,Jet Fuel,2019
-0254050,Nikiski,283833,Natural Gas,2019
+0254050,Nikiski,237333,Natural Gas,2019
 0254050,Nikiski,413593,Water at Hydroelectric Turbine,2019
 0254050,Nikiski,4331,Distillate Fuel Oil,2020
-0254050,Nikiski,337386,Natural Gas,2020
+0254050,Nikiski,302127,Natural Gas,2020
 0254050,Nikiski,466636,Water at Hydroelectric Turbine,2020
 0254050,Nikiski,224,Distillate Fuel Oil,2021
-0254050,Nikiski,323633,Natural Gas,2021
+0254050,Nikiski,290509,Natural Gas,2021
 0254050,Nikiski,391019,Water at Hydroelectric Turbine,2021
 0254085,Nikolaevsk,491,Distillate Fuel Oil,2001
-0254085,Nikolaevsk,599922,Natural Gas,2001
+0254085,Nikolaevsk,426712,Natural Gas,2001
 0254085,Nikolaevsk,345681,Water at Hydroelectric Turbine,2001
 0254085,Nikolaevsk,357,Distillate Fuel Oil,2002
-0254085,Nikolaevsk,778192,Natural Gas,2002
+0254085,Nikolaevsk,473327,Natural Gas,2002
 0254085,Nikolaevsk,484899,Water at Hydroelectric Turbine,2002
 0254085,Nikolaevsk,243,Distillate Fuel Oil,2003
 0254085,Nikolaevsk,399766,Natural Gas,2003
@@ -9091,34 +9132,34 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0254085,Nikolaevsk,368254,Water at Hydroelectric Turbine,2013
 0254085,Nikolaevsk,446,Distillate Fuel Oil,2014
 0254085,Nikolaevsk,0,Jet Fuel,2014
-0254085,Nikolaevsk,352625,Natural Gas,2014
+0254085,Nikolaevsk,306144,Natural Gas,2014
 0254085,Nikolaevsk,0,Waste Oil,2014
 0254085,Nikolaevsk,432575,Water at Hydroelectric Turbine,2014
 0254085,Nikolaevsk,228,Distillate Fuel Oil,2015
 0254085,Nikolaevsk,0,Jet Fuel,2015
-0254085,Nikolaevsk,356878,Natural Gas,2015
+0254085,Nikolaevsk,315792,Natural Gas,2015
 0254085,Nikolaevsk,471705,Water at Hydroelectric Turbine,2015
 0254085,Nikolaevsk,87,Distillate Fuel Oil,2016
 0254085,Nikolaevsk,0,Jet Fuel,2016
-0254085,Nikolaevsk,356059,Natural Gas,2016
+0254085,Nikolaevsk,316448,Natural Gas,2016
 0254085,Nikolaevsk,430509,Water at Hydroelectric Turbine,2016
 0254085,Nikolaevsk,14,Distillate Fuel Oil,2017
 0254085,Nikolaevsk,0,Jet Fuel,2017
-0254085,Nikolaevsk,334660,Natural Gas,2017
+0254085,Nikolaevsk,316493,Natural Gas,2017
 0254085,Nikolaevsk,387060,Water at Hydroelectric Turbine,2017
 0254085,Nikolaevsk,85,Distillate Fuel Oil,2018
 0254085,Nikolaevsk,0,Jet Fuel,2018
-0254085,Nikolaevsk,299784,Natural Gas,2018
+0254085,Nikolaevsk,276029,Natural Gas,2018
 0254085,Nikolaevsk,404480,Water at Hydroelectric Turbine,2018
 0254085,Nikolaevsk,63,Distillate Fuel Oil,2019
 0254085,Nikolaevsk,0,Jet Fuel,2019
-0254085,Nikolaevsk,283833,Natural Gas,2019
+0254085,Nikolaevsk,237333,Natural Gas,2019
 0254085,Nikolaevsk,413593,Water at Hydroelectric Turbine,2019
 0254085,Nikolaevsk,4331,Distillate Fuel Oil,2020
-0254085,Nikolaevsk,337386,Natural Gas,2020
+0254085,Nikolaevsk,302127,Natural Gas,2020
 0254085,Nikolaevsk,466636,Water at Hydroelectric Turbine,2020
 0254085,Nikolaevsk,224,Distillate Fuel Oil,2021
-0254085,Nikolaevsk,323633,Natural Gas,2021
+0254085,Nikolaevsk,290509,Natural Gas,2021
 0254085,Nikolaevsk,391019,Water at Hydroelectric Turbine,2021
 0254150,Nikolai,,,
 0254260,Nikolski,84,Distillate Fuel Oil,2001
@@ -9145,10 +9186,10 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0254260,Nikolski,185,Distillate Fuel Oil,2020
 0254260,Nikolski,94,Distillate Fuel Oil,2021
 0254480,Ninilchik,491,Distillate Fuel Oil,2001
-0254480,Ninilchik,599922,Natural Gas,2001
+0254480,Ninilchik,426712,Natural Gas,2001
 0254480,Ninilchik,345681,Water at Hydroelectric Turbine,2001
 0254480,Ninilchik,357,Distillate Fuel Oil,2002
-0254480,Ninilchik,778192,Natural Gas,2002
+0254480,Ninilchik,473327,Natural Gas,2002
 0254480,Ninilchik,484899,Water at Hydroelectric Turbine,2002
 0254480,Ninilchik,243,Distillate Fuel Oil,2003
 0254480,Ninilchik,399766,Natural Gas,2003
@@ -9196,56 +9237,56 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0254480,Ninilchik,368254,Water at Hydroelectric Turbine,2013
 0254480,Ninilchik,446,Distillate Fuel Oil,2014
 0254480,Ninilchik,0,Jet Fuel,2014
-0254480,Ninilchik,352625,Natural Gas,2014
+0254480,Ninilchik,306144,Natural Gas,2014
 0254480,Ninilchik,0,Waste Oil,2014
 0254480,Ninilchik,432575,Water at Hydroelectric Turbine,2014
 0254480,Ninilchik,228,Distillate Fuel Oil,2015
 0254480,Ninilchik,0,Jet Fuel,2015
-0254480,Ninilchik,356878,Natural Gas,2015
+0254480,Ninilchik,315792,Natural Gas,2015
 0254480,Ninilchik,471705,Water at Hydroelectric Turbine,2015
 0254480,Ninilchik,87,Distillate Fuel Oil,2016
 0254480,Ninilchik,0,Jet Fuel,2016
-0254480,Ninilchik,356059,Natural Gas,2016
+0254480,Ninilchik,316448,Natural Gas,2016
 0254480,Ninilchik,430509,Water at Hydroelectric Turbine,2016
 0254480,Ninilchik,14,Distillate Fuel Oil,2017
 0254480,Ninilchik,0,Jet Fuel,2017
-0254480,Ninilchik,334660,Natural Gas,2017
+0254480,Ninilchik,316493,Natural Gas,2017
 0254480,Ninilchik,387060,Water at Hydroelectric Turbine,2017
 0254480,Ninilchik,85,Distillate Fuel Oil,2018
 0254480,Ninilchik,0,Jet Fuel,2018
-0254480,Ninilchik,299784,Natural Gas,2018
+0254480,Ninilchik,276029,Natural Gas,2018
 0254480,Ninilchik,404480,Water at Hydroelectric Turbine,2018
 0254480,Ninilchik,63,Distillate Fuel Oil,2019
 0254480,Ninilchik,0,Jet Fuel,2019
-0254480,Ninilchik,283833,Natural Gas,2019
+0254480,Ninilchik,237333,Natural Gas,2019
 0254480,Ninilchik,413593,Water at Hydroelectric Turbine,2019
 0254480,Ninilchik,4331,Distillate Fuel Oil,2020
-0254480,Ninilchik,337386,Natural Gas,2020
+0254480,Ninilchik,302127,Natural Gas,2020
 0254480,Ninilchik,466636,Water at Hydroelectric Turbine,2020
 0254480,Ninilchik,224,Distillate Fuel Oil,2021
-0254480,Ninilchik,323633,Natural Gas,2021
+0254480,Ninilchik,290509,Natural Gas,2021
 0254480,Ninilchik,391019,Water at Hydroelectric Turbine,2021
-0254700,Noatak,2871,Distillate Fuel Oil,2001
-0254700,Noatak,2943,Distillate Fuel Oil,2002
-0254700,Noatak,2942,Distillate Fuel Oil,2003
-0254700,Noatak,3052,Distillate Fuel Oil,2004
-0254700,Noatak,2978,Distillate Fuel Oil,2005
-0254700,Noatak,2973,Distillate Fuel Oil,2006
-0254700,Noatak,3174,Distillate Fuel Oil,2007
-0254700,Noatak,3929,Distillate Fuel Oil,2008
-0254700,Noatak,3684,Distillate Fuel Oil,2009
-0254700,Noatak,3685,Distillate Fuel Oil,2010
-0254700,Noatak,3612,Distillate Fuel Oil,2011
-0254700,Noatak,3815,Distillate Fuel Oil,2012
-0254700,Noatak,3836,Distillate Fuel Oil,2013
-0254700,Noatak,3585,Distillate Fuel Oil,2014
-0254700,Noatak,3676,Distillate Fuel Oil,2015
-0254700,Noatak,3705,Distillate Fuel Oil,2016
-0254700,Noatak,3722,Distillate Fuel Oil,2017
-0254700,Noatak,3883,Distillate Fuel Oil,2018
-0254700,Noatak,3730,Distillate Fuel Oil,2019
-0254700,Noatak,3741,Distillate Fuel Oil,2020
-0254700,Noatak,3705,Distillate Fuel Oil,2021
+0254700,Noatak,1438,Distillate Fuel Oil,2001
+0254700,Noatak,1471,Distillate Fuel Oil,2002
+0254700,Noatak,1470,Distillate Fuel Oil,2003
+0254700,Noatak,1527,Distillate Fuel Oil,2004
+0254700,Noatak,1490,Distillate Fuel Oil,2005
+0254700,Noatak,1489,Distillate Fuel Oil,2006
+0254700,Noatak,1586,Distillate Fuel Oil,2007
+0254700,Noatak,1967,Distillate Fuel Oil,2008
+0254700,Noatak,1841,Distillate Fuel Oil,2009
+0254700,Noatak,1843,Distillate Fuel Oil,2010
+0254700,Noatak,1806,Distillate Fuel Oil,2011
+0254700,Noatak,1907,Distillate Fuel Oil,2012
+0254700,Noatak,1917,Distillate Fuel Oil,2013
+0254700,Noatak,1791,Distillate Fuel Oil,2014
+0254700,Noatak,1838,Distillate Fuel Oil,2015
+0254700,Noatak,1852,Distillate Fuel Oil,2016
+0254700,Noatak,1860,Distillate Fuel Oil,2017
+0254700,Noatak,1940,Distillate Fuel Oil,2018
+0254700,Noatak,1864,Distillate Fuel Oil,2019
+0254700,Noatak,1871,Distillate Fuel Oil,2020
+0254700,Noatak,1850,Distillate Fuel Oil,2021
 0254920,Nome,27837,Distillate Fuel Oil,2001
 0254920,Nome,28551,Distillate Fuel Oil,2002
 0254920,Nome,29262,Distillate Fuel Oil,2003
@@ -9391,6 +9432,7 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0255745,North Lakes,38071,Landfill Gas,2021
 0255745,North Lakes,678574,Natural Gas,2021
 0255745,North Lakes,139993,Water at Hydroelectric Turbine,2021
+0255745,North Lakes,,,
 0255910,North Pole,320200,Coal,2001
 0255910,North Pole,10179,Distillate Fuel Oil,2001
 0255910,North Pole,579967,Residual Fuel Oil,2001
@@ -9400,12 +9442,12 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0255910,North Pole,32,Waste Oil,2002
 0255910,North Pole,1031,Wood Waste Solids,2002
 0255910,North Pole,456747,Coal,2003
-0255910,North Pole,6309,Distillate Fuel Oil,2003
+0255910,North Pole,6205,Distillate Fuel Oil,2003
 0255910,North Pole,453733,Residual Fuel Oil,2003
 0255910,North Pole,64,Waste Oil,2003
 0255910,North Pole,761,Wood Waste Solids,2003
 0255910,North Pole,519937,Coal,2004
-0255910,North Pole,9963,Distillate Fuel Oil,2004
+0255910,North Pole,10202,Distillate Fuel Oil,2004
 0255910,North Pole,360379,Residual Fuel Oil,2004
 0255910,North Pole,0,Waste Oil,2004
 0255910,North Pole,388,Wood Waste Solids,2004
@@ -9525,6 +9567,7 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0255910,North Pole,4,Natural Gas,2021
 0255910,North Pole,184970,Waste Oil,2021
 0255910,North Pole,60301,Wind,2021
+0255910,North Pole,,,
 0256220,Northway,1558,Distillate Fuel Oil,2001
 0256220,Northway,1559,Distillate Fuel Oil,2002
 0256220,Northway,1617,Distillate Fuel Oil,2003
@@ -9784,6 +9827,7 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0258660,Palmer,38071,Landfill Gas,2021
 0258660,Palmer,678574,Natural Gas,2021
 0258660,Palmer,139993,Water at Hydroelectric Turbine,2021
+0258660,Palmer,,,
 0259320,Paxson,,,
 0259540,Pedro Bay,188,Distillate Fuel Oil,2001
 0259540,Pedro Bay,221,Distillate Fuel Oil,2002
@@ -9960,6 +10004,7 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0260460,Petersville,38071,Landfill Gas,2021
 0260460,Petersville,678574,Natural Gas,2021
 0260460,Petersville,139993,Water at Hydroelectric Turbine,2021
+0260460,Petersville,,,
 0260640,Pilot Point,223,Distillate Fuel Oil,2001
 0260640,Pilot Point,448,Distillate Fuel Oil,2002
 0260640,Pilot Point,462,Distillate Fuel Oil,2003
@@ -9989,27 +10034,27 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0260640,Pilot Point,283,Distillate Fuel Oil,2019
 0260640,Pilot Point,499,Distillate Fuel Oil,2020
 0260640,Pilot Point,463,Distillate Fuel Oil,2021
-0260750,Pilot Station,2765,Distillate Fuel Oil,2001
-0260750,Pilot Station,3395,Distillate Fuel Oil,2002
-0260750,Pilot Station,3380,Distillate Fuel Oil,2003
-0260750,Pilot Station,3352,Distillate Fuel Oil,2004
-0260750,Pilot Station,3374,Distillate Fuel Oil,2005
-0260750,Pilot Station,3412,Distillate Fuel Oil,2006
-0260750,Pilot Station,3338,Distillate Fuel Oil,2007
-0260750,Pilot Station,3385,Distillate Fuel Oil,2008
-0260750,Pilot Station,3516,Distillate Fuel Oil,2009
-0260750,Pilot Station,3444,Distillate Fuel Oil,2010
-0260750,Pilot Station,3540,Distillate Fuel Oil,2011
-0260750,Pilot Station,3667,Distillate Fuel Oil,2012
-0260750,Pilot Station,3671,Distillate Fuel Oil,2013
-0260750,Pilot Station,3445,Distillate Fuel Oil,2014
-0260750,Pilot Station,3619,Distillate Fuel Oil,2015
-0260750,Pilot Station,3948,Distillate Fuel Oil,2016
-0260750,Pilot Station,4034,Distillate Fuel Oil,2017
-0260750,Pilot Station,3650,Distillate Fuel Oil,2018
-0260750,Pilot Station,3604,Distillate Fuel Oil,2019
-0260750,Pilot Station,3648,Distillate Fuel Oil,2020
-0260750,Pilot Station,3754,Distillate Fuel Oil,2021
+0260750,Pilot Station,1384,Distillate Fuel Oil,2001
+0260750,Pilot Station,1697,Distillate Fuel Oil,2002
+0260750,Pilot Station,1689,Distillate Fuel Oil,2003
+0260750,Pilot Station,1675,Distillate Fuel Oil,2004
+0260750,Pilot Station,1687,Distillate Fuel Oil,2005
+0260750,Pilot Station,1705,Distillate Fuel Oil,2006
+0260750,Pilot Station,1671,Distillate Fuel Oil,2007
+0260750,Pilot Station,1692,Distillate Fuel Oil,2008
+0260750,Pilot Station,1758,Distillate Fuel Oil,2009
+0260750,Pilot Station,1720,Distillate Fuel Oil,2010
+0260750,Pilot Station,1771,Distillate Fuel Oil,2011
+0260750,Pilot Station,1834,Distillate Fuel Oil,2012
+0260750,Pilot Station,1835,Distillate Fuel Oil,2013
+0260750,Pilot Station,1721,Distillate Fuel Oil,2014
+0260750,Pilot Station,1810,Distillate Fuel Oil,2015
+0260750,Pilot Station,1975,Distillate Fuel Oil,2016
+0260750,Pilot Station,2018,Distillate Fuel Oil,2017
+0260750,Pilot Station,1825,Distillate Fuel Oil,2018
+0260750,Pilot Station,1801,Distillate Fuel Oil,2019
+0260750,Pilot Station,1823,Distillate Fuel Oil,2020
+0260750,Pilot Station,1876,Distillate Fuel Oil,2021
 0260860,Pitkas Point,5358,Distillate Fuel Oil,2001
 0260860,Pitkas Point,5428,Distillate Fuel Oil,2002
 0260860,Pitkas Point,5687,Distillate Fuel Oil,2003
@@ -10044,12 +10089,12 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0261120,Pleasant Valley,32,Waste Oil,2002
 0261120,Pleasant Valley,1031,Wood Waste Solids,2002
 0261120,Pleasant Valley,456747,Coal,2003
-0261120,Pleasant Valley,6309,Distillate Fuel Oil,2003
+0261120,Pleasant Valley,6205,Distillate Fuel Oil,2003
 0261120,Pleasant Valley,453733,Residual Fuel Oil,2003
 0261120,Pleasant Valley,64,Waste Oil,2003
 0261120,Pleasant Valley,761,Wood Waste Solids,2003
 0261120,Pleasant Valley,519937,Coal,2004
-0261120,Pleasant Valley,9963,Distillate Fuel Oil,2004
+0261120,Pleasant Valley,10202,Distillate Fuel Oil,2004
 0261120,Pleasant Valley,360379,Residual Fuel Oil,2004
 0261120,Pleasant Valley,0,Waste Oil,2004
 0261120,Pleasant Valley,388,Wood Waste Solids,2004
@@ -10169,6 +10214,7 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0261120,Pleasant Valley,4,Natural Gas,2021
 0261120,Pleasant Valley,184970,Waste Oil,2021
 0261120,Pleasant Valley,60301,Wind,2021
+0261120,Pleasant Valley,,,
 0261190,Point Baker,,,
 0261630,Point Hope,2797,Distillate Fuel Oil,2001
 0261630,Point Hope,6077,Distillate Fuel Oil,2002
@@ -10257,6 +10303,7 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0261788,Point MacKenzie,38071,Landfill Gas,2021
 0261788,Point MacKenzie,678574,Natural Gas,2021
 0261788,Point MacKenzie,139993,Water at Hydroelectric Turbine,2021
+0261788,Point MacKenzie,,,
 0261825,Point Possession,,,
 0262125,Pope-Vannoy Landing,,,
 0262510,Port Alexander,,,
@@ -10283,10 +10330,10 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0262620,Port Alsworth,934,Distillate Fuel Oil,2021
 0263170,Port Clarence,,,
 0263280,Port Graham,491,Distillate Fuel Oil,2001
-0263280,Port Graham,599922,Natural Gas,2001
+0263280,Port Graham,426712,Natural Gas,2001
 0263280,Port Graham,345681,Water at Hydroelectric Turbine,2001
 0263280,Port Graham,357,Distillate Fuel Oil,2002
-0263280,Port Graham,778192,Natural Gas,2002
+0263280,Port Graham,473327,Natural Gas,2002
 0263280,Port Graham,484899,Water at Hydroelectric Turbine,2002
 0263280,Port Graham,243,Distillate Fuel Oil,2003
 0263280,Port Graham,399766,Natural Gas,2003
@@ -10334,34 +10381,34 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0263280,Port Graham,368254,Water at Hydroelectric Turbine,2013
 0263280,Port Graham,446,Distillate Fuel Oil,2014
 0263280,Port Graham,0,Jet Fuel,2014
-0263280,Port Graham,352625,Natural Gas,2014
+0263280,Port Graham,306144,Natural Gas,2014
 0263280,Port Graham,0,Waste Oil,2014
 0263280,Port Graham,432575,Water at Hydroelectric Turbine,2014
 0263280,Port Graham,228,Distillate Fuel Oil,2015
 0263280,Port Graham,0,Jet Fuel,2015
-0263280,Port Graham,356878,Natural Gas,2015
+0263280,Port Graham,315792,Natural Gas,2015
 0263280,Port Graham,471705,Water at Hydroelectric Turbine,2015
 0263280,Port Graham,87,Distillate Fuel Oil,2016
 0263280,Port Graham,0,Jet Fuel,2016
-0263280,Port Graham,356059,Natural Gas,2016
+0263280,Port Graham,316448,Natural Gas,2016
 0263280,Port Graham,430509,Water at Hydroelectric Turbine,2016
 0263280,Port Graham,14,Distillate Fuel Oil,2017
 0263280,Port Graham,0,Jet Fuel,2017
-0263280,Port Graham,334660,Natural Gas,2017
+0263280,Port Graham,316493,Natural Gas,2017
 0263280,Port Graham,387060,Water at Hydroelectric Turbine,2017
 0263280,Port Graham,85,Distillate Fuel Oil,2018
 0263280,Port Graham,0,Jet Fuel,2018
-0263280,Port Graham,299784,Natural Gas,2018
+0263280,Port Graham,276029,Natural Gas,2018
 0263280,Port Graham,404480,Water at Hydroelectric Turbine,2018
 0263280,Port Graham,63,Distillate Fuel Oil,2019
 0263280,Port Graham,0,Jet Fuel,2019
-0263280,Port Graham,283833,Natural Gas,2019
+0263280,Port Graham,237333,Natural Gas,2019
 0263280,Port Graham,413593,Water at Hydroelectric Turbine,2019
 0263280,Port Graham,4331,Distillate Fuel Oil,2020
-0263280,Port Graham,337386,Natural Gas,2020
+0263280,Port Graham,302127,Natural Gas,2020
 0263280,Port Graham,466636,Water at Hydroelectric Turbine,2020
 0263280,Port Graham,224,Distillate Fuel Oil,2021
-0263280,Port Graham,323633,Natural Gas,2021
+0263280,Port Graham,290509,Natural Gas,2021
 0263280,Port Graham,391019,Water at Hydroelectric Turbine,2021
 0263390,Port Heiden,59,Distillate Fuel Oil,2001
 0263390,Port Heiden,879,Distillate Fuel Oil,2002
@@ -10482,39 +10529,39 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0264380,Prudhoe Bay,56249,Natural Gas,2019
 0264380,Prudhoe Bay,55423,Natural Gas,2020
 0264380,Prudhoe Bay,49318,Natural Gas,2021
-0264600,Quinhagak,2925,Distillate Fuel Oil,2001
-0264600,Quinhagak,3102,Distillate Fuel Oil,2002
-0264600,Quinhagak,3334,Distillate Fuel Oil,2003
-0264600,Quinhagak,3494,Distillate Fuel Oil,2004
-0264600,Quinhagak,3418,Distillate Fuel Oil,2005
-0264600,Quinhagak,3657,Distillate Fuel Oil,2006
-0264600,Quinhagak,3794,Distillate Fuel Oil,2007
-0264600,Quinhagak,4035,Distillate Fuel Oil,2008
-0264600,Quinhagak,3858,Distillate Fuel Oil,2009
-0264600,Quinhagak,3331,Distillate Fuel Oil,2010
-0264600,Quinhagak,144,Wind,2010
-0264600,Quinhagak,2914,Distillate Fuel Oil,2011
-0264600,Quinhagak,818,Wind,2011
-0264600,Quinhagak,2867,Distillate Fuel Oil,2012
-0264600,Quinhagak,1075,Wind,2012
-0264600,Quinhagak,2994,Distillate Fuel Oil,2013
-0264600,Quinhagak,1137,Wind,2013
-0264600,Quinhagak,3410,Distillate Fuel Oil,2014
-0264600,Quinhagak,851,Wind,2014
-0264600,Quinhagak,3509,Distillate Fuel Oil,2015
-0264600,Quinhagak,968,Wind,2015
-0264600,Quinhagak,3053,Distillate Fuel Oil,2016
-0264600,Quinhagak,1389,Wind,2016
-0264600,Quinhagak,3484,Distillate Fuel Oil,2017
-0264600,Quinhagak,1077,Wind,2017
-0264600,Quinhagak,3216,Distillate Fuel Oil,2018
-0264600,Quinhagak,1103,Wind,2018
-0264600,Quinhagak,3129,Distillate Fuel Oil,2019
-0264600,Quinhagak,1255,Wind,2019
-0264600,Quinhagak,3805,Distillate Fuel Oil,2020
-0264600,Quinhagak,743,Wind,2020
-0264600,Quinhagak,3559,Distillate Fuel Oil,2021
-0264600,Quinhagak,1123,Wind,2021
+0264600,Quinhagak,1464,Distillate Fuel Oil,2001
+0264600,Quinhagak,1550,Distillate Fuel Oil,2002
+0264600,Quinhagak,1668,Distillate Fuel Oil,2003
+0264600,Quinhagak,1747,Distillate Fuel Oil,2004
+0264600,Quinhagak,1709,Distillate Fuel Oil,2005
+0264600,Quinhagak,1828,Distillate Fuel Oil,2006
+0264600,Quinhagak,1897,Distillate Fuel Oil,2007
+0264600,Quinhagak,2017,Distillate Fuel Oil,2008
+0264600,Quinhagak,1931,Distillate Fuel Oil,2009
+0264600,Quinhagak,1665,Distillate Fuel Oil,2010
+0264600,Quinhagak,72,Wind,2010
+0264600,Quinhagak,1459,Distillate Fuel Oil,2011
+0264600,Quinhagak,409,Wind,2011
+0264600,Quinhagak,1435,Distillate Fuel Oil,2012
+0264600,Quinhagak,536,Wind,2012
+0264600,Quinhagak,1496,Distillate Fuel Oil,2013
+0264600,Quinhagak,567,Wind,2013
+0264600,Quinhagak,1705,Distillate Fuel Oil,2014
+0264600,Quinhagak,426,Wind,2014
+0264600,Quinhagak,1755,Distillate Fuel Oil,2015
+0264600,Quinhagak,483,Wind,2015
+0264600,Quinhagak,1526,Distillate Fuel Oil,2016
+0264600,Quinhagak,696,Wind,2016
+0264600,Quinhagak,1743,Distillate Fuel Oil,2017
+0264600,Quinhagak,540,Wind,2017
+0264600,Quinhagak,1610,Distillate Fuel Oil,2018
+0264600,Quinhagak,551,Wind,2018
+0264600,Quinhagak,1565,Distillate Fuel Oil,2019
+0264600,Quinhagak,628,Wind,2019
+0264600,Quinhagak,1904,Distillate Fuel Oil,2020
+0264600,Quinhagak,370,Wind,2020
+0264600,Quinhagak,1780,Distillate Fuel Oil,2021
+0264600,Quinhagak,562,Wind,2021
 0264820,Rampart,56,Distillate Fuel Oil,2015
 0264820,Rampart,200,Distillate Fuel Oil,2016
 0264820,Rampart,243,Distillate Fuel Oil,2017
@@ -10545,10 +10592,10 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0264930,Red Devil,374,Distillate Fuel Oil,2021
 0264980,Red Dog Mine,,,
 0265345,Ridgeway,491,Distillate Fuel Oil,2001
-0265345,Ridgeway,599922,Natural Gas,2001
+0265345,Ridgeway,426712,Natural Gas,2001
 0265345,Ridgeway,345681,Water at Hydroelectric Turbine,2001
 0265345,Ridgeway,357,Distillate Fuel Oil,2002
-0265345,Ridgeway,778192,Natural Gas,2002
+0265345,Ridgeway,473327,Natural Gas,2002
 0265345,Ridgeway,484899,Water at Hydroelectric Turbine,2002
 0265345,Ridgeway,243,Distillate Fuel Oil,2003
 0265345,Ridgeway,399766,Natural Gas,2003
@@ -10596,34 +10643,34 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0265345,Ridgeway,368254,Water at Hydroelectric Turbine,2013
 0265345,Ridgeway,446,Distillate Fuel Oil,2014
 0265345,Ridgeway,0,Jet Fuel,2014
-0265345,Ridgeway,352625,Natural Gas,2014
+0265345,Ridgeway,306144,Natural Gas,2014
 0265345,Ridgeway,0,Waste Oil,2014
 0265345,Ridgeway,432575,Water at Hydroelectric Turbine,2014
 0265345,Ridgeway,228,Distillate Fuel Oil,2015
 0265345,Ridgeway,0,Jet Fuel,2015
-0265345,Ridgeway,356878,Natural Gas,2015
+0265345,Ridgeway,315792,Natural Gas,2015
 0265345,Ridgeway,471705,Water at Hydroelectric Turbine,2015
 0265345,Ridgeway,87,Distillate Fuel Oil,2016
 0265345,Ridgeway,0,Jet Fuel,2016
-0265345,Ridgeway,356059,Natural Gas,2016
+0265345,Ridgeway,316448,Natural Gas,2016
 0265345,Ridgeway,430509,Water at Hydroelectric Turbine,2016
 0265345,Ridgeway,14,Distillate Fuel Oil,2017
 0265345,Ridgeway,0,Jet Fuel,2017
-0265345,Ridgeway,334660,Natural Gas,2017
+0265345,Ridgeway,316493,Natural Gas,2017
 0265345,Ridgeway,387060,Water at Hydroelectric Turbine,2017
 0265345,Ridgeway,85,Distillate Fuel Oil,2018
 0265345,Ridgeway,0,Jet Fuel,2018
-0265345,Ridgeway,299784,Natural Gas,2018
+0265345,Ridgeway,276029,Natural Gas,2018
 0265345,Ridgeway,404480,Water at Hydroelectric Turbine,2018
 0265345,Ridgeway,63,Distillate Fuel Oil,2019
 0265345,Ridgeway,0,Jet Fuel,2019
-0265345,Ridgeway,283833,Natural Gas,2019
+0265345,Ridgeway,237333,Natural Gas,2019
 0265345,Ridgeway,413593,Water at Hydroelectric Turbine,2019
 0265345,Ridgeway,4331,Distillate Fuel Oil,2020
-0265345,Ridgeway,337386,Natural Gas,2020
+0265345,Ridgeway,302127,Natural Gas,2020
 0265345,Ridgeway,466636,Water at Hydroelectric Turbine,2020
 0265345,Ridgeway,224,Distillate Fuel Oil,2021
-0265345,Ridgeway,323633,Natural Gas,2021
+0265345,Ridgeway,290509,Natural Gas,2021
 0265345,Ridgeway,391019,Water at Hydroelectric Turbine,2021
 0265590,Ruby,335,Distillate Fuel Oil,2001
 0265590,Ruby,669,Distillate Fuel Oil,2002
@@ -10704,27 +10751,27 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0266140,Saint Mary's,1913,Wind,2020
 0266140,Saint Mary's,3650,Distillate Fuel Oil,2021
 0266140,Saint Mary's,2062,Wind,2021
-0266360,Saint Michael,5198,Distillate Fuel Oil,2001
-0266360,Saint Michael,5224,Distillate Fuel Oil,2002
-0266360,Saint Michael,5545,Distillate Fuel Oil,2003
-0266360,Saint Michael,5775,Distillate Fuel Oil,2004
-0266360,Saint Michael,5871,Distillate Fuel Oil,2005
-0266360,Saint Michael,5779,Distillate Fuel Oil,2006
-0266360,Saint Michael,5813,Distillate Fuel Oil,2007
-0266360,Saint Michael,6522,Distillate Fuel Oil,2008
-0266360,Saint Michael,6512,Distillate Fuel Oil,2009
-0266360,Saint Michael,6662,Distillate Fuel Oil,2010
-0266360,Saint Michael,6336,Distillate Fuel Oil,2011
-0266360,Saint Michael,6580,Distillate Fuel Oil,2012
-0266360,Saint Michael,6639,Distillate Fuel Oil,2013
-0266360,Saint Michael,6571,Distillate Fuel Oil,2014
-0266360,Saint Michael,6702,Distillate Fuel Oil,2015
-0266360,Saint Michael,6812,Distillate Fuel Oil,2016
-0266360,Saint Michael,6948,Distillate Fuel Oil,2017
-0266360,Saint Michael,7040,Distillate Fuel Oil,2018
-0266360,Saint Michael,6913,Distillate Fuel Oil,2019
-0266360,Saint Michael,7012,Distillate Fuel Oil,2020
-0266360,Saint Michael,7127,Distillate Fuel Oil,2021
+0266360,Saint Michael,2598,Distillate Fuel Oil,2001
+0266360,Saint Michael,2612,Distillate Fuel Oil,2002
+0266360,Saint Michael,2770,Distillate Fuel Oil,2003
+0266360,Saint Michael,2887,Distillate Fuel Oil,2004
+0266360,Saint Michael,2934,Distillate Fuel Oil,2005
+0266360,Saint Michael,2890,Distillate Fuel Oil,2006
+0266360,Saint Michael,2907,Distillate Fuel Oil,2007
+0266360,Saint Michael,3262,Distillate Fuel Oil,2008
+0266360,Saint Michael,3256,Distillate Fuel Oil,2009
+0266360,Saint Michael,3330,Distillate Fuel Oil,2010
+0266360,Saint Michael,3169,Distillate Fuel Oil,2011
+0266360,Saint Michael,3290,Distillate Fuel Oil,2012
+0266360,Saint Michael,3322,Distillate Fuel Oil,2013
+0266360,Saint Michael,3285,Distillate Fuel Oil,2014
+0266360,Saint Michael,3350,Distillate Fuel Oil,2015
+0266360,Saint Michael,3407,Distillate Fuel Oil,2016
+0266360,Saint Michael,3474,Distillate Fuel Oil,2017
+0266360,Saint Michael,3519,Distillate Fuel Oil,2018
+0266360,Saint Michael,3454,Distillate Fuel Oil,2019
+0266360,Saint Michael,3507,Distillate Fuel Oil,2020
+0266360,Saint Michael,3565,Distillate Fuel Oil,2021
 0266470,Saint Paul,2017,Distillate Fuel Oil,2001
 0266470,Saint Paul,4025,Distillate Fuel Oil,2002
 0266470,Saint Paul,4029,Distillate Fuel Oil,2003
@@ -10742,10 +10789,10 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0266470,Saint Paul,3044,Distillate Fuel Oil,2020
 0266470,Saint Paul,3304,Distillate Fuel Oil,2021
 0266510,Salamatof,491,Distillate Fuel Oil,2001
-0266510,Salamatof,599922,Natural Gas,2001
+0266510,Salamatof,426712,Natural Gas,2001
 0266510,Salamatof,345681,Water at Hydroelectric Turbine,2001
 0266510,Salamatof,357,Distillate Fuel Oil,2002
-0266510,Salamatof,778192,Natural Gas,2002
+0266510,Salamatof,473327,Natural Gas,2002
 0266510,Salamatof,484899,Water at Hydroelectric Turbine,2002
 0266510,Salamatof,243,Distillate Fuel Oil,2003
 0266510,Salamatof,399766,Natural Gas,2003
@@ -10793,34 +10840,34 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0266510,Salamatof,368254,Water at Hydroelectric Turbine,2013
 0266510,Salamatof,446,Distillate Fuel Oil,2014
 0266510,Salamatof,0,Jet Fuel,2014
-0266510,Salamatof,352625,Natural Gas,2014
+0266510,Salamatof,306144,Natural Gas,2014
 0266510,Salamatof,0,Waste Oil,2014
 0266510,Salamatof,432575,Water at Hydroelectric Turbine,2014
 0266510,Salamatof,228,Distillate Fuel Oil,2015
 0266510,Salamatof,0,Jet Fuel,2015
-0266510,Salamatof,356878,Natural Gas,2015
+0266510,Salamatof,315792,Natural Gas,2015
 0266510,Salamatof,471705,Water at Hydroelectric Turbine,2015
 0266510,Salamatof,87,Distillate Fuel Oil,2016
 0266510,Salamatof,0,Jet Fuel,2016
-0266510,Salamatof,356059,Natural Gas,2016
+0266510,Salamatof,316448,Natural Gas,2016
 0266510,Salamatof,430509,Water at Hydroelectric Turbine,2016
 0266510,Salamatof,14,Distillate Fuel Oil,2017
 0266510,Salamatof,0,Jet Fuel,2017
-0266510,Salamatof,334660,Natural Gas,2017
+0266510,Salamatof,316493,Natural Gas,2017
 0266510,Salamatof,387060,Water at Hydroelectric Turbine,2017
 0266510,Salamatof,85,Distillate Fuel Oil,2018
 0266510,Salamatof,0,Jet Fuel,2018
-0266510,Salamatof,299784,Natural Gas,2018
+0266510,Salamatof,276029,Natural Gas,2018
 0266510,Salamatof,404480,Water at Hydroelectric Turbine,2018
 0266510,Salamatof,63,Distillate Fuel Oil,2019
 0266510,Salamatof,0,Jet Fuel,2019
-0266510,Salamatof,283833,Natural Gas,2019
+0266510,Salamatof,237333,Natural Gas,2019
 0266510,Salamatof,413593,Water at Hydroelectric Turbine,2019
 0266510,Salamatof,4331,Distillate Fuel Oil,2020
-0266510,Salamatof,337386,Natural Gas,2020
+0266510,Salamatof,302127,Natural Gas,2020
 0266510,Salamatof,466636,Water at Hydroelectric Turbine,2020
 0266510,Salamatof,224,Distillate Fuel Oil,2021
-0266510,Salamatof,323633,Natural Gas,2021
+0266510,Salamatof,290509,Natural Gas,2021
 0266510,Salamatof,391019,Water at Hydroelectric Turbine,2021
 0266550,Salcha,320200,Coal,2001
 0266550,Salcha,10179,Distillate Fuel Oil,2001
@@ -10831,12 +10878,12 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0266550,Salcha,32,Waste Oil,2002
 0266550,Salcha,1031,Wood Waste Solids,2002
 0266550,Salcha,456747,Coal,2003
-0266550,Salcha,6309,Distillate Fuel Oil,2003
+0266550,Salcha,6205,Distillate Fuel Oil,2003
 0266550,Salcha,453733,Residual Fuel Oil,2003
 0266550,Salcha,64,Waste Oil,2003
 0266550,Salcha,761,Wood Waste Solids,2003
 0266550,Salcha,519937,Coal,2004
-0266550,Salcha,9963,Distillate Fuel Oil,2004
+0266550,Salcha,10202,Distillate Fuel Oil,2004
 0266550,Salcha,360379,Residual Fuel Oil,2004
 0266550,Salcha,0,Waste Oil,2004
 0266550,Salcha,388,Wood Waste Solids,2004
@@ -10956,6 +11003,7 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0266550,Salcha,4,Natural Gas,2021
 0266550,Salcha,184970,Waste Oil,2021
 0266550,Salcha,60301,Wind,2021
+0266550,Salcha,,,
 0267020,Sand Point,1898,Distillate Fuel Oil,2001
 0267020,Sand Point,3692,Distillate Fuel Oil,2002
 0267020,Sand Point,3819,Distillate Fuel Oil,2003
@@ -10984,41 +11032,41 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0267020,Sand Point,346,Wind,2020
 0267020,Sand Point,3595,Distillate Fuel Oil,2021
 0267020,Sand Point,135,Wind,2021
-0267460,Savoonga,3601,Distillate Fuel Oil,2001
-0267460,Savoonga,3761,Distillate Fuel Oil,2002
-0267460,Savoonga,3886,Distillate Fuel Oil,2003
-0267460,Savoonga,3706,Distillate Fuel Oil,2004
-0267460,Savoonga,3655,Distillate Fuel Oil,2005
-0267460,Savoonga,3659,Distillate Fuel Oil,2006
-0267460,Savoonga,3778,Distillate Fuel Oil,2007
-0267460,Savoonga,4120,Distillate Fuel Oil,2008
-0267460,Savoonga,239,Wind,2008
-0267460,Savoonga,3958,Distillate Fuel Oil,2009
-0267460,Savoonga,708,Wind,2009
-0267460,Savoonga,3620,Distillate Fuel Oil,2010
-0267460,Savoonga,609,Wind,2010
-0267460,Savoonga,3576,Distillate Fuel Oil,2011
-0267460,Savoonga,720,Wind,2011
-0267460,Savoonga,3871,Distillate Fuel Oil,2012
-0267460,Savoonga,487,Wind,2012
-0267460,Savoonga,3677,Distillate Fuel Oil,2013
-0267460,Savoonga,708,Wind,2013
-0267460,Savoonga,3843,Distillate Fuel Oil,2014
-0267460,Savoonga,536,Wind,2014
-0267460,Savoonga,3842,Distillate Fuel Oil,2015
-0267460,Savoonga,517,Wind,2015
-0267460,Savoonga,4316,Distillate Fuel Oil,2016
-0267460,Savoonga,363,Wind,2016
-0267460,Savoonga,4417,Distillate Fuel Oil,2017
-0267460,Savoonga,221,Wind,2017
-0267460,Savoonga,4238,Distillate Fuel Oil,2018
-0267460,Savoonga,250,Wind,2018
-0267460,Savoonga,4456,Distillate Fuel Oil,2019
-0267460,Savoonga,162,Wind,2019
-0267460,Savoonga,4641,Distillate Fuel Oil,2020
-0267460,Savoonga,115,Wind,2020
-0267460,Savoonga,4946,Distillate Fuel Oil,2021
-0267460,Savoonga,110,Wind,2021
+0267460,Savoonga,1802,Distillate Fuel Oil,2001
+0267460,Savoonga,1880,Distillate Fuel Oil,2002
+0267460,Savoonga,1942,Distillate Fuel Oil,2003
+0267460,Savoonga,1852,Distillate Fuel Oil,2004
+0267460,Savoonga,1827,Distillate Fuel Oil,2005
+0267460,Savoonga,1828,Distillate Fuel Oil,2006
+0267460,Savoonga,1887,Distillate Fuel Oil,2007
+0267460,Savoonga,2060,Distillate Fuel Oil,2008
+0267460,Savoonga,120,Wind,2008
+0267460,Savoonga,1978,Distillate Fuel Oil,2009
+0267460,Savoonga,353,Wind,2009
+0267460,Savoonga,1813,Distillate Fuel Oil,2010
+0267460,Savoonga,306,Wind,2010
+0267460,Savoonga,1786,Distillate Fuel Oil,2011
+0267460,Savoonga,362,Wind,2011
+0267460,Savoonga,1933,Distillate Fuel Oil,2012
+0267460,Savoonga,242,Wind,2012
+0267460,Savoonga,1840,Distillate Fuel Oil,2013
+0267460,Savoonga,353,Wind,2013
+0267460,Savoonga,1923,Distillate Fuel Oil,2014
+0267460,Savoonga,269,Wind,2014
+0267460,Savoonga,1922,Distillate Fuel Oil,2015
+0267460,Savoonga,258,Wind,2015
+0267460,Savoonga,2158,Distillate Fuel Oil,2016
+0267460,Savoonga,182,Wind,2016
+0267460,Savoonga,2208,Distillate Fuel Oil,2017
+0267460,Savoonga,111,Wind,2017
+0267460,Savoonga,2119,Distillate Fuel Oil,2018
+0267460,Savoonga,126,Wind,2018
+0267460,Savoonga,2225,Distillate Fuel Oil,2019
+0267460,Savoonga,81,Wind,2019
+0267460,Savoonga,2319,Distillate Fuel Oil,2020
+0267460,Savoonga,57,Wind,2020
+0267460,Savoonga,2471,Distillate Fuel Oil,2021
+0267460,Savoonga,55,Wind,2021
 0267570,Saxman,7447,Distillate Fuel Oil,2001
 0267570,Saxman,160492,Water at Hydroelectric Turbine,2001
 0267570,Saxman,13482,Distillate Fuel Oil,2002
@@ -11062,28 +11110,28 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0267570,Saxman,-105,Distillate Fuel Oil,2021
 0267570,Saxman,265905,Water at Hydroelectric Turbine,2021
 0267570,Saxman,,,
-0267680,Scammon Bay,2101,Distillate Fuel Oil,2001
-0267680,Scammon Bay,2066,Distillate Fuel Oil,2002
-0267680,Scammon Bay,2122,Distillate Fuel Oil,2003
-0267680,Scammon Bay,2372,Distillate Fuel Oil,2004
-0267680,Scammon Bay,3022,Distillate Fuel Oil,2005
-0267680,Scammon Bay,3206,Distillate Fuel Oil,2006
-0267680,Scammon Bay,3394,Distillate Fuel Oil,2007
-0267680,Scammon Bay,3471,Distillate Fuel Oil,2008
-0267680,Scammon Bay,3516,Distillate Fuel Oil,2009
-0267680,Scammon Bay,3394,Distillate Fuel Oil,2010
-0267680,Scammon Bay,3535,Distillate Fuel Oil,2011
-0267680,Scammon Bay,3364,Distillate Fuel Oil,2012
-0267680,Scammon Bay,3412,Distillate Fuel Oil,2013
-0267680,Scammon Bay,3422,Distillate Fuel Oil,2014
-0267680,Scammon Bay,3342,Distillate Fuel Oil,2015
-0267680,Scammon Bay,3344,Distillate Fuel Oil,2016
-0267680,Scammon Bay,3376,Distillate Fuel Oil,2017
-0267680,Scammon Bay,3344,Distillate Fuel Oil,2018
-0267680,Scammon Bay,3287,Distillate Fuel Oil,2019
-0267680,Scammon Bay,735,Jet Fuel,2019
-0267680,Scammon Bay,3308,Distillate Fuel Oil,2020
-0267680,Scammon Bay,3421,Distillate Fuel Oil,2021
+0267680,Scammon Bay,1051,Distillate Fuel Oil,2001
+0267680,Scammon Bay,1033,Distillate Fuel Oil,2002
+0267680,Scammon Bay,1060,Distillate Fuel Oil,2003
+0267680,Scammon Bay,1184,Distillate Fuel Oil,2004
+0267680,Scammon Bay,1511,Distillate Fuel Oil,2005
+0267680,Scammon Bay,1603,Distillate Fuel Oil,2006
+0267680,Scammon Bay,1697,Distillate Fuel Oil,2007
+0267680,Scammon Bay,1736,Distillate Fuel Oil,2008
+0267680,Scammon Bay,1757,Distillate Fuel Oil,2009
+0267680,Scammon Bay,1695,Distillate Fuel Oil,2010
+0267680,Scammon Bay,1766,Distillate Fuel Oil,2011
+0267680,Scammon Bay,1681,Distillate Fuel Oil,2012
+0267680,Scammon Bay,1707,Distillate Fuel Oil,2013
+0267680,Scammon Bay,1713,Distillate Fuel Oil,2014
+0267680,Scammon Bay,1671,Distillate Fuel Oil,2015
+0267680,Scammon Bay,1670,Distillate Fuel Oil,2016
+0267680,Scammon Bay,1688,Distillate Fuel Oil,2017
+0267680,Scammon Bay,1672,Distillate Fuel Oil,2018
+0267680,Scammon Bay,1644,Distillate Fuel Oil,2019
+0267680,Scammon Bay,367,Jet Fuel,2019
+0267680,Scammon Bay,1654,Distillate Fuel Oil,2020
+0267680,Scammon Bay,1711,Distillate Fuel Oil,2021
 0268230,Selawik,2362,Distillate Fuel Oil,2001
 0268230,Selawik,2520,Distillate Fuel Oil,2002
 0268230,Selawik,2677,Distillate Fuel Oil,2003
@@ -11120,10 +11168,10 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0268230,Selawik,2928,Distillate Fuel Oil,2020
 0268230,Selawik,2862,Distillate Fuel Oil,2021
 0268340,Seldovia,491,Distillate Fuel Oil,2001
-0268340,Seldovia,599922,Natural Gas,2001
+0268340,Seldovia,426712,Natural Gas,2001
 0268340,Seldovia,345681,Water at Hydroelectric Turbine,2001
 0268340,Seldovia,357,Distillate Fuel Oil,2002
-0268340,Seldovia,778192,Natural Gas,2002
+0268340,Seldovia,473327,Natural Gas,2002
 0268340,Seldovia,484899,Water at Hydroelectric Turbine,2002
 0268340,Seldovia,243,Distillate Fuel Oil,2003
 0268340,Seldovia,399766,Natural Gas,2003
@@ -11171,40 +11219,40 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0268340,Seldovia,368254,Water at Hydroelectric Turbine,2013
 0268340,Seldovia,446,Distillate Fuel Oil,2014
 0268340,Seldovia,0,Jet Fuel,2014
-0268340,Seldovia,352625,Natural Gas,2014
+0268340,Seldovia,306144,Natural Gas,2014
 0268340,Seldovia,0,Waste Oil,2014
 0268340,Seldovia,432575,Water at Hydroelectric Turbine,2014
 0268340,Seldovia,228,Distillate Fuel Oil,2015
 0268340,Seldovia,0,Jet Fuel,2015
-0268340,Seldovia,356878,Natural Gas,2015
+0268340,Seldovia,315792,Natural Gas,2015
 0268340,Seldovia,471705,Water at Hydroelectric Turbine,2015
 0268340,Seldovia,87,Distillate Fuel Oil,2016
 0268340,Seldovia,0,Jet Fuel,2016
-0268340,Seldovia,356059,Natural Gas,2016
+0268340,Seldovia,316448,Natural Gas,2016
 0268340,Seldovia,430509,Water at Hydroelectric Turbine,2016
 0268340,Seldovia,14,Distillate Fuel Oil,2017
 0268340,Seldovia,0,Jet Fuel,2017
-0268340,Seldovia,334660,Natural Gas,2017
+0268340,Seldovia,316493,Natural Gas,2017
 0268340,Seldovia,387060,Water at Hydroelectric Turbine,2017
 0268340,Seldovia,85,Distillate Fuel Oil,2018
 0268340,Seldovia,0,Jet Fuel,2018
-0268340,Seldovia,299784,Natural Gas,2018
+0268340,Seldovia,276029,Natural Gas,2018
 0268340,Seldovia,404480,Water at Hydroelectric Turbine,2018
 0268340,Seldovia,63,Distillate Fuel Oil,2019
 0268340,Seldovia,0,Jet Fuel,2019
-0268340,Seldovia,283833,Natural Gas,2019
+0268340,Seldovia,237333,Natural Gas,2019
 0268340,Seldovia,413593,Water at Hydroelectric Turbine,2019
 0268340,Seldovia,4331,Distillate Fuel Oil,2020
-0268340,Seldovia,337386,Natural Gas,2020
+0268340,Seldovia,302127,Natural Gas,2020
 0268340,Seldovia,466636,Water at Hydroelectric Turbine,2020
 0268340,Seldovia,224,Distillate Fuel Oil,2021
-0268340,Seldovia,323633,Natural Gas,2021
+0268340,Seldovia,290509,Natural Gas,2021
 0268340,Seldovia,391019,Water at Hydroelectric Turbine,2021
 0268370,Seldovia Village,491,Distillate Fuel Oil,2001
-0268370,Seldovia Village,599922,Natural Gas,2001
+0268370,Seldovia Village,426712,Natural Gas,2001
 0268370,Seldovia Village,345681,Water at Hydroelectric Turbine,2001
 0268370,Seldovia Village,357,Distillate Fuel Oil,2002
-0268370,Seldovia Village,778192,Natural Gas,2002
+0268370,Seldovia Village,473327,Natural Gas,2002
 0268370,Seldovia Village,484899,Water at Hydroelectric Turbine,2002
 0268370,Seldovia Village,243,Distillate Fuel Oil,2003
 0268370,Seldovia Village,399766,Natural Gas,2003
@@ -11252,34 +11300,34 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0268370,Seldovia Village,368254,Water at Hydroelectric Turbine,2013
 0268370,Seldovia Village,446,Distillate Fuel Oil,2014
 0268370,Seldovia Village,0,Jet Fuel,2014
-0268370,Seldovia Village,352625,Natural Gas,2014
+0268370,Seldovia Village,306144,Natural Gas,2014
 0268370,Seldovia Village,0,Waste Oil,2014
 0268370,Seldovia Village,432575,Water at Hydroelectric Turbine,2014
 0268370,Seldovia Village,228,Distillate Fuel Oil,2015
 0268370,Seldovia Village,0,Jet Fuel,2015
-0268370,Seldovia Village,356878,Natural Gas,2015
+0268370,Seldovia Village,315792,Natural Gas,2015
 0268370,Seldovia Village,471705,Water at Hydroelectric Turbine,2015
 0268370,Seldovia Village,87,Distillate Fuel Oil,2016
 0268370,Seldovia Village,0,Jet Fuel,2016
-0268370,Seldovia Village,356059,Natural Gas,2016
+0268370,Seldovia Village,316448,Natural Gas,2016
 0268370,Seldovia Village,430509,Water at Hydroelectric Turbine,2016
 0268370,Seldovia Village,14,Distillate Fuel Oil,2017
 0268370,Seldovia Village,0,Jet Fuel,2017
-0268370,Seldovia Village,334660,Natural Gas,2017
+0268370,Seldovia Village,316493,Natural Gas,2017
 0268370,Seldovia Village,387060,Water at Hydroelectric Turbine,2017
 0268370,Seldovia Village,85,Distillate Fuel Oil,2018
 0268370,Seldovia Village,0,Jet Fuel,2018
-0268370,Seldovia Village,299784,Natural Gas,2018
+0268370,Seldovia Village,276029,Natural Gas,2018
 0268370,Seldovia Village,404480,Water at Hydroelectric Turbine,2018
 0268370,Seldovia Village,63,Distillate Fuel Oil,2019
 0268370,Seldovia Village,0,Jet Fuel,2019
-0268370,Seldovia Village,283833,Natural Gas,2019
+0268370,Seldovia Village,237333,Natural Gas,2019
 0268370,Seldovia Village,413593,Water at Hydroelectric Turbine,2019
 0268370,Seldovia Village,4331,Distillate Fuel Oil,2020
-0268370,Seldovia Village,337386,Natural Gas,2020
+0268370,Seldovia Village,302127,Natural Gas,2020
 0268370,Seldovia Village,466636,Water at Hydroelectric Turbine,2020
 0268370,Seldovia Village,224,Distillate Fuel Oil,2021
-0268370,Seldovia Village,323633,Natural Gas,2021
+0268370,Seldovia Village,290509,Natural Gas,2021
 0268370,Seldovia Village,391019,Water at Hydroelectric Turbine,2021
 0268560,Seward,580,Distillate Fuel Oil,2002
 0268560,Seward,0,Distillate Fuel Oil,2003
@@ -11373,28 +11421,28 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0269770,Shishmaref,1714,Distillate Fuel Oil,2019
 0269770,Shishmaref,1803,Distillate Fuel Oil,2020
 0269770,Shishmaref,1852,Distillate Fuel Oil,2021
-0270100,Shungnak,2753,Distillate Fuel Oil,2001
-0270100,Shungnak,2939,Distillate Fuel Oil,2002
-0270100,Shungnak,3091,Distillate Fuel Oil,2003
-0270100,Shungnak,3032,Distillate Fuel Oil,2004
-0270100,Shungnak,2918,Distillate Fuel Oil,2005
-0270100,Shungnak,3119,Distillate Fuel Oil,2006
-0270100,Shungnak,2987,Distillate Fuel Oil,2007
-0270100,Shungnak,2956,Distillate Fuel Oil,2008
-0270100,Shungnak,3056,Distillate Fuel Oil,2009
-0270100,Shungnak,3126,Distillate Fuel Oil,2010
-0270100,Shungnak,3138,Distillate Fuel Oil,2011
-0270100,Shungnak,3232,Distillate Fuel Oil,2012
-0270100,Shungnak,3574,Distillate Fuel Oil,2013
-0270100,Shungnak,3268,Distillate Fuel Oil,2014
-0270100,Shungnak,3159,Distillate Fuel Oil,2015
-0270100,Shungnak,3185,Distillate Fuel Oil,2016
-0270100,Shungnak,3232,Distillate Fuel Oil,2017
-0270100,Shungnak,3254,Distillate Fuel Oil,2018
-0270100,Shungnak,3278,Distillate Fuel Oil,2019
-0270100,Shungnak,3382,Distillate Fuel Oil,2020
-0270100,Shungnak,3267,Distillate Fuel Oil,2021
-0270100,Shungnak,32,Wind,2021
+0270100,Shungnak,1375,Distillate Fuel Oil,2001
+0270100,Shungnak,1466,Distillate Fuel Oil,2002
+0270100,Shungnak,1543,Distillate Fuel Oil,2003
+0270100,Shungnak,1518,Distillate Fuel Oil,2004
+0270100,Shungnak,1459,Distillate Fuel Oil,2005
+0270100,Shungnak,1558,Distillate Fuel Oil,2006
+0270100,Shungnak,1491,Distillate Fuel Oil,2007
+0270100,Shungnak,1476,Distillate Fuel Oil,2008
+0270100,Shungnak,1528,Distillate Fuel Oil,2009
+0270100,Shungnak,1560,Distillate Fuel Oil,2010
+0270100,Shungnak,1570,Distillate Fuel Oil,2011
+0270100,Shungnak,1618,Distillate Fuel Oil,2012
+0270100,Shungnak,1786,Distillate Fuel Oil,2013
+0270100,Shungnak,1634,Distillate Fuel Oil,2014
+0270100,Shungnak,1578,Distillate Fuel Oil,2015
+0270100,Shungnak,1594,Distillate Fuel Oil,2016
+0270100,Shungnak,1615,Distillate Fuel Oil,2017
+0270100,Shungnak,1627,Distillate Fuel Oil,2018
+0270100,Shungnak,1639,Distillate Fuel Oil,2019
+0270100,Shungnak,1693,Distillate Fuel Oil,2020
+0270100,Shungnak,1634,Distillate Fuel Oil,2021
+0270100,Shungnak,17,Wind,2021
 0270320,Silver Springs,19013,Distillate Fuel Oil,2001
 0270320,Silver Springs,50787,Water at Hydroelectric Turbine,2001
 0270320,Silver Springs,11382,Distillate Fuel Oil,2002
@@ -11588,10 +11636,10 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0271090,Sleetmute,320,Distillate Fuel Oil,2020
 0271090,Sleetmute,374,Distillate Fuel Oil,2021
 0271640,Soldotna,491,Distillate Fuel Oil,2001
-0271640,Soldotna,599922,Natural Gas,2001
+0271640,Soldotna,426712,Natural Gas,2001
 0271640,Soldotna,345681,Water at Hydroelectric Turbine,2001
 0271640,Soldotna,357,Distillate Fuel Oil,2002
-0271640,Soldotna,778192,Natural Gas,2002
+0271640,Soldotna,473327,Natural Gas,2002
 0271640,Soldotna,484899,Water at Hydroelectric Turbine,2002
 0271640,Soldotna,243,Distillate Fuel Oil,2003
 0271640,Soldotna,399766,Natural Gas,2003
@@ -11639,34 +11687,34 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0271640,Soldotna,368254,Water at Hydroelectric Turbine,2013
 0271640,Soldotna,446,Distillate Fuel Oil,2014
 0271640,Soldotna,0,Jet Fuel,2014
-0271640,Soldotna,352625,Natural Gas,2014
+0271640,Soldotna,306144,Natural Gas,2014
 0271640,Soldotna,0,Waste Oil,2014
 0271640,Soldotna,432575,Water at Hydroelectric Turbine,2014
 0271640,Soldotna,228,Distillate Fuel Oil,2015
 0271640,Soldotna,0,Jet Fuel,2015
-0271640,Soldotna,356878,Natural Gas,2015
+0271640,Soldotna,315792,Natural Gas,2015
 0271640,Soldotna,471705,Water at Hydroelectric Turbine,2015
 0271640,Soldotna,87,Distillate Fuel Oil,2016
 0271640,Soldotna,0,Jet Fuel,2016
-0271640,Soldotna,356059,Natural Gas,2016
+0271640,Soldotna,316448,Natural Gas,2016
 0271640,Soldotna,430509,Water at Hydroelectric Turbine,2016
 0271640,Soldotna,14,Distillate Fuel Oil,2017
 0271640,Soldotna,0,Jet Fuel,2017
-0271640,Soldotna,334660,Natural Gas,2017
+0271640,Soldotna,316493,Natural Gas,2017
 0271640,Soldotna,387060,Water at Hydroelectric Turbine,2017
 0271640,Soldotna,85,Distillate Fuel Oil,2018
 0271640,Soldotna,0,Jet Fuel,2018
-0271640,Soldotna,299784,Natural Gas,2018
+0271640,Soldotna,276029,Natural Gas,2018
 0271640,Soldotna,404480,Water at Hydroelectric Turbine,2018
 0271640,Soldotna,63,Distillate Fuel Oil,2019
 0271640,Soldotna,0,Jet Fuel,2019
-0271640,Soldotna,283833,Natural Gas,2019
+0271640,Soldotna,237333,Natural Gas,2019
 0271640,Soldotna,413593,Water at Hydroelectric Turbine,2019
 0271640,Soldotna,4331,Distillate Fuel Oil,2020
-0271640,Soldotna,337386,Natural Gas,2020
+0271640,Soldotna,302127,Natural Gas,2020
 0271640,Soldotna,466636,Water at Hydroelectric Turbine,2020
 0271640,Soldotna,224,Distillate Fuel Oil,2021
-0271640,Soldotna,323633,Natural Gas,2021
+0271640,Soldotna,290509,Natural Gas,2021
 0271640,Soldotna,391019,Water at Hydroelectric Turbine,2021
 0272135,South Lakes,146252,Water at Hydroelectric Turbine,2001
 0272135,South Lakes,161266,Water at Hydroelectric Turbine,2002
@@ -11712,6 +11760,7 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0272135,South Lakes,38071,Landfill Gas,2021
 0272135,South Lakes,678574,Natural Gas,2021
 0272135,South Lakes,139993,Water at Hydroelectric Turbine,2021
+0272135,South Lakes,,,
 0272190,South Naknek,20120,Distillate Fuel Oil,2001
 0272190,South Naknek,19004,Distillate Fuel Oil,2002
 0272190,South Naknek,20401,Distillate Fuel Oil,2003
@@ -11742,12 +11791,12 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0272230,South Van Horn,32,Waste Oil,2002
 0272230,South Van Horn,1031,Wood Waste Solids,2002
 0272230,South Van Horn,456747,Coal,2003
-0272230,South Van Horn,6309,Distillate Fuel Oil,2003
+0272230,South Van Horn,6205,Distillate Fuel Oil,2003
 0272230,South Van Horn,453733,Residual Fuel Oil,2003
 0272230,South Van Horn,64,Waste Oil,2003
 0272230,South Van Horn,761,Wood Waste Solids,2003
 0272230,South Van Horn,519937,Coal,2004
-0272230,South Van Horn,9963,Distillate Fuel Oil,2004
+0272230,South Van Horn,10202,Distillate Fuel Oil,2004
 0272230,South Van Horn,360379,Residual Fuel Oil,2004
 0272230,South Van Horn,0,Waste Oil,2004
 0272230,South Van Horn,388,Wood Waste Solids,2004
@@ -11867,27 +11916,28 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0272230,South Van Horn,4,Natural Gas,2021
 0272230,South Van Horn,184970,Waste Oil,2021
 0272230,South Van Horn,60301,Wind,2021
-0272960,Stebbins,5198,Distillate Fuel Oil,2001
-0272960,Stebbins,5224,Distillate Fuel Oil,2002
-0272960,Stebbins,5545,Distillate Fuel Oil,2003
-0272960,Stebbins,5775,Distillate Fuel Oil,2004
-0272960,Stebbins,5871,Distillate Fuel Oil,2005
-0272960,Stebbins,5779,Distillate Fuel Oil,2006
-0272960,Stebbins,5813,Distillate Fuel Oil,2007
-0272960,Stebbins,6522,Distillate Fuel Oil,2008
-0272960,Stebbins,6512,Distillate Fuel Oil,2009
-0272960,Stebbins,6662,Distillate Fuel Oil,2010
-0272960,Stebbins,6336,Distillate Fuel Oil,2011
-0272960,Stebbins,6580,Distillate Fuel Oil,2012
-0272960,Stebbins,6639,Distillate Fuel Oil,2013
-0272960,Stebbins,6571,Distillate Fuel Oil,2014
-0272960,Stebbins,6702,Distillate Fuel Oil,2015
-0272960,Stebbins,6812,Distillate Fuel Oil,2016
-0272960,Stebbins,6948,Distillate Fuel Oil,2017
-0272960,Stebbins,7040,Distillate Fuel Oil,2018
-0272960,Stebbins,6913,Distillate Fuel Oil,2019
-0272960,Stebbins,7012,Distillate Fuel Oil,2020
-0272960,Stebbins,7127,Distillate Fuel Oil,2021
+0272230,South Van Horn,,,
+0272960,Stebbins,2598,Distillate Fuel Oil,2001
+0272960,Stebbins,2612,Distillate Fuel Oil,2002
+0272960,Stebbins,2770,Distillate Fuel Oil,2003
+0272960,Stebbins,2887,Distillate Fuel Oil,2004
+0272960,Stebbins,2934,Distillate Fuel Oil,2005
+0272960,Stebbins,2890,Distillate Fuel Oil,2006
+0272960,Stebbins,2907,Distillate Fuel Oil,2007
+0272960,Stebbins,3262,Distillate Fuel Oil,2008
+0272960,Stebbins,3256,Distillate Fuel Oil,2009
+0272960,Stebbins,3330,Distillate Fuel Oil,2010
+0272960,Stebbins,3169,Distillate Fuel Oil,2011
+0272960,Stebbins,3290,Distillate Fuel Oil,2012
+0272960,Stebbins,3322,Distillate Fuel Oil,2013
+0272960,Stebbins,3285,Distillate Fuel Oil,2014
+0272960,Stebbins,3350,Distillate Fuel Oil,2015
+0272960,Stebbins,3407,Distillate Fuel Oil,2016
+0272960,Stebbins,3474,Distillate Fuel Oil,2017
+0272960,Stebbins,3519,Distillate Fuel Oil,2018
+0272960,Stebbins,3454,Distillate Fuel Oil,2019
+0272960,Stebbins,3507,Distillate Fuel Oil,2020
+0272960,Stebbins,3565,Distillate Fuel Oil,2021
 0272985,Steele Creek,320200,Coal,2001
 0272985,Steele Creek,10179,Distillate Fuel Oil,2001
 0272985,Steele Creek,579967,Residual Fuel Oil,2001
@@ -11897,12 +11947,12 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0272985,Steele Creek,32,Waste Oil,2002
 0272985,Steele Creek,1031,Wood Waste Solids,2002
 0272985,Steele Creek,456747,Coal,2003
-0272985,Steele Creek,6309,Distillate Fuel Oil,2003
+0272985,Steele Creek,6205,Distillate Fuel Oil,2003
 0272985,Steele Creek,453733,Residual Fuel Oil,2003
 0272985,Steele Creek,64,Waste Oil,2003
 0272985,Steele Creek,761,Wood Waste Solids,2003
 0272985,Steele Creek,519937,Coal,2004
-0272985,Steele Creek,9963,Distillate Fuel Oil,2004
+0272985,Steele Creek,10202,Distillate Fuel Oil,2004
 0272985,Steele Creek,360379,Residual Fuel Oil,2004
 0272985,Steele Creek,0,Waste Oil,2004
 0272985,Steele Creek,388,Wood Waste Solids,2004
@@ -12022,11 +12072,12 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0272985,Steele Creek,4,Natural Gas,2021
 0272985,Steele Creek,184970,Waste Oil,2021
 0272985,Steele Creek,60301,Wind,2021
+0272985,Steele Creek,,,
 0273070,Sterling,491,Distillate Fuel Oil,2001
-0273070,Sterling,599922,Natural Gas,2001
+0273070,Sterling,426712,Natural Gas,2001
 0273070,Sterling,345681,Water at Hydroelectric Turbine,2001
 0273070,Sterling,357,Distillate Fuel Oil,2002
-0273070,Sterling,778192,Natural Gas,2002
+0273070,Sterling,473327,Natural Gas,2002
 0273070,Sterling,484899,Water at Hydroelectric Turbine,2002
 0273070,Sterling,243,Distillate Fuel Oil,2003
 0273070,Sterling,399766,Natural Gas,2003
@@ -12074,34 +12125,34 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0273070,Sterling,368254,Water at Hydroelectric Turbine,2013
 0273070,Sterling,446,Distillate Fuel Oil,2014
 0273070,Sterling,0,Jet Fuel,2014
-0273070,Sterling,352625,Natural Gas,2014
+0273070,Sterling,306144,Natural Gas,2014
 0273070,Sterling,0,Waste Oil,2014
 0273070,Sterling,432575,Water at Hydroelectric Turbine,2014
 0273070,Sterling,228,Distillate Fuel Oil,2015
 0273070,Sterling,0,Jet Fuel,2015
-0273070,Sterling,356878,Natural Gas,2015
+0273070,Sterling,315792,Natural Gas,2015
 0273070,Sterling,471705,Water at Hydroelectric Turbine,2015
 0273070,Sterling,87,Distillate Fuel Oil,2016
 0273070,Sterling,0,Jet Fuel,2016
-0273070,Sterling,356059,Natural Gas,2016
+0273070,Sterling,316448,Natural Gas,2016
 0273070,Sterling,430509,Water at Hydroelectric Turbine,2016
 0273070,Sterling,14,Distillate Fuel Oil,2017
 0273070,Sterling,0,Jet Fuel,2017
-0273070,Sterling,334660,Natural Gas,2017
+0273070,Sterling,316493,Natural Gas,2017
 0273070,Sterling,387060,Water at Hydroelectric Turbine,2017
 0273070,Sterling,85,Distillate Fuel Oil,2018
 0273070,Sterling,0,Jet Fuel,2018
-0273070,Sterling,299784,Natural Gas,2018
+0273070,Sterling,276029,Natural Gas,2018
 0273070,Sterling,404480,Water at Hydroelectric Turbine,2018
 0273070,Sterling,63,Distillate Fuel Oil,2019
 0273070,Sterling,0,Jet Fuel,2019
-0273070,Sterling,283833,Natural Gas,2019
+0273070,Sterling,237333,Natural Gas,2019
 0273070,Sterling,413593,Water at Hydroelectric Turbine,2019
 0273070,Sterling,4331,Distillate Fuel Oil,2020
-0273070,Sterling,337386,Natural Gas,2020
+0273070,Sterling,302127,Natural Gas,2020
 0273070,Sterling,466636,Water at Hydroelectric Turbine,2020
 0273070,Sterling,224,Distillate Fuel Oil,2021
-0273070,Sterling,323633,Natural Gas,2021
+0273070,Sterling,290509,Natural Gas,2021
 0273070,Sterling,391019,Water at Hydroelectric Turbine,2021
 0273290,Stevens Village,288,Distillate Fuel Oil,2007
 0273290,Stevens Village,291,Distillate Fuel Oil,2008
@@ -12203,6 +12254,7 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0273950,Sunrise,937447,Natural Gas,2021
 0273950,Sunrise,36381,Water at Hydroelectric Turbine,2021
 0273950,Sunrise,41759,Wind,2021
+0273950,Sunrise,,,
 0274340,Susitna,,,
 0274350,Susitna North,146252,Water at Hydroelectric Turbine,2001
 0274350,Susitna North,161266,Water at Hydroelectric Turbine,2002
@@ -12248,6 +12300,7 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0274350,Susitna North,38071,Landfill Gas,2021
 0274350,Susitna North,678574,Natural Gas,2021
 0274350,Susitna North,139993,Water at Hydroelectric Turbine,2021
+0274350,Susitna North,,,
 0274525,Sutton-Alpine,146252,Water at Hydroelectric Turbine,2001
 0274525,Sutton-Alpine,161266,Water at Hydroelectric Turbine,2002
 0274525,Sutton-Alpine,177204,Water at Hydroelectric Turbine,2003
@@ -12292,6 +12345,7 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0274525,Sutton-Alpine,38071,Landfill Gas,2021
 0274525,Sutton-Alpine,678574,Natural Gas,2021
 0274525,Sutton-Alpine,139993,Water at Hydroelectric Turbine,2021
+0274525,Sutton-Alpine,,,
 0274610,Takotna,136,Distillate Fuel Oil,2001
 0274610,Takotna,248,Distillate Fuel Oil,2002
 0274610,Takotna,253,Distillate Fuel Oil,2003
@@ -12355,6 +12409,7 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0274830,Talkeetna,38071,Landfill Gas,2021
 0274830,Talkeetna,678574,Natural Gas,2021
 0274830,Talkeetna,139993,Water at Hydroelectric Turbine,2021
+0274830,Talkeetna,,,
 0275050,Tanacross,11949,Distillate Fuel Oil,2001
 0275050,Tanacross,12177,Distillate Fuel Oil,2002
 0275050,Tanacross,12797,Distillate Fuel Oil,2003
@@ -12421,6 +12476,7 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0275077,Tanaina,38071,Landfill Gas,2021
 0275077,Tanaina,678574,Natural Gas,2021
 0275077,Tanaina,139993,Water at Hydroelectric Turbine,2021
+0275077,Tanaina,,,
 0275160,Tanana,683,Distillate Fuel Oil,2001
 0275160,Tanana,1302,Distillate Fuel Oil,2002
 0275160,Tanana,1321,Distillate Fuel Oil,2003
@@ -12681,44 +12737,44 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0277800,Tok,9986,Distillate Fuel Oil,2020
 0277800,Tok,10383,Distillate Fuel Oil,2021
 0277800,Tok,,,
-0278240,Toksook Bay,3171,Distillate Fuel Oil,2001
-0278240,Toksook Bay,3333,Distillate Fuel Oil,2002
-0278240,Toksook Bay,3306,Distillate Fuel Oil,2003
-0278240,Toksook Bay,3624,Distillate Fuel Oil,2004
-0278240,Toksook Bay,3919,Distillate Fuel Oil,2005
-0278240,Toksook Bay,7,Wind,2005
-0278240,Toksook Bay,4702,Distillate Fuel Oil,2006
-0278240,Toksook Bay,689,Wind,2006
-0278240,Toksook Bay,4550,Distillate Fuel Oil,2007
-0278240,Toksook Bay,1194,Wind,2007
-0278240,Toksook Bay,4585,Distillate Fuel Oil,2008
-0278240,Toksook Bay,1385,Wind,2008
-0278240,Toksook Bay,5434,Distillate Fuel Oil,2009
-0278240,Toksook Bay,1073,Wind,2009
-0278240,Toksook Bay,5488,Distillate Fuel Oil,2010
-0278240,Toksook Bay,1125,Wind,2010
-0278240,Toksook Bay,5465,Distillate Fuel Oil,2011
-0278240,Toksook Bay,1121,Wind,2011
-0278240,Toksook Bay,5450,Distillate Fuel Oil,2012
-0278240,Toksook Bay,1280,Wind,2012
-0278240,Toksook Bay,5462,Distillate Fuel Oil,2013
-0278240,Toksook Bay,1116,Wind,2013
-0278240,Toksook Bay,5290,Distillate Fuel Oil,2014
-0278240,Toksook Bay,1376,Wind,2014
-0278240,Toksook Bay,5743,Distillate Fuel Oil,2015
-0278240,Toksook Bay,1461,Wind,2015
-0278240,Toksook Bay,5749,Distillate Fuel Oil,2016
-0278240,Toksook Bay,1364,Wind,2016
-0278240,Toksook Bay,5686,Distillate Fuel Oil,2017
-0278240,Toksook Bay,1595,Wind,2017
-0278240,Toksook Bay,5939,Distillate Fuel Oil,2018
-0278240,Toksook Bay,1704,Wind,2018
-0278240,Toksook Bay,6013,Distillate Fuel Oil,2019
-0278240,Toksook Bay,1308,Wind,2019
-0278240,Toksook Bay,6479,Distillate Fuel Oil,2020
-0278240,Toksook Bay,761,Wind,2020
-0278240,Toksook Bay,6542,Distillate Fuel Oil,2021
-0278240,Toksook Bay,892,Wind,2021
+0278240,Toksook Bay,1979,Distillate Fuel Oil,2001
+0278240,Toksook Bay,2087,Distillate Fuel Oil,2002
+0278240,Toksook Bay,2046,Distillate Fuel Oil,2003
+0278240,Toksook Bay,2229,Distillate Fuel Oil,2004
+0278240,Toksook Bay,2389,Distillate Fuel Oil,2005
+0278240,Toksook Bay,3,Wind,2005
+0278240,Toksook Bay,2465,Distillate Fuel Oil,2006
+0278240,Toksook Bay,344,Wind,2006
+0278240,Toksook Bay,2311,Distillate Fuel Oil,2007
+0278240,Toksook Bay,598,Wind,2007
+0278240,Toksook Bay,2299,Distillate Fuel Oil,2008
+0278240,Toksook Bay,691,Wind,2008
+0278240,Toksook Bay,2716,Distillate Fuel Oil,2009
+0278240,Toksook Bay,537,Wind,2009
+0278240,Toksook Bay,2745,Distillate Fuel Oil,2010
+0278240,Toksook Bay,562,Wind,2010
+0278240,Toksook Bay,2733,Distillate Fuel Oil,2011
+0278240,Toksook Bay,561,Wind,2011
+0278240,Toksook Bay,2725,Distillate Fuel Oil,2012
+0278240,Toksook Bay,640,Wind,2012
+0278240,Toksook Bay,2730,Distillate Fuel Oil,2013
+0278240,Toksook Bay,557,Wind,2013
+0278240,Toksook Bay,2645,Distillate Fuel Oil,2014
+0278240,Toksook Bay,689,Wind,2014
+0278240,Toksook Bay,2871,Distillate Fuel Oil,2015
+0278240,Toksook Bay,728,Wind,2015
+0278240,Toksook Bay,2876,Distillate Fuel Oil,2016
+0278240,Toksook Bay,681,Wind,2016
+0278240,Toksook Bay,2843,Distillate Fuel Oil,2017
+0278240,Toksook Bay,798,Wind,2017
+0278240,Toksook Bay,2970,Distillate Fuel Oil,2018
+0278240,Toksook Bay,852,Wind,2018
+0278240,Toksook Bay,3007,Distillate Fuel Oil,2019
+0278240,Toksook Bay,654,Wind,2019
+0278240,Toksook Bay,3240,Distillate Fuel Oil,2020
+0278240,Toksook Bay,380,Wind,2020
+0278240,Toksook Bay,3271,Distillate Fuel Oil,2021
+0278240,Toksook Bay,446,Wind,2021
 0278297,Tolsona,19013,Distillate Fuel Oil,2001
 0278297,Tolsona,50787,Water at Hydroelectric Turbine,2001
 0278297,Tolsona,11382,Distillate Fuel Oil,2002
@@ -12903,6 +12959,7 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0278680,Trapper Creek,38071,Landfill Gas,2021
 0278680,Trapper Creek,678574,Natural Gas,2021
 0278680,Trapper Creek,139993,Water at Hydroelectric Turbine,2021
+0278680,Trapper Creek,,,
 0278790,Tuluksak,236,Distillate Fuel Oil,2001
 0278790,Tuluksak,467,Distillate Fuel Oil,2002
 0278790,Tuluksak,493,Distillate Fuel Oil,2003
@@ -12951,44 +13008,44 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0279120,Tuntutuliak,108,Wind,2020
 0279120,Tuntutuliak,1101,Distillate Fuel Oil,2021
 0279120,Tuntutuliak,48,Wind,2021
-0279230,Tununak,3171,Distillate Fuel Oil,2001
-0279230,Tununak,3333,Distillate Fuel Oil,2002
-0279230,Tununak,3306,Distillate Fuel Oil,2003
-0279230,Tununak,3624,Distillate Fuel Oil,2004
-0279230,Tununak,3919,Distillate Fuel Oil,2005
-0279230,Tununak,7,Wind,2005
-0279230,Tununak,4702,Distillate Fuel Oil,2006
-0279230,Tununak,689,Wind,2006
-0279230,Tununak,4550,Distillate Fuel Oil,2007
-0279230,Tununak,1194,Wind,2007
-0279230,Tununak,4585,Distillate Fuel Oil,2008
-0279230,Tununak,1385,Wind,2008
-0279230,Tununak,5434,Distillate Fuel Oil,2009
-0279230,Tununak,1073,Wind,2009
-0279230,Tununak,5488,Distillate Fuel Oil,2010
-0279230,Tununak,1125,Wind,2010
-0279230,Tununak,5465,Distillate Fuel Oil,2011
-0279230,Tununak,1121,Wind,2011
-0279230,Tununak,5450,Distillate Fuel Oil,2012
-0279230,Tununak,1280,Wind,2012
-0279230,Tununak,5462,Distillate Fuel Oil,2013
-0279230,Tununak,1116,Wind,2013
-0279230,Tununak,5290,Distillate Fuel Oil,2014
-0279230,Tununak,1376,Wind,2014
-0279230,Tununak,5743,Distillate Fuel Oil,2015
-0279230,Tununak,1461,Wind,2015
-0279230,Tununak,5749,Distillate Fuel Oil,2016
-0279230,Tununak,1364,Wind,2016
-0279230,Tununak,5686,Distillate Fuel Oil,2017
-0279230,Tununak,1595,Wind,2017
-0279230,Tununak,5939,Distillate Fuel Oil,2018
-0279230,Tununak,1704,Wind,2018
-0279230,Tununak,6013,Distillate Fuel Oil,2019
-0279230,Tununak,1308,Wind,2019
-0279230,Tununak,6479,Distillate Fuel Oil,2020
-0279230,Tununak,761,Wind,2020
-0279230,Tununak,6542,Distillate Fuel Oil,2021
-0279230,Tununak,892,Wind,2021
+0279230,Tununak,1979,Distillate Fuel Oil,2001
+0279230,Tununak,2087,Distillate Fuel Oil,2002
+0279230,Tununak,2046,Distillate Fuel Oil,2003
+0279230,Tununak,2229,Distillate Fuel Oil,2004
+0279230,Tununak,2389,Distillate Fuel Oil,2005
+0279230,Tununak,3,Wind,2005
+0279230,Tununak,2465,Distillate Fuel Oil,2006
+0279230,Tununak,344,Wind,2006
+0279230,Tununak,2311,Distillate Fuel Oil,2007
+0279230,Tununak,598,Wind,2007
+0279230,Tununak,2299,Distillate Fuel Oil,2008
+0279230,Tununak,691,Wind,2008
+0279230,Tununak,2716,Distillate Fuel Oil,2009
+0279230,Tununak,537,Wind,2009
+0279230,Tununak,2745,Distillate Fuel Oil,2010
+0279230,Tununak,562,Wind,2010
+0279230,Tununak,2733,Distillate Fuel Oil,2011
+0279230,Tununak,561,Wind,2011
+0279230,Tununak,2725,Distillate Fuel Oil,2012
+0279230,Tununak,640,Wind,2012
+0279230,Tununak,2730,Distillate Fuel Oil,2013
+0279230,Tununak,557,Wind,2013
+0279230,Tununak,2645,Distillate Fuel Oil,2014
+0279230,Tununak,689,Wind,2014
+0279230,Tununak,2871,Distillate Fuel Oil,2015
+0279230,Tununak,728,Wind,2015
+0279230,Tununak,2876,Distillate Fuel Oil,2016
+0279230,Tununak,681,Wind,2016
+0279230,Tununak,2843,Distillate Fuel Oil,2017
+0279230,Tununak,798,Wind,2017
+0279230,Tununak,2970,Distillate Fuel Oil,2018
+0279230,Tununak,852,Wind,2018
+0279230,Tununak,3007,Distillate Fuel Oil,2019
+0279230,Tununak,654,Wind,2019
+0279230,Tununak,3240,Distillate Fuel Oil,2020
+0279230,Tununak,380,Wind,2020
+0279230,Tununak,3271,Distillate Fuel Oil,2021
+0279230,Tununak,446,Wind,2021
 0279780,Twin Hills,55,Distillate Fuel Oil,2001
 0279780,Twin Hills,139,Distillate Fuel Oil,2002
 0279780,Twin Hills,141,Distillate Fuel Oil,2003
@@ -13012,12 +13069,12 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0279830,Two Rivers,32,Waste Oil,2002
 0279830,Two Rivers,1031,Wood Waste Solids,2002
 0279830,Two Rivers,456747,Coal,2003
-0279830,Two Rivers,6309,Distillate Fuel Oil,2003
+0279830,Two Rivers,6205,Distillate Fuel Oil,2003
 0279830,Two Rivers,453733,Residual Fuel Oil,2003
 0279830,Two Rivers,64,Waste Oil,2003
 0279830,Two Rivers,761,Wood Waste Solids,2003
 0279830,Two Rivers,519937,Coal,2004
-0279830,Two Rivers,9963,Distillate Fuel Oil,2004
+0279830,Two Rivers,10202,Distillate Fuel Oil,2004
 0279830,Two Rivers,360379,Residual Fuel Oil,2004
 0279830,Two Rivers,0,Waste Oil,2004
 0279830,Two Rivers,388,Wood Waste Solids,2004
@@ -13137,6 +13194,7 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0279830,Two Rivers,4,Natural Gas,2021
 0279830,Two Rivers,184970,Waste Oil,2021
 0279830,Two Rivers,60301,Wind,2021
+0279830,Two Rivers,,,
 0279890,Tyonek,571,Distillate Fuel Oil,2001
 0279890,Tyonek,2690002,Natural Gas,2001
 0279890,Tyonek,59447,Water at Hydroelectric Turbine,2001
@@ -13209,6 +13267,7 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0279890,Tyonek,937447,Natural Gas,2021
 0279890,Tyonek,36381,Water at Hydroelectric Turbine,2021
 0279890,Tyonek,41759,Wind,2021
+0279890,Tyonek,,,
 0280100,Ugashik,,,
 0280660,Unalakleet,4144,Distillate Fuel Oil,2001
 0280660,Unalakleet,3892,Distillate Fuel Oil,2002
@@ -13514,6 +13573,7 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0283080,Wasilla,38071,Landfill Gas,2021
 0283080,Wasilla,678574,Natural Gas,2021
 0283080,Wasilla,139993,Water at Hydroelectric Turbine,2021
+0283080,Wasilla,,,
 0284000,Whale Pass,220,Distillate Fuel Oil,2001
 0284000,Whale Pass,274,Distillate Fuel Oil,2002
 0284000,Whale Pass,290,Distillate Fuel Oil,2003
@@ -13565,12 +13625,12 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0284120,Whitestone,32,Waste Oil,2002
 0284120,Whitestone,1031,Wood Waste Solids,2002
 0284120,Whitestone,456747,Coal,2003
-0284120,Whitestone,6309,Distillate Fuel Oil,2003
+0284120,Whitestone,6205,Distillate Fuel Oil,2003
 0284120,Whitestone,453733,Residual Fuel Oil,2003
 0284120,Whitestone,64,Waste Oil,2003
 0284120,Whitestone,761,Wood Waste Solids,2003
 0284120,Whitestone,519937,Coal,2004
-0284120,Whitestone,9963,Distillate Fuel Oil,2004
+0284120,Whitestone,10202,Distillate Fuel Oil,2004
 0284120,Whitestone,360379,Residual Fuel Oil,2004
 0284120,Whitestone,0,Waste Oil,2004
 0284120,Whitestone,388,Wood Waste Solids,2004
@@ -13690,6 +13750,7 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0284120,Whitestone,4,Natural Gas,2021
 0284120,Whitestone,184970,Waste Oil,2021
 0284120,Whitestone,60301,Wind,2021
+0284120,Whitestone,,,
 0284200,Whitestone Logging Camp,2458,Distillate Fuel Oil,2001
 0284200,Whitestone Logging Camp,4557,Distillate Fuel Oil,2002
 0284200,Whitestone Logging Camp,4706,Distillate Fuel Oil,2003
@@ -13790,6 +13851,7 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0284510,Whittier,937447,Natural Gas,2021
 0284510,Whittier,36381,Water at Hydroelectric Turbine,2021
 0284510,Whittier,41759,Wind,2021
+0284510,Whittier,,,
 0285280,Willow,146252,Water at Hydroelectric Turbine,2001
 0285280,Willow,161266,Water at Hydroelectric Turbine,2002
 0285280,Willow,177204,Water at Hydroelectric Turbine,2003
@@ -13834,6 +13896,7 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0285280,Willow,38071,Landfill Gas,2021
 0285280,Willow,678574,Natural Gas,2021
 0285280,Willow,139993,Water at Hydroelectric Turbine,2021
+0285280,Willow,,,
 0285290,Willow Creek,19013,Distillate Fuel Oil,2001
 0285290,Willow Creek,50787,Water at Hydroelectric Turbine,2001
 0285290,Willow Creek,11382,Distillate Fuel Oil,2002

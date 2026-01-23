@@ -15,7 +15,7 @@ To address the second issue, capacity is summed over all the generators with dif
 * **Reference Date:** 2023-11-13
 
 ### Sources
-* **Alaska Energy Statistics Infrastructure Tables** (2024)
+* **Alaska Energy Statistics Infrastructure Table** (2023)
   https://acep-uaf.github.io/ak-energy-statistics-2011_2021/
  The Alaska Energy Statistics is a long-running collection of data and reports about energy production, consumption, and related topics specific to the state of Alaska. The workbooks were developed to provide community and utility level datasets that support regional and statewide aggregations for use in the 2024 Alaska Electricity Trends Report. This is a continuation of a 40+ year effort to create and maintain high level views of the state’s energy profile that are useful for policy makers, businesses, researchers, and others interested in Alaska’s energy sector. Data are derived from community Power Cost Equalization reports collated by the Alaska Energy Authority and power plant reporting to the U.S. Energy Information Administration (EIA). These sources are supplemented by annual filings to the Regulatory Commission of Alaska (RCA), village and powerhouse assessments, and direct communications with utilities and hydro/wind program managers.
 Additional funding was contributed by Office of Naval Research (ONR) funded Alaska Regional Collaboration for Technology Innovation and Commercialization (ARCTIC) program, the Denali Commission, and the State of Alaska.
@@ -40,7 +40,7 @@ AEDG uses this dataset as the best available compilation of electrical generatio
 > 2. Extracted a the most recent capacity figures for each unique grid.
 > 
 
-> **2026-01-12**: Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.
+> **2026-01-23**: Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.
 > 
 
 ## License
