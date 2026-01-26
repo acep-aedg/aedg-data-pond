@@ -27,7 +27,7 @@
                 "Power Cost Equalization (PCE)",
                 "EIA Form 923"
             ],
-            "publicationDate": "2026-01-12",
+            "publicationDate": "2026-01-22",
             "context": {
                 "title": "Alaska Energy Data Gateway v3.0",
                 "homepage": "https://akenergygateway.alaska.edu/",
@@ -60,10 +60,10 @@
             },
             "sources": [
                 {
-                    "title": "Alaska Energy Statistics Electrical Generation Tables",
+                    "title": "Alaska Energy Statistics Monthly Generation Table",
                     "authors": [
                         "Alaska Center for Energy and Power (ACEP), University of Alaska Fairbanks (UAF)",
-                        "Neil McMahon, DOWL Engineering",
+                        "Neil McMahon, ACEP",
                         "Alaska Energy Authority (AEA)",
                         "Institute of Social and Economic Research (ISER), University of Alaska Anchorage (UAA)"
                     ],
@@ -117,7 +117,7 @@
                     "roles": [
                         "DataCurator"
                     ],
-                    "date": "2026-01-12",
+                    "date": "2026-01-22",
                     "object": "metadata via https://github.com/acep-aedg/aedg-metadata",
                     "comment": "Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.\n",
                     "path": "https://www.uaf.edu/acep/"
