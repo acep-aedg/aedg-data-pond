@@ -459,48 +459,48 @@ aea_plant_id,eia_plant_id,year,fuel_type_code,fuel_type_name,avg_pce_fuel_price,
 25,7169,2019,DFO,Distillate Fuel Oil,2.70,gallons,82965,11449.100,1041.601,PCE
 25,7169,2020,DFO,Distillate Fuel Oil,2.11,gallons,86487,11935.206,1102.400,PCE
 25,7169,2021,DFO,Distillate Fuel Oil,2.35,gallons,87386,12059.268,1096.000,PCE
-26,66,2001,DFO,Distillate Fuel Oil,1.34,gallons,1498,206.700,16.29600,PCE
+26,66,2001,DFO,Distillate Fuel Oil,1.34,gallons,1498,206.700,16.296,PCE
 26,66,2001,WAT,Water at Hydroelectric Turbine,,,,,3266.999,EIA923
-26,66,2002,DFO,Distillate Fuel Oil,1.05,gallons,25354,3498.800,354.81727,PCE
+26,66,2002,DFO,Distillate Fuel Oil,1.05,gallons,25354,3498.800,354.816,PCE
 26,66,2002,WAT,Water at Hydroelectric Turbine,,,,,3448.999,EIA923
-26,66,2003,DFO,Distillate Fuel Oil,1.11,gallons,12965,1789.100,121.33633,PCE
+26,66,2003,DFO,Distillate Fuel Oil,1.11,gallons,12965,1789.100,121.335,PCE
 26,66,2003,WAT,Water at Hydroelectric Turbine,,,,,3439.000,EIA923
-26,66,2004,DFO,Distillate Fuel Oil,1.42,gallons,13661,1885.200,117.02080,PCE
-26,66,2004,WAT,Water at Hydroelectric Turbine,,,,,3357.05040,PCE
-26,66,2005,DFO,Distillate Fuel Oil,2.22,gallons,13161,1816.200,118.84440,PCE
-26,66,2005,WAT,Water at Hydroelectric Turbine,,,,,3704.28993,PCE
-26,66,2006,DFO,Distillate Fuel Oil,2.51,gallons,4773,658.600,51.89888,PCE
-26,66,2006,WAT,Water at Hydroelectric Turbine,,,,,4826.13120,PCE
-26,66,2007,DFO,Distillate Fuel Oil,2.50,gallons,77750,10729.700,1073.54362,PCE
+26,66,2004,DFO,Distillate Fuel Oil,1.42,gallons,13661,1885.200,117.020,PCE
+26,66,2004,WAT,Water at Hydroelectric Turbine,,,,,3357.050,PCE
+26,66,2005,DFO,Distillate Fuel Oil,2.22,gallons,13161,1816.200,118.843,PCE
+26,66,2005,WAT,Water at Hydroelectric Turbine,,,,,3704.291,PCE
+26,66,2006,DFO,Distillate Fuel Oil,2.51,gallons,4773,658.600,51.897,PCE
+26,66,2006,WAT,Water at Hydroelectric Turbine,,,,,4826.131,PCE
+26,66,2007,DFO,Distillate Fuel Oil,2.50,gallons,77750,10729.700,1073.544,PCE
 26,66,2007,WAT,Water at Hydroelectric Turbine,,,,,3242.000,EIA923
-26,66,2008,DFO,Distillate Fuel Oil,3.91,gallons,207684,28660.500,2951.78566,PCE
+26,66,2008,DFO,Distillate Fuel Oil,3.91,gallons,207684,28660.500,2951.785,PCE
 26,66,2008,WAT,Water at Hydroelectric Turbine,,,,,3242.000,EIA923
-26,66,2009,DFO,Distillate Fuel Oil,1.91,gallons,96595,13330.000,1314.17346,PCE
+26,66,2009,DFO,Distillate Fuel Oil,1.91,gallons,96595,13330.000,1314.173,PCE
 26,66,2009,WAT,Water at Hydroelectric Turbine,,,,,3404.000,EIA923
-26,66,2010,DFO,Distillate Fuel Oil,2.45,gallons,4167,575.100,53.74576,PCE
+26,66,2010,DFO,Distillate Fuel Oil,2.45,gallons,4167,575.100,53.745,PCE
 26,66,2010,WAT,Water at Hydroelectric Turbine,,,,,3569.000,EIA923
-26,66,2011,DFO,Distillate Fuel Oil,3.47,gallons,17792,2455.400,237.89250,PCE
+26,66,2011,DFO,Distillate Fuel Oil,3.47,gallons,17792,2455.400,237.891,PCE
 26,66,2011,WAT,Water at Hydroelectric Turbine,,,,,2998.000,EIA923
-26,66,2012,DFO,Distillate Fuel Oil,3.91,gallons,5809,801.600,73.73261,PCE
+26,66,2012,DFO,Distillate Fuel Oil,3.91,gallons,5809,801.600,73.733,PCE
 26,66,2012,WAT,Water at Hydroelectric Turbine,,,,,3331.000,EIA923
-26,66,2013,DFO,Distillate Fuel Oil,3.91,gallons,22087,3048.100,294.50170,PCE
+26,66,2013,DFO,Distillate Fuel Oil,3.91,gallons,22087,3048.100,294.502,PCE
 26,66,2013,WAT,Water at Hydroelectric Turbine,,,,,3138.000,EIA923
-26,66,2014,DFO,Distillate Fuel Oil,3.93,gallons,12668,1748.200,54.86320,PCE
+26,66,2014,DFO,Distillate Fuel Oil,3.93,gallons,12668,1748.200,54.862,PCE
 26,66,2014,WAT,Water at Hydroelectric Turbine,,,,,2945.000,EIA923
-26,66,2015,DFO,Distillate Fuel Oil,3.47,gallons,12434,1715.900,166.87880,PCE
+26,66,2015,DFO,Distillate Fuel Oil,3.47,gallons,12434,1715.900,166.878,PCE
 26,66,2015,WAT,Water at Hydroelectric Turbine,,,,,2578.000,EIA923
-26,66,2016,DFO,Distillate Fuel Oil,2.90,gallons,14305,1974.000,186.66680,PCE
+26,66,2016,DFO,Distillate Fuel Oil,2.90,gallons,14305,1974.000,186.665,PCE
 26,66,2016,WAT,Water at Hydroelectric Turbine,,,,,2700.000,EIA923
-26,66,2017,DFO,Distillate Fuel Oil,2.55,gallons,53671,7406.500,760.86800,PCE
+26,66,2017,DFO,Distillate Fuel Oil,2.55,gallons,53671,7406.500,760.869,PCE
 26,66,2017,WAT,Water at Hydroelectric Turbine,,,,,2033.000,EIA923
-26,66,2018,DFO,Distillate Fuel Oil,2.70,gallons,6115,843.900,71.47445,PCE
+26,66,2018,DFO,Distillate Fuel Oil,2.70,gallons,6115,843.900,71.473,PCE
 26,66,2018,WAT,Water at Hydroelectric Turbine,,,,,1988.000,EIA923
 26,66,2019,DFO,Distillate Fuel Oil,,gallons,49518,6867.000,626.000,EIA923
 26,66,2019,WAT,Water at Hydroelectric Turbine,,,0,17204.000,1932.000,EIA923
-26,66,2020,DFO,Distillate Fuel Oil,2.52,gallons,104097,14365.386,1387.23968,PCE
-26,66,2020,WAT,Water at Hydroelectric Turbine,,,,0.000,2110.65525,PCE
-26,66,2021,DFO,Distillate Fuel Oil,2.56,gallons,102616,14161.008,1438.68363,PCE
-26,66,2021,WAT,Water at Hydroelectric Turbine,,,,0.000,2476.38303,PCE
+26,66,2020,DFO,Distillate Fuel Oil,2.52,gallons,104097,14365.386,1387.239,PCE
+26,66,2020,WAT,Water at Hydroelectric Turbine,,,,0.000,2110.654,PCE
+26,66,2021,DFO,Distillate Fuel Oil,2.56,gallons,102616,14161.008,1438.685,PCE
+26,66,2021,WAT,Water at Hydroelectric Turbine,,,,0.000,2476.384,PCE
 27,61685,2005,DFO,Distillate Fuel Oil,1.30,gallons,20295,2800.800,226.995,PCE
 27,61685,2006,DFO,Distillate Fuel Oil,2.32,gallons,28802,3974.800,363.207,PCE
 27,61685,2007,DFO,Distillate Fuel Oil,2.50,gallons,34133,4710.400,439.196,PCE
@@ -713,9 +713,9 @@ aea_plant_id,eia_plant_id,year,fuel_type_code,fuel_type_name,avg_pce_fuel_price,
 36,7506,2020,DFO,Distillate Fuel Oil,3.28,gallons,9305,1284.090,85.861,PCE
 36,7506,2021,DFO,Distillate Fuel Oil,2.95,gallons,11238,1550.844,104.891,PCE
 37,7249,2001,DFO,Distillate Fuel Oil,,gallons,44268,6109.000,534.001,EIA923
-37,7249,2002,DFO,Distillate Fuel Oil,0.88,gallons,47531,6559.400,559.29327,PCE
-37,7249,2003,DFO,Distillate Fuel Oil,1.11,gallons,46920,6475.000,557.40080,PCE
-37,7249,2004,DFO,Distillate Fuel Oil,1.11,gallons,9485,1308.900,115.70160,PCE
+37,7249,2002,DFO,Distillate Fuel Oil,0.88,gallons,47531,6559.400,559.293,PCE
+37,7249,2003,DFO,Distillate Fuel Oil,1.11,gallons,46920,6475.000,557.402,PCE
+37,7249,2004,DFO,Distillate Fuel Oil,1.11,gallons,9485,1308.900,115.702,PCE
 38,7341,2001,DFO,Distillate Fuel Oil,,gallons,28056,3871.900,329.001,EIA923
 38,7341,2002,DFO,Distillate Fuel Oil,0.97,gallons,30594,4222.000,345.280,PCE
 38,7341,2003,DFO,Distillate Fuel Oil,1.18,gallons,33717,4652.900,381.120,PCE
