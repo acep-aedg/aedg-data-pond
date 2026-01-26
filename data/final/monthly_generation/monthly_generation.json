@@ -27,7 +27,7 @@
                 "Power Cost Equalization (PCE)",
                 "EIA Form 923"
             ],
-            "publicationDate": "2026-01-22",
+            "publicationDate": "2026-01-26",
             "context": {
                 "title": "Alaska Energy Data Gateway v3.0",
                 "homepage": "https://akenergygateway.alaska.edu/",
@@ -117,7 +117,7 @@
                     "roles": [
                         "DataCurator"
                     ],
-                    "date": "2026-01-22",
+                    "date": "2026-01-26",
                     "object": "metadata via https://github.com/acep-aedg/aedg-metadata",
                     "comment": "Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.\n",
                     "path": "https://www.uaf.edu/acep/"
@@ -145,12 +145,20 @@
                         "unit": null
                     },
                     {
-                        "name": "net_generation_mwh",
-                        "long_name": "Net Generation (MWh)",
-                        "description": "Net electrical generation as Megawatt Hour aggregated by grid",
-                        "type": "number",
-                        "nullable": true,
-                        "unit": "MWh"
+                        "name": "year",
+                        "long_name": "Year",
+                        "description": "Four digit year as Common Era (CE)",
+                        "type": "integer",
+                        "nullable": false,
+                        "unit": null
+                    },
+                    {
+                        "name": "month",
+                        "long_name": "Month",
+                        "description": "Month as 1-12 for which generation was reported",
+                        "type": "integer",
+                        "nullable": false,
+                        "unit": null
                     },
                     {
                         "name": "fuel_type_code",
@@ -169,19 +177,51 @@
                         "unit": null
                     },
                     {
-                        "name": "year",
-                        "long_name": "Year",
-                        "description": "Four digit year as Common Era (CE)",
-                        "type": "integer",
-                        "nullable": false,
+                        "name": "pce_fuel_price",
+                        "long_name": "PCE Fuel Price",
+                        "description": "Price of fuel paid by utility as reported to PCE program",
+                        "type": "number",
+                        "nullable": true,
+                        "unit": "USD"
+                    },
+                    {
+                        "name": "physical_unit_label",
+                        "long_name": "Physical Unit Label",
+                        "description": "Units of the associated numeric column",
+                        "type": "string",
+                        "nullable": true,
                         "unit": null
                     },
                     {
-                        "name": "month",
-                        "long_name": "Month",
-                        "description": "Month as 1-12 for which generation was reported",
-                        "type": "integer",
-                        "nullable": false,
+                        "name": "quantity_consumed_in_physical_units_for_electric_generation",
+                        "long_name": "Quantity Consumed in Physical Units for Electric Generation",
+                        "description": "Numeric value of physical units consumed for electric generation",
+                        "type": "number",
+                        "nullable": true,
+                        "unit": null
+                    },
+                    {
+                        "name": "quantity_consumed_for_electricity_mmbtu",
+                        "long_name": "Quantity Consumed for Electricity MMbtu",
+                        "description": "Quantity consumed for electric generation expressed in British thermal units",
+                        "type": "number",
+                        "nullable": true,
+                        "unit": "MMbtu"
+                    },
+                    {
+                        "name": "generation_mwh",
+                        "long_name": "Generation (MWh)",
+                        "description": "Electrical generation",
+                        "type": "number",
+                        "nullable": true,
+                        "unit": "MWh"
+                    },
+                    {
+                        "name": "source",
+                        "long_name": "Source",
+                        "description": "Source of data",
+                        "type": "string",
+                        "nullable": true,
                         "unit": null
                     }
                 ],
