@@ -28,7 +28,7 @@
                 "EIA Form 923",
                 "community"
             ],
-            "publicationDate": "2026-01-23",
+            "publicationDate": "2026-01-26",
             "context": {
                 "title": "Alaska Energy Data Gateway v3.0",
                 "homepage": "https://akenergygateway.alaska.edu/",
@@ -139,7 +139,7 @@
                     "roles": [
                         "DataCurator"
                     ],
-                    "date": "2026-01-23",
+                    "date": "2026-01-26",
                     "object": "metadata via https://github.com/acep-aedg/aedg-metadata",
                     "comment": "Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.\n",
                     "path": "https://www.uaf.edu/acep/"
@@ -167,17 +167,17 @@
                         "unit": null
                     },
                     {
-                        "name": "service_area_net_generation_mwh",
-                        "long_name": "Service Area Net Generation (MWh)",
-                        "description": "Net generation of all plants within the service area",
+                        "name": "aea_plant_ids",
+                        "long_name": "Alaska Energy Authority Plant ID",
+                        "description": null,
                         "type": "number",
-                        "nullable": true,
-                        "unit": "MWh"
+                        "nullable": false,
+                        "unit": null
                     },
                     {
-                        "name": "fuel_type",
-                        "long_name": "Fuel Type",
-                        "description": "Generation fuel as defined by the U.S. Energy Information Administration (EIA)",
+                        "name": "service_area_geom_id",
+                        "long_name": "Service Area Geometry ID",
+                        "description": "Unique identifier of service area polygon",
                         "type": "string",
                         "nullable": true,
                         "unit": null
@@ -197,6 +197,30 @@
                         "type": "integer",
                         "nullable": false,
                         "unit": null
+                    },
+                    {
+                        "name": "fuel_type",
+                        "long_name": "Fuel Type",
+                        "description": "Generation fuel as defined by the U.S. Energy Information Administration (EIA)",
+                        "type": "string",
+                        "nullable": true,
+                        "unit": null
+                    },
+                    {
+                        "name": "service_area_pce_fuel_price",
+                        "long_name": "Service Area PCE Fuel Price",
+                        "description": "Price of fuel paid by utility as reported to PCE program",
+                        "type": "number",
+                        "nullable": true,
+                        "unit": "USD"
+                    },
+                    {
+                        "name": "service_area_generation_mwh",
+                        "long_name": "Service Area Generation (MWh)",
+                        "description": "Generation of all plants within the service area",
+                        "type": "number",
+                        "nullable": true,
+                        "unit": "MWh"
                     }
                 ],
                 "primaryKey": [

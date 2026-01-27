@@ -37,7 +37,7 @@ AEDG uses this dataset as the best available compilation of electrical generatio
 | :--- | :--- | :--- | :--- |
 | FIPS Code | string | None | 5-digit Federal Information Processing Series (FIPS) code identifier for places and boroughs (counties), assigned and maintained by the Census Bureau |
 | Community Name | string | None | Name of the community |
-| Service Area Net Generation (MWh) | number | MWh | Net generation of all plants within the service area |
+| Service Area Generation (MWh) | number | MWh | Generation of all plants within the service area |
 | Fuel Type | string | None | Generation fuel as defined by the U.S. Energy Information Administration (EIA) |
 | Year | integer | None | Four digit year as Common Era (CE) for which monthly reported generation was summed |
 
@@ -50,7 +50,7 @@ AEDG uses this dataset as the best available compilation of electrical generatio
 > 3. Joined generation data with AEDG communities to create this dataset
 > 
 
-> **2026-01-23**: Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.
+> **2026-01-26**: Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.
 > 
 
 ## License

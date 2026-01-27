@@ -37,10 +37,13 @@ AEDG uses this dataset as the best available compilation of electrical generatio
 | :--- | :--- | :--- | :--- |
 | FIPS Code | string | None | 5-digit Federal Information Processing Series (FIPS) code identifier for places and boroughs (counties), assigned and maintained by the Census Bureau |
 | Community Name | string | None | Name of the community |
-| Service Area Net Generation (MWh) | number | MWh | Net generation of all plants within the service area |
-| Fuel Type | string | None | Generation fuel as defined by the U.S. Energy Information Administration (EIA) |
+| Alaska Energy Authority Plant ID | number | None |  |
+| Service Area Geometry ID | string | None | Unique identifier of service area polygon |
 | Year | integer | None | Four digit year as Common Era (CE) |
 | Month | integer | None | Month as 1-12 for which generation was reported |
+| Fuel Type | string | None | Generation fuel as defined by the U.S. Energy Information Administration (EIA) |
+| Service Area PCE Fuel Price | number | USD | Price of fuel paid by utility as reported to PCE program |
+| Service Area Generation (MWh) | number | MWh | Generation of all plants within the service area |
 
 ### Comments
 > **2024**: Pulled data from the original sources, the compiled, corrected, harmonized, transformed data into Excel Workbooks as annual datasets and as Financial and Generation timeseries.
@@ -51,7 +54,7 @@ AEDG uses this dataset as the best available compilation of electrical generatio
 > 3. Joined generation data with AEDG communities to create this dataset
 > 
 
-> **2026-01-23**: Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.
+> **2026-01-26**: Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.
 > 
 
 ## License

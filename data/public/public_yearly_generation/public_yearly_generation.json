@@ -28,7 +28,7 @@
                 "EIA Form 923",
                 "community"
             ],
-            "publicationDate": "2026-01-23",
+            "publicationDate": "2026-01-26",
             "context": {
                 "title": "Alaska Energy Data Gateway v3.0",
                 "homepage": "https://akenergygateway.alaska.edu/",
@@ -139,7 +139,7 @@
                     "roles": [
                         "DataCurator"
                     ],
-                    "date": "2026-01-23",
+                    "date": "2026-01-26",
                     "object": "metadata via https://github.com/acep-aedg/aedg-metadata",
                     "comment": "Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.\n",
                     "path": "https://www.uaf.edu/acep/"
@@ -167,9 +167,9 @@
                         "unit": null
                     },
                     {
-                        "name": "service_area_net_generation_mwh",
-                        "long_name": "Service Area Net Generation (MWh)",
-                        "description": "Net generation of all plants within the service area",
+                        "name": "service_area_generation_mwh",
+                        "long_name": "Service Area Generation (MWh)",
+                        "description": "Generation of all plants within the service area",
                         "type": "number",
                         "nullable": true,
                         "unit": "MWh"
