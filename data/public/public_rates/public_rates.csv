@@ -141,26 +141,26 @@ fips_code,name,reporting_entity_name,residential_rate,commercial_rate,industrial
 0203110,Anchor Point,Homer Electric Assn Inc,0.27,0.23,0.11,2019
 0203110,Anchor Point,Homer Electric Assn Inc,0.29,0.26,0.12,2020
 0203110,Anchor Point,Homer Electric Assn Inc,0.28,0.25,0.12,2021
-0203000,Anchorage,Chugach Electric Assn Inc,0.14,0.12,0.11,2011
 0203000,Anchorage,Anchorage Municipal Light and Power,0.13,0.10,,2011
-0203000,Anchorage,Chugach Electric Assn Inc,0.14,0.12,0.11,2012
+0203000,Anchorage,Chugach Electric Assn Inc,0.14,0.12,0.11,2011
 0203000,Anchorage,Anchorage Municipal Light and Power,0.12,0.09,,2012
+0203000,Anchorage,Chugach Electric Assn Inc,0.14,0.12,0.11,2012
 0203000,Anchorage,Anchorage Municipal Light and Power,0.13,0.10,,2013
 0203000,Anchorage,Chugach Electric Assn Inc,0.15,0.12,0.11,2013
 0203000,Anchorage,Anchorage Municipal Light and Power,0.16,0.13,,2014
 0203000,Anchorage,Chugach Electric Assn Inc,0.16,0.13,0.12,2014
 0203000,Anchorage,Anchorage Municipal Light and Power,0.17,0.14,,2015
 0203000,Anchorage,Chugach Electric Assn Inc,0.17,0.14,0.12,2015
-0203000,Anchorage,Chugach Electric Assn Inc,0.18,0.15,0.13,2016
 0203000,Anchorage,Anchorage Municipal Light and Power,0.17,0.14,,2016
+0203000,Anchorage,Chugach Electric Assn Inc,0.18,0.15,0.13,2016
 0203000,Anchorage,Anchorage Municipal Light and Power,0.21,0.17,,2017
 0203000,Anchorage,Chugach Electric Assn Inc,0.20,0.16,0.15,2017
-0203000,Anchorage,Chugach Electric Assn Inc,0.20,0.16,0.14,2018
 0203000,Anchorage,Anchorage Municipal Light and Power,0.20,0.15,,2018
+0203000,Anchorage,Chugach Electric Assn Inc,0.20,0.16,0.14,2018
 0203000,Anchorage,Anchorage Municipal Light and Power,0.23,0.16,,2019
 0203000,Anchorage,Chugach Electric Assn Inc,0.21,0.17,0.15,2019
-0203000,Anchorage,Chugach Electric Assn Inc,0.21,0.17,0.15,2020
 0203000,Anchorage,Anchorage Municipal Light and Power,0.21,0.16,,2020
+0203000,Anchorage,Chugach Electric Assn Inc,0.21,0.17,0.15,2020
 0203000,Anchorage,Chugach Electric Assn Inc,0.21,0.16,0.14,2021
 0203220,Anderson,Golden Valley Elec Assn Inc,0.22,0.21,0.17,2011
 0203220,Anderson,Golden Valley Elec Assn Inc,0.24,0.23,0.19,2012
@@ -173,17 +173,19 @@ fips_code,name,reporting_entity_name,residential_rate,commercial_rate,industrial
 0203220,Anderson,Golden Valley Elec Assn Inc,0.26,0.25,0.18,2019
 0203220,Anderson,Golden Valley Elec Assn Inc,0.25,0.24,0.17,2020
 0203220,Anderson,Golden Valley Elec Assn Inc,0.27,0.26,0.18,2021
-0203440,Angoon,Inside Passage Electric,0.23,0.63,,2011
-0203440,Angoon,Inside Passage Electric,0.22,0.63,,2012
-0203440,Angoon,Inside Passage Electric,0.22,0.65,,2013
-0203440,Angoon,Inside Passage Electric,0.22,0.62,,2014
-0203440,Angoon,Inside Passage Electric,0.23,0.57,,2015
-0203440,Angoon,Inside Passage Electric,0.23,0.49,,2016
-0203440,Angoon,Inside Passage Electric,0.24,0.53,,2017
-0203440,Angoon,Inside Passage Electric,0.26,0.59,,2018
-0203440,Angoon,Inside Passage Electric,0.27,0.62,,2019
-0203440,Angoon,Inside Passage Electric,0.28,0.57,,2020
-0203440,Angoon,Inside Passage Electric,0.29,0.63,,2021
+0203440,Angoon,Inside Passage Elec Coop Inc,0.23,0.63,,2011
+0203440,Angoon,Inside Passage Elec Coop Inc,0.22,0.63,,2012
+0203440,Angoon,Inside Passage Elec Coop Inc,0.22,0.65,,2013
+0203440,Angoon,Inside Passage Elec Coop Inc,0.22,0.62,,2014
+0203440,Angoon,Inside Passage Elec Coop Inc,0.23,0.57,,2015
+0203440,Angoon,Inside Passage Elec Coop Inc,0.23,0.49,,2016
+0203440,Angoon,Inside Passage Elec Coop Inc,0.24,0.53,,2017
+0203440,Angoon,Inside Passage Elec Coop Inc,0.26,0.59,,2018
+0203440,Angoon,Inside Passage Elec Coop Inc,0.27,0.62,,2019
+0203440,Angoon,Inside Passage Elec Coop Inc,0.28,0.57,,2020
+0203440,Angoon,Inside Passage Elec Coop Inc,,,,2020
+0203440,Angoon,Inside Passage Elec Coop Inc,0.29,0.63,,2021
+0203440,Angoon,Inside Passage Elec Coop Inc,,,,2021
 0203550,Aniak,Aniak Light & Power,0.28,0.72,,2011
 0203550,Aniak,Aniak Light & Power,0.28,0.76,,2012
 0203550,Aniak,Aniak Light & Power,0.27,0.76,,2013
@@ -293,8 +295,8 @@ fips_code,name,reporting_entity_name,residential_rate,commercial_rate,industrial
 0206520,Bethel,Alaska Village Electric Cooperative,0.17,0.51,,2011
 0206520,Bethel,Alaska Village Electric Cooperative,0.16,0.55,,2012
 0206520,Bethel,Alaska Village Electric Cooperative,0.16,0.56,,2013
-0206520,Bethel,Alaska Village Electric Cooperative,0.18,0.59,,2014
 0206520,Bethel,Alaska Village Electric Cooperative,0.18,0.49,,2014
+0206520,Bethel,Alaska Village Electric Cooperative,0.18,0.59,,2014
 0206520,Bethel,Alaska Village Electric Cooperative,0.15,0.43,,2015
 0206520,Bethel,Alaska Village Electric Cooperative,0.20,0.33,,2016
 0206520,Bethel,Alaska Village Electric Cooperative,0.22,0.28,,2017
@@ -384,17 +386,7 @@ fips_code,name,reporting_entity_name,residential_rate,commercial_rate,industrial
 0209710,Butte,Matanuska Electric Assn Inc,0.22,0.19,,2019
 0209710,Butte,Matanuska Electric Assn Inc,0.22,0.19,,2020
 0209710,Butte,Matanuska Electric Assn Inc,0.21,0.19,,2021
-0210150,Cantwell,Golden Valley Elec Assn Inc,0.22,0.21,0.17,2011
-0210150,Cantwell,Golden Valley Elec Assn Inc,0.24,0.23,0.19,2012
-0210150,Cantwell,Golden Valley Elec Assn Inc,0.23,0.21,0.17,2013
-0210150,Cantwell,Golden Valley Elec Assn Inc,0.23,0.21,0.17,2014
-0210150,Cantwell,Golden Valley Elec Assn Inc,0.21,0.19,0.15,2015
-0210150,Cantwell,Golden Valley Elec Assn Inc,0.23,0.21,0.16,2016
-0210150,Cantwell,Golden Valley Elec Assn Inc,0.24,0.22,0.17,2017
-0210150,Cantwell,Golden Valley Elec Assn Inc,0.25,0.24,0.18,2018
-0210150,Cantwell,Golden Valley Elec Assn Inc,0.26,0.25,0.18,2019
-0210150,Cantwell,Golden Valley Elec Assn Inc,0.25,0.24,0.17,2020
-0210150,Cantwell,Golden Valley Elec Assn Inc,0.27,0.26,0.18,2021
+0210150,Cantwell,,,,,
 0211690,Central,Gold Country Energy,0.24,0.78,,2011
 0211690,Central,Gold Country Energy,0.26,0.77,,2012
 0211690,Central,Gold Country Energy,0.25,0.72,,2013
@@ -873,8 +865,8 @@ fips_code,name,reporting_entity_name,residential_rate,commercial_rate,industrial
 0221370,Eielson AFB,Golden Valley Elec Assn Inc,0.26,0.25,0.18,2019
 0221370,Eielson AFB,Golden Valley Elec Assn Inc,0.25,0.24,0.17,2020
 0221370,Eielson AFB,Golden Valley Elec Assn Inc,0.27,0.26,0.18,2021
-0221810,Ekwok,Alaska Village Electric Cooperative,0.03,,,2011
 0221810,Ekwok,Alaska Village Electric Cooperative,0.22,0.74,,2011
+0221810,Ekwok,Alaska Village Electric Cooperative,0.03,,,2011
 0221810,Ekwok,Alaska Village Electric Cooperative,0.24,0.74,,2012
 0221810,Ekwok,Alaska Village Electric Cooperative,0.21,0.70,,2013
 0221810,Ekwok,Alaska Village Electric Cooperative,0.25,0.69,,2014
@@ -1567,14 +1559,14 @@ fips_code,name,reporting_entity_name,residential_rate,commercial_rate,industrial
 0239300,Kiana,Alaska Village Electric Cooperative,0.24,0.63,,2019
 0239300,Kiana,Alaska Village Electric Cooperative,0.26,0.56,,2020
 0239300,Kiana,Alaska Village Electric Cooperative,0.26,0.53,,2021
-0239410,King Cove,City of King Cove,0.16,0.28,,2011
-0239410,King Cove,City of King Cove,0.21,0.30,,2012
-0239410,King Cove,City of King Cove,0.22,0.30,,2013
-0239410,King Cove,City of King Cove,0.23,0.30,,2014
-0239410,King Cove,City of King Cove,0.24,0.30,,2015
-0239410,King Cove,City of King Cove,0.29,0.30,,2016
-0239410,King Cove,City of King Cove,0.30,0.30,,2017
-0239410,King Cove,City of King Cove,0.30,0.30,,2017
+0239410,King Cove,King Cove Corporation,0.16,0.28,,2011
+0239410,King Cove,King Cove Corporation,0.21,0.30,,2012
+0239410,King Cove,King Cove Corporation,0.22,0.30,,2013
+0239410,King Cove,King Cove Corporation,0.23,0.30,,2014
+0239410,King Cove,King Cove Corporation,0.24,0.30,,2015
+0239410,King Cove,King Cove Corporation,0.29,0.30,,2016
+0239410,King Cove,King Cove Corporation,0.30,0.30,,2017
+0239410,King Cove,King Cove Corporation,0.30,0.30,,2017
 0239630,King Salmon,Naknek Electric Association,0.24,0.50,,2011
 0239630,King Salmon,Naknek Electric Association,0.22,0.56,,2012
 0239630,King Salmon,Naknek Electric Association,0.19,0.58,,2013
@@ -1653,8 +1645,8 @@ fips_code,name,reporting_entity_name,residential_rate,commercial_rate,industrial
 0240645,Knik-Fairview,Matanuska Electric Assn Inc,0.22,0.19,,2020
 0240645,Knik-Fairview,Matanuska Electric Assn Inc,0.21,0.19,,2021
 0240840,Kobuk,Alaska Village Electric Cooperative,0.39,0.87,,2011
-0240840,Kobuk,Alaska Village Electric Cooperative,0.36,0.87,,2012
 0240840,Kobuk,Alaska Village Electric Cooperative,0.23,0.86,,2012
+0240840,Kobuk,Alaska Village Electric Cooperative,0.36,0.87,,2012
 0240840,Kobuk,Alaska Village Electric Cooperative,0.21,0.72,,2013
 0240840,Kobuk,Alaska Village Electric Cooperative,0.22,0.81,,2014
 0240840,Kobuk,Alaska Village Electric Cooperative,0.22,0.76,,2015
@@ -1946,8 +1938,8 @@ fips_code,name,reporting_entity_name,residential_rate,commercial_rate,industrial
 0248200,Mendeltna,Copper Valley Elec Assn Inc,0.25,0.22,,2019
 0248200,Mendeltna,Copper Valley Elec Assn Inc,,,,2020
 0248200,Mendeltna,Copper Valley Elec Assn Inc,0.34,0.28,,2021
-0248540,Mentasta Lake,Alaska Power & Telephone Company,0.18,0.69,,2011
 0248540,Mentasta Lake,Alaska Power & Telephone Company,0.19,0.67,,2011
+0248540,Mentasta Lake,Alaska Power & Telephone Company,0.18,0.69,,2011
 0248540,Mentasta Lake,Alaska Power & Telephone Company,0.21,0.70,,2012
 0248540,Mentasta Lake,Alaska Power & Telephone Company,0.22,0.71,,2013
 0248540,Mentasta Lake,Alaska Power & Telephone Company,0.27,0.71,,2014
@@ -2474,6 +2466,7 @@ fips_code,name,reporting_entity_name,residential_rate,commercial_rate,industrial
 0260860,Pitkas Point,Alaska Village Electric Cooperative,0.24,,,2019
 0260860,Pitkas Point,Alaska Village Electric Cooperative,0.25,,,2020
 0260860,Pitkas Point,Alaska Village Electric Cooperative,0.26,,,2021
+0261080,Platinum,Platinum Commercial Company LLC.,0.95,0.95,,2017
 0261120,Pleasant Valley,Golden Valley Elec Assn Inc,0.22,0.21,0.17,2011
 0261120,Pleasant Valley,Golden Valley Elec Assn Inc,0.24,0.23,0.19,2012
 0261120,Pleasant Valley,Golden Valley Elec Assn Inc,0.23,0.21,0.17,2013
@@ -3223,28 +3216,28 @@ fips_code,name,reporting_entity_name,residential_rate,commercial_rate,industrial
 0279230,Tununak,Alaska Village Electric Cooperative,0.27,,,2019
 0279230,Tununak,Alaska Village Electric Cooperative,0.28,,,2020
 0279230,Tununak,Alaska Village Electric Cooperative,0.27,,,2021
-0279780,Twin Hills,Twin Hills Village Council,0.19,0.55,,2011
 0279780,Twin Hills,Alaska Village Electric Cooperative,0.21,0.52,,2011
+0279780,Twin Hills,Twin Hills Village Council,0.19,0.55,,2011
 0279780,Twin Hills,Alaska Village Electric Cooperative,0.21,0.57,,2012
 0279780,Twin Hills,Twin Hills Village Council,0.15,0.55,,2012
 0279780,Twin Hills,Alaska Village Electric Cooperative,0.20,0.55,,2013
 0279780,Twin Hills,Twin Hills Village Council,0.42,0.85,,2013
-0279780,Twin Hills,Twin Hills Village Council,0.65,1.00,,2014
 0279780,Twin Hills,Alaska Village Electric Cooperative,0.20,0.55,,2014
-0279780,Twin Hills,Twin Hills Village Council,0.60,0.94,,2015
+0279780,Twin Hills,Twin Hills Village Council,0.65,1.00,,2014
 0279780,Twin Hills,Alaska Village Electric Cooperative,0.22,0.56,,2015
+0279780,Twin Hills,Twin Hills Village Council,0.60,0.94,,2015
 0279780,Twin Hills,Alaska Village Electric Cooperative,0.23,0.53,,2016
 0279780,Twin Hills,Twin Hills Village Council,0.44,0.67,,2016
 0279780,Twin Hills,Alaska Village Electric Cooperative,0.24,,,2017
 0279780,Twin Hills,Twin Hills Village Council,0.25,0.51,,2017
-0279780,Twin Hills,Twin Hills Village Council,0.23,0.51,,2018
 0279780,Twin Hills,Alaska Village Electric Cooperative,0.25,,,2018
+0279780,Twin Hills,Twin Hills Village Council,0.23,0.51,,2018
 0279780,Twin Hills,Alaska Village Electric Cooperative,0.27,,,2019
 0279780,Twin Hills,Twin Hills Village Council,0.20,0.51,,2019
 0279780,Twin Hills,Alaska Village Electric Cooperative,0.28,,,2020
 0279780,Twin Hills,Twin Hills Village Council,0.20,0.50,,2020
-0279780,Twin Hills,Twin Hills Village Council,0.25,0.50,,2021
 0279780,Twin Hills,Alaska Village Electric Cooperative,0.27,,,2021
+0279780,Twin Hills,Twin Hills Village Council,0.25,0.50,,2021
 0279830,Two Rivers,Golden Valley Elec Assn Inc,0.22,0.21,0.17,2011
 0279830,Two Rivers,Golden Valley Elec Assn Inc,0.24,0.23,0.19,2012
 0279830,Two Rivers,Golden Valley Elec Assn Inc,0.23,0.21,0.17,2013
