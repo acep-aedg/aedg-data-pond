@@ -25,7 +25,7 @@ AEDG uses this list to define canonical community names since, as free text, the
  This is an ESRI Shapefile for use in GIS software that contains place data from the 2020 US Census for Alaska. The definition of places includes all incorporated cities as well as Census Designated Places (CDPs). Each geographic unit is identified using Federal Information Processing Standards (FIPS) numbers. Coordinate System: North American Datum 1983 Alaska Albers. Source: 2020 US Census, PL94-171 Redistricting File; 2020 US Census Tiger Shapefiles. Documentation of field names: https://live.laborstats.alaska.gov/cen/maps/gis/Places2020.pdf. The Alaska Department of Labor and Workforce Development has had a cooperative agreement with the U.S. Census Bureau since 1981 to assist with geographic programs and help Alaskans find Census Bureau data.
 AEDG uses this list to define canonical community locations to use in spatial joins and relations, to associate places with FIPS codes, and to establish total community population.
 
-* **Alaska Energy Statistics Electrical Generation Tables** (2024)
+* **Alaska Energy Statistics Monthly Generation Table** (2024)
   https://acep-uaf.github.io/ak-energy-statistics-2011_2021/
  The Alaska Energy Statistics is a long-running collection of data and reports about energy production, consumption, and related topics specific to the state of Alaska. The workbooks were developed to provide community and utility level datasets that support regional and statewide aggregations for use in the 2024 Alaska Electricity Trends Report. This is a continuation of a 40+ year effort to create and maintain high level views of the state’s energy profile that are useful for policy makers, businesses, researchers, and others interested in Alaska’s energy sector. Data are derived from community Power Cost Equalization reports collated by the Alaska Energy Authority and power plant reporting to the U.S. Energy Information Administration (EIA). These sources are supplemented by annual filings to the Regulatory Commission of Alaska (RCA), village and powerhouse assessments, and direct communications with utilities and hydro/wind program managers.
 Additional funding was contributed by Office of Naval Research (ONR) funded Alaska Regional Collaboration for Technology Innovation and Commercialization (ARCTIC) program, the Denali Commission, and the State of Alaska.
@@ -37,10 +37,13 @@ AEDG uses this dataset as the best available compilation of electrical generatio
 | :--- | :--- | :--- | :--- |
 | FIPS Code | string | None | 5-digit Federal Information Processing Series (FIPS) code identifier for places and boroughs (counties), assigned and maintained by the Census Bureau |
 | Community Name | string | None | Name of the community |
-| Service Area Net Generation (MWh) | number | MWh | Net generation of all plants within the service area |
-| Fuel Type | string | None | Generation fuel as defined by the U.S. Energy Information Administration (EIA) |
+| Alaska Energy Authority Plant ID | number | None |  |
+| Service Area Geometry ID | string | None | Unique identifier of service area polygon |
 | Year | integer | None | Four digit year as Common Era (CE) |
 | Month | integer | None | Month as 1-12 for which generation was reported |
+| Fuel Type | string | None | Generation fuel as defined by the U.S. Energy Information Administration (EIA) |
+| Service Area PCE Fuel Price | number | USD | Price of fuel paid by utility as reported to PCE program |
+| Service Area Generation (MWh) | number | MWh | Generation of all plants within the service area |
 
 ### Comments
 > **2024**: Pulled data from the original sources, the compiled, corrected, harmonized, transformed data into Excel Workbooks as annual datasets and as Financial and Generation timeseries.
@@ -51,7 +54,7 @@ AEDG uses this dataset as the best available compilation of electrical generatio
 > 3. Joined generation data with AEDG communities to create this dataset
 > 
 
-> **2026-01-12**: Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.
+> **2026-01-26**: Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.
 > 
 
 ## License

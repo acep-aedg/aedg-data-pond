@@ -15,7 +15,7 @@ To address the second issue, generation is summed over all the generators with d
 * **Reference Date:** 2024-02-29
 
 ### Sources
-* **Alaska Energy Statistics Electrical Generation Tables** (2024)
+* **Alaska Energy Statistics Monthly Generation Table** (2024)
   https://acep-uaf.github.io/ak-energy-statistics-2011_2021/
  The Alaska Energy Statistics is a long-running collection of data and reports about energy production, consumption, and related topics specific to the state of Alaska. The workbooks were developed to provide community and utility level datasets that support regional and statewide aggregations for use in the 2024 Alaska Electricity Trends Report. This is a continuation of a 40+ year effort to create and maintain high level views of the state’s energy profile that are useful for policy makers, businesses, researchers, and others interested in Alaska’s energy sector. Data are derived from community Power Cost Equalization reports collated by the Alaska Energy Authority and power plant reporting to the U.S. Energy Information Administration (EIA). These sources are supplemented by annual filings to the Regulatory Commission of Alaska (RCA), village and powerhouse assessments, and direct communications with utilities and hydro/wind program managers.
 Additional funding was contributed by Office of Naval Research (ONR) funded Alaska Regional Collaboration for Technology Innovation and Commercialization (ARCTIC) program, the Denali Commission, and the State of Alaska.
@@ -27,11 +27,16 @@ AEDG uses this dataset as the best available compilation of electrical generatio
 | :--- | :--- | :--- | :--- |
 | Alaska Energy Authority Plant ID | number | None |  |
 | Energy Information Administration Plant ID | number | None |  |
-| Net Generation (MWh) | number | MWh | Net electrical generation as Megawatt Hour aggregated by grid |
-| Fuel Type Code | string | None | Code indicating generation fuel as defined by the U.S. Energy Information Administration (EIA) |
-| Fuel Type | string | None | Generation fuel |
 | Year | integer | None | Four digit year as Common Era (CE) |
 | Month | integer | None | Month as 1-12 for which generation was reported |
+| Fuel Type Code | string | None | Code indicating generation fuel as defined by the U.S. Energy Information Administration (EIA) |
+| Fuel Type | string | None | Generation fuel |
+| PCE Fuel Price | number | USD | Price of fuel paid by utility as reported to PCE program |
+| Physical Unit Label | string | None | Units of the associated numeric column |
+| Quantity Consumed in Physical Units for Electric Generation | number | None | Numeric value of physical units consumed for electric generation |
+| Quantity Consumed for Electricity MMbtu | number | MMbtu | Quantity consumed for electric generation expressed in British thermal units |
+| Generation (MWh) | number | MWh | Electrical generation |
+| Source | string | None | Source of data |
 
 ### Comments
 > **2024**: Pulled data from the original sources, the compiled, corrected, harmonized, transformed data into Excel Workbooks as annual datasets and as Financial and Generation timeseries.
@@ -41,7 +46,7 @@ AEDG uses this dataset as the best available compilation of electrical generatio
 > 2. Extracted the monthly generation timeseries for each unique grid.
 > 
 
-> **2026-01-12**: Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.
+> **2026-01-26**: Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.
 > 
 
 ## License
