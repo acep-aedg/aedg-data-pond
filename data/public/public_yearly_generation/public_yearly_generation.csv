@@ -10079,7 +10079,15 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0260860,Pitkas Point,1912.159,Wind,2020
 0260860,Pitkas Point,3649.804,Distillate Fuel Oil,2021
 0260860,Pitkas Point,2060.478,Wind,2021
-0261080,Platinum,,,
+0261080,Platinum,91.580,Distillate Fuel Oil,2001
+0261080,Platinum,185.361,Distillate Fuel Oil,2002
+0261080,Platinum,172.101,Distillate Fuel Oil,2003
+0261080,Platinum,206.051,Distillate Fuel Oil,2004
+0261080,Platinum,164.457,Distillate Fuel Oil,2005
+0261080,Platinum,202.153,Distillate Fuel Oil,2006
+0261080,Platinum,201.690,Distillate Fuel Oil,2007
+0261080,Platinum,238.528,Distillate Fuel Oil,2008
+0261080,Platinum,62.513,Distillate Fuel Oil,2017
 0261120,Pleasant Valley,320199.883,Coal,2001
 0261120,Pleasant Valley,10180.000,Distillate Fuel Oil,2001
 0261120,Pleasant Valley,579967.000,Residual Fuel Oil,2001
@@ -12588,27 +12596,27 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0275480,Tazlina,12132.000,Distillate Fuel Oil,2021
 0275480,Tazlina,25547.000,Waste Oil,2021
 0275480,Tazlina,58733.000,Water at Hydroelectric Turbine,2021
-0275930,Teller,620.372,Distillate Fuel Oil,2001
-0275930,Teller,1930.980,Distillate Fuel Oil,2002
-0275930,Teller,1636.648,Distillate Fuel Oil,2003
-0275930,Teller,2111.010,Distillate Fuel Oil,2004
-0275930,Teller,1771.142,Distillate Fuel Oil,2005
-0275930,Teller,1694.268,Distillate Fuel Oil,2006
-0275930,Teller,1642.062,Distillate Fuel Oil,2007
-0275930,Teller,1752.452,Distillate Fuel Oil,2008
-0275930,Teller,1795.448,Distillate Fuel Oil,2009
-0275930,Teller,1824.580,Distillate Fuel Oil,2010
-0275930,Teller,1740.892,Distillate Fuel Oil,2011
-0275930,Teller,1714.064,Distillate Fuel Oil,2012
-0275930,Teller,1729.868,Distillate Fuel Oil,2013
-0275930,Teller,1665.958,Distillate Fuel Oil,2014
-0275930,Teller,1702.094,Distillate Fuel Oil,2015
-0275930,Teller,1732.108,Distillate Fuel Oil,2016
-0275930,Teller,1714.190,Distillate Fuel Oil,2017
-0275930,Teller,1771.042,Distillate Fuel Oil,2018
-0275930,Teller,1723.604,Distillate Fuel Oil,2019
-0275930,Teller,1669.316,Distillate Fuel Oil,2020
-0275930,Teller,1746.214,Distillate Fuel Oil,2021
+0275930,Teller,310.186,Distillate Fuel Oil,2001
+0275930,Teller,965.490,Distillate Fuel Oil,2002
+0275930,Teller,818.324,Distillate Fuel Oil,2003
+0275930,Teller,1055.505,Distillate Fuel Oil,2004
+0275930,Teller,885.571,Distillate Fuel Oil,2005
+0275930,Teller,847.134,Distillate Fuel Oil,2006
+0275930,Teller,821.031,Distillate Fuel Oil,2007
+0275930,Teller,876.226,Distillate Fuel Oil,2008
+0275930,Teller,897.724,Distillate Fuel Oil,2009
+0275930,Teller,912.290,Distillate Fuel Oil,2010
+0275930,Teller,870.446,Distillate Fuel Oil,2011
+0275930,Teller,857.032,Distillate Fuel Oil,2012
+0275930,Teller,864.934,Distillate Fuel Oil,2013
+0275930,Teller,832.979,Distillate Fuel Oil,2014
+0275930,Teller,851.047,Distillate Fuel Oil,2015
+0275930,Teller,866.054,Distillate Fuel Oil,2016
+0275930,Teller,857.095,Distillate Fuel Oil,2017
+0275930,Teller,885.521,Distillate Fuel Oil,2018
+0275930,Teller,861.802,Distillate Fuel Oil,2019
+0275930,Teller,834.658,Distillate Fuel Oil,2020
+0275930,Teller,873.107,Distillate Fuel Oil,2021
 0276260,Tenakee Springs,228.640,Distillate Fuel Oil,2001
 0276260,Tenakee Springs,451.080,Distillate Fuel Oil,2002
 0276260,Tenakee Springs,445.920,Distillate Fuel Oil,2003

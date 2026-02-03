@@ -540,6 +540,7 @@ fips_code,name,service_area_capacity_mw,fuel_type,year
 0260750,Pilot Station,1.5,Distillate Fuel Oil,2021
 0260860,Pitkas Point,0.9,Wind,2021
 0260860,Pitkas Point,4.6,Distillate Fuel Oil,2021
+0261080,Platinum,0.1,Distillate Fuel Oil,2021
 0261120,Pleasant Valley,0.6,Solar,2021
 0261120,Pleasant Valley,26.5,Wind,2021
 0261120,Pleasant Valley,40.0,Electricity used for Energy Storage,2021
@@ -680,7 +681,7 @@ fips_code,name,service_area_capacity_mw,fuel_type,year
 0275480,Tazlina,5.3,Waste Oil,2021
 0275480,Tazlina,17.8,Distillate Fuel Oil,2021
 0275480,Tazlina,18.5,Water at Hydroelectric Turbine,2021
-0275930,Teller,2.1,Distillate Fuel Oil,2021
+0275930,Teller,1.1,Distillate Fuel Oil,2021
 0276260,Tenakee Springs,0.2,Distillate Fuel Oil,2021
 0276260,Tenakee Springs,0.2,Water at Hydroelectric Turbine,2021
 0276590,Tetlin,5.2,Distillate Fuel Oil,2021
