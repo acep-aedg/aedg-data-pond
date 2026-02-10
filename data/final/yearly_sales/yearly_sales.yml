@@ -1,0 +1,53 @@
+resource:
+  name: yearly_sales
+  title: "Yearly Sales Revenue and Customers by Reporting Entity"
+  summary: | # Short version of the description to appear in data explorer list
+    Yearly sales, revenue, and customer data aggregated by reporting entity. 
+  description: | # Description of what this dataset is and what it is doing here
+    Yearly sales, revenue, and customer data aggregated by reporting entity.
+  path: "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/final/yearly_sales/yearly_sales.csv"
+  keywords: 
+    - sales
+    - revenue
+    - electricity
+    - Power Cost Equalization (PCE)
+    - EIA Form 923
+  topics: 
+    - Electricity
+  publisher: acep
+  sources:
+    - acep.es_monthly_sales
+  licenses: 
+    - CC-BY-4.0
+  spatial: 
+    name: Alaska
+    boundingBox: [-187.55, 51.21, -130.0, 71.35]
+    crs: OGC:CRS84
+  temporal: 
+    referenceDate: "2021"
+    timeseries:  
+      - start: "2001-01"
+        end: "2021-12"
+        resolutionValue: "1"
+        resolutionUnit: year
+        alignment: null
+        aggregationType: sum
+  primaryKey:
+    - reporting_entity_id
+    - year
+  contributors: # roles from https://datacite-metadata-schema.readthedocs.io/en/4.5/properties/contributor/#a-contributortype
+    - title: Neil McMahon
+      organization: acep
+      roles:
+        - DataCollector
+      date: 2024
+      object: data from the Alaska Energy Statistics Electrical Generation Tables
+      comment: |
+        Pulled data from the original sources, the compiled, corrected, harmonized, transformed data into Excel Workbooks as yearly datasets and as Financial and Generation timeseries. Additional corrections were applied to the yearly data.
+    - organization: acep
+      roles:
+        - DataCurator
+      date: 2025
+      object: data via https://github.com/acep-aedg/aedg-etl-2024
+      comment: |
+        1. Paxson Inn and Lodge is showing discrepencies between aggregated revenues and total_revenue in 2002, records were dropped.
