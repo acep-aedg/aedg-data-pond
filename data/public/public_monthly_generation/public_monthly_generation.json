@@ -9,7 +9,7 @@
             "@id": "",
             "name": "public_monthly_generation",
             "topics": [
-                "Electricity"
+                "Energy"
             ],
             "title": "Monthly Electrical Generation by Community",
             "path": "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/public/public_monthly_generation/public_monthly_generation.csv",
@@ -28,7 +28,7 @@
                 "EIA Form 923",
                 "community"
             ],
-            "publicationDate": "2026-01-26",
+            "publicationDate": "2026-02-10",
             "context": {
                 "title": "Alaska Energy Data Gateway v3.0",
                 "homepage": "https://akenergygateway.alaska.edu/",
@@ -139,7 +139,7 @@
                     "roles": [
                         "DataCurator"
                     ],
-                    "date": "2026-01-26",
+                    "date": "2026-02-10",
                     "object": "metadata via https://github.com/acep-aedg/aedg-metadata",
                     "comment": "Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.\n",
                     "path": "https://www.uaf.edu/acep/"

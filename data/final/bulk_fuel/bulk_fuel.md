@@ -60,7 +60,7 @@ AEDG uses this list to define canonical community names since, as free text, the
 > 2. Complied community names, locations, and FIPS identifiers for AEDG
 > 
 
-> **2026-01-12**: Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.
+> **2026-02-10**: Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.
 > 
 
 ## License

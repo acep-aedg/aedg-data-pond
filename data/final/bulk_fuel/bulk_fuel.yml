@@ -12,7 +12,7 @@ resource:
     - road
     - community
   topics: # 1-2 broad topics for display in AEDG (which not all datasets need?)
-    - Electricity
+    - Energy
     - Infrastructure
   publisher: acep
   sources:  # optional if this is original data and there are no other sources. Otherwise choose one:

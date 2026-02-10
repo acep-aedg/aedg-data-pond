@@ -9,7 +9,7 @@
             "@id": "",
             "name": "capacity",
             "topics": [
-                "Electricity"
+                "Energy"
             ],
             "title": "Yearly Electrical Generation Capacity by Grid",
             "path": "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/final/capacity/capacity.csv",
@@ -27,7 +27,7 @@
                 "Power Cost Equalization (PCE)",
                 "EIA Form 923"
             ],
-            "publicationDate": "2026-01-23",
+            "publicationDate": "2026-02-10",
             "context": {
                 "title": "Alaska Energy Data Gateway v3.0",
                 "homepage": "https://akenergygateway.alaska.edu/",
@@ -109,7 +109,7 @@
                     "roles": [
                         "DataCurator"
                     ],
-                    "date": "2026-01-23",
+                    "date": "2026-02-10",
                     "object": "metadata via https://github.com/acep-aedg/aedg-metadata",
                     "comment": "Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.\n",
                     "path": "https://www.uaf.edu/acep/"
