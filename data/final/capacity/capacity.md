@@ -40,7 +40,7 @@ AEDG uses this dataset as the best available compilation of electrical generatio
 > 2. Extracted a the most recent capacity figures for each unique grid.
 > 
 
-> **2026-01-23**: Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.
+> **2026-02-10**: Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.
 > 
 
 ## License

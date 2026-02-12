@@ -45,7 +45,7 @@ AEDG uses this dataset as the best available compilation of electrical generatio
 > 2. Extracted a yearly generation timeseries for each unique grid.
 > 
 
-> **2026-01-26**: Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.
+> **2026-02-10**: Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.
 > 
 
 ## License

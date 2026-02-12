@@ -19,7 +19,7 @@ resource:
     - EIA Form 923
     - community
   topics:
-    - Electricity
+    - Energy
   publisher: acep
   sources:
     - dcra.communities
