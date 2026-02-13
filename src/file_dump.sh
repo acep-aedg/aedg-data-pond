@@ -58,6 +58,7 @@ export_to_csv "final" "household_income" "l2_household_income"
 export_to_csv "final" "income_poverty" "l2_income_poverty"
 export_to_csv "final" "heating_degree_days" "l2_heating_degree_days"
 export_to_csv "final" "communities_reporting_entities" "communities_reporting_entities"
+export_to_csv "final" "infrastructure" "l2_es_infrastructure"
 
 export_to_csv "intermediate" "lookup_rca_electric_certificates" "lookup_rca_electric_certificates"
 

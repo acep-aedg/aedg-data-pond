@@ -1,0 +1,1133 @@
+aea_plant_id,eia_plant_code,generator_id,status,data_source_year,engine_make,engine_model,technology,prime_mover,name_of_water_source,ownership,nameplate_capacity_mw,storage_capacity_mw,nameplate_power_factor,summer_capacity_mw,winter_capacity_mw,minimum_load_mw,uprate_or_derate_completed,month_uprate_or_derate_completed,year_uprate_or_derate_completed,syncronized_to_transmission_grid,operating_month,operating_year,planned_or_actual_retirement_month,planned_or_actual_retirement_year,associated_with_combined_heat_and_power_system,sector_name,sector,energy_source_1,energy_source_2,startup_source_1,startup_source_2,turbines_or_hydrokinetic_bouys,startup_time_minutes,multiple_fuels,cofire_fuels,switch_between_oil_and_natural_gas,notes,source
+1,54452,644A,RE,2021,,,Natural Gas Internal Combustion Engine,IC,,S,1.3,,,1.3,1.3,,,,,f,9,1968,12,2001,f,Industrial CHP,7,NG,,,,,,f,f,f,,EIA860
+1,54452,644B,RE,2021,,,Natural Gas Internal Combustion Engine,IC,,S,1.3,,,1.3,1.3,,,,,f,9,1968,12,2001,f,Industrial CHP,7,NG,,,,,,f,f,f,,EIA860
+1,54452,644C,RE,2021,,,Natural Gas Internal Combustion Engine,IC,,S,1.3,,,1.3,1.3,,,,,f,9,1968,12,2001,f,Industrial CHP,7,NG,,,,,,f,f,f,,EIA860
+1,54452,644D,RE,2021,,,Natural Gas Internal Combustion Engine,IC,,S,1.3,,,1.3,1.3,,,,,f,9,1968,12,2001,f,Industrial CHP,7,NG,,,,,,f,,,,EIA860
+1,54452,644E,RE,2021,,,Natural Gas Internal Combustion Engine,IC,,S,1.3,,,1.3,1.3,,,,,f,9,1968,12,2001,f,Industrial CHP,7,NG,,,,,,f,,,,EIA860
+1,54452,644F,RE,2021,,,Natural Gas Internal Combustion Engine,IC,,S,1.3,,,1.3,1.3,,,,,f,9,1968,12,2001,f,Industrial CHP,7,NG,,,,,,f,,,,EIA860
+1,54452,644G,RE,2021,,,Natural Gas Internal Combustion Engine,IC,,S,1.3,,,1.3,1.3,,,,,f,9,1968,12,2001,f,Industrial CHP,7,NG,,,,,,f,,,,EIA860
+1,54452,744A,OS,2021,,,Natural Gas Fired Combustion Turbine,GT,,S,2.5,,0.9,2.5,2.5,0.1,f,,,f,10,1977,,,t,Industrial CHP,7,NG,,,,,60,f,f,f,,EIA860
+1,54452,744B,OS,2021,,,Natural Gas Fired Combustion Turbine,GT,,S,2.5,,0.9,2.5,2.5,0.1,f,,,f,10,1977,,,t,Industrial CHP,7,NG,,,,,60,f,f,f,,EIA860
+1,54452,744C,OS,2021,,,Natural Gas Fired Combustion Turbine,GT,,S,2.5,,0.9,2.5,2.5,0.1,f,,,f,10,1977,,,t,Industrial CHP,7,NG,,,,,60,f,f,f,,EIA860
+1,54452,744D,OS,2021,,,Natural Gas Fired Combustion Turbine,GT,,S,2.5,,0.9,2.5,2.5,0.1,f,,,f,10,1977,,,t,Industrial CHP,7,NG,,,,,60,f,f,f,,EIA860
+1,54452,744E,OS,2021,,,Natural Gas Fired Combustion Turbine,GT,,S,2.5,,0.9,2.5,2.5,0.1,f,,,f,10,1977,,,t,Industrial CHP,7,NG,,,,,60,f,f,f,,EIA860
+2,,1,OP,2021,John Deere ,4045AFM85,Internal Combustion Engine,IC,,,0.125,,,,,,,,,,10,2020,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+2,,2,OP,2021,John Deere ,4045AFM85,Internal Combustion Engine,IC,,,0.125,,,,,,,,,,10,2020,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+2,,3,OP,2021,John Deere ,4045TFM85,Internal Combustion Engine,IC,,,0.09,,,,,,,,,,10,2020,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+3,,1,OP,2021,Caterpillar ,3456,Internal Combustion Engine,IC,,,0.5,,,,,,,,,,10,2020,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+3,,2,OS,2021,Caterpillar,3456 Arrangement #247-4789,Internal Combustion Engine,IC,,,0.5,,,,,,,,,,9,2008,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+3,,3,OP,2021,Caterpillar ,C9D1 arrangement #242-3455,Internal Combustion Engine,IC,,,0.25,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+3,,4,OP,2021,Caterpillar,C9D1,Internal Combustion Engine,IC,,,0.25,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+4,,1,OP,2021,John Deere ,6090AFM75,Internal Combustion Engine,IC,,,0.23,,,,,,,,,,9,2012,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+4,,2,OS,2021,John Deere ,6090AFM75,Internal Combustion Engine,IC,,,0.23,,,,,,,,,,9,2013,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+4,,3,OP,2021,John Deere ,6090AFM75,Internal Combustion Engine,IC,,,0.23,,,,,,,,,,9,2012,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+4,,4,OP,2021,John Deere ,6090AFM75,Internal Combustion Engine,IC,,,0.23,,,,,,,,,,9,2020,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+5,,1,OP,2021,John Deere,6068AFM75,Internal Combustion Engine,IC,,,0.15,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+5,,2,OP,2021,John Deere,6068AFM75,Internal Combustion Engine,IC,,,0.15,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+5,,3,OP,2021,John Deere,6068TFM76,Internal Combustion Engine,IC,,,0.1,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+5,,,OP,,,,Conventional Hydroelectric,HY,Town Creek,,0.105,,,,,,,1,2015,,,1990,,,,Electric Utility,1,WAT,,,,0,,,,,,AEA
+6,62,5,OP,2021,,,Conventional Hydroelectric,HY,,S,1.8,,0.8,1.8,1.8,0.1,f,,,f,12,1915,,,f,Electric Utility,1,WAT,,,,,10,f,,,,EIA860
+6,62,6,OP,2021,,,Conventional Hydroelectric,HY,,S,2.2,,0.8,1.8,1.8,0.1,f,,,f,12,1915,,,f,Electric Utility,1,WAT,,,,,10,f,,,,EIA860
+7,7250,13,SB,2021,,,Petroleum Liquids,GT,,S,2.8,,0.8,2.8,2.8,0.5,f,,,t,8,1993,,,f,Electric Utility,1,DFO,,,,,60,f,f,f,,EIA860
+7,7250,14,SB,2021,,,Petroleum Liquids,GT,,S,30.9,,0.85,23,23,9,f,,,t,12,1994,,,f,Electric Utility,1,DFO,,,,,60,f,f,f,,EIA860
+7,7250,4,SB,2021,,,Petroleum Liquids,IC,,S,2.5,,0.8,2.5,2.5,0.5,f,,,t,9,1980,,,f,Electric Utility,1,DFO,,,,,10,f,f,f,,EIA860
+8,63,1,OP,2021,,,Conventional Hydroelectric,HY,,S,0.8,,0.8,0.8,0.8,0.1,f,,,f,9,1951,,,f,Electric Utility,1,WAT,,,,,60,f,,,,EIA860
+8,63,2,OP,2021,,,Conventional Hydroelectric,HY,,S,0.4,,0.8,0.4,0.4,0.1,f,,,f,11,1914,,,f,Electric Utility,1,WAT,,,,,60,f,,,,EIA860
+8,63,3,OP,2021,,,Conventional Hydroelectric,HY,,S,0.4,,0.8,0.4,0.4,0.1,f,,,f,11,1914,,,f,Electric Utility,1,WAT,,,,,60,f,,,,EIA860
+8,63,IC1,SB,2021,,,Petroleum Liquids,IC,,S,1.2,,0.8,1.2,1.2,0.3,f,,,t,6,1952,,,f,Electric Utility,1,DFO,,,,,60,f,f,f,,EIA860
+8,63,IC2,SB,2021,,,Petroleum Liquids,IC,,S,1.2,,0.8,1.2,1.2,0.3,f,,,t,8,1954,,,f,Electric Utility,1,DFO,,,,,60,f,f,f,,EIA860
+8,63,IC3,SB,2021,,,Petroleum Liquids,IC,,S,1.1,,0.8,1.1,1.1,0.3,f,,,t,8,1961,,,f,Electric Utility,1,DFO,,,,,60,f,f,f,,EIA860
+8,63,IC4,SB,2021,,,Petroleum Liquids,IC,,S,3.5,,0.8,3.5,3.5,2,f,,,t,9,1963,,,f,Electric Utility,1,DFO,,,,,60,f,f,f,,EIA860
+8,63,IC5,SB,2021,,,Petroleum Liquids,IC,,S,1.1,,0.8,1.1,1.1,0.3,f,,,t,10,1966,,,f,Electric Utility,1,DFO,,,,,60,f,f,f,,EIA860
+9,59793,15,OP,2021,,,Petroleum Liquids,GT,,S,41.7,,0.85,23.5,23.5,2,f,,,f,11,2016,,,f,Electric Utility,1,DFO,,,,,60,f,f,f,,EIA860
+10,57085,1,OP,2021,,,Conventional Hydroelectric,HY,,S,14.3,,0.75,14.3,14.3,1,f,,,f,9,2009,,,f,Electric Utility,1,WAT,,,,,10,f,,,,EIA860
+11,64,1,SB,2021,,,Petroleum Liquids,IC,,S,2.5,,0.8,2.5,2.5,0.5,f,,,t,8,1969,,,f,Electric Utility,1,DFO,,,,,10,f,f,f,,EIA860
+11,64,2,SB,2021,,,Petroleum Liquids,IC,,S,2.6,,0.8,2.5,2.5,0.5,f,,,t,9,1969,,,f,Electric Utility,1,DFO,,,,,10,f,,f,,EIA860
+11,64,3,SB,2021,,,Petroleum Liquids,IC,,S,2.6,,0.8,2.5,2.5,0.5,f,,,t,9,1974,,,f,Electric Utility,1,DFO,,,,,10,f,f,f,,EIA860
+11,64,5,SB,2021,,,Petroleum Liquids,GT,,S,18.6,,0.85,17.5,17.5,4,f,,,t,9,1980,,,f,Electric Utility,1,DFO,,,,,60,f,f,f,,EIA860
+11,64,6,SB,2021,,,Petroleum Liquids,GT,,S,18.6,,0.85,17.5,17.5,4,f,,,t,8,1983,,,f,Electric Utility,1,DFO,,,,,60,f,f,f,,EIA860
+11,64,7,SB,2021,,,Petroleum Liquids,IC,,S,2.8,,0.8,2.5,2.5,0.5,f,,,t,8,1983,,,f,Electric Utility,1,DFO,,,,,10,f,f,f,,EIA860
+11,64,IC10,SB,2021,,,Petroleum Liquids,IC,,S,2.8,,0.8,2.5,2.5,0.5,f,,,t,9,1984,,,f,Electric Utility,1,DFO,,,,,10,f,f,f,,EIA860
+11,64,IC11,SB,2021,,,Petroleum Liquids,IC,,S,2.8,,0.8,2.5,2.5,0.5,f,,,t,9,1984,,,f,Electric Utility,1,DFO,,,,,10,f,f,f,,EIA860
+11,64,IC12,SB,2021,,,Petroleum Liquids,IC,,S,2.8,,0.8,2.5,2.5,0.5,f,,,t,9,1984,,,f,Electric Utility,1,DFO,,,,,10,f,f,f,,EIA860
+11,64,IC8,SB,2021,,,Petroleum Liquids,IC,,S,2.8,,0.8,2.5,2.5,0.5,f,,,t,8,1985,,,f,Electric Utility,1,DFO,,,,,10,f,f,f,,EIA860
+11,64,IC9,SB,2021,,,Petroleum Liquids,IC,,S,2.8,,0.8,2.5,2.5,0.5,f,,,t,8,1985,,,f,Electric Utility,1,DFO,,,,,10,f,f,f,,EIA860
+12,65,HY7,OP,2021,,,Conventional Hydroelectric,HY,Salmon Creek,S,8.5,,0.8,5.2,5.2,0.5,f,12,1984,f,,1913,,,f,Electric Utility,1,WAT,,,,,10,f,,,,EIA860
+13,78,1,OP,2021,,,Conventional Hydroelectric,HY,,W,23.6,,0.9,23.5,23.5,2,f,,,f,11,1973,,,f,Electric Utility,1,WAT,,,,,10,f,,,,EIA860
+13,78,2,OP,2021,,,Conventional Hydroelectric,HY,,W,23.6,,0.9,23.5,23.5,2,f,,,f,11,1973,,,f,Electric Utility,1,WAT,,,,,10,f,,,,EIA860
+13,78,3,OP,2021,,,Conventional Hydroelectric,HY,,W,31,,0.9,31,31,3,f,,,f,12,1990,,,f,Electric Utility,1,WAT,,,,,10,f,,,,EIA860
+14,58511,EWT1,OP,2021,,,Onshore Wind Turbine,WT,,S,0.9,,,0.9,0.9,0,f,,,f,10,2009,,,f,IPP Non-CHP,2,WND,,,,1,,,,,,EIA860
+14,58511,EWT2,OP,2021,,,Onshore Wind Turbine,WT,,S,0.9,,,0.9,0.9,0,f,,,f,9,2013,,,f,IPP Non-CHP,2,WND,,,,1,,,,,,EIA860
+14,58511,NW1,OP,2021,,,Onshore Wind Turbine,WT,,S,0.1,,,0.1,0.1,0,f,,,f,9,2008,,,f,IPP Non-CHP,2,WND,,,,1,,,,,,EIA860
+15,7752,1,OP,2021,,,Conventional Hydroelectric,HY,,S,4.5,,0.8,4.5,4.5,1.8,f,,,f,3,1995,,,f,Electric Utility,1,WAT,,,,,60,f,,,,EIA860
+16,7751,1,OP,2021,,,Conventional Hydroelectric,HY,,S,4,,0.8,4,4,1.6,f,,,f,12,1997,,,f,Electric Utility,1,WAT,,,,,60,,,,,EIA860
+17,56542,1,OP,2021,,,Conventional Hydroelectric,HY,,S,3,,0.8,3,3,1.2,f,,,f,10,2008,,,f,Electric Utility,1,WAT,,,,,60,f,,,,EIA860
+18,56265,1,OP,2021,,,Conventional Hydroelectric,HY,,S,2,,0.8,1.9,1.8,0.8,f,,,f,12,2005,,,f,Electric Utility,1,WAT,,,,,60,f,,,,EIA860
+19,56147,1,OS,2021,,,Petroleum Liquids,IC,,S,1,,0.8,1,1,0.4,f,,,f,2,2003,,,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+20,421,1,OP,2021,Caterpillar ,3516,Internal Combustion Engine,IC,,,1.285,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+20,421,2,OP,2021,Caterpillar ,3516A,Internal Combustion Engine,IC,,,1.3,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+20,421,3,OP,2021,Caterpillar ,3516A,Internal Combustion Engine,IC,,,1.18,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+20,421,3A,RE,2021,,,Petroleum Liquids,IC,,S,1.6,,0.8,1.6,1.6,0.6,f,,,f,8,1991,7,2015,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+20,421,4,OP,2021,Caterpillar ,3516A,Internal Combustion Engine,IC,,,1.75,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+21,56146,1,OP,2021,,,Petroleum Liquids,IC,,S,1.3,,0.8,1.3,1.3,0.5,f,,,f,11,2003,,,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+21,56146,3,RE,2021,,,Petroleum Liquids,IC,,S,0.3,,,0.3,0.3,,f,,,f,9,1983,9,2007,f,Electric Utility,1,DFO,,,,,10,,,,,EIA860
+22,69,1,OP,2021,John Deere ,6125HF001,Internal Combustion Engine,IC,,,0.298,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+22,69,10,OP,2021,,,Internal Combustion Engine,IC,,S,1.2,,0.8,1.2,1.2,0.5,f,,,f,5,1991,,,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+22,69,11,OP,2021,,,Internal Combustion Engine,IC,,S,1.9,,0.8,1.9,1.9,0.7,f,,,f,1,2006,,,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+22,69,12,OP,2021,,,Internal Combustion Engine,IC,,S,1.5,,0.8,1.5,1.5,0.6,f,,,f,1,2021,,,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+22,69,2,OP,2021,John Deere ,6081TF001,Internal Combustion Engine,IC,,,0.122,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+22,69,5,OS,2021,,,Internal Combustion Engine,IC,,S,0.6,,0.8,0.6,0.6,0.2,f,,,f,6,1968,,,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+22,69,7A,OP,2021,,,Internal Combustion Engine,IC,,S,2.8,,0.8,2.8,2.8,1.1,f,,,f,12,1995,,,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+22,69,9,RE,2021,,,Internal Combustion Engine,IC,,S,1.1,,,1.1,1.1,,f,,,f,12,1989,6,2004,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+22,69,IC8A,OP,2021,,,Internal Combustion Engine,IC,,S,1.6,,0.8,1.6,1.6,0.6,f,,,f,10,1996,,,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+23,423,1,OP,2021,Caterpillar ,3508,Internal Combustion Engine,IC,,,0.8,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+23,423,2,OP,2021,Caterpillar ,3412,Internal Combustion Engine,IC,,,0.33,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+23,423,3,OP,2021,Caterpillar ,D353,Internal Combustion Engine,IC,,,0.315,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+24,61684,1,OP,2021,,,Petroleum Liquids,IC,,S,2.5,,0.95,2.5,2.5,0.1,f,,,f,9,2017,,,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+25,7169,1,OP,2021,Caterpillar ,3412,Internal Combustion Engine,IC,,,0.424,,,,,,,,,,8,1996,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+25,7169,2,OP,2021,Caterpillar ,3456,Internal Combustion Engine,IC,,,0.275,,,,,,,,,,11,2006,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+25,7169,3,OP,2021,Caterpillar ,3456,Internal Combustion Engine,IC,,,0.4,,,,,,,,,,1,2007,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+25,7169,4,RE,2021,,,Petroleum Liquids,IC,,S,0.4,,,0.3,0.3,,f,,,f,1,1980,9,2001,f,Electric Utility,1,DFO,,,,,,f,,,,EIA860
+26,66,1,OP,2021,Caterpillar ,3512 STD,Internal Combustion Engine,IC,,,0.855,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+26,66,1,OP,2021,,,Conventional Hydroelectric,HY,,S,0.4,,0.8,0.4,0.4,0,f,,,f,7,1957,,,f,Electric Utility,1,WAT,,,,,60,f,,,,EIA860
+26,66,2,OP,2021,Caterpillar ,3516,Internal Combustion Engine,IC,,,1.1,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+26,66,2,OP,2021,,,Conventional Hydroelectric,HY,,S,0.1,,0.8,0.1,0.1,0,f,,,f,7,1909,,,f,Electric Utility,1,WAT,,,,,60,f,,,,EIA860
+26,66,3,OS,2021,Cummins ,K1A38/62,Internal Combustion Engine,IC,,,0.5,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+26,66,3,OP,2021,,,Conventional Hydroelectric,HY,,S,0.3,,0.8,0.3,0.3,0,f,,,f,7,1981,,,f,Electric Utility,1,WAT,,,,,60,f,,,,EIA860
+26,66,4,OP,2021,Caterpillar ,3516,Internal Combustion Engine,IC,,,0.93,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+26,66,4,OP,2021,,,Conventional Hydroelectric,HY,,S,0.2,,0.8,0.2,0.2,0,f,,,f,7,1987,,,f,Electric Utility,1,WAT,,,,,60,f,,,,EIA860
+27,61685,1,OP,2021,Detroit diesel ,6063TK35 spec A343448,Internal Combustion Engine,IC,,,0.372,,,,,,,,,,1,2017,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+27,61685,2,OP,2021,Detroit Diesel,"WddxL12.7TGD 60, 12.7L",Internal Combustion Engine,IC,,,0.35,,,,,,,,,,1,2017,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+27,61685,3,OP,2021,Detroit Diesel ,"WEDXL12.7TGD. 60, 12.7L",Internal Combustion Engine,IC,,,0.35,,,,,,,,,,1,2017,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+27,61685,3,RE,2021,,,Petroleum Liquids,IC,,S,0.4,,0.95,0.4,0.4,0.1,f,,,f,1,2016,1,2021,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+28,7414,2,OP,2021,,,Petroleum Liquids,IC,,S,0.6,,0.8,0.6,0.6,0.2,f,,,f,8,1993,,,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+28,7414,4,OP,2021,,,Petroleum Liquids,IC,,S,0.4,,0.8,0.4,0.4,0.2,f,,,f,1,1996,,,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+29,406,1,OP,2021,Caterpillar ,3516,Internal Combustion Engine,IC,,,1.3,,,,,,,,,,6,1999,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+29,406,2,OP,2021,Caterpillar ,3516,Internal Combustion Engine,IC,,,1.1,,,,,,,,,,6,1989,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+29,406,3,OP,2021,Caterpillar ,3516,Internal Combustion Engine,IC,,,1.18,,,,,,,,,,6,1996,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+29,406,4,OP,2021,Caterpillar ,3508,Internal Combustion Engine,IC,,,1.03,,,,,,,,,,6,2017,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+29,406,5,OS,2021,Caterpillar ,3512C,Internal Combustion Engine,IC,,,0.6,,,,,,,,,,6,2016,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+31,7176,1,OP,2021,Cummins,LTA10-G,Internal Combustion Engine,IC,,,0.1,,,,,,,,,,6,2008,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+31,7176,2,OP,2021,Caterpillar ,3406,Internal Combustion Engine,IC,,,0.3,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+31,7176,3,OP,2021,John Deere ,6081AF001,Internal Combustion Engine,IC,,,0.2,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+33,7342,1,OS,2021,Caterpillar ,3412,Internal Combustion Engine,IC,,,0,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+33,7342,2,OP,2021,Caterpillar ,3412,Internal Combustion Engine,IC,,,0.3,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+33,7342,3,OP,2021,Caterpillar ,3412,Internal Combustion Engine,IC,,,0.4,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+34,7375,1,OP,2021,Cummins,L10A10-C,Internal Combustion Engine,IC,,,0.175,,,,,,,,,,8,2020,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+34,7375,2,OP,2021,John Deere,6101AF010,Internal Combustion Engine,IC,,,0.18,,,,,,,,,,8,1997,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+34,7375,3,OP,2021,Cummins ,L10A10-G,Internal Combustion Engine,IC,,,0.175,,,,,,,,,,8,2016,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+34,7375,,OP,,,,Solar PV,PV,,,0.024,,,,,,,,,,7,2015,,,,Electric Utility,1,SUN,,,,0,,,,,,AEA
+34,7375,,RE,,,,Hydrokinetic,HA,Yukon River,,0.025,,,,,,,,,,6,2010,8,2010,,Electric Utility,1,WAT,,,,,,,,,Retirement date estimated,
+35,,1,OP,2021,,,Petroleum Liquids,IC,,S,0.4,,0.8,0.4,0.4,0.1,f,,,f,12,2008,,,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+35,,2,OP,2021,,,Petroleum Liquids,IC,,S,0.4,,0.8,0.4,0.4,0.1,f,,,f,12,2008,,,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+35,,3,OP,2021,,,Petroleum Liquids,IC,,S,0.1,,0.8,0.1,0.1,0,f,,,f,12,2008,,,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+35,,4,OP,2021,,,Petroleum Liquids,IC,,S,0.5,,0.8,0.5,0.5,0.2,f,,,f,3,2021,,,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+35,,,OP,,,,Conventional Hydroelectric,HY,Falls Creek,,0.8,,,,,,,,,,7,2009,,,,Electric Utility,1,WAT,,,,0,,,,,,
+36,7506,1,OP,2021,Kubota,V2003,Internal Combustion Engine,IC,,,0.051,,,,,,,,,,6,2017,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+36,7506,2,OP,2021,John Deere,4039TF001,Internal Combustion Engine,IC,,,0.05,,,,,,,,,,6,2018,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+37,7249,1,OP,2021,Caterpillar ,3412,Internal Combustion Engine,IC,,,0,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+40,7753,1,OP,2021,John Deere,4045HF285,Internal Combustion Engine,IC,,,0.112,,,,,,,,,,5,2020,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+40,7753,2,OP,2021,John Deere,6068HFG85,Internal Combustion Engine,IC,,,0.25,,,,,,,,,,5,2020,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+40,7753,3,OP,2021,John Deere,6068HFG85,Internal Combustion Engine,IC,,,0.25,,,,,,,,,,5,2020,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+41,,,OP,,,,Conventional Hydroelectric,HY,Dewey Creek,,0.943,,,,,,,,,,,1909,,,,Electric Utility,1,WAT,,,,0,,,,,,AEA
+42,,1,OP,2021,Caterpillar ,3512,Internal Combustion Engine,IC,,,1.5,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+42,,,OP,,,,Conventional Hydroelectric,HY,,,0.285,,,,,,,,,,,2002,,,,Electric Utility,1,WAT,,,,0,,,,,,AEA
+43,7792,1,OP,2021,John Deere,6081AF001,Internal Combustion Engine,IC,,,0.14,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+43,7792,2,OP,2021,John Deere,6081AF001,Internal Combustion Engine,IC,,,0.18,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+45,6308,UNIT1,RE,2021,,,Petroleum Liquids,IC,,S,0.4,,0.9,0.4,0.4,0.1,,,,f,1,2008,8,2016,t,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+45,6308,UNIT2,RE,2021,,,Petroleum Liquids,IC,,S,0.5,,0.9,0.5,0.5,0.1,,,,f,12,1999,8,2016,t,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+45,6308,UNIT3,RE,2021,,,Petroleum Liquids,IC,,S,0.4,,0.9,0.4,0.4,0.1,,,,f,10,1993,8,2016,t,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+45,6308,UNIT4,SB,2021,,,Petroleum Liquids,IC,,S,0.8,,0.9,0.8,0.8,0.2,f,,,t,8,2013,,,t,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+46,6556,1,RE,2021,,,Petroleum Liquids,IC,,S,0.4,,0.9,0.4,0.4,0.1,f,,,f,9,1998,8,2020,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+46,6556,1A,OP,2021,,,Petroleum Liquids,IC,,S,0.4,,0.9,0.4,0.4,0.1,f,,,f,8,2020,,,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+46,6556,2,OP,2021,,,Petroleum Liquids,IC,,S,0.3,,0.9,0.3,0.3,0.1,f,,,f,8,1993,,,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+46,6556,3,OP,2021,,,Petroleum Liquids,IC,,S,0.4,,0.9,0.4,0.4,0.1,f,,,f,12,1990,,,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+47,6566,1,OP,2021,,,Petroleum Liquids,IC,,S,2.1,,0.85,2.1,2.1,1.4,f,,,f,11,1976,,,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+47,6566,2,OP,2021,,,Petroleum Liquids,IC,,S,2.1,,0.85,2.1,2.1,1.4,f,,,f,11,1976,,,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+47,6566,3,OP,2021,,,Petroleum Liquids,IC,,S,2.1,,0.85,2.1,2.1,1.4,f,,,f,11,1976,,,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+47,6566,4,OP,2021,,,Petroleum Liquids,IC,,S,2.1,,0.85,2.1,2.1,1.4,f,,,f,11,1976,,,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+47,6566,6,OP,2021,,,Petroleum Liquids,IC,,S,2.1,,0.85,2.1,2.1,1.4,f,,,f,4,1989,,,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+47,6566,7,OP,2021,,,Petroleum Liquids,IC,,S,2.1,,0.85,2.1,2.1,1.4,f,,,f,12,1992,,,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+47,6566,,OP,,,,Onshore Wind Turbine,WT,,,0.9,,,,,,,,,,12,2018,,,,Electric Utility,1,WND,,,,1,,,,,,AEA
+48,7374,1,OP,2021,,,Petroleum Liquids,IC,,S,0.2,,0.9,0.2,0.2,0.1,f,,,f,6,2010,,,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+48,7374,2,OP,2021,,,Petroleum Liquids,IC,,S,0.4,,0.9,0.4,0.4,0.1,f,,,f,6,2010,,,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+48,7374,3,RE,2021,,,Petroleum Liquids,IC,,S,0.5,,0.9,0.5,0.5,0.1,,,,f,6,2010,1,2018,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+48,7374,3A,OP,2021,,,Petroleum Liquids,IC,,S,0.4,,0.9,0.4,0.4,0.1,f,,,f,1,2018,,,f,Electric Utility,1,DFO,,,,,10,f,f,f,,EIA860
+49,6311,1,RE,2021,,,Petroleum Liquids,IC,,S,0.4,,,0.4,0.4,,,,,f,10,1977,10,2009,f,Electric Utility,1,DFO,,,,,,f,,,,EIA860
+49,6311,1A,OP,2021,,,Petroleum Liquids,IC,,S,0.5,,0.9,0.5,0.5,0.1,f,,,f,10,2009,,,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+49,6311,2,RE,2021,,,Petroleum Liquids,IC,,S,0.3,,,0.3,0.3,,,,,f,11,1976,10,2009,f,Electric Utility,1,DFO,,,,,,f,,,,EIA860
+49,6311,2A,OP,2021,,,Petroleum Liquids,IC,,S,0.5,,0.9,0.5,0.5,0.1,f,,,f,10,2009,,,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+49,6311,3,RE,2021,,,Petroleum Liquids,IC,,S,0.3,,,0.3,0.3,,,,,f,12,1979,10,2009,f,Electric Utility,1,DFO,,,,,,f,,,,EIA860
+49,6311,3A,OP,2021,,,Petroleum Liquids,IC,,S,0.8,,0.9,0.8,0.8,0.1,f,,,f,10,2009,,,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+49,6311,,OP,,,,Onshore Wind Turbine,WT,,,0.4,,,,,,,,,,12,2010,,,,Electric Utility,1,WND,,,,4,,,,,,AEA
+50,6313,1,OP,2021,Detroit Diesel ,6063TK35,Internal Combustion Engine,IC,,,0.325,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+50,6313,2,OP,2021,Detroit Diesel ,6063TK35,Internal Combustion Engine,IC,,,0.325,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+50,6313,3,OP,2021,Cummins,QSX15-G9 NR2,Internal Combustion Engine,IC,,,0.66,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+50,6313,UNIT3,RE,2021,,,Petroleum Liquids,IC,,S,1,,0.9,0.5,0.5,0.1,,,,f,6,2003,6,2019,t,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+51,6314,2,RE,2021,,,Petroleum Liquids,IC,,S,0.3,,,0.3,0.3,,,,,f,12,1977,8,2011,f,Electric Utility,1,DFO,,,,,,f,,,,EIA860
+51,6314,2A,OP,2021,,,Petroleum Liquids,IC,,S,0.5,,0.9,0.5,0.5,0.1,f,,,f,10,2012,,,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+51,6314,4,RE,2021,,,Petroleum Liquids,IC,,S,0.3,,,0.3,0.3,,,,,f,12,1980,4,2005,f,Electric Utility,1,DFO,,,,,,f,,,,EIA860
+51,6314,4a,OP,2021,,,Petroleum Liquids,IC,,S,0.5,,0.9,0.5,0.5,0.1,f,,,f,4,2005,,,f,Electric Utility,1,DFO,,,,,10,f,,f,,EIA860
+51,6314,5,RE,2021,,,Petroleum Liquids,IC,,S,0.5,,,0.5,0.5,,,,,f,3,1988,4,2005,f,Electric Utility,1,DFO,,,,,,f,,f,,EIA860
+51,6314,5B,OP,2021,,,Petroleum Liquids,IC,,S,1.3,,0.9,1.3,1.3,0.3,f,,,f,6,2016,,,f,Electric Utility,1,DFO,,,,,10,f,,f,,EIA860
+51,6314,5a,RE,2021,,,Petroleum Liquids,IC,,S,0.5,,0.9,0.5,0.5,0.1,,,,f,4,2005,6,2016,f,Electric Utility,1,DFO,,,,,10,f,,f,,EIA860
+51,6314,6,OP,2021,,,Petroleum Liquids,IC,,S,0.9,,0.9,0.9,0.9,0.2,f,,,f,4,1995,,,f,Electric Utility,1,DFO,,,,,10,f,,f,,EIA860
+51,6314,,OP,,,,Onshore Wind Turbine,WT,,,0.4,,,,,,,,,,10,2011,,,,Electric Utility,1,WND,,,,4,,,,,,AEA
+52,6315,1,OS,2021,Cummins,QSX15-G9,Internal Combustion Engine,IC,,,0.6,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+52,6315,2,OP,2021,Cummins,QSX15-G9 NR2,Internal Combustion Engine,IC,,,0.6,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+52,6315,3,OP,2021,Detroit Diesel ,Series 2000,Internal Combustion Engine,IC,,,0.75,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+52,6315,UNIT1,RE,2021,,,Petroleum Liquids,IC,,S,0.3,,0.9,0.3,0.3,0.1,,,,f,12,1985,8,2006,t,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+52,6315,,OP,,,,Onshore Wind Turbine,WT,,,0.3,,,,,,,,,,1,2011,,,,Electric Utility,1,WND,,,,3,,,,,,AEA
+53,6319,3A,RE,2021,,,Petroleum Liquids,IC,,S,0.3,,0.9,0.3,0.3,0.1,,,,f,8,1988,4,2018,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+53,6319,3B,OP,2021,,,Petroleum Liquids,IC,,S,0.4,,0.9,0.4,0.4,0.1,f,,,f,4,2018,,,f,Electric Utility,1,DFO,,,,,10,f,f,f,,EIA860
+53,6319,4A,RE,2021,,,Petroleum Liquids,IC,,S,0.3,,0.9,0.3,0.3,0.1,,,,f,8,1987,7,2013,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+53,6319,4B,OP,2021,,,Petroleum Liquids,IC,,S,0.5,,0.9,0.5,0.5,0.1,f,,,f,7,2013,,,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+53,6319,5,RE,2021,,,Petroleum Liquids,IC,,S,0.5,,0.9,0.5,0.5,0.1,,,,f,9,1991,6,2016,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+53,6319,5A,OP,2021,,,Petroleum Liquids,IC,,S,0.8,,0.9,0.8,0.8,0.2,f,,,f,6,2016,,,f,Electric Utility,1,DFO,,,,,10,f,f,f,,EIA860
+53,6319,6,OP,2021,,,Petroleum Liquids,IC,,S,0.5,,0.9,0.5,0.5,0.2,f,,,f,10,1997,,,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+53,6319,,OP,,,,Onshore Wind Turbine,WT,,,0.3,,,,,,,,,,7,2010,,,,Electric Utility,1,WND,,,,3,,,,,,AEA
+54,57066,1,OP,2021,,,Petroleum Liquids,IC,,S,0.8,,0.9,0.8,0.8,0.2,f,,,f,12,2017,,,f,Electric Utility,1,DFO,,,,,10,f,f,f,,EIA860
+54,57066,2,OP,2021,Caterpillar,3456,Internal Combustion Engine,IC,,,0.75,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+54,57066,3,OP,2021,Detroit Diesel,B1237K36,Internal Combustion Engine,IC,,,0.756,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+54,57066,5A,OP,2021,,,Petroleum Liquids,IC,,S,0.7,,0.9,0.7,0.7,0.2,f,,,f,8,2004,,,t,Electric Utility,1,DFO,,,,,10,f,f,f,,EIA860
+54,57066,UNIT1,RE,2021,,,Petroleum Liquids,IC,,S,0.4,,0.9,0.4,0.4,0.1,,,,f,5,2006,12,2017,t,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+54,57066,,OP,,,,Onshore Wind Turbine,WT,,,0.3,,,,,,,,,,7,2010,,,,Electric Utility,1,WND,,,,3,,,,,,AEA
+55,6323,1A,RE,2021,,,Petroleum Liquids,IC,,S,0.3,,,0.3,0.3,,,,,f,12,1977,1,2001,f,Electric Utility,1,DFO,,,,,,f,,,,EIA860
+55,6323,1B,OP,2021,,,Petroleum Liquids,IC,,S,0.3,,0.9,0.3,0.3,0.1,f,,,f,9,2001,,,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+55,6323,2,RE,2021,,,Petroleum Liquids,IC,,S,0.3,,,0.3,0.3,,,,,f,9,1990,6,2000,f,Electric Utility,1,DFO,,,,,,f,,,,EIA860
+55,6323,3A,RE,2021,,,Petroleum Liquids,IC,,S,0.3,,0.9,0.4,0.4,0.1,f,,,f,7,2000,8,2019,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+55,6323,3B,OP,2021,,,Petroleum Liquids,IC,,S,0.4,,0.9,0.4,0.4,0.1,f,,,f,8,2019,,,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+55,6323,4,OP,2021,,,Petroleum Liquids,IC,,S,0.5,,0.9,0.5,0.5,0.1,f,,,f,7,1984,,,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+56,6324,UNIT1,OP,2021,,,Petroleum Liquids,IC,,S,0.2,,0.9,0.2,0.2,0.1,f,,,f,4,1996,,,t,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+56,6324,UNIT2,OP,2021,,,Petroleum Liquids,IC,,S,0.3,,0.9,0.3,0.3,0.1,f,,,f,10,1977,,,t,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+56,6324,UNIT3,OP,2021,,,Petroleum Liquids,IC,,S,0.2,,0.9,0.2,0.2,0.1,f,,,f,5,1990,,,t,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+56,6324,UNIT4,OP,2021,,,Petroleum Liquids,IC,,S,0.4,,0.9,0.4,0.4,0.1,f,,,f,12,2004,,,t,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+57,57064,1,OS,2021,Cummins ,K19G2 1200,Internal Combustion Engine,IC,,,0.275,,,,,,,,,,9,2007,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+57,57064,2,OS,2021,Cummins ,K19G2 1200,Internal Combustion Engine,IC,,,0.275,,,,,,,,,,9,2007,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+57,57064,3,OP,2021,Cummins ,K19G4 1800,Internal Combustion Engine,IC,,,0.42,,,,,,,,,,9,2007,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+57,57064,4,OP,2021,Cummins ,K19G4 1800,Internal Combustion Engine,IC,,,0.42,,,,,,,,,,9,2007,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+58,6325,1,OP,2021,Detroit Diesel ,6063KTK35,Internal Combustion Engine,IC,,,0.224,,,,,,,,,,2,2005,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+58,6325,2,OP,2021,Detroit Diesel ,6063TK35,Internal Combustion Engine,IC,,,0.325,,,,,,,,,,2,2005,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+58,6325,3,OP,2021,Cummins,QSX15,Internal Combustion Engine,IC,,,0.5,,,,,,,,,,2,2005,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+59,6326,1,OP,2021,Caterpillar ,3456,Internal Combustion Engine,IC,,,0.5,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+59,6326,2,OP,2021,Detroit Diesel,6063TK35,Internal Combustion Engine,IC,,,0.325,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+59,6326,3,OP,2021,Detroit Diesel,S60K4c 1800,Internal Combustion Engine,IC,,,0.325,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+60,6329,1,OS,2021,Caterpillar ,3412 1200,Internal Combustion Engine,IC,,,0.3,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+60,6329,2,OS,2021,CAT,3456,Internal Combustion Engine,IC,,,0.5,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+60,6329,3,OP,2021,Cummins,QST30-G5,Internal Combustion Engine,IC,,,0.75,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+60,6329,3A,RE,2021,,,Petroleum Liquids,IC,,S,0.3,,0.9,0.3,0.3,0.1,,,,f,1,1977,3,2005,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+60,6329,4,RE,2021,,,Petroleum Liquids,IC,,S,0.6,,0.9,0.6,0.6,0.1,,,,f,11,1982,12,2015,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+60,6329,4,OP,2021,MTU,12U2000,Internal Combustion Engine,IC,,,0.75,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+60,6329,5,RE,2021,,,Petroleum Liquids,IC,,S,0.5,,0.9,0.5,0.5,0.1,,,,f,9,1988,12,2003,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+61,6334,1,OP,2021,Cummins ,QSX15-G9,Internal Combustion Engine,IC,,,0.4,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+61,6334,2,OP,2021,Detroit Diesel ,6063GK05,Internal Combustion Engine,IC,,,0.376,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+61,6334,3,RE,2021,,,Petroleum Liquids,IC,,S,0.5,,0.9,0.5,0.5,0.1,f,,,f,3,2012,12,2020,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+61,6334,3,OP,2021,Caterpillar ,3456,Internal Combustion Engine,IC,,,0.455,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+62,6331,1,OP,2021,Detroit Diesel ,6063TK35,Internal Combustion Engine,IC,,,0.268,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+62,6331,2,OP,2021,Cummins,QSX15-G9,Internal Combustion Engine,IC,,,0.5,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+62,6331,3,OP,2021,Caterpillar ,3456,Internal Combustion Engine,IC,,,0.484,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+62,6331,UNIT5,RE,2021,,,Petroleum Liquids,IC,,S,0.4,,0.9,0.4,0.4,0.1,,,,f,4,1990,8,2015,t,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+63,6330,1,OP,2021,Detroit Diesel ,6063GK05,Internal Combustion Engine,IC,,,0.376,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+63,6330,2,OP,2021,Detroit Diesel,K1964 1800,Internal Combustion Engine,IC,,,0.5,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+63,6330,2A,RE,2021,,,Petroleum Liquids,IC,,S,0.4,,0.9,0.4,0.4,0.1,,,,f,10,1999,7,2017,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+63,6330,3,OP,2021,Detroit Diesel,12V2000,Internal Combustion Engine,IC,,,0.75,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+63,6330,3,RE,2021,,,Petroleum Liquids,IC,,S,0.3,,0.9,0.3,0.3,0.1,,,,f,4,1984,12,2003,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+63,6330,,OP,,,,Solar PV,PV,,,0.023,,,,,,,,,,12,2016,,,,Electric Utility,1,SUN,,,,0,,,,,,AEA
+64,6333,1A,SB,2021,,,Petroleum Liquids,IC,,S,0.5,,0.9,0.5,0.5,0.1,f,,,t,7,2006,,,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+64,6333,2,RE,2021,,,Petroleum Liquids,IC,,S,0.3,,,0.3,0.3,,,,,f,1,1976,2,2006,f,Electric Utility,1,DFO,,,,,,,,,,EIA860
+64,6333,3,RE,2021,,,Petroleum Liquids,IC,,S,0.3,,,0.3,0.3,,,,,f,4,1976,2,2006,f,Electric Utility,1,DFO,,,,,,,,,,EIA860
+64,6333,4,RE,2021,,,Petroleum Liquids,IC,,S,0.6,,,0.6,0.6,,,,,f,2,1986,2,2006,f,Electric Utility,1,DFO,,,,,,,,,,EIA860
+64,6333,5,RE,2021,,,Petroleum Liquids,IC,,S,0.5,,,0.5,0.5,,,,,f,12,1994,6,2004,f,Electric Utility,1,DFO,,,,,,,,,,EIA860
+65,6335,1,OP,2021,Cummins,QSX,Internal Combustion Engine,IC,,,0.625,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+65,6335,2,OP,2021,Cummins,QSX,Internal Combustion Engine,IC,,,0.5,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+65,6335,3,OP,2021,Detroit Diesel,6063MK35,Internal Combustion Engine,IC,,,0.376,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+65,6335,UNIT1,RE,2021,,,Petroleum Liquids,IC,,S,0.4,,0.9,0.4,0.4,0.1,,,,f,12,1998,4,2018,t,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+66,6337,1,OP,2021,Caterpillar ,3456,Internal Combustion Engine,IC,,,0.528,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+66,6337,2,OP,2021,Detroit Diesel ,S60K4c 1800,Internal Combustion Engine,IC,,,0.376,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+66,6337,3,OP,2021,Cummins,K19G4 1800,Internal Combustion Engine,IC,,,0.376,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+66,6337,UNIT3,RE,2021,,,Petroleum Liquids,IC,,S,0.4,,0.9,0.4,0.4,0.1,,,,f,12,1986,8,2019,t,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+66,6337,,OP,,,,Onshore Wind Turbine,WT,,,0.3,,,,,,,,,,11,2010,,,,Electric Utility,1,WND,,,,3,,,,,,AEA
+67,6338,1,RE,2021,,,Petroleum Liquids,IC,,S,0.6,,,0.6,0.6,,,,,f,5,1977,12,2006,f,Electric Utility,1,DFO,,,,,,f,,,,EIA860
+67,6338,1,OP,2021,Cummins,QSX15-G9 NR2,Internal Combustion Engine,IC,,,0.455,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+67,6338,2,OS,2021,Caterpillar ,3508,Internal Combustion Engine,IC,,,0.91,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+67,6338,3,OP,2021,Caterpillar ,3512-DITA,Internal Combustion Engine,IC,,,0.915,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+67,6338,,OP,,,,Onshore Wind Turbine,WT,,,0.9,,,,,,,,,,12,2018,,,,Electric Utility,1,WND,,,,1,,,,,,AEA
+68,6340,1,OP,2021,Detroit Diesel Series 60,L15027,Internal Combustion Engine,IC,,,0.5,,,,,,,,,,5,2008,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+68,6340,2,OP,2021,Cummins ,QSX,Internal Combustion Engine,IC,,,0.5,,,,,,,,,,5,2008,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+68,6340,3,OP,2021,Cummins,QSK23,Internal Combustion Engine,IC,,,0.5,,,,,,,,,,5,2008,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+68,6340,UNIT2,RE,2021,,,Petroleum Liquids,IC,,S,0.5,,0.9,0.5,0.5,0.1,f,,,f,7,2008,5,2019,t,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+68,6340,,OP,,,,Onshore Wind Turbine,WT,,,0.2,,,,,,,,,,11,2008,,,,Electric Utility,1,WND,,,,2,,,,,,AEA
+69,6342,1,OP,2021,Detroit Diesel ,6063TK35,Internal Combustion Engine,IC,,,0.275,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+69,6342,2,OP,2021,Cummins ,KTA19G-2,Internal Combustion Engine,IC,,,0.35,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+69,6342,3,OP,2021,Cummins ,QSX,Internal Combustion Engine,IC,,,0.455,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+70,6341,1,OP,2021,Cummins ,QST30-GI,Internal Combustion Engine,IC,,,0.75,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+70,6341,1,RE,2021,,,Petroleum Liquids,IC,,S,0.3,,,0.3,0.3,,f,,,f,12,1974,6,2003,f,Electric Utility,1,DFO,,,,,,f,,,,EIA860
+70,6341,1A,RE,2021,,,Petroleum Liquids,IC,,S,0.3,,0.9,0.3,0.3,0.1,f,,,f,6,2003,12,2020,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+70,6341,2,OP,2021,Cummins ,QSX,Internal Combustion Engine,IC,,,0.5,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+70,6341,2,RE,2021,,,Petroleum Liquids,IC,,S,0.7,,,0.7,0.7,,,,,f,6,2003,4,2005,f,Electric Utility,1,DFO,,,,,,f,,,,EIA860
+70,6341,2A,RE,2021,,,Petroleum Liquids,IC,,S,0.5,,0.9,0.5,0.5,0.1,,,,f,4,2005,8,2013,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+70,6341,3,OP,2021,Cummins ,KTA38-G4,Internal Combustion Engine,IC,,,1,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+70,6341,3,RE,2021,,,Petroleum Liquids,IC,,S,0.3,,,0.3,0.3,,,,,f,0,1978,6,2003,f,Electric Utility,1,DFO,,,,,,f,,,,EIA860
+70,6341,3A,RE,2021,,,Petroleum Liquids,IC,,S,0.8,,0.9,0.8,0.8,0.2,,,,f,6,1996,3,2014,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+70,6341,,OP,,,,Onshore Wind Turbine,WT,,,0.26,,,,,,,,,,10,2003,,,,Electric Utility,1,WND,,,,4,,,,,,AEA
+71,6345,1,OP,2021,Detroit Diesel ,S60K4c,Internal Combustion Engine,IC,,,0.376,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+71,6345,2,OP,2021,Caterpillar ,D353,Internal Combustion Engine,IC,,,0.3,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+71,6345,3,OP,2021,Cummins ,K19G2,Internal Combustion Engine,IC,,,0.26,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+71,6345,3,RE,2021,,,Petroleum Liquids,IC,,S,0.3,,0.9,0.3,0.3,0.1,,,,f,2,1977,4,2002,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+71,6345,4,RE,2021,,,Petroleum Liquids,IC,,S,0.5,,0.9,0.5,0.5,0.1,,,,f,2,1988,7,2006,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+71,6345,4,OP,2021,Cummins ,QSX15-G9,Internal Combustion Engine,IC,,,0.5,,,,,,,,,,6,2017,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+72,6346,1,OP,2021,Caterpillar ,3456,Internal Combustion Engine,IC,,,0.5,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+72,6346,2,OP,2021,Detroit Diesel ,6063TK35,Internal Combustion Engine,IC,,,0.5,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+72,6346,3,OP,2021,Caterpillar ,3456,Internal Combustion Engine,IC,,,0.5,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+72,6346,,OP,,,,Solar PV,PV,,,0.224,,,,,,,,,,9,2021,,,,,,SUN,,,,,,,,,,NWAB
+72,6346,,OP,,,,Batteries,BA,,,0.235,0.384,,,,,,,,,9,2021,,,,Electric Utility,1,MWH,,,,,,,,,,NWAB
+73,6339,4,SB,2021,,,Petroleum Liquids,IC,,S,0.7,,0.9,0.7,0.7,0.2,f,,,t,5,2015,,,t,Electric Utility,1,DFO,,,,,10,f,f,f,,EIA860
+73,6339,UNIT1,RE,2021,,,Petroleum Liquids,IC,,S,0.5,,0.9,0.5,0.5,0.1,,,,f,12,2005,8,2015,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+73,6339,UNIT2,RE,2021,,,Petroleum Liquids,IC,,S,0.3,,0.9,0.3,0.3,0.1,,,,f,3,2000,8,2015,t,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+73,6339,UNIT3,RE,2021,,,Petroleum Liquids,IC,,S,0.2,,0.9,0.2,0.2,0.1,,,,f,12,1995,8,2015,t,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+74,6347,1,OP,2021,Caterpillar,3456,Internal Combustion Engine,IC,,,0.528,,,,,,,,,,4,2013,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+74,6347,2,OP,2021,Caterpillar,3456,Internal Combustion Engine,IC,,,0.528,,,,,,,,,,4,2013,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+74,6347,3,OP,2021,Caterpillar,3456,Internal Combustion Engine,IC,,,0.528,,,,,,,,,,4,2013,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+74,6347,4,OP,2021,Caterpillar,3456,Internal Combustion Engine,IC,,,0.528,,,,,,,,,,4,2013,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+74,6347,UNIT1,RE,2021,,,Petroleum Liquids,IC,,S,0.5,,0.9,0.5,0.5,0.1,,,,f,10,2007,3,2014,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+74,6347,UNIT2,RE,2021,,,Petroleum Liquids,IC,,S,0.4,,0.9,0.4,0.4,0.1,,,,f,3,1992,3,2014,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+74,6347,UNIT3,RE,2021,,,Petroleum Liquids,IC,,S,0.3,,0.9,0.3,0.3,0.1,,,,f,5,1990,3,2014,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+75,6348,1,OP,2021,Caterpillar          ,3456,Internal Combustion Engine,IC,,,0.528,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+75,6348,2,RE,2021,,,Petroleum Liquids,IC,,S,0.3,,,0.3,0.3,,,,,f,3,1970,8,2004,f,Electric Utility,1,DFO,,,,,,f,,,,EIA860
+75,6348,2,OP,2021,Caterpillar ,3456,Internal Combustion Engine,IC,,,0.528,,,,,,,,,,3,2020,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+75,6348,2a,RE,2021,,,Petroleum Liquids,IC,,S,0.5,,0.9,0.5,0.5,0.1,,,,f,10,2004,4,2019,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+75,6348,3,OP,2021,Caterpillar ,3512,Internal Combustion Engine,IC,,,1.05,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+75,6348,4,RE,2021,,,Petroleum Liquids,IC,,S,0.3,,0.9,0.3,0.3,0.1,,,,f,11,1986,4,2019,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+75,6348,4,OP,2021,Caterpillar ,3456,Internal Combustion Engine,IC,,,0.528,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+75,6348,4B,RE,2021,,,Petroleum Liquids,IC,,S,0.8,,0.9,0.8,0.8,0.2,,,,f,10,2002,4,2019,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+75,6348,4a,RE,2021,,,Petroleum Liquids,IC,,S,0.5,,0.9,0.5,0.5,0.1,,,,f,9,2004,5,2014,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+75,6348,5,RE,2021,,,Petroleum Liquids,IC,,S,0.5,,,0.5,0.5,,,,,f,10,1986,9,2004,f,Electric Utility,1,DFO,,,,,,f,,,,EIA860
+75,6348,5A,RE,2021,,,Petroleum Liquids,IC,,S,0.8,,0.9,0.8,0.8,0.2,,,,f,5,2014,4,2019,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+76,6349,1,OP,2021,Cummins,QST30-G5,Internal Combustion Engine,IC,,,0.75,,,,,,,,,,10,2019,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+76,6349,2,OP,2021,Cummins,QSX,Internal Combustion Engine,IC,,,0.5,,,,,,,,,,8,2005,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+76,6349,3,OP,2021,Detroit Diesel ,12V2000,Internal Combustion Engine,IC,,,0.756,,,,,,,,,,8,2005,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+76,6349,UNIT1,RE,2021,,,Petroleum Liquids,IC,,S,0.4,,0.9,0.4,0.4,0.1,,,,f,8,2005,9,2019,t,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+76,6349,,OP,,,,Onshore Wind Turbine,WT,,,0.1,,,,,,,,,,8,2009,,,,Electric Utility,1,WND,,,,1,,,,,,AEA
+77,57054,UNIT1,OP,2021,,,Petroleum Liquids,IC,,S,0.2,,0.9,0.2,0.2,0.1,f,,,f,12,2004,,,t,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+77,57054,UNIT2,OP,2021,,,Petroleum Liquids,IC,,S,0.4,,0.9,0.4,0.4,0.1,f,,,f,12,2004,,,t,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+77,57054,UNIT3,OP,2021,,,Petroleum Liquids,IC,,S,0.5,,0.9,0.5,0.5,0.1,f,,,f,12,2004,,,t,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+78,6637,1,OP,2021,Caterpillar ,3512B-DTTA,Internal Combustion Engine,IC,,,1,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+78,6637,2,OP,2021,Caterpillar ,3516,Internal Combustion Engine,IC,,,1.285,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+78,6637,2A,RE,2021,,,Petroleum Liquids,IC,,S,0.8,,0.8,0.8,0.8,0,,,,f,2,1984,6,1999,t,Electric Utility,1,DFO,,,,,,,f,,,EIA860
+78,6637,3,OP,2021,Caterpillar ,3516,Internal Combustion Engine,IC,,,1.285,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+78,6637,3,RE,2021,,,Petroleum Liquids,IC,,S,0.6,,,0.6,0.6,,,,,f,3,1973,6,1999,t,Electric Utility,1,DFO,,,,,10,,f,,,EIA860
+78,6637,4,OP,2021,Caterpillar ,3508,Internal Combustion Engine,IC,,,0.6,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+78,6637,4,RE,2021,,,Petroleum Liquids,IC,,S,1.1,,,1.1,1.1,,,,,f,3,1973,6,1993,t,Electric Utility,1,DFO,,,,,10,,,,,EIA860
+78,6637,4A,RE,2021,,,Petroleum Liquids,IC,,S,1.1,,0.8,1.1,1.1,0,,,,f,6,1993,8,2014,t,Electric Utility,1,DFO,,,,,720,,,,,EIA860
+78,6637,5,RE,2021,,,Petroleum Liquids,IC,,S,0.3,,,0.3,0.3,,,,,f,6,1989,12,2006,t,Electric Utility,1,DFO,,,,,,,,,,EIA860
+79,6310,1,OP,2021,Caterpillar ,3304 D1,Internal Combustion Engine,IC,,,0.175,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+79,6310,2,OP,2021,Detroit Diesel ,6063TK35,Internal Combustion Engine,IC,,,0.16,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+79,6310,3,OP,2021,Cummins,LTA10,Internal Combustion Engine,IC,,,0.105,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+80,6312,1,OP,2021,Detroit Diesel,6063TK35,Internal Combustion Engine,IC,,,0.43,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+80,6312,2,OP,2021,Detroit Diesel ,6063TK35,Internal Combustion Engine,IC,,,0.26,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+80,6312,3,OP,2021,Detroit Diesel ,6063TK35,Internal Combustion Engine,IC,,,0.43,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+81,,1,OP,2021,John Deere ,6081HF070,Internal Combustion Engine,IC,,,0.22,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+81,,2,OS,2021,Perkins,PKXL05-9YH1,Internal Combustion Engine,IC,,,0.1,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+82,6316,1,OP,2021,Allis-Chalmers,665 I,Internal Combustion Engine,IC,,,0.15,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+82,6316,2,OP,2021,Cummins ,LTA 10,Internal Combustion Engine,IC,,,0.268,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+82,6316,3,OP,2021,Detroit Diesel,6063TK35,Internal Combustion Engine,IC,,,0.224,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+83,6317,1,OP,2021,Detroit Diesel ,6063GU060,Internal Combustion Engine,IC,,,0,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+83,6317,2,OP,2021,Cummins ,LTA10 1200,Internal Combustion Engine,IC,,,0.105,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+83,6317,3,OP,2021,Cummins ,LTA10,Internal Combustion Engine,IC,,,0.268,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+84,6318,1,OP,2021,Detroit Diesel ,R23528007,Internal Combustion Engine,IC,,,0.25,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+84,6318,2,OP,2021,Detroit Diesel ,6063GK05,Internal Combustion Engine,IC,,,0.19,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+84,6318,3,OP,2021,Cummins ,DR6866-RX,Internal Combustion Engine,IC,,,0.2,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+85,6320,1,OP,2021,Detroit Diesel ,6063TK35,Internal Combustion Engine,IC,,,0.26,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+85,6320,2,OP,2021,Cummins,LTA10,Internal Combustion Engine,IC,,,0.268,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+85,6320,3,OP,2021,Detroit Diesel ,S6003 1800,Internal Combustion Engine,IC,,,0.268,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+86,6322,1,OP,2021,Detroit Diesel ,6063TK35,Internal Combustion Engine,IC,,,0.224,,,,,,,,,,8,2005,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+86,6322,2,OP,2021,Detroit Diesel ,6063TK35,Internal Combustion Engine,IC,,,0.224,,,,,,,,,,8,2005,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+86,6322,3,OP,2021,Detroit Diesel ,6063TK35,Internal Combustion Engine,IC,,,0.325,,,,,,,,,,8,2005,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+86,6322,,OP,,,,Solar PV,PV,,,0.0096,,,,,,,,,,10,2012,,,,Electric Utility,1,SUN,,,,0,,,,,,AEA
+87,6327,1,OP,2021,Detroit Diesel,S60K4c 1200,Internal Combustion Engine,IC,,,0.26,,,,,,,,,,2,2020,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+87,6327,2,OP,2021,Detroit Diesel,S60K4c,Internal Combustion Engine,IC,,,0.268,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+87,6327,3,OS,2021,Cummins,LTA10,Internal Combustion Engine,IC,,,0.175,,,,,,,,,,3,2020,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+87,6327,,OP,,,,Onshore Wind Turbine,WT,,,0.2,,,,,,,,,,11,2010,,,,Electric Utility,1,WND,,,,2,,,,,,AEA
+88,6328,1,OP,2021,Cummins ,LTA10-C,Internal Combustion Engine,IC,,,0.19,,,,,,,,,,11,2020,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+88,6328,2,OP,2021,Detroit Diesel ,6063TK35,Internal Combustion Engine,IC,,,0.25,,,,,,,,,,11,2019,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+88,6328,3,OP,2021,Cummins,L10,Internal Combustion Engine,IC,,,0.268,,,,,,,,,,6,2019,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+89,,1,OP,2021,Detroit Diesel ,S60K4 1800,Internal Combustion Engine,IC,,,0.325,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+90,6332,1,OP,2021,Cummins,KTA19-G2,Internal Combustion Engine,IC,,,0.376,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+90,6332,2,OP,2021,Detroit Diesel ,S6003 1200,Internal Combustion Engine,IC,,,0.25,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+90,6332,3,OP,2021,Detroit Diesel ,S60K4c 1800,Internal Combustion Engine,IC,,,0.376,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+91,6557,1,OP,2021,Caterpillar ,3306,Internal Combustion Engine,IC,,,0.18,,,,,,,,,,6,2006,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+91,6557,2,OP,2021,Detroit Diesel ,6063TK35,Internal Combustion Engine,IC,,,0.22,,,,,,,,,,6,2020,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+91,6557,3,OP,2021,Detroit Diesel ,6063TK35,Internal Combustion Engine,IC,,,0.6,,,,,,,,,,6,2020,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+93,7049,1,OS,2021,Cummins,LTA10,Internal Combustion Engine,IC,,,0.268,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+93,7049,2,OP,2021,Detroit Diesel ,6063MK35,Internal Combustion Engine,IC,,,0.376,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+93,7049,3,OP,2021,Detroit Diesel ,6063MK35,Internal Combustion Engine,IC,,,0.26,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+94,6343,1,OP,2021,Cummins,L10,Internal Combustion Engine,IC,,,0.19,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+94,6343,2,OP,2021,Cummins,6BTA5.9-G1,Internal Combustion Engine,IC,,,0.1,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+94,6343,3,OP,2021,Cummins,L10,Internal Combustion Engine,IC,,,0.105,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+95,6344,1,OS,2021,Detroit Diesel ,6063TK35,Internal Combustion Engine,IC,,,0.26,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+95,6344,2,OP,2021,Detroit Diesel ,S60K4 1800,Internal Combustion Engine,IC,,,0.325,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+95,6344,3,OP,2021,Cummins,LTA-10G1,Internal Combustion Engine,IC,,,0.2,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+95,6344,,OP,,,,Onshore Wind Turbine,WT,,,0.2,,,,,,,,,,4,2012,,,,Electric Utility,1,WND,,,,2,,,,,,AEA
+96,,1,OP,2021,Detroit Diesel ,6063TK35,Internal Combustion Engine,IC,,,0.35,,,,,,,,,,6,2018,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+96,,2,OP,2021,Detroit Diesel ,6063TK35,Internal Combustion Engine,IC,,,0.35,,,,,,,,,,6,2018,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+96,,3,OP,2021,Detroit Diesel ,6063TK35,Internal Combustion Engine,IC,,,0.35,,,,,,,,,,6,2018,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+97,6350,1,OP,2021,Detroit Diesel ,S60K4 1800,Internal Combustion Engine,IC,,,0.325,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+98,6351,1,OP,2021,Cummins ,LTA10 1200,Internal Combustion Engine,IC,,,0.105,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+98,6351,2,OS,2021,Detroit Diesel ,S60K4 1200,Internal Combustion Engine,IC,,,0.2,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+98,6351,3,OP,2021,Cummins ,LTA10 1200,Internal Combustion Engine,IC,,,0.19,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+98,6351,,RE,,,,Onshore Wind Turbine,WT,,,0.13,,,,,,,,,,7,1998,,2005,,Electric Utility,1,WND,,,,2,,,,,,AEA
+100,,1,OP,2021,John Deere ,4045TFM75,Internal Combustion Engine,IC,,,0.08,,,,,,,,,,6,2019,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+100,,2,OP,2021,John Deere ,6068TFM76,Internal Combustion Engine,IC,,,0.12,,,,,,,,,,6,2020,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+101,75,1,RE,2021,,,Natural Gas Fired Combustion Turbine,GT,,S,12.5,,0.8,14,16.2,,f,,,f,11,1962,12,2016,f,Electric Utility,1,NG,DFO,,,,60,f,t,t,,EIA860
+101,75,2,RE,2021,,,Natural Gas Fired Combustion Turbine,GT,,S,12.5,,0.8,14,16.2,,f,,,f,3,1962,12,2016,f,Electric Utility,1,NG,DFO,,,,60,f,t,t,,EIA860
+101,75,3,RE,2021,,,Natural Gas Fired Combustion Turbine,GT,,S,16.3,,,17.7,19.4,,f,,,f,12,1968,8,2004,f,Electric Utility,1,NG,DFO,,,,,f,t,t,,EIA860
+101,75,3R,OP,2021,,,Natural Gas Fired Combustion Turbine,GT,,S,48.9,,0.85,29.3,32.9,3,f,,,f,8,2007,,,f,Electric Utility,1,NG,,,,,60,f,f,,,EIA860
+101,75,4,OS,2021,,,Natural Gas Fired Combustion Turbine,GT,,S,27,,0.85,31.1,33.2,5,f,,,f,3,1972,,,f,Electric Utility,1,NG,DFO,,,,60,t,t,t,,EIA860
+101,75,D1,RE,2021,,,Petroleum Liquids,IC,,S,1.1,,,1.2,1.2,,f,,,f,0,1956,1,2010,f,Electric Utility,1,DFO,,,,,,,,,,EIA860
+101,75,D2,RE,2021,,,Petroleum Liquids,IC,,S,1.1,,,1.4,1.4,,f,,,f,0,1947,1,2010,f,Electric Utility,1,DFO,,,,,,,,,,EIA860
+101,75,P1 BS,OP,2021,,,Petroleum Liquids,IC,,S,2,,0.8,2,2,0.1,f,,,f,2,2012,,,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+102,77,1,OP,2021,,,Conventional Hydroelectric,HY,Eklutna Lake,J,22.2,,0.9,22.2,22.2,3,f,,,f,1,1955,,,f,Electric Utility,1,WAT,,,,,60,f,,,,EIA860
+102,77,2,OP,2021,,,Conventional Hydroelectric,HY,Eklutna Lake,J,22.2,,0.9,22.2,22.2,3,f,,,f,4,1955,,,f,Electric Utility,1,WAT,,,,,60,f,,,,EIA860
+103,6559,10,OP,2021,,,Natural Gas Fired Combined Cycle,CT,,S,60.4,,0.85,50,50,5,f,,,f,2,2017,,,f,Electric Utility,1,NG,,,,,60,f,f,,,EIA860
+103,6559,11,OP,2021,,,Natural Gas Fired Combined Cycle,CA,,S,30.9,,0.85,29,29,3,f,,,f,2,2017,,,f,Electric Utility,1,NG,,,,,60,f,f,,,EIA860
+103,6559,5,RE,2021,,,Natural Gas Fired Combined Cycle,CT,,S,38.1,,0.9,33.8,37.4,,f,,,f,1,1975,12,2016,f,Electric Utility,1,NG,DFO,,,,60,f,t,t,,EIA860
+103,6559,6,RE,2021,,,Natural Gas Fired Combined Cycle,CA,,S,33,,0.85,34,37.5,,f,,,f,3,1979,12,2016,f,Electric Utility,1,NG,,,,,720,,,,,EIA860
+103,6559,7,OP,2021,,,Natural Gas Fired Combustion Turbine,GT,,S,102.6,,0.9,102.6,81.8,8,f,,,f,6,1979,,,f,Electric Utility,1,NG,DFO,,,,60,t,t,t,,EIA860
+103,6559,9,OP,2021,,,Natural Gas Fired Combined Cycle,CT,,S,60.4,,0.85,50,50,5,f,,,f,2,2017,,,f,Electric Utility,1,NG,,,,,60,f,f,,,EIA860
+103,6559,GT8,SB,2021,,,Natural Gas Fired Combustion Turbine,GT,,S,92.6,,0.85,77.7,86.5,5,f,,,t,12,1984,,,f,Electric Utility,1,NG,,,,,60,f,f,,,EIA860
+105,7182,1,OP,2021,Caterpillar ,3508A,Petroleum Liquids,IC,,S,0.5,,0.8,0.2,0.3,0.1,f,,,f,7,1988,,,f,Electric Utility,1,DFO,,,,,10,f,f,f,,EIA860
+105,7182,10,OP,2021,Caterpillar ,3512,Petroleum Liquids,IC,,S,0.6,,0.9,0.6,0.6,0.3,f,,,f,7,2016,,,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+105,7182,11,OP,2021,Caterpillar ,3508 B,Petroleum Liquids,IC,,S,0.5,,0.8,0.5,0.5,0.1,f,,,f,9,2018,,,f,Electric Utility,1,DFO,,,,,60,f,,,,EIA860
+105,7182,3,RE,2021,,,Petroleum Liquids,IC,,S,0.3,,,0.2,0.2,,f,,,f,7,1980,8,2005,f,Electric Utility,1,DFO,,,,,10,,,,,EIA860
+105,7182,4,RE,2021,,,Petroleum Liquids,IC,,S,0.3,,,0.2,0.2,,f,,,f,7,1980,8,2005,f,Electric Utility,1,DFO,,,,,,,,,,EIA860
+105,7182,5,RE,2021,,,Petroleum Liquids,IC,,S,0.3,,,0.3,0.3,,f,,,f,5,1991,4,1994,f,Electric Utility,1,DFO,,,,,60,,,,,EIA860
+105,7182,9,OP,2021,,,Petroleum Liquids,IC,,S,0.6,,0.8,0.6,0.6,0.1,f,,,f,12,1996,,,f,Electric Utility,1,DFO,,,,,60,f,,,,EIA860
+106,,1,OP,2021,John Deere,6081TF001,Internal Combustion Engine,IC,,,0.13,,,,,,,,,,10,2014,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+106,,2,OP,2021,John Deere ,6068TF250,Internal Combustion Engine,IC,,,0.1,,,,,,,,,,1,2004,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+106,,3,OS,2021,John Deere ,6068TF250,Internal Combustion Engine,IC,,,0.1,,,,,,,,,,11,2016,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+106,,4,OP,2021,John Deere ,4045TF150,Internal Combustion Engine,IC,,,0.065,,,,,,,,,,1,2004,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+107,,1,OP,2021,John Deere,6068TF250,Internal Combustion Engine,IC,,,0.11,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+107,,2,OP,2021,John Deere,6068TF250,Internal Combustion Engine,IC,,,0.11,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+107,,3,OS,2021,John Deere,PE3029TF150BASE,Internal Combustion Engine,IC,,,0.037,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+107,,,OP,,,,Conventional Hydroelectric,HY,Chuniixsax Creek,,0.284,,,,,,,,,,12,2012,,,,Electric Utility,1,WAT,,,,0,,,,,,AEA
+108,,1,OP,2021,John Deere ,6090AFM75,Internal Combustion Engine,IC,,,0.276,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+108,,2,OP,2021,John Deere ,6090AFM75,Internal Combustion Engine,IC,,,0.276,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+108,,3,OP,2021,John Deere ,6081HF070,Internal Combustion Engine,IC,,,0.276,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+108,,4,OP,2021,John Deere ,6081HF070,Internal Combustion Engine,IC,,,0.276,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+109,79,1,OP,2021,,,Conventional Steam Coal,ST,,S,5,,0.8,4.7,4.3,1,f,,,f,6,1952,,,t,IPP CHP,3,CL,,WDS,DFO,,720,f,f,f,,EIA860
+109,79,2,OP,2021,,,Conventional Steam Coal,ST,,S,2.5,,0.8,2,2,1,f,,,f,6,1952,,,t,IPP CHP,3,CL,,WDS,DFO,,720,f,f,f,,EIA860
+109,79,3,RE,2021,,,Conventional Steam Coal,ST,,S,1.5,,,1.5,1.5,,f,,,f,6,1952,8,2009,t,IPP CHP,3,CL,,WDS,DFO,,720,f,f,f,,EIA860
+109,79,5,OP,2021,,,Conventional Steam Coal,ST,,S,20,,0.85,19,18.8,8,f,,,f,6,1975,,,t,IPP CHP,3,CL,,AB,DFO,,720,f,f,f,,EIA860
+109,79,7,IP,2021,,,Conventional Steam Coal,ST,,S,2.3,,,2.3,2.3,,f,,,f,,,,,t,IPP CHP,3,CL,,,,,720,f,f,f,,EIA860
+110,7173,10,OS,2021,,,Natural Gas Internal Combustion Engine,IC,,W,1.5,,0.8,1.5,1.5,0.5,f,,,f,11,1994,,,f,Electric Utility,1,NG,,,,,10,f,f,f,,EIA860
+110,7173,11,OP,2021,,,Natural Gas Fired Combustion Turbine,GT,,S,4.8,,0.8,4.8,5,0.5,f,,,f,11,1996,,,f,Electric Utility,1,NG,,,,,10,f,f,f,,EIA860
+110,7173,12,OP,2021,,,Natural Gas Fired Combustion Turbine,GT,,S,5,,0.8,5,5.3,0.5,f,,,f,6,2001,,,f,Electric Utility,1,NG,DFO,,,,10,t,f,t,,EIA860
+110,7173,6,OP,2021,,,Natural Gas Fired Combustion Turbine,GT,,W,2.5,,0.8,2.5,3,0.5,f,,,f,2,1977,,,f,Electric Utility,1,NG,DFO,,,,10,t,f,t,,EIA860
+110,7173,7,OP,2021,,,Natural Gas Fired Combustion Turbine,GT,,W,2.5,,0.8,2.5,3,0.5,f,,,f,12,1980,,,f,Electric Utility,1,NG,DFO,,,,10,t,f,t,,EIA860
+110,7173,8,OP,2021,,,Natural Gas Fired Combustion Turbine,GT,,W,2.5,,0.8,2.5,3,0.5,f,,,f,10,1982,,,f,Electric Utility,1,NG,DFO,,,,10,t,f,t,,EIA860
+110,7173,9,OS,2021,,,Natural Gas Internal Combustion Engine,IC,,W,1.5,,0.8,1.5,1.5,0.5,f,,,f,11,1994,,,f,Electric Utility,1,NG,,,,,10,f,f,f,,EIA860
+111,,1,OP,2021,John Deere,4045AFM85E,Internal Combustion Engine,IC,,,0.11,,,,,,,,,,1,2019,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+111,,2,OP,2021,John Deere ,4045AFM85,Internal Combustion Engine,IC,,,0.105,,,,,,,,,,1,2020,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+111,,3,OP,2021,John Deere ,4045AFM85E,Internal Combustion Engine,IC,,,0.105,,,,,,,,,,1,2020,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+113,,1,OP,2021,Caterpillar ,3456,Internal Combustion Engine,IC,,,0.476,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+113,,2,OP,2021,Caterpillar ,3456,Internal Combustion Engine,IC,,,0.476,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+113,,3,OP,2021,CAT,C9DI,Internal Combustion Engine,IC,,,0.2,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+113,,,OP,,,,Batteries,BA,,,0.277,0.196,,,,,,,,,12,2019,,,,,,MWH,,,,,,,,,,AEA
+113,,,OP,,,,Solar PV,PV,,,0.046,,,,,,,,,,12,2019,,,,Electric Utility,1,SUN,,,,,,,,,VIF? ,AEA
+113,,,OP,,,,Onshore Wind Turbine,WT,,,0.2,,,,,,,,,,,2015,,,,Electric Utility,1,WND,,,,,,,,,,AEA
+114,,1,OS,2021,John Deere ,4045AFM85,Internal Combustion Engine,IC,,,0.11,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+114,,2,OP,2021,John Deere ,4045HF485E,Internal Combustion Engine,IC,,,0.117,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+114,,3,OP,2021,John Deere ,4045AFM85E,Internal Combustion Engine,IC,,,0.1,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+115,,1,OP,2021,John Deere,4045AFM85,Internal Combustion Engine,IC,,,0.105,,,,,,,,,,9,2020,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+115,,2,OP,2021,John Deere,4045TFM75,Internal Combustion Engine,IC,,,0.076,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+115,,3,OP,2021,John Deere,4045AFM85,Internal Combustion Engine,IC,,,0.125,,,,,,,,,,3,2022,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+116,,1,OP,2021,John Deere,6068AF001,Internal Combustion Engine,IC,,,0.148,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+116,,2,OP,2021,John Deere ,6081AF001,Internal Combustion Engine,IC,,,0.16,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+116,,3,OP,2021,John Deere ,6081AFM75,Internal Combustion Engine,IC,,,0.185,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+116,,,OP,,,,Conventional Hydroelectric,HY,Packer's Creek,,0.167,,,,,,,,,,6,2015,,,,Electric Utility,1,WND,,,,0,,,,,,AEA
+117,,1,OS,2021,John Deere,6068AFM85,Internal Combustion Engine,IC,,,0.15,,,,,,,,,,9,2020,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+117,,2,OS,2021,John Deere,4045AFM85,Internal Combustion Engine,IC,,,0.11,,,,,,,,,,5,2015,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+117,,3,OP,2021,John Deere,4045AFM85,Internal Combustion Engine,IC,,,0.11,,,,,,,,,,5,2015,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+117,,4,OP,2021,John Deere,4045TFM85,Internal Combustion Engine,IC,,,0.065,,,,,,,,,,9,2020,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+118,,1,OP,2021,John Deere,6090HF485,Internal Combustion Engine,IC,,,0.229,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+118,,2,OP,2021,John deere,6090HF485,Internal Combustion Engine,IC,,,0.229,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+118,,3,OP,2021,John deere,4045HF485,Internal Combustion Engine,IC,,,0.117,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+118,,,OP,,,,Conventional Hydroelectric,HY,,,0.06,,,,,,,,,,,1949,,,,Electric Utility,1,WAT,,,,0,,,,,,AEA
+119,,1,OS,2021,John Deere,4045HF485,Internal Combustion Engine,IC,,,0.117,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+119,,2,OP,2021,John Deere,4045HF485,Internal Combustion Engine,IC,,,0.117,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+119,,3,OP,2021,John Deere,4045TFM75,Internal Combustion Engine,IC,,,0.117,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+120,96,1,OP,2021,,,Natural Gas Fired Combustion Turbine,GT,,S,16,,0.85,18.9,19.6,1,f,,,f,1,1968,,,f,Electric Utility,1,NG,,,,,60,f,,,,EIA860
+120,96,2,OS,2021,,,Natural Gas Fired Combustion Turbine,GT,,S,16,,0.85,18.9,19.6,1,f,,,f,1,1968,,,f,Electric Utility,1,NG,,,,,60,f,,,,EIA860
+120,96,3,OP,2021,,,Natural Gas Fired Combustion Turbine,GT,,S,59.1,,0.9,58,64.8,2,f,,,f,5,1972,,,f,Electric Utility,1,NG,,,,,60,f,,,,EIA860
+120,96,5,OP,2021,,,Natural Gas Fired Combustion Turbine,GT,,S,68.3,,0.9,61.4,68.7,2,f,,,f,10,1975,,,f,Electric Utility,1,NG,,,,,60,f,f,f,,EIA860
+120,96,6,OS,2021,,,Natural Gas Fired Combustion Turbine,GT,,S,76.5,,0.9,72.6,79.2,2,f,,,f,5,1976,,,f,Electric Utility,1,NG,,,,,60,f,f,,,EIA860
+120,96,7,OP,2021,,,Natural Gas Fired Combustion Turbine,GT,,S,76.5,,0.9,70.6,80.1,2,f,,,f,12,1978,,,f,Electric Utility,1,NG,,PG,,,60,f,f,f,,EIA860
+120,96,8,RE,2021,,,Natural Gas Fired Combined Cycle,CA,,S,62,,0.9,44,53,10,f,,,f,9,1982,4,2015,f,Electric Utility,1,NG,,,,,720,f,f,f,,EIA860
+121,6291,1,OP,2021,,,Conventional Hydroelectric,HY,Cooper Creek/Stetson Creek,S,9.7,,0.85,9.7,9.7,6.5,f,8,2015,f,5,1961,,,f,Electric Utility,1,WAT,,,,,60,,,,,EIA860
+121,6291,2,OP,2021,,,Conventional Hydroelectric,HY,Cooper Creek/Stetson Creek,S,9.7,,0.85,9.7,9.7,6.5,f,8,2015,f,5,1961,,,f,Electric Utility,1,WAT,,,,,60,,,,,EIA860
+122,6293,1,OS,2021,,,Natural Gas Fired Combustion Turbine,GT,,S,15,,0.85,12.6,14.1,1,f,,,f,12,1964,,,f,Electric Utility,1,NG,,,,,60,f,,,,EIA860
+122,6293,2,RE,2021,,,Natural Gas Fired Combustion Turbine,GT,,S,15,,0.85,12.6,14.1,1,f,,,f,11,1965,8,2020,f,Electric Utility,1,NG,,,,,60,f,,,,EIA860
+122,6293,3,RE,2021,,,Natural Gas Fired Combustion Turbine,GT,,S,16.3,,0.85,16.7,18.5,2,f,,,f,11,1969,8,2015,f,Electric Utility,1,NG,,,,,60,f,,,,EIA860
+123,57036,1,OP,2021,,,Natural Gas Fired Combined Cycle,CT,,J,48.8,,0.85,39.8,48.8,5,f,,,f,1,2013,,,f,Electric Utility,1,NG,,,,,10,f,,,,EIA860
+123,57036,2,OP,2021,,,Natural Gas Fired Combined Cycle,CT,,J,48.8,,0.85,39.8,48.8,5,f,,,f,1,2013,,,f,Electric Utility,1,NG,,,,,10,f,,,,EIA860
+123,57036,3,OP,2021,,,Natural Gas Fired Combined Cycle,CT,,J,48.8,,0.85,39.8,48.8,5,f,,,f,1,2013,,,f,Electric Utility,1,NG,,,,,10,f,,,,EIA860
+123,57036,4,OP,2021,,,Natural Gas Fired Combined Cycle,CA,,J,57.5,,0.85,50.3,57,5,f,,,f,1,2013,,,f,Electric Utility,1,NG,,,,,720,f,,,,EIA860
+124,,1,OP,2021,John Deere,4045AFM85,Internal Combustion Engine,IC,,,0.1,,,,,,,,,,8,2020,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+124,,2,OP,2021,John Deere ,4045AFM85,Internal Combustion Engine,IC,,,0.1,,,,,,,,,,8,2020,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+124,,3,OP,2021,John Deere,SE206946,Internal Combustion Engine,IC,,,0.09,,,,,,,,,,8,2017,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+125,,1,OP,2021,John Deere,6068AFM85,Internal Combustion Engine,IC,,,0.1698,,,,,,,,,,9,2019,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+125,,2,OP,2021,John Deere,4045TFM75,Internal Combustion Engine,IC,,,0.09,,,,,,,,,,9,2019,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+125,,3,OP,2021,John Deere,4045TFM75,Internal Combustion Engine,IC,,,0.09,,,,,,,,,,9,2019,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+126,58982,GEN1,OP,2021,,,Conventional Hydroelectric,HY,,S,6.5,,0.9,6.5,6.5,0.3,f,,,f,10,2016,,,f,Electric Utility,1,WAT,,,,,60,f,,,,EIA860
+127,6305,1,RE,2021,,,Petroleum Liquids,IC,,S,0.3,,,0.3,0.3,,f,,,f,88,1959,7,2008,f,Electric Utility,1,DFO,,,,,,,,,,EIA860
+127,6305,2,RE,2021,,,Petroleum Liquids,IC,,S,0.3,,,0.3,0.3,,f,,,f,88,1959,7,2008,f,Electric Utility,1,DFO,,,,,,,,,,EIA860
+127,6305,3,RE,2021,,,Petroleum Liquids,IC,,S,0.5,,0.8,0.5,0.5,0.1,f,,,f,4,1963,5,2019,f,Electric Utility,1,DFO,,,,,10,f,f,f,,EIA860
+127,6305,4,RE,2021,,,Petroleum Liquids,IC,,S,0.5,,0.8,0.5,0.5,0.1,f,,,f,4,1966,5,2019,f,Electric Utility,1,DFO,,,,,10,f,f,f,,EIA860
+127,6305,5,RE,2021,,,Petroleum Liquids,IC,,S,0.5,,0.8,0.5,0.5,0.1,f,,,f,4,1966,5,2019,f,Electric Utility,1,DFO,,,,,10,f,f,f,,EIA860
+127,6305,6,OP,2021,,,Petroleum Liquids,IC,,S,2.6,,0.8,2.5,2.5,0.5,f,,,f,5,1976,,,f,Electric Utility,1,DFO,,,,,10,f,f,f,,EIA860
+127,6305,7,OP,2021,,,Petroleum Liquids,IC,,S,2.6,,0.8,2.5,2.5,0.5,f,,,f,5,1976,,,f,Electric Utility,1,DFO,,,,,10,f,f,f,,EIA860
+127,6305,8,OP,2021,,,Petroleum Liquids,IC,,S,1.2,,0.8,1.2,1.2,0.2,f,,,f,2,1999,,,f,Electric Utility,1,DFO,,,,,10,f,f,f,,EIA860
+127,6305,9,OP,2021,,,Petroleum Liquids,IC,,S,2.8,,0.8,2.8,2.8,0.5,f,,,f,5,2010,,,f,Electric Utility,1,DFO,,,,,1440,f,f,f,,EIA860
+128,390,1,OP,2021,,,Conventional Hydroelectric,HY,,S,6,,0.8,6,6,0.5,f,,,f,1,1982,,,f,Electric Utility,1,WAT,,,,,60,f,,,,EIA860
+128,390,2,OP,2021,,,Conventional Hydroelectric,HY,,S,6,,0.8,6,6,0.5,f,,,f,1,1982,,,f,Electric Utility,1,WAT,,,,,60,f,,,,EIA860
+129,6306,1,RE,2021,,,Petroleum Liquids,IC,,S,0.5,,0.8,0.5,0.5,0.1,f,,,f,1,1967,6,2016,f,Electric Utility,1,DFO,,,,,1440,,f,f,,EIA860
+129,6306,11,OP,2021,,,Petroleum Liquids,IC,,S,1.6,,0.8,1.6,1.6,0.1,f,,,f,6,2017,,,f,Electric Utility,1,DFO,,,,,10,f,f,f,,EIA860
+129,6306,12,OP,2021,,,Petroleum Liquids,IC,,S,1.6,,0.8,1.6,1.6,0.1,f,,,f,6,2017,,,f,Electric Utility,1,DFO,,,,,10,f,f,f,,EIA860
+129,6306,2,RE,2021,,,Petroleum Liquids,IC,,S,0.5,,0.8,0.5,0.5,0.1,f,,,f,1,1967,6,2016,f,Electric Utility,1,DFO,,,,,10,,f,f,,EIA860
+129,6306,3,RE,2021,,,Petroleum Liquids,IC,,S,0.5,,0.8,0.5,0.5,0.1,f,,,f,1,1967,6,2016,f,Electric Utility,1,DFO,,,,,1440,,f,f,,EIA860
+129,6306,4,OP,2021,,,Petroleum Liquids,IC,,S,1.9,,0.8,1.5,1.5,0.2,f,,,f,10,1972,,,f,Electric Utility,1,DFO,,,,,10,f,f,f,,EIA860
+129,6306,5,OP,2021,,,Petroleum Liquids,IC,,S,2.6,,0.8,2,2,0.5,f,,,f,6,1975,,,f,Electric Utility,1,DFO,,,,,10,f,f,f,,EIA860
+129,6306,6,OP,2021,,,Petroleum Liquids,IC,,S,0.9,,0.8,0.8,0.8,0.1,f,,,f,8,1974,,,f,Electric Utility,1,DFO,,,,,10,f,f,f,,EIA860
+129,6306,7,RE,2021,,,Petroleum Liquids,GT,,S,2.8,,0.8,2.8,2.8,0.5,f,,,f,8,1976,1,2018,f,Electric Utility,1,DFO,,,,,10,f,f,f,,EIA860
+130,7841,1,OP,2021,,,Petroleum Liquids,GT,,S,5.3,,0.8,5.1,5.3,1,f,,,f,4,2000,,,t,Electric Utility,1,WO,,,,,60,f,f,f,,EIA860
+131,62714,BESS1,OP,2021,,,Batteries,BA,,S,1,,,1,1,0,f,,,f,8,2019,,,f,Electric Utility,1,MWH,,,,,10,f,,,,EIA860
+132,7042,1,OP,2021,,,Conventional Hydroelectric,HY,Humpback Creek,S,0.5,,0.8,0.4,0.4,0.2,f,7,2011,f,6,1991,,,f,Electric Utility,1,WAT,,,,,10,,,,,EIA860
+132,7042,2,OP,2021,,,Conventional Hydroelectric,HY,Humpback Creek,S,0.5,,0.8,0.4,0.4,0.2,f,7,2011,f,6,1991,,,f,Electric Utility,1,WAT,,,,,10,,,,,EIA860
+132,7042,3,OP,2021,,,Conventional Hydroelectric,HY,Humpback Creek,S,0.2,,0.8,0.2,0.2,0.1,f,7,2011,f,6,1991,,,f,Electric Utility,1,WAT,,,,,10,,,,,EIA860
+133,789,3,OP,2021,,,Petroleum Liquids,IC,,S,2.5,,0.8,2.5,2.5,1.5,f,,,f,10,1984,,,f,Electric Utility,1,DFO,,,,,10,f,f,,,EIA860
+133,789,4,OP,2021,,,Petroleum Liquids,IC,,S,2.4,,0.8,2.4,2.4,1.4,f,,,f,10,1984,,,f,Electric Utility,1,DFO,,,,,10,f,f,f,,EIA860
+133,789,5,OP,2021,,,Petroleum Liquids,IC,,S,1.1,,0.8,1.1,1.1,0.7,f,,,f,3,2000,,,f,Electric Utility,1,DFO,,,,,10,f,f,f,,EIA860
+133,789,6,OP,2021,,,Petroleum Liquids,IC,,S,1.1,,0.8,1.1,1.1,0.7,f,,,f,3,2000,,,f,Electric Utility,1,DFO,,,,,10,f,f,f,,EIA860
+133,789,7,OP,2021,,,Petroleum Liquids,IC,,S,3.6,,0.8,3.6,3.6,2.2,f,,,f,7,2009,,,f,Electric Utility,1,DFO,,,,,10,f,f,f,,EIA860
+134,7862,4,OP,2021,,,Conventional Hydroelectric,HY,Power Creek,S,3,,0.8,2.8,2.7,0.1,f,,,f,11,2001,,,f,Electric Utility,1,WAT,,,,,10,,,,,EIA860
+134,7862,5,OP,2021,,,Conventional Hydroelectric,HY,Power Creek,S,3,,0.8,2.8,2.7,0.1,f,,,f,11,2001,,,f,Electric Utility,1,WAT,,,,,10,,,,,EIA860
+135,,1,OP,2021,John Deere,6081AFM75,Internal Combustion Engine,IC,,,0.179,,,,,,,,,,9,2017,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+135,,2,OS,2021,John Deere,6981AFM75,Internal Combustion Engine,IC,,,0.179,,,,,,,,,,9,2017,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+135,,3,OS,2021,John Deere,6068AFM75,Internal Combustion Engine,IC,,,0.15,,,,,,,,,,9,2017,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+136,54834,EN-1,RE,2021,,,Petroleum Liquids,IC,,S,1,,,1,1,,,,,f,1,1954,8,2009,f,Commercial Non-CHP,4,DFO,,,,,,,,,,EIA860
+136,54834,EN-2,RE,2021,,,Petroleum Liquids,IC,,S,1,,,1,1,,,,,f,1,1954,8,2009,f,Commercial Non-CHP,4,DFO,,,,,,,,,,EIA860
+136,54834,EN-3,RE,2021,,,Petroleum Liquids,IC,,S,1,,,1,1,,,,,f,1,1954,8,2009,f,Commercial Non-CHP,4,DFO,,,,,,,,,,EIA860
+136,54834,EN-4,SB,2021,,,Petroleum Liquids,IC,,S,1.2,,0.8,1.2,1.2,0.9,f,,,t,1,1959,,,f,Commercial Non-CHP,4,DFO,,,,,60,f,f,f,,EIA860
+136,54834,EN-5,SB,2021,,,Petroleum Liquids,IC,,S,1.2,,0.8,1.2,1.2,0.9,f,,,t,1,1959,,,f,Commercial Non-CHP,4,DFO,,,,,60,f,f,f,,EIA860
+136,54834,EN-6,SB,2021,,,Petroleum Liquids,IC,,S,2.5,,0.8,2.5,2.5,1,f,,,t,1,2010,,,f,Commercial Non-CHP,4,DFO,,,,,10,f,f,f,,EIA860
+136,54834,EN-7,SB,2021,,,Petroleum Liquids,IC,,S,2.5,,0.8,2.5,2.5,1,f,,,t,1,2010,,,f,Commercial Non-CHP,4,DFO,,,,,10,f,f,f,,EIA860
+137,50308,GEN1,OP,2021,,,Conventional Steam Coal,ST,,S,5,,0.8,3.5,4.3,1.5,f,,,f,1,1955,,,t,Electric Utility,1,CL,,CL,,,720,f,f,f,,EIA860
+137,50308,GEN2,RE,2021,,,Conventional Steam Coal,ST,,S,2.5,,,,,,f,,,f,1,1945,12,2009,t,Electric Utility,1,CL,,CL,,,,f,,,,EIA860
+137,50308,GEN3,OP,2021,,,Conventional Steam Coal,ST,,S,5,,0.8,6.2,6.2,1.5,f,,,f,1,1955,,,t,Electric Utility,1,CL,,CL,,,720,f,f,f,,EIA860
+137,50308,GEN4,OP,2021,,,Conventional Steam Coal,ST,,S,5,,0.8,6.2,6.2,1.5,f,,,f,1,1955,,,t,Electric Utility,1,CL,,CL,,,720,f,f,f,,EIA860
+137,50308,GEN5,OP,2021,,,Conventional Steam Coal,ST,,S,5,,0.8,6.2,6.2,1.5,f,,,f,1,1989,,,t,Electric Utility,1,CL,,CL,,,720,f,f,f,,EIA860
+138,58380,1,OP,2021,,,Landfill Gas,IC,,S,2.3,,0.8,1.4,1.4,1,f,,,f,8,2012,,,f,Commercial Non-CHP,4,LFG,NG,,,,10,t,t,f,,EIA860
+138,58380,2,OP,2021,,,Landfill Gas,IC,,S,2.3,,0.8,1.4,1.4,1,f,,,f,8,2012,,,f,Commercial Non-CHP,4,LFG,NG,,,,10,t,t,f,,EIA860
+138,58380,3,OP,2021,,,Landfill Gas,IC,,S,2.3,,0.8,1.4,1.4,1,f,,,f,8,2012,,,f,Commercial Non-CHP,4,LFG,NG,,,,10,t,t,f,,EIA860
+138,58380,4,OP,2021,,,Landfill Gas,IC,,S,2.3,,0.8,1.4,1.4,1,f,,,f,8,2012,,,f,Commercial Non-CHP,4,LFG,NG,,,,10,t,t,f,,EIA860
+138,58380,5,OP,2021,,,Landfill Gas,IC,,S,2.3,,0.8,1.4,1.4,1,f,,,f,8,2013,,,f,Commercial Non-CHP,4,LFG,NG,,,,10,t,t,f,,EIA860
+139,7180,1,OP,2021,John Deere ,6090AFM75,Internal Combustion Engine,IC,,,0.2,,,,,,,,,,10,2013,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+139,7180,2,OP,2021,Scania ,CY9XN12.7DL6,Internal Combustion Engine,IC,,,0.4,,,,,,,,,,10,2013,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+139,7180,3,OP,2021,John Deere ,6090AFM75,Internal Combustion Engine,IC,,,0.2,,,,,,,,,,2,2013,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+139,7180,4,OP,2021,John Deere ,6090AFM75,Internal Combustion Engine,IC,,,0.2,,,,,,,,,,2,2013,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+142,58425,WT1,OP,2021,,,Onshore Wind Turbine,WT,,W,18,,,18,18,0,f,,,f,9,2012,,,f,IPP Non-CHP,2,WND,,,,11,,,,,,EIA860
+144,7437,1A,OP,2021,,,Petroleum Liquids,IC,,S,0.8,,0.8,0.8,0.8,0.4,f,,,f,6,1999,,,f,Electric Utility,1,DFO,,,,,10,f,f,f,,EIA860
+144,7437,2,RE,2021,,,Petroleum Liquids,IC,,S,0.8,,,0.7,0.7,,f,,,f,1,1990,5,2013,f,Electric Utility,1,DFO,,,,,,f,f,f,,EIA860
+144,7437,2A,OP,2021,,,Petroleum Liquids,IC,,S,0.5,,0.8,0.5,0.5,0.3,f,,,f,8,2015,,,f,Electric Utility,1,DFO,,,,0,10,f,f,f,,EIA860
+144,7437,3,RE,2021,,,Petroleum Liquids,IC,,S,0.8,,,0.7,0.7,,f,,,f,1,1990,1,2009,f,Electric Utility,1,DFO,,,,,,f,,,,EIA860
+144,7437,3A,OP,2021,,,Petroleum Liquids,IC,,S,0.8,,0.8,0.8,0.8,0.4,f,,,f,6,2009,9,2022,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+144,7437,4,RE,2021,,,Petroleum Liquids,IC,,S,0.8,,,0.7,0.7,,f,,,f,1,1990,3,2003,f,Electric Utility,1,DFO,,,,,,f,,,,EIA860
+144,7437,4A,OP,2021,,,Petroleum Liquids,IC,,S,1,,0.8,1,1,0.5,f,,,f,5,2004,,,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+144,7437,5,RE,2021,,,Petroleum Liquids,IC,,S,0.8,,,0.7,0.7,,f,,,f,1,1990,6,2008,f,Electric Utility,1,DFO,,,,,,f,,,,EIA860
+144,7437,5A,OP,2021,,,Petroleum Liquids,IC,,S,0.8,,0.8,0.8,0.8,0.4,f,,,f,6,2009,,,f,Electric Utility,1,DFO,,,,,10,f,f,,,EIA860
+144,7437,6,RE,2021,,,Petroleum Liquids,IC,,S,0.5,,0.8,0.5,0.5,0.2,f,,,f,1,2013,10,2016,f,Electric Utility,1,DFO,,,,,10,,f,,,EIA860
+144,7437,6A,RE,2021,,,Petroleum Liquids,IC,,S,0.4,,,0.4,0.4,,f,,,f,8,1997,10,2008,f,Electric Utility,1,DFO,,,,,10,,f,,,EIA860
+145,,1,OP,2021,John Deere,4045AFM85,Internal Combustion Engine,IC,,,0.1,,,,,,,,,,8,2020,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+145,,2,OP,2021,John Deere ,4045AFM85,Internal Combustion Engine,IC,,,0.1,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+145,,3,OP,2021,John Deere ,6068AFM85,Internal Combustion Engine,IC,,,0.145,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+146,57583,BESS,OP,2021,,,Batteries,BA,,S,40,,,40,40,0,f,,,f,12,2003,,,f,Electric Utility,1,MWH,,,,,10,,f,f,,EIA860
+147,56325,6,SB,2021,,,Petroleum Liquids,GT,,S,23.1,,0.9,23.1,26,3,f,,,t,11,1976,,,f,Electric Utility,1,DFO,,,,,60,f,f,f,,EIA860
+148,57935,EVW,OP,2021,,,Onshore Wind Turbine,WT,,S,24.6,,,24.6,24.6,1,f,,,f,1,2013,,,f,Electric Utility,1,WND,,,,12,,f,,,,EIA860
+149,6286,5,SB,2021,,,Petroleum Liquids,IC,,S,2.7,,0.8,2.8,2.8,2.8,f,,,t,5,1970,,,f,Electric Utility,1,DFO,,DFO,,,10,f,f,f,,EIA860
+149,6286,6,SB,2021,,,Petroleum Liquids,IC,,S,2.7,,0.8,2.8,2.8,2.8,f,,,t,9,1970,,,f,Electric Utility,1,DFO,,DFO,,,10,f,f,f,,EIA860
+149,6286,GT1,OP,2021,,,Petroleum Liquids,GT,,S,18.4,,0.85,15.5,17.7,3,f,,,f,5,1971,,,f,Electric Utility,1,DFO,,DFO,,,60,f,f,f,,EIA860
+149,6286,GT2,OP,2021,,,Petroleum Liquids,GT,,S,18.4,,0.85,15,17.7,3,f,,,f,11,1972,,,f,Electric Utility,1,DFO,,DFO,,,60,f,f,f,,EIA860
+150,6288,1,OP,2021,,,Conventional Steam Coal,ST,,S,28,,0.85,25,25,1.5,f,,,f,11,1967,,,f,Electric Utility,1,CL,CL,DFO,,,720,t,t,f,,EIA860
+150,6288,2,OP,2021,,,Conventional Steam Coal,ST,,S,62,,0.85,50,50,8,f,,,f,1,1998,,,f,Electric Utility,1,CL,CL,DFO,,,720,t,t,f,,EIA860
+150,6288,IC1,OP,2021,,,Petroleum Liquids,IC,,S,2.8,,0.8,2.8,2.8,2.5,f,,,f,9,1967,,,f,Electric Utility,1,DFO,,,,,60,f,,f,,EIA860
+151,6285,1,OP,2021,,,Petroleum Liquids,GT,,S,60.5,,0.9,44,60,8,f,,,f,12,1976,,,f,Electric Utility,1,DFO,,DFO,,,60,f,f,f,,EIA860
+151,6285,2,OP,2021,,,Petroleum Liquids,GT,,S,60.5,,0.9,50,64,8,f,,,f,2,1977,,,f,Electric Utility,1,DFO,,DFO,,,60,f,f,f,,EIA860
+151,6285,GT3,OP,2021,,,Petroleum Liquids,CT,,S,47,,0.9,41,53,15,f,,,f,3,2007,,,f,Electric Utility,1,WO,DFO,DFO,,,60,f,f,f,,EIA860
+151,6285,STG1,OP,2021,,,Petroleum Liquids,CA,,S,13,,0.85,10,12,8,f,,,f,3,2007,,,f,Electric Utility,1,WO,DFO,DFO,,,720,f,f,f,,EIA860
+152,,,OP,,,,Solar PV,PV,,,0.563,,,,,,,,,,0,2018,,,,Electric Utility,1,SUN,,,,0,,,,,,AEA
+153,,1,OP,2021,John Deere ,6081AFM75,Internal Combustion Engine,IC,,,0.18,,,,,,,,,,9,2004,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+153,,2,OP,2021,John Deere ,6081AFM75,Internal Combustion Engine,IC,,,0.18,,,,,,,,,,9,2004,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+153,,3,OP,2021,John Deere ,6081AFM75,Internal Combustion Engine,IC,,,0.18,,,,,,,,,,9,2004,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+153,,4,OP,2021,John Deere ,6081AFM75,Internal Combustion Engine,IC,,,0.15,,,,,,,,,,9,2004,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+154,7174,1,RE,2021,,,Petroleum Liquids,IC,,S,0.6,,0.8,0.3,0.4,0.3,,,,f,5,1987,7,2018,f,Electric Utility,1,DFO,,,,,10,f,f,f,,EIA860
+154,7174,10,OP,2021,,,Petroleum Liquids,IC,,S,0.4,,0.98,0.2,0.3,0.2,f,,,f,12,2016,,,t,Electric Utility,1,DFO,,,,,10,f,f,,,EIA860
+154,7174,2A,RE,2021,,,Petroleum Liquids,IC,,S,0.5,,0.8,0.3,0.4,0.2,,,,f,8,2012,8,2015,f,Electric Utility,1,DFO,,,,,10,,f,f,,EIA860
+154,7174,3,RE,2021,,,Petroleum Liquids,IC,,S,0.6,,0.8,0.4,0.5,,,,,f,9,1990,3,2009,f,Electric Utility,1,DFO,,,,,,,,f,,EIA860
+154,7174,4A,RE,2021,,,Petroleum Liquids,IC,,S,0.5,,0.8,0.3,0.4,0.2,,,,f,1,2011,8,2015,f,Electric Utility,1,DFO,,,,,10,,f,,,EIA860
+154,7174,5,RE,2021,,,Petroleum Liquids,IC,,S,0.5,,0.8,0.4,0.5,,,,,f,12,2000,11,2009,f,Electric Utility,1,DFO,,,,,,,,,,EIA860
+154,7174,6,RE,2021,,,Petroleum Liquids,IC,,S,0.5,,0.8,0.3,0.4,0.2,,,,f,11,2009,8,2015,f,Electric Utility,1,DFO,,,,,10,f,f,,,EIA860
+154,7174,7,OP,2021,,,Petroleum Liquids,IC,,S,1,,0.98,0.4,0.6,0.2,f,,,f,10,2015,,,t,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+154,7174,8,OP,2021,,,Petroleum Liquids,IC,,S,1,,0.98,0.4,0.6,0.2,f,,,f,8,2016,,,t,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+154,7174,9,OP,2021,,,Petroleum Liquids,IC,,S,0.4,,0.98,0.2,0.3,0.2,f,,,f,12,2016,,,t,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+155,6292,2,OP,2021,,,Natural Gas Fired Combustion Turbine,GT,,S,20.7,,0.95,17,19,2,f,,,f,11,1971,,,f,Electric Utility,1,NG,,,,,60,f,f,,,EIA860
+155,6292,3,OP,2021,,,Natural Gas Fired Combustion Turbine,GT,,S,28.8,,0.95,22.9,26,5,f,,,f,12,1978,,,f,Electric Utility,1,NG,,,,,60,f,f,,,EIA860
+155,6292,4,OP,2021,,,Natural Gas Fired Combustion Turbine,GT,,S,27.2,,0.95,22.5,26,5,f,,,f,11,1981,,,f,Electric Utility,1,NG,,,,,60,f,f,,,EIA860
+156,7367,1,OP,2021,,,Conventional Hydroelectric,HY,,W,63,,0.95,63,63,63,f,8,2020,f,6,1991,,,f,Electric Utility,1,WAT,,,,,10,f,,,,EIA860
+156,7367,2,OP,2021,,,Conventional Hydroelectric,HY,,W,63,,0.95,63,63,63,f,8,2020,f,6,1991,,,f,Electric Utility,1,WAT,,,,,10,f,,,,EIA860
+157,55966,GT1,OP,2021,,,Natural Gas Fired Combined Cycle,CT,,S,40.8,,0.95,37.9,42,5,f,,,f,9,1986,,,f,Electric Utility,1,NG,,DFO,,,60,f,f,,,EIA860
+157,55966,ST1,OP,2021,,,Natural Gas Fired Combined Cycle,CA,,S,40,,0.95,38,40,13,f,,,f,7,2013,,,f,Electric Utility,1,NG,,DFO,,,720,f,f,,,EIA860
+158,6283,1,RE,2021,,,Petroleum Liquids,IC,,S,0.3,,,0.3,0.3,,,,,f,8,1964,9,2003,f,Electric Utility,1,DFO,,,,,10,f,f,f,,EIA860
+158,6283,2,RE,2021,,,Petroleum Liquids,IC,,S,0.6,,,0.6,0.6,,,,,f,8,1964,9,2003,f,Electric Utility,1,DFO,,,,,10,f,f,f,,EIA860
+158,6283,3,RE,2021,,,Petroleum Liquids,IC,,S,0.6,,,0.6,0.6,,,,,f,8,1970,9,2003,f,Electric Utility,1,DFO,,,,,10,f,f,f,,EIA860
+158,6283,4,RE,2021,,,Petroleum Liquids,IC,,S,0.6,,,0.6,0.6,,f,,,f,8,1979,9,2003,f,Electric Utility,1,DFO,,,,,,f,f,f,,EIA860
+158,6283,5,OP,2021,,,Petroleum Liquids,IC,,S,1.2,,0.9,1.2,1.2,0.1,f,,,f,12,2004,,,f,Electric Utility,1,DFO,,,,,10,f,f,,,EIA860
+158,6283,6,RE,2021,,,Petroleum Liquids,IC,,S,1.2,,0.9,1.2,1.2,0.1,,,,f,12,2004,9,2017,f,Electric Utility,1,DFO,,,,,10,f,f,f,,EIA860
+158,6283,7,OP,2021,,,Petroleum Liquids,IC,,S,1,,0.8,1,1,0.1,f,,,f,10,2017,,,f,Electric Utility,1,DFO,,,,,10,f,f,,,EIA860
+159,4252,1,OP,2021,,,Natural Gas Fired Combustion Turbine,GT,,S,50,,0.95,44,49,5,f,,,f,4,2014,,,f,Electric Utility,1,NG,,NG,,,10,f,f,f,,EIA860
+159,4252,2,IP,2021,,,Natural Gas Fired Combustion Turbine,GT,,S,50,,,44,49,,,,,f,,,,,f,Electric Utility,1,NG,,,,,,f,f,f,,EIA860
+159,4252,3,OP,2020,,,Batteries,BA,,S,46.5,,,46.5,46.5,,,,,f,9,2021,,,f,Electric Utility,1,MWH,,,,,,,,,,EIA-860
+160,,1,OP,2021,John Deere,4045AFM85,Internal Combustion Engine,IC,,,0.078,,,,,,,,,,6,2018,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+160,,2,OP,2021,John Deere,4045AFM85,Internal Combustion Engine,IC,,,0.078,,,,,,,,,,6,2016,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+160,,3,OS,2021,John Deere ,3029TF150BASE,Internal Combustion Engine,IC,,,0.037,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+160,,4,OP,2021,John Deere,6081AFM75E,Internal Combustion Engine,IC,,,0.185,,,,,,,,,,6,2018,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+160,,,OP,,,,Batteries,BA,,,0.25,0.337,,,,,,,,,9,2021,,,,,,MWH,,,,,,,,,,IES website
+160,,,OP,,,,Solar PV,PV,,,0.12,,,,,,,,,,,2019,,,,Electric Utility,1,SUN,,,,0,,,,,,AEA
+161,,1,OP,2021,John Deere,4045TFM75,Internal Combustion Engine,IC,,,0.067,,,,,,,,,,9,2011,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+161,,2,OS,2021,John Deere,4045TFM50,Internal Combustion Engine,IC,,,0.067,,,,,,,,,,10,2019,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+161,,3,OP,2021,John Deere,4045TFM75,Internal Combustion Engine,IC,,,0.067,,,,,,,,,,9,2011,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+161,,,OP,,,,Batteries,BA,,,0.125,,,,,,,,,,12,2021,,,,,,MWH,,,,,,,,,,DOE
+161,,,OP,,,,Hydrokinetic,HA,,,0.035,,,,,,,,,,10,2019,,,,Electric Utility,1,WAT,,,,0,,,,,,DOE
+162,7183,1,RE,2021,,,Petroleum Liquids,IC,,S,0.3,,,0.3,0.3,0,f,,,f,1,1983,9,2012,f,Electric Utility,1,DFO,,,,,10,f,f,f,,EIA860
+162,7183,2,RE,2021,,,Petroleum Liquids,IC,,S,0.3,,,0.3,0.3,0,f,,,f,1,1983,9,2012,f,Electric Utility,1,DFO,,,,,10,f,f,f,,EIA860
+162,7183,3,RE,2021,,,Petroleum Liquids,IC,,S,0.3,,,0.3,0.3,0,f,,,f,1,1983,9,2012,f,Electric Utility,1,DFO,,,,,10,f,f,f,,EIA860
+162,7183,4,RE,2021,,,Petroleum Liquids,IC,,S,0.6,,,0.6,0.6,0,,,,f,1,1989,9,2012,f,Electric Utility,1,DFO,,,,,,,,,,EIA860
+162,7183,5,OP,2021,Scania,DI13 075M,Petroleum Liquids,IC,,S,0.3,,0.8,0.3,0.3,0,f,,,f,9,2012,,,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+162,7183,6,OP,2021,Scania,DI13 075M,Petroleum Liquids,IC,,S,0.3,,0.8,0.3,0.3,0,f,,,f,9,2012,,,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+162,7183,7,OP,2021,Scania CV AB,DI13 075M,Petroleum Liquids,IC,,S,0.3,,0.8,0.3,0.3,0,f,,,f,9,2012,,,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+162,7183,H-1,OP,2021,,,Conventional Hydroelectric,HY,Tazimina,S,0.4,,0.8,0.4,0.4,0,f,7,2013,f,9,1998,,,f,Electric Utility,1,WAT,,,,,60,f,,,,EIA860
+162,7183,H-2,OP,2021,,,Conventional Hydroelectric,HY,Tazimina,S,0.4,,0.8,0.4,0.4,0,f,7,2013,f,9,1998,,,f,Electric Utility,1,WAT,,,,,60,,,,,EIA860
+163,7462,1,RE,2021,,,Petroleum Liquids,IC,,S,0.4,,,0.4,0.4,,f,,,f,6,1975,9,2008,f,Electric Utility,1,DFO,,,,,10,f,f,f,,EIA860
+163,7462,1A,OP,2021,,,Petroleum Liquids,IC,,S,0.5,,0.8,0.5,0.5,0.1,f,,,f,8,2009,,,f,Electric Utility,1,DFO,JF,,,,10,f,f,f,,EIA860
+163,7462,2A,OP,2021,,,Petroleum Liquids,IC,,S,0.5,,0.8,0.5,0.5,0.1,f,,,f,10,1998,,,f,Electric Utility,1,DFO,JF,,,,10,f,f,f,,EIA860
+163,7462,3,OP,2021,,,Petroleum Liquids,IC,,S,0.5,,0.8,0.5,0.5,0.1,f,,,f,5,1990,,,f,Electric Utility,1,DFO,JF,,,,10,f,,,,EIA860
+164,7463,1,RE,2021,,,Petroleum Liquids,IC,,S,0.6,,,0.6,0.6,,f,,,f,9,1977,6,2012,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+164,7463,2A,OP,2021,,,Petroleum Liquids,IC,,S,1,,0.8,1,1,0.1,f,,,f,7,1997,,,f,Electric Utility,1,DFO,JF,,,,10,f,,,,EIA860
+164,7463,3,RE,2021,,,Petroleum Liquids,IC,,S,0.8,,0.8,0.5,0.5,0.1,f,,,f,3,1991,6,2012,f,Electric Utility,1,DFO,,,,,,f,,,,EIA860
+164,7463,3A,OP,2021,,,Petroleum Liquids,IC,,S,0.5,,0.8,0.5,0.5,0.1,f,,,f,8,2012,,,f,Electric Utility,1,DFO,JF,,,,10,f,,,,EIA860
+164,7463,4,OP,2021,,,Petroleum Liquids,IC,,S,0.5,,0.8,0.5,0.5,0.1,f,,,f,8,2012,,,f,Electric Utility,1,DFO,JF,,,,10,f,,,,EIA860
+164,7463,,OP,,,,Conventional Hydroelectric,HY,Gartina Galls,,0.45,,,,,,,,,,9,2015,,,,Electric Utility,1,WAT,,,,0,,,,,,
+165,7464,1,RE,2021,,,Petroleum Liquids,IC,,S,0.6,,,0.6,0.6,,f,,,f,6,1984,1,2012,f,Electric Utility,1,DFO,,,,,10,,,,,EIA860
+165,7464,1A,RE,2021,,,Petroleum Liquids,IC,,S,0.5,,0.8,0.5,0.5,0.1,f,,,f,3,2012,9,2017,f,Electric Utility,1,DFO,JF,,,,10,f,,,,EIA860
+165,7464,1B,OP,2021,,,Petroleum Liquids,IC,,S,0.5,,0.8,0.5,0.5,0.1,f,,,f,9,2017,,,f,Electric Utility,1,DFO,JF,,,,10,f,,,,EIA860
+165,7464,2,OP,2021,,,Petroleum Liquids,IC,,S,1.1,,0.8,1.1,1.1,0.1,f,,,f,5,1993,,,f,Electric Utility,1,DFO,JF,,,,10,f,,,,EIA860
+165,7464,2A,OP,2021,,,Petroleum Liquids,IC,,S,0.5,,0.8,0.5,0.5,0.1,f,,,f,9,2017,,,f,Electric Utility,1,DFO,JF,,,,10,f,,,,EIA860
+165,7464,3A,RE,2021,,,Petroleum Liquids,IC,,S,0.8,,0.8,0.8,0.8,0.1,f,,,f,12,1993,9,2017,f,Electric Utility,1,DFO,JF,,,,10,f,,,,EIA860
+165,7464,3B,OP,2021,,,Petroleum Liquids,IC,,S,0.5,,0.8,0.5,0.5,0.1,f,,,f,9,2017,,,f,Electric Utility,1,DFO,JF,,,,10,f,,,,EIA860
+165,7464,4,OP,2021,,,Petroleum Liquids,IC,,S,0.5,,0.8,0.5,0.5,0.1,f,,,f,9,2017,,,f,Electric Utility,1,DFO,JF,,,,10,f,,,,EIA860
+165,7464,,OP,,,,Conventional Hydroelectric,HY,Gunnuk Creek,,0.5,,,,,,,,,,9,2020,,,,Electric Utility,1,WAT,,,,0,,,,,,
+166,7467,,OP,,,,Conventional Hydroelectric,HY,10 Mile river,,0.55,,,,,,,,,,,2000,,,,Electric Utility,1,WAT,,,,0,,,,,,AEA
+169,,1,OS,2021,John Deere,SE500728,Internal Combustion Engine,IC,,,0,,,,,,,,,,2,2005,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+169,,2,OS,2021,"John Deere, Engine 2 is brand new and is not yet done being installed.",6081AFM75,Internal Combustion Engine,IC,,,0.2,,,,,,,,,,2,2021,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+169,,3,OP,2021,Cummins ,LTA-10G3,Internal Combustion Engine,IC,,,0,,,,,,,,,,2,2005,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+169,,4,OP,2021,Cummins ,LTA-10G3,Internal Combustion Engine,IC,,,0.17,,,,,,,,,,2,2004,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+169,,,OP,,,,Solar PV,PV,,,0.0485,,,,,,,,,,1,2017,,,,Electric Utility,1,SUN,,,,1,,,,,Grant in 2015. VIF? ,AEA
+169,,,OP,,,,Batteries,BA,,,0.277,0.098,,,,,,,,,,2019,,,,,,MWH,,,,,,,,,,DOE
+169,,,OP,,,,Onshore Wind Turbine,WT,,,0.1,,,,,,,,,,1,2017,,,,Electric Utility,1,WND,,,,1,,,,,,AEA
+171,6580,1,OP,2021,,,Conventional Hydroelectric,HY,,S,1,,0.8,1,1,0.3,f,,,f,1,1947,,,f,Electric Utility,1,WAT,,,,,60,,,,,EIA860
+171,6580,3,OP,2021,,,Conventional Hydroelectric,HY,,S,2.2,,0.88,2.2,1.8,0.3,f,,,f,1,1954,,,f,Electric Utility,1,WAT,,,,,60,,,,,EIA860
+171,6580,4,OP,2021,,,Conventional Hydroelectric,HY,,S,2.2,,0.88,2.2,1.8,0.3,f,,,f,1,1954,,,f,Electric Utility,1,WAT,,,,,60,,,,,EIA860
+172,84,3,OP,2021,,,Conventional Hydroelectric,HY,,S,1.4,,0.8,1.4,1.1,0.3,f,,,f,1,1952,,,f,Electric Utility,1,WAT,,,,,60,,,,,EIA860
+172,84,4,OP,2021,,,Conventional Hydroelectric,HY,,S,1.4,,0.8,1.4,1.1,0.3,f,,,f,1,1938,,,f,Electric Utility,1,WAT,,,,,60,,,,,EIA860
+172,84,5,OP,2021,,,Conventional Hydroelectric,HY,,S,1.4,,0.8,1.4,1.1,0.3,f,,,f,1,1954,,,f,Electric Utility,1,WAT,,,,,60,,,,,EIA860
+173,85,1,OP,2021,,,Petroleum Liquids,IC,,S,4.5,,0.8,3.5,3.5,2,f,,,f,1,1969,,,f,Electric Utility,1,DFO,,,,,60,f,,,,EIA860
+173,85,2,OP,2021,,,Petroleum Liquids,IC,,S,4.5,,0.8,3.5,3.5,2,f,,,f,1,1970,,,f,Electric Utility,1,DFO,,,,,60,f,,,,EIA860
+173,85,3,OP,2021,,,Petroleum Liquids,IC,,S,6.4,,0.8,5.5,5.5,3,f,,,f,1,1976,,,f,Electric Utility,1,DFO,,,,,60,f,,,,EIA860
+173,85,4,OP,2021,,,Petroleum Liquids,IC,,S,10.5,,0.8,10.5,10.5,3.5,f,,,f,10,1998,,,f,Electric Utility,1,DFO,,,,,60,f,,,,EIA860
+174,6581,1,OP,2021,,,Conventional Hydroelectric,HY,,S,2.1,,0.84,2.1,2.1,0.1,f,,,f,1,1968,,,f,Electric Utility,1,WAT,,,,,60,,,,,EIA860
+175,70,1,OP,2021,,,Conventional Hydroelectric,HY,,S,11.3,,0.9,11.3,11.3,1,f,,2020,f,6,1984,,,f,Commercial Non-CHP,4,WAT,,,,,10,,,,,EIA860
+175,70,2,OP,2021,,,Conventional Hydroelectric,HY,,S,11.3,,0.9,11.3,11.3,1,f,,2020,f,6,1984,,,f,Commercial Non-CHP,4,WAT,,,,,10,,,,,EIA860
+176,58977,WPG-1,OP,2021,,,Conventional Hydroelectric,HY,,S,3.9,,0.8,3.9,3.9,0.4,f,,,f,1,2015,,,f,Electric Utility,1,WAT,,,,,10,,,,,EIA860
+176,58977,WPG-2,OP,2021,,,Conventional Hydroelectric,HY,,S,0.9,,0.8,0.9,0.9,0.3,f,,,f,1,2015,,,f,Electric Utility,1,WAT,,,,,10,,,,,EIA860
+177,7493,1,OP,2021,,,Petroleum Liquids,IC,,S,0.3,,0.8,0.3,0.3,0.2,f,,,f,2,1980,,,f,Electric Utility,1,DFO,,,,,10,f,f,,,EIA860
+177,7493,2,OP,2021,,,Petroleum Liquids,IC,,S,0.5,,0.8,0.4,0.4,0.2,f,,,f,1,1986,,,f,Electric Utility,1,DFO,,,,,10,f,f,,,EIA860
+177,7493,3,OP,2021,,,Petroleum Liquids,IC,,S,0.7,,0.8,0.6,0.6,0.6,f,,,f,6,1992,,,f,Electric Utility,1,DFO,,,,,10,f,f,f,,EIA860
+177,7493,4,OP,2021,,,Conventional Hydroelectric,HY,Delta Creek,S,0.8,,0.8,0.7,0.2,0.6,f,,,f,2,1995,,,f,Electric Utility,1,WAT,,,,,10,f,,,,EIA860
+177,7493,5,OP,2021,,,Petroleum Liquids,IC,,S,0.3,,0.8,0.3,0.3,0.2,f,,,f,2,1980,,,f,Electric Utility,1,DFO,,,,,10,f,f,,,EIA860
+177,7493,,OP,,,,Conventional Hydroelectric,HY,Waterfall Creek,,0.4,,,,,,,,,,5,2017,,,,Electric Utility,1,WAT,,,,0,,,,,,AEA
+178,,1,OS,2021,Detroit Diesel ,6063TK35,Internal Combustion Engine,IC,,,0.47,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+178,,2,OP,2021,Detroit Diesel ,6063TK35,Internal Combustion Engine,IC,,,0.47,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+178,,3,OP,2021,Detroit Diesel ,6063TK35,Internal Combustion Engine,IC,,,0.47,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+178,,,OP,,,,Onshore Wind Turbine,WT,,,0.57,,,,,,,,,,,2019,,,,,,WND,,,,,,,,,,IES website
+179,,1,OP,2021,Caterpillar ,C-9,Internal Combustion Engine,IC,,,0.18,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+180,58405,1,OP,2021,,,Batteries,BA,,S,3,,,3,3,0,f,,,f,11,2012,,,f,Electric Utility,1,MWH,,,,,10,,,,,EIA860
+181,60563,FESS,OP,2021,,,Flywheels,FW,,S,2,,,2,2,0,f,,,f,9,2015,,,f,Electric Utility,1,MWH,,,,,10,,,,,EIA860
+182,6281,1,OP,2021,,,Petroleum Liquids,IC,,S,2.5,,0.9,2.5,2.5,0.6,f,,,f,12,1976,,,f,Electric Utility,1,DFO,,,,,60,f,f,f,,EIA860
+182,6281,2,RE,2021,,,Petroleum Liquids,IC,,S,5.2,,,5.2,5.2,,f,,,f,12,1976,7,2003,f,Electric Utility,1,DFO,,,,,,f,,,,EIA860
+182,6281,2c,OP,2021,,,Petroleum Liquids,IC,,S,4.4,,0.9,4.4,4.4,1.1,f,,,f,6,2005,,,f,Electric Utility,1,DFO,,,,,60,f,f,f,,EIA860
+182,6281,3,RE,2021,,,Petroleum Liquids,IC,,S,5.2,,,5.2,5.2,,f,,,f,12,1976,4,2004,f,Electric Utility,1,DFO,,,,,,f,,,,EIA860
+182,6281,3c,OP,2021,,,Petroleum Liquids,IC,,S,4.4,,0.9,4.4,4.4,1.1,f,,,f,6,2005,,,f,Electric Utility,1,DFO,,,,,60,f,f,f,,EIA860
+182,6281,4,OP,2021,,,Petroleum Liquids,IC,,S,7,,0.9,7,7,2.5,f,,,f,7,1981,,,f,Electric Utility,1,DFO,,,,,60,f,f,f,,EIA860
+182,6281,6,RE,2021,,,Petroleum Liquids,IC,,S,2,,,2,2,,f,,,f,2,1968,4,2004,f,Electric Utility,1,DFO,,,,,,,,,,EIA860
+182,6281,7,RE,2021,,,Petroleum Liquids,IC,,S,2,,,2,2,,f,,,f,2,1968,4,2002,f,Electric Utility,1,DFO,,,,,,,,,,EIA860
+182,6281,8,RE,2021,,,Petroleum Liquids,IC,,S,2.6,,,2,2,,f,,,f,12,1968,4,2002,f,Electric Utility,1,DFO,,,,,,,,,,EIA860
+182,6281,9,RE,2021,,,Petroleum Liquids,IC,,S,2,,,2,2,,f,,,f,12,1968,4,2002,f,Electric Utility,1,DFO,,,,,,,,,,EIA860
+183,7723,1,OP,2021,,,Petroleum Liquids,IC,,S,2.5,,0.9,2.5,2.5,1,f,,,f,1,1994,,,f,Electric Utility,1,DFO,,,,,60,f,f,f,,EIA860
+183,7723,2,OP,2021,,,Petroleum Liquids,IC,,S,7.5,,0.9,7.3,7.4,1,f,,,f,1,2000,,,f,Electric Utility,1,DFO,,,,,60,f,f,f,,EIA860
+184,57187,1,OP,2021,,,Onshore Wind Turbine,WT,,S,4.5,,,4.5,4.5,0,f,,,f,6,2009,,,f,Electric Utility,1,WND,,,,3,,,,,,EIA860
+184,57187,2,OP,2021,,,Onshore Wind Turbine,WT,,S,4.5,,,4.5,4.5,0,f,,,f,9,2012,,,f,Electric Utility,1,WND,,,,3,,,,,,EIA860
+185,6282,1,RE,2021,,,Petroleum Liquids,IC,,S,0.3,,0.9,0.3,0.3,0.1,f,,,f,8,1968,10,2017,f,Electric Utility,1,DFO,,,,,60,f,f,f,,EIA860
+185,6282,2,RE,2021,,,Petroleum Liquids,IC,,S,0.3,,0.9,0.2,0.2,0.1,f,,,f,8,1968,10,2017,f,Electric Utility,1,DFO,,,,,60,f,,,,EIA860
+185,6282,3,RE,2021,,,Petroleum Liquids,IC,,S,0.2,,0.9,0.2,0.2,0.1,f,,,f,6,1971,10,2017,f,Electric Utility,1,DFO,,,,,60,f,,,,EIA860
+185,6282,4,RE,2021,,,Petroleum Liquids,IC,,S,0.2,,0.9,0.2,0.2,0.1,f,,,f,8,1975,10,2017,f,Electric Utility,1,DFO,,,,,1440,f,,,,EIA860
+185,6282,5,OP,2021,,,Petroleum Liquids,IC,,S,0.5,,0.8,0.5,0.5,0.1,f,,,f,9,2017,,,f,Electric Utility,1,DFO,,,,,60,f,f,f,,EIA860
+186,60250,13,OP,2021,,,Petroleum Liquids,IC,,S,4.4,,0.8,4.4,4.4,3.2,f,,,f,4,2015,,,f,Electric Utility,1,DFO,,,,,60,f,,,,EIA860
+186,60250,6A,OP,2021,,,Petroleum Liquids,IC,,S,2,,0.9,2,2,1.5,f,,,f,6,2002,,,f,Electric Utility,1,DFO,,,,,10,f,f,f,,EIA860
+186,60250,7A,OP,2021,,,Petroleum Liquids,IC,,S,2,,0.9,2,2,1.5,f,,,f,2,2002,,,f,Electric Utility,1,DFO,,,,,10,f,f,f,,EIA860
+187,71,1,OP,2021,,,Conventional Hydroelectric,HY,,S,11.2,,0.9,11.2,11.2,0.3,f,12,2019,f,12,1984,,,f,Electric Utility,1,WAT,,,,,720,f,,,,EIA860
+187,71,2,OP,2021,,,Conventional Hydroelectric,HY,,S,11.2,,0.9,11.2,11.2,0.3,f,12,2019,f,12,1984,,,f,Electric Utility,1,WAT,,,,,720,f,,,,EIA860
+187,71,3,OP,2021,,,Conventional Hydroelectric,HY,,S,11.2,,0.9,11.2,11.2,0.3,f,12,2019,f,2,2014,,,f,Electric Utility,1,WAT,,,,,720,f,,,,EIA860
+188,,1,OP,2021,John Deere ,4045TFM75,Internal Combustion Engine,IC,,,0.07,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+188,,2,OP,2021,John Deere,6081AFM75,Internal Combustion Engine,IC,,,0.185,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+188,,3,OP,2021,John Deere,6081AF001,Internal Combustion Engine,IC,,,0.21,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+188,,4,OP,2021,John Deere,4045HF485,Internal Combustion Engine,IC,,,0.117,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+188,,,OP,,,,Onshore Wind Turbine,WT,,,0.19,,,,,,,,2020,,1,2011,,,,Electric Utility,1,WND,,,,2,,,,,,IES
+189,6304,10,OP,2021,,,Petroleum Liquids,IC,,S,3,,0.8,3,3,1.5,f,,,f,12,1992,,,f,Electric Utility,1,DFO,,,,,720,f,f,f,,EIA860
+189,6304,10wt,RE,2021,,,Onshore Wind Turbine,WT,,S,0.1,,,0.1,0.1,0.1,f,,,f,7,1999,5,2020,f,Electric Utility,1,WND,,,,1,,,,,,EIA860
+189,6304,11,RE,2021,,,Petroleum Liquids,IC,,S,1,,,1,1,,f,,,f,7,1994,8,2013,f,Electric Utility,1,DFO,,,,,720,f,f,f,,EIA860
+189,6304,11wt,OP,2021,,,Onshore Wind Turbine,WT,,S,0.1,,,0.1,0.1,0.1,f,,,f,5,2005,5,2025,f,Electric Utility,1,WND,,,,1,,,,,,EIA860
+189,6304,12,RE,2021,,,Petroleum Liquids,IC,,S,1,,,1,1,1,f,,,f,7,1994,7,2012,f,Electric Utility,1,DFO,,,,,,f,f,f,,EIA860
+189,6304,12wt,RE,2021,,,Onshore Wind Turbine,WT,,S,0.1,,,0.1,0.1,0.1,f,,,f,5,2005,5,2020,f,Electric Utility,1,WND,,,,1,,,,,,EIA860
+189,6304,13WT,OP,2021,,,Onshore Wind Turbine,WT,,S,0.1,,,0.1,0.1,0.1,f,,,f,5,2006,5,2025,f,Electric Utility,1,WND,,,,1,,,,,,EIA860
+189,6304,14,OP,2021,,,Petroleum Liquids,IC,,S,2.8,,0.8,2.8,2.8,1,f,,,f,7,1994,,,f,Electric Utility,1,DFO,,,,,720,f,f,f,,EIA860
+189,6304,14wt,OP,2021,,,Onshore Wind Turbine,WT,,S,0.1,,,0.1,0.1,0.1,f,,,f,5,2002,5,2025,f,Electric Utility,1,WND,,,,1,,,,,,EIA860
+189,6304,15,OP,2021,,,Petroleum Liquids,IC,,S,2.8,,0.8,2.8,2.8,1,f,,,f,2,2006,,,f,Electric Utility,1,DFO,,,,,720,f,f,f,,EIA860
+189,6304,15WT,OP,2021,,,Onshore Wind Turbine,WT,,S,0.1,,,0.1,0.1,0.1,f,,,f,5,2006,5,2025,f,Electric Utility,1,WND,,,,1,,,,,,EIA860
+189,6304,16,OP,2021,,,Petroleum Liquids,IC,,S,1.4,,0.8,1.4,1.4,0.6,f,,,f,8,2013,,,f,Electric Utility,1,DFO,,,,,720,f,,f,,EIA860
+189,6304,16WT,OP,2021,,,Onshore Wind Turbine,WT,,S,0.1,,,0.1,0.1,0.1,f,,,f,5,2006,5,2025,f,Electric Utility,1,WND,,,,1,,,,,,EIA860
+189,6304,17,OP,2021,,,Petroleum Liquids,IC,,S,0.7,,0.8,0.7,0.7,0.1,f,,,f,5,2016,,,f,Electric Utility,1,DFO,,,,,720,f,f,f,,EIA860
+189,6304,17WT,OP,2021,,,Onshore Wind Turbine,WT,,S,0.1,,,0.1,0.1,0.1,f,,,f,5,2006,5,2025,f,Electric Utility,1,WND,,,,1,,,,,,EIA860
+189,6304,18WT,OP,2021,,,Onshore Wind Turbine,WT,,S,0.9,,,0.9,0.9,0.9,f,,,f,5,2012,,,f,Electric Utility,1,WND,,,,1,,,,,,EIA860
+189,6304,19WT,OP,2021,,,Onshore Wind Turbine,WT,,S,0.9,,,0.9,0.9,0.9,f,,,f,5,2012,,,f,Electric Utility,1,WND,,,,1,,,,,,EIA860
+189,6304,1WT,OP,2021,,,Onshore Wind Turbine,WT,,S,0.6,,,0.6,0.6,0.6,f,,,f,5,1999,5,2025,f,Electric Utility,1,WND,,,,10,,,,,,EIA860
+189,6304,2WT,OP,2021,,,Onshore Wind Turbine,WT,,S,0.1,,,0.1,0.1,0.1,f,,,f,5,1999,5,2025,f,Electric Utility,1,WND,,,,1,,,,,,EIA860
+189,6304,3WT,OP,2021,,,Onshore Wind Turbine,WT,,S,0.2,,,0.2,0.2,0.1,f,,,f,1,1997,5,2025,f,Electric Utility,1,WND,,,,3,,,,,,EIA860
+189,6304,4WT,RE,2021,,,Onshore Wind Turbine,WT,,S,0.5,,,0.5,0.5,0.1,f,,,f,1,1999,5,2020,f,Electric Utility,1,WND,,,,7,,,,,,EIA860
+189,6304,5WT,RE,2021,,,Onshore Wind Turbine,WT,,S,0.1,,,0.1,0.1,0.1,f,,,f,1,2002,5,2020,f,Electric Utility,1,WND,,,,1,,,,,,EIA860
+189,6304,6WT,RE,2021,,,Onshore Wind Turbine,WT,,S,0.1,,,0.1,0.1,0.1,f,,,f,1,2005,5,2020,f,Electric Utility,1,WND,,,,2,,,,,,EIA860
+189,6304,7A,OP,2021,,,Petroleum Liquids,IC,,S,1.1,,0.8,1.1,1.1,0.4,f,,,f,8,1987,,,f,Electric Utility,1,DFO,,,,,720,f,f,f,,EIA860
+189,6304,7WT,RE,2021,,,Onshore Wind Turbine,WT,,S,0.1,,,0.1,0.1,0.1,f,,,f,2,2006,5,2020,f,Electric Utility,1,WND,,,,4,,,,,,EIA860
+189,6304,8WT,RE,2021,,,Onshore Wind Turbine,WT,,S,0.1,,,0.1,0.1,0.1,f,,,f,7,1999,5,2020,f,Electric Utility,1,WND,,,,1,,,,,,EIA860
+189,6304,9,RE,2021,,,Petroleum Liquids,IC,,S,2.1,,,2.1,2.1,,f,,,f,12,1983,10,2004,f,Electric Utility,1,DFO,,,,,,,,,,EIA860
+189,6304,9wt,RE,2021,,,Onshore Wind Turbine,WT,,S,0.1,,,0.1,0.1,0.1,f,,,f,7,1999,5,2020,f,Electric Utility,1,WND,,,,1,,,,,,EIA860
+189,6304,ES1,OP,2021,,,Batteries,BA,,S,1.2,,,1.2,1.2,0,f,,,f,12,2015,,,f,Electric Utility,1,MWH,,,,,10,,,,,EIA860
+189,6304,PV1,OP,2021,,,Solar Photovoltaic,PV,,S,0.1,,,0.1,0.1,0.1,f,,,f,7,2020,7,2040,f,Electric Utility,1,SUN,,,,,,,,,,EIA860
+189,6304,PV2,OP,2021,,,Solar Photovoltaic,PV,,S,0.1,,,0.1,0.1,0.1,f,,,f,7,2020,7,2040,f,Electric Utility,1,SUN,,,,,,,,,,EIA860
+189,6304,PV3,OP,2021,,,Solar Photovoltaic,PV,,S,0.1,,,0.1,0.1,0.1,f,,,f,7,2020,7,2040,f,Electric Utility,1,SUN,,,,,,,,,,EIA860
+189,6304,PV4,OP,2021,,,Solar Photovoltaic,PV,,S,0.1,,,0.1,0.1,0.1,f,,,f,7,2020,7,2040,f,Electric Utility,1,SUN,,,,,,,,,,EIA860
+189,6304,PV5,OP,2021,,,Solar Photovoltaic,PV,,S,0.1,,,0.1,0.1,0.1,f,,,f,7,2020,7,2040,f,Electric Utility,1,SUN,,,,,,,,,,EIA860
+189,6304,PV6,OP,2021,,,Solar Photovoltaic,PV,,S,0.1,,,0.1,0.1,0.1,f,,,f,7,2020,7,2040,f,Electric Utility,1,SUN,,,,,,,,,,EIA860
+189,6304,PV7,OP,2021,,,Solar Photovoltaic,PV,,S,0.1,,,0.1,0.1,0.1,f,,,f,7,2020,7,2040,f,Electric Utility,1,SUN,,,,,,,,,,EIA860
+189,6304,PV8,OP,2021,,,Solar Photovoltaic,PV,,S,0.1,,,0.1,0.1,0.1,f,,,f,7,2020,7,2040,f,Electric Utility,1,SUN,,,,,,,,,,EIA860
+190,,1,OP,2021,John Deere ,4045TFM75,Internal Combustion Engine,IC,,,0.064,,,,,,,,,,8,2006,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+190,,2,OP,2021,John Deere ,4045AFM85E,Internal Combustion Engine,IC,,,0,,,,,,,,,,9,2014,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+190,,3,OS,2021,John Deere ,PE3029TF150BASE - 2.9 L,Internal Combustion Engine,IC,,,0.037,,,,,,,,,,9,2006,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+190,,4,OS,2021,John Deere ,PE3029TF150BASE - 2.9 L,Internal Combustion Engine,IC,,,0.037,,,,,,,,,,9,2020,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+191,,1,OP,2021,Caterpillar ,Tag m3456,Internal Combustion Engine,IC,,,0.41,,,,,,,,,,10,2009,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+191,,2,OP,2021,Caterpillar ,3456,Internal Combustion Engine,IC,,,0.41,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+191,,3,OS,2021,John Deere ,6081HF070,Internal Combustion Engine,IC,,,0.28,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+192,,1,OS,2021,Engine Missing,No Engine/No Tag,Internal Combustion Engine,IC,,,0.168,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+192,,2,OS,2021,John Deere ,6090hf485,Internal Combustion Engine,IC,,,0.25,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+192,,3,OP,2021,John Deere ,6090AFM75,Internal Combustion Engine,IC,,,0.23,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+192,,4,OP,2021,John Deere ,6135AFM75,Internal Combustion Engine,IC,,,0.38,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+192,,,OP,,,,Onshore Wind Turbine,WT,,,0.475,,,,,,,,,,6,2013,,,,Electric Utility,1,WND,,,,5,,,,,,AEA
+192,,,OP,,,,Batteries,BA,,,0.295,0.135,,,,,,,,,,2014,,,,,,MWH,,,,,,,,,,
+193,,,OP,,,,Conventional Hydroelectric,HY,,,0.475,,,,,,,1,2009,,,1991,,,,Electric Utility,1,WAT,,,,0,,,,,,AEA
+194,,1,OS,2021,John Deere ,6068TFM76,Internal Combustion Engine,IC,,,0.1,,,,,,,,,,2,2009,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+194,,2,OP,2021,John Deere ,4045AFM85,Internal Combustion Engine,IC,,,0.067,,,,,,,,,,2,2009,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+194,,3,OP,2021,John Deere ,4045TFM75,Internal Combustion Engine,IC,,,0.067,,,,,,,,,,2,2009,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+195,,,OS,,,,Solar PV,PV,,,0.012,,,,,,,,,,,2001,,,,Electric Utility,1,SUN,,,,0,,,,,,AEA
+196,,1,OP,2021,Caterpillar ,C9.3 ACERT,Internal Combustion Engine,IC,,,0.3,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+196,,2,OP,2021,Caterpillar ,C9.3. ACERT,Internal Combustion Engine,IC,,,0.3,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+197,58989,EGS01,OP,2021,,,Natural Gas Internal Combustion Engine,IC,,S,17.1,,0.8,16.5,16.5,6.6,f,,,f,4,2015,,,f,Electric Utility,1,NG,DFO,,,,10,t,f,t,,EIA860
+197,58989,EGS02,OP,2021,,,Natural Gas Internal Combustion Engine,IC,,S,17.1,,0.8,16.5,16.5,6.6,f,,,f,4,2015,,,f,Electric Utility,1,NG,DFO,,,,10,t,f,t,,EIA860
+197,58989,EGS03,OP,2021,,,Natural Gas Internal Combustion Engine,IC,,S,17.1,,0.8,16.5,16.5,6.6,f,,,f,4,2015,,,f,Electric Utility,1,NG,DFO,,,,10,t,f,t,,EIA860
+197,58989,EGS04,OP,2021,,,Natural Gas Internal Combustion Engine,IC,,S,17.1,,0.8,16.5,16.5,6.6,f,,,f,4,2015,,,f,Electric Utility,1,NG,DFO,,,,10,t,f,t,,EIA860
+197,58989,EGS05,OP,2021,,,Natural Gas Internal Combustion Engine,IC,,S,17.1,,0.8,16.5,16.5,6.6,f,,,f,4,2015,,,f,Electric Utility,1,NG,DFO,,,,10,t,f,t,,EIA860
+197,58989,EGS06,OP,2021,,,Natural Gas Internal Combustion Engine,IC,,S,17.1,,0.8,16.5,16.5,6.6,f,,,f,4,2015,,,f,Electric Utility,1,NG,DFO,,,,10,t,f,t,,EIA860
+197,58989,EGS07,OP,2021,,,Natural Gas Internal Combustion Engine,IC,,S,17.1,,0.8,16.5,16.5,6.6,f,,,f,2,2015,,,f,Electric Utility,1,NG,DFO,,,,10,t,f,t,,EIA860
+197,58989,EGS08,OP,2021,,,Natural Gas Internal Combustion Engine,IC,,S,17.1,,0.8,16.5,16.5,6.6,f,,,f,2,2015,,,f,Electric Utility,1,NG,DFO,,,,10,t,f,t,,EIA860
+197,58989,EGS09,OP,2021,,,Natural Gas Internal Combustion Engine,IC,,S,17.1,,0.8,16.5,16.5,6.6,f,,,f,2,2015,,,f,Electric Utility,1,NG,DFO,,,,10,t,f,t,,EIA860
+197,58989,EGS10,OP,2021,,,Natural Gas Internal Combustion Engine,IC,,S,17.1,,0.8,16.5,16.5,6.6,f,,,f,2,2015,,,f,Electric Utility,1,NG,DFO,,,,10,t,f,t,,EIA860
+198,6555,11,OP,2021,,,Petroleum Liquids,IC,,S,0.4,,0.8,0.4,0.4,0.1,f,,,f,4,2021,,,f,Electric Utility,1,DFO,,,,0,10,f,,,,EIA860
+198,6555,12,OP,2021,,,Petroleum Liquids,IC,,S,0.4,,0.8,0.4,0.4,0.1,f,,,f,4,2021,,,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+198,6555,13,OP,2021,,,Petroleum Liquids,IC,,S,0.4,,0.8,0.4,0.4,0.1,f,,,f,4,2021,,,f,Electric Utility,1,DFO,,,,0,10,f,,,,EIA860
+198,6555,14,OP,2021,,,Petroleum Liquids,IC,,S,0.4,,0.8,0.4,0.4,0.1,f,,,f,4,2021,,,f,Electric Utility,1,DFO,,,,0,10,f,,,,EIA860
+198,6555,3,RE,2021,,,Petroleum Liquids,IC,,S,0.2,,,0.2,0.2,0,,,,f,8,1979,10,2010,f,Electric Utility,1,DFO,,,,,,f,,,,EIA860
+198,6555,3A,RE,2021,,,Petroleum Liquids,IC,,S,0.5,,0.8,0.5,0.5,0.1,f,,,f,5,2011,4,2021,f,Electric Utility,1,DFO,,,,,10,f,f,f,,EIA860
+198,6555,4,RE,2021,,,Petroleum Liquids,IC,,S,0.2,,,0.1,0.2,0,,,,f,8,1979,10,2010,f,Electric Utility,1,DFO,,,,,,f,,,,EIA860
+198,6555,4A,RE,2021,,,Petroleum Liquids,IC,,S,0.5,,0.8,0.5,0.5,0.1,f,,,f,2,2011,4,2021,f,Electric Utility,1,DFO,,,,,10,f,f,f,,EIA860
+198,6555,5,RE,2021,,,Petroleum Liquids,IC,,S,0.6,,,0.6,0.6,0,,,,f,8,1979,10,2010,f,Electric Utility,1,DFO,,,,,,,,,,EIA860
+198,6555,6,RE,2021,,,Petroleum Liquids,IC,,S,0.6,,0.8,0.6,0.6,0.1,f,,,f,12,1988,4,2021,f,Electric Utility,1,DFO,,,,,10,f,f,f,,EIA860
+198,6555,7,RE,2021,,,Petroleum Liquids,IC,,S,0.6,,0.8,0.6,0.6,0.1,f,,,f,4,1993,4,2021,f,Electric Utility,1,DFO,,,,,10,f,f,f,,EIA860
+199,7112,IC6,OP,2021,,,Petroleum Liquids,IC,,S,3.3,,0.8,3.3,3.3,0.2,f,,,f,4,1987,,,f,Electric Utility,1,DFO,,,,,10,f,f,f,,EIA860
+199,7112,IC7,RE,2021,,,Petroleum Liquids,IC,,S,1.8,,0.8,1.8,1.8,0.2,f,,,f,1,2017,9,2018,f,Electric Utility,1,DFO,,,,,10,f,f,f,,EIA860
+199,7112,,OP,,,,Batteries,BA,,,1,,,,,,,,2009,,,1996,,,,Electric Utility,1,MWH,,,,0,,,,,,AEA
+200,7168,1,OP,2021,,,Conventional Hydroelectric,HY,,S,1.3,,0.9,1.2,1.2,0.2,f,,,f,1,1988,,,f,Electric Utility,1,WAT,,,,,10,f,,,,EIA860
+201,6302,1,OP,2021,,,Conventional Hydroelectric,HY,,S,1.3,,0.8,1.3,1.3,0.2,f,,,f,1,1956,,,f,Electric Utility,1,WAT,,,,,10,f,,,,EIA860
+201,6302,2,OP,2021,,,Conventional Hydroelectric,HY,,S,1.3,,0.8,1.3,1.3,0.2,f,,,f,1,1956,,,f,Electric Utility,1,WAT,,,,,10,f,,,,EIA860
+201,6302,3,OP,2021,,,Conventional Hydroelectric,HY,,S,1.3,,0.8,1.3,1.3,0.2,f,,,f,12,1962,,,f,Electric Utility,1,WAT,,,,,10,f,,,,EIA860
+202,,1,OP,2021,John Deere ,4045TFM75,Internal Combustion Engine,IC,,,0.078,,,,,,,,,,6,2006,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+202,,2,OP,2021,John Deere ,4045TFM75,Internal Combustion Engine,IC,,,0.064,,,,,,,,,,6,2007,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+202,,3,OS,2021,John Deere ,PE3029TF150BASE,Internal Combustion Engine,IC,,,0.037,,,,,,,,,,6,2007,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+203,,1,OP,2021,John Deere ,PE6068TF250BASE,Internal Combustion Engine,IC,,,0.095,,,,,,,,,,9,2005,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+203,,2,OP,2021,John Deere ,4045AFM85,Internal Combustion Engine,IC,,,0.099,,,,,,,,,,9,2005,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+203,,3,OP,2021,John Deere,PE4045TF150BASE,Internal Combustion Engine,IC,,,0.08,,,,,,,,,,9,2005,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+205,,1,OP,2021,John Deere ,PE6068TF250BASE,Internal Combustion Engine,IC,,,0.11,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+205,,2,OP,2021,John Deere ,4045AFM85,Internal Combustion Engine,IC,,,0.085,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+205,,3,OP,2021,John Deere ,PE4045TF150BASE,Internal Combustion Engine,IC,,,0.064,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+205,,4,OS,2021,John Deere,PE4045TF150BASE,Internal Combustion Engine,IC,,,0.064,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+206,,1,OP,2021,John Deere ,4045TF150,Internal Combustion Engine,IC,,,0.064,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+206,,2,OP,2021,John Deere ,4045TFM75,Internal Combustion Engine,IC,,,0.037,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+206,,3,OP,2021,John Deere ,PE3029tf150base2.9,Internal Combustion Engine,IC,,,0.037,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+207,6301,4A,OP,2021,,,Petroleum Liquids,IC,,S,1.3,,0.97,1.3,1.3,1,f,,,f,7,1999,,,t,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+207,6301,5,RE,2021,,,Petroleum Liquids,IC,,S,0.4,,0.97,0.4,0.4,,f,,,f,12,1977,8,2004,t,Electric Utility,1,DFO,,,,,10,f,f,f,,EIA860
+207,6301,5A,OP,2021,,,Petroleum Liquids,IC,,S,1,,0.97,1,1,1,f,,,f,5,2005,,,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+207,6301,6,RE,2021,,,Petroleum Liquids,IC,,S,0.4,,0.97,0.4,0.4,,f,,,f,12,1977,8,2004,t,Electric Utility,1,DFO,,,,,10,f,f,f,,EIA860
+207,6301,6A,OP,2021,,,Petroleum Liquids,IC,,S,1,,0.97,1,1,1,f,,,f,4,2006,,,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+207,6301,7,RE,2021,,,Petroleum Liquids,IC,,S,0.4,,0.97,0.4,0.4,,f,,,f,12,1977,8,2004,t,Electric Utility,1,DFO,,,,,10,f,f,f,,EIA860
+207,6301,7A,OP,2021,,,Petroleum Liquids,IC,,S,1,,0.97,1,1,1,f,,,f,4,2006,,,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+207,6301,8,OP,2021,,,Petroleum Liquids,IC,,S,1,,0.97,1,1,1,f,,,f,12,1977,,,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+207,6301,NA1,OP,2021,,,Petroleum Liquids,IC,,S,1.1,,0.97,1.1,1.1,1,f,,,f,5,1988,,,t,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+207,6301,NA2,OP,2021,,,Petroleum Liquids,IC,,S,1.1,,0.97,1.1,1.1,1,f,,,f,5,1988,,,t,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+207,6301,NA3,OP,2021,,,Petroleum Liquids,IC,,S,0.8,,0.97,0.8,0.8,0.8,f,,,f,5,1991,,,t,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+207,6301,NA4,OP,2021,,,Petroleum Liquids,IC,,S,0.8,,0.97,0.8,0.8,0.8,f,,,f,6,1992,,,t,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+207,6301,NA5,OP,2021,,,Petroleum Liquids,IC,,S,0.8,,0.97,0.8,0.8,0.8,f,,,f,9,1993,,,t,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+207,6301,NA6,OP,2021,,,Petroleum Liquids,IC,,S,3.3,,0.8,3,0.1,1.7,f,,,f,4,2019,,,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+207,6301,NA7,OP,2021,,,Petroleum Liquids,IC,,S,3.3,,0.8,3,0.1,1.7,f,,,f,4,2019,,,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+208,,1,OP,2021,John Deere,6090HF485,Internal Combustion Engine,IC,,,0.25,,,,,,,,,,9,2009,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+209,,1,OS,2021,John Deere ,6090HF484,Internal Combustion Engine,IC,,,0.2,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+209,,2,OP,2021,John Deere ,6068AFM85,Internal Combustion Engine,IC,,,0.117,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+209,,3,OS,2021,John Deere ,6090AFM75,Internal Combustion Engine,IC,,,0.25,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+210,,1,OP,2021,John Deere ,6125HF070,Internal Combustion Engine,IC,,,0.371,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+210,,2,OP,2021,John Deere ,6125HF070,Internal Combustion Engine,IC,,,0.371,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+210,,3,OP,2021,John Deere ,6081AFM75,Internal Combustion Engine,IC,,,0.179,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+210,,,OP,,,,Onshore Wind Turbine,WT,,,0.285,,,,,,,,,,,2021,,,,Electric Utility,1,WND,,,,3,,,,,3-95kW. Operational? 300-kW per DOE OIE app,AEA
+211,,1,OP,2021,John Deere ,6090AFM75,Internal Combustion Engine,IC,,,0.276,,,,,,,,,,3,2016,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+211,,2,OP,2021,John Deere ,4045AFM85,Internal Combustion Engine,IC,,,0.099,,,,,,,,,,3,2016,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+211,,3,OP,2021,John Deere ,4045AFM85,Internal Combustion Engine,IC,,,0.099,,,,,,,,,,3,2016,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+211,,,OP,,,,Onshore Wind Turbine,WT,,,0.0239999999999999,,,,,,,,,,7,2009,,,,Electric Utility,1,WND,,,,10,,,,,,AEA
+212,,3,OP,2021,Perkins,AB50498,Internal Combustion Engine,IC,,,0.05,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+213,,1,OP,2021,John Deere,4045AFM85,Internal Combustion Engine,IC,,,0.15,,,,,,,,,,2,2018,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+213,,2,OP,2021,John Deere ,6090AFM75,Internal Combustion Engine,IC,,,0.276,,,,,,,,,,2,2018,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+213,,3,OP,2021,John Deere ,6090AFM75,Internal Combustion Engine,IC,,,0.276,,,,,,,,,,2,2018,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+214,,1,OP,2021,John Deere,4045HF285,Internal Combustion Engine,IC,,,0.1,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+214,,2,OP,2021,John Deere,4045HF285,Internal Combustion Engine,IC,,,0.1,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+214,,3,OS,2021,John Deere,4045HF285,Internal Combustion Engine,IC,,,0,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+215,90,11,RE,2021,,,Petroleum Liquids,IC,,S,1.5,,,1.5,1.5,,,,,f,3,1988,3,2011,f,Electric Utility,1,DFO,,,,,,f,,,,EIA860
+215,90,12,OP,2021,,,Petroleum Liquids,IC,,S,3.8,,0.8,3.7,3.7,2.8,f,,,f,4,1991,,,f,Electric Utility,1,DFO,,,,,720,f,,,,EIA860
+215,90,14,OP,2021,,,Petroleum Liquids,IC,,S,2,,0.8,1.9,1.9,1.4,f,,,f,12,1999,,,f,Electric Utility,1,DFO,,,,,720,f,,,,EIA860
+215,90,15,OP,2021,,,Petroleum Liquids,IC,,S,5.2,,0.8,5.2,5.2,3.4,f,,,f,11,2007,,,f,Electric Utility,1,DFO,,,,,1440,f,,,,EIA860
+215,90,16,OP,2021,,,Petroleum Liquids,IC,,S,5.2,,0.8,5.2,5.2,3.4,f,,,f,11,2007,,,f,Electric Utility,1,DFO,,,,,1440,f,,,,EIA860
+215,90,18,OP,2021,,,Petroleum Liquids,IC,,S,0.4,,0.8,0.4,0.4,0.1,f,,,f,1,2013,,,f,Electric Utility,1,DFO,,,,,720,f,,,,EIA860
+215,90,5,RE,2021,,,Petroleum Liquids,IC,,S,1.2,,,1.2,1.2,,,,,f,1,1974,1,2001,f,Electric Utility,1,DFO,,,,,,,,,,EIA860
+215,90,6,RE,2021,,,Petroleum Liquids,IC,,S,1,,,1,1,,,,,f,1,1972,1,2008,f,Electric Utility,1,DFO,,,,,,f,,,,EIA860
+215,90,9,RE,2021,,,Petroleum Liquids,IC,,S,2.8,,,2.9,2.9,,,,,f,12,1985,3,2011,f,Electric Utility,1,DFO,,,,,,f,,,,EIA860
+215,90,ENT,RE,2021,,,Onshore Wind Turbine,WT,,S,0.8,,,0.8,0.8,0.1,f,,,f,1,2015,6,2021,f,Electric Utility,1,WND,,,,15,,f,,,,EIA860
+215,90,EWT 1,OP,2021,,,Onshore Wind Turbine,WT,,S,0.9,,,0.9,0.9,0.1,f,,,f,7,2013,,,f,Electric Utility,1,WND,,,,1,,f,,,,EIA860
+215,90,EWT 2,OP,2021,,,Onshore Wind Turbine,WT,,S,0.9,,,0.9,0.9,0.1,f,,,f,7,2013,,,f,Electric Utility,1,WND,,,,1,,f,,,,EIA860
+216,7487,1,OP,2021,,,Petroleum Liquids,IC,,S,0.3,,0.8,0.3,0.3,0.1,f,,,f,9,1994,,,f,Electric Utility,1,DFO,,,,,60,f,f,,,EIA860
+216,7487,2,OP,2021,,,Petroleum Liquids,IC,,S,0.3,,0.8,0.3,0.3,0.1,f,,,f,9,1994,,,f,Electric Utility,1,DFO,,,,,60,f,f,,,EIA860
+216,7487,3,OP,2021,,,Petroleum Liquids,IC,,S,0.3,,0.8,0.3,0.3,0.1,f,,,f,9,1994,,,f,Electric Utility,1,DFO,,,,,60,f,f,,,EIA860
+216,7487,4,RE,2021,,,Petroleum Liquids,IC,,S,0.1,,,0.1,0.1,0.1,f,,,f,9,1994,9,2010,t,Electric Utility,1,DFO,,,,,60,f,,,,EIA860
+216,7487,5,RE,2021,,,Petroleum Liquids,IC,,S,0.1,,,0.1,0.1,0.1,f,,,f,9,1994,9,2003,f,Electric Utility,1,DFO,,,,,60,f,,,,EIA860
+216,7487,6,OP,2021,,,Petroleum Liquids,IC,,S,0.9,,0.8,0.9,0.9,0.4,f,,,f,12,2003,,,f,Electric Utility,1,DFO,,,,,60,f,f,,,EIA860
+216,7487,7,OP,2021,,,Petroleum Liquids,IC,,S,0.9,,0.8,0.9,0.9,0.4,f,,,f,12,2003,,,f,Electric Utility,1,DFO,,,,,60,f,f,,,EIA860
+217,7482,NA1,OP,2021,,,Petroleum Liquids,IC,,S,0.9,,0.8,0.9,0.9,0.2,f,,,f,2,2003,,,f,Electric Utility,1,DFO,,,,,60,f,f,f,,EIA860
+217,7482,NA2,OP,2021,,,Petroleum Liquids,IC,,S,0.9,,0.8,0.9,0.9,0.2,f,,,f,2,2003,,,f,Electric Utility,1,DFO,,,,,60,f,f,f,,EIA860
+217,7482,NA3,OP,2021,,,Petroleum Liquids,IC,,S,0.4,,0.8,0.4,0.4,0.3,f,,,f,2,2003,,,f,Electric Utility,1,DFO,,,,,60,f,f,f,,EIA860
+217,7482,PG1,RE,2021,,,Petroleum Liquids,IC,,S,0.2,,,0.2,0.2,0.1,f,,,f,88,1986,1,2003,f,Electric Utility,1,DFO,,,,,60,f,f,f,,EIA860
+217,7482,PG2,OP,2021,,,Petroleum Liquids,IC,,S,0.4,,0.8,0.4,0.4,0.2,f,,,f,8,1986,,,f,Electric Utility,1,DFO,,,,,60,f,f,f,,EIA860
+217,7482,PG3,OP,2021,,,Petroleum Liquids,IC,,S,0.6,,0.8,0.6,0.6,0.4,f,,,f,8,1986,,,f,Electric Utility,1,DFO,,,,,60,f,f,f,,EIA860
+218,7483,PG1A,OP,2021,,,Petroleum Liquids,IC,,S,0.9,,0.8,0.9,0.9,0.4,f,,,f,9,2000,,,f,Electric Utility,1,DFO,,,,,60,f,f,f,,EIA860
+218,7483,PG2A,OP,2021,,,Petroleum Liquids,IC,,S,0.9,,0.8,0.9,0.9,0.4,f,,,f,9,2000,,,f,Electric Utility,1,DFO,,,,,60,f,f,f,,EIA860
+218,7483,PG3A,OP,2021,,,Petroleum Liquids,IC,,S,0.4,,0.8,0.4,0.4,0.2,f,,,f,9,2000,,,f,Electric Utility,1,DFO,,,,,60,f,f,f,,EIA860
+218,7483,PG4A,OP,2021,,,Petroleum Liquids,IC,,S,0.4,,0.8,0.4,0.4,0.2,f,,,f,9,2000,,,f,Electric Utility,1,DFO,,,,,60,f,f,f,,EIA860
+219,7484,PG1A,OP,2021,,,Petroleum Liquids,IC,,S,0.9,,0.8,0.9,0.9,0.4,f,,,f,9,1999,,,f,Electric Utility,1,DFO,,,,,60,f,f,,,EIA860
+219,7484,PG2A,OP,2021,,,Petroleum Liquids,IC,,S,0.9,,0.8,0.9,0.9,0.4,f,,,f,9,1999,,,f,Electric Utility,1,DFO,,,,,60,f,f,,,EIA860
+219,7484,PG3A,OP,2021,,,Petroleum Liquids,IC,,S,0.4,,0.8,0.4,0.4,0.2,f,,,f,9,1999,,,f,Electric Utility,1,DFO,,,,,60,f,f,,,EIA860
+219,7484,PG3B,OP,2021,,,Natural Gas Internal Combustion Engine,IC,,S,0.6,,0.8,0.6,0.6,0.3,f,,,f,4,2013,,,f,Electric Utility,1,NG,,,,,60,f,f,,,EIA860
+219,7484,PG4A,RE,2021,,,Petroleum Liquids,IC,,S,0.4,,,0.4,0.4,0.2,f,,,f,9,1999,12,2012,t,Electric Utility,1,DFO,,,,,60,f,f,,,EIA860
+219,7484,PG5A,OP,2021,,,Natural Gas Internal Combustion Engine,IC,,S,0.8,,0.8,0.8,0.8,0.3,f,,,f,10,2008,,,f,Electric Utility,1,NG,,,,,60,f,f,f,,EIA860
+219,7484,PG6A,OP,2021,,,Natural Gas Internal Combustion Engine,IC,,S,0.8,,0.8,0.8,0.8,0.3,f,,,f,10,2008,,,f,Electric Utility,1,NG,,,,,60,f,f,f,,EIA860
+220,7485,PG1,RE,2021,,,Petroleum Liquids,IC,,S,0.3,,,0.3,0.3,0.1,f,,,f,8,1987,10,2013,t,Electric Utility,1,DFO,,,,,60,f,,,,EIA860
+220,7485,PG1A,OP,2021,,,Petroleum Liquids,IC,,S,1,,0.8,1,1,0.1,f,,,f,9,2014,,,f,Electric Utility,1,DFO,,,,,60,f,f,,,EIA860
+220,7485,PG2,RE,2021,,,Petroleum Liquids,IC,,S,0.3,,,0.3,0.3,0.1,f,,,f,8,1987,10,2013,t,Electric Utility,1,DFO,,,,,60,f,,,,EIA860
+220,7485,PG3,RE,2021,,,Petroleum Liquids,IC,,S,0.3,,,0.3,0.3,0.1,f,,,f,88,1987,1,2008,f,Electric Utility,1,DFO,,,,,60,f,,,,EIA860
+220,7485,PG4,RE,2021,,,Petroleum Liquids,IC,,S,0.4,,,0.4,0.4,0.2,f,,,f,88,1992,1,2008,f,Electric Utility,1,DFO,,,,,60,f,,,,EIA860
+220,7485,PG5,RE,2021,,,Petroleum Liquids,IC,,S,0.2,,,0.2,0.2,0.1,f,,,f,88,1980,1,2008,f,Electric Utility,1,DFO,,,,,60,f,,,,EIA860
+220,7485,PG6,OP,2021,,,Petroleum Liquids,IC,,S,0.6,,0.8,0.6,0.6,0.2,f,,,f,9,1995,,,f,Electric Utility,1,DFO,,,,,60,f,f,,,EIA860
+220,7485,PG7,OP,2021,,,Petroleum Liquids,IC,,S,0.6,,0.8,0.6,0.6,0.2,f,,,f,9,1995,,,f,Electric Utility,1,DFO,,,,,60,f,f,,,EIA860
+220,7485,PG8,OP,2021,,,Petroleum Liquids,IC,,S,0.9,,0.8,0.9,0.9,0.4,f,,,f,8,2008,,,f,Electric Utility,1,DFO,,,,,60,f,f,,,EIA860
+221,7486,PG10,OP,2021,,,Petroleum Liquids,IC,,S,0.6,,0.8,0.6,0.6,0.2,f,,,f,7,2013,,,f,Electric Utility,1,DFO,,,,,60,f,f,,,EIA860
+221,7486,PG1A,RE,2021,,,Petroleum Liquids,IC,,S,0.3,,,0.3,0.3,0.1,f,,,f,10,2000,7,2013,t,Electric Utility,1,DFO,,,,,60,f,,,,EIA860
+221,7486,PG2A,RE,2021,,,Petroleum Liquids,IC,,S,0.3,,,0.3,0.3,0.1,f,,,f,10,2000,7,2013,t,Electric Utility,1,DFO,,,,,60,f,,,,EIA860
+221,7486,PG3,RE,2021,,,Petroleum Liquids,IC,,S,0.2,,,0.2,0.2,0.1,f,,,f,88,1990,12,2000,t,Electric Utility,1,DFO,,,,,60,f,,,,EIA860
+221,7486,PG3A,RE,2021,,,Petroleum Liquids,IC,,S,0.3,,,0.3,0.3,0.1,f,,,f,11,2002,7,2013,t,Electric Utility,1,DFO,,,,,60,f,,,,EIA860
+221,7486,PG4,RE,2021,,,Petroleum Liquids,IC,,S,0.2,,,0.2,0.2,0.1,f,,,f,88,1990,11,2002,f,Electric Utility,1,DFO,,,,,60,f,,,,EIA860
+221,7486,PG4A,RE,2021,,,Petroleum Liquids,IC,,S,0.3,,,0.3,0.3,0.1,f,,,f,11,2002,7,2013,t,Electric Utility,1,DFO,,,,,60,f,,,,EIA860
+221,7486,PG5,RE,2021,,,Petroleum Liquids,IC,,S,0.3,,,0.3,0.3,0.1,f,,,f,11,2002,7,2013,t,Electric Utility,1,DFO,,,,,60,f,,,,EIA860
+221,7486,PG6,RE,2021,,,Petroleum Liquids,IC,,S,0.3,,,0.3,0.3,0.1,f,,,f,11,2002,7,2013,f,Electric Utility,1,DFO,,,,,60,f,,,,EIA860
+221,7486,PG7,OP,2021,,,Petroleum Liquids,IC,,S,0.6,,0.8,0.6,0.6,0.1,f,,,f,7,2013,,,f,Electric Utility,1,DFO,,,,,60,f,f,,,EIA860
+221,7486,PG8,OP,2021,,,Petroleum Liquids,IC,,S,0.6,,0.8,0.6,0.6,0.3,f,,,f,7,2013,,,f,Electric Utility,1,DFO,,,,,60,f,f,,,EIA860
+221,7486,PG9,OP,2021,,,Petroleum Liquids,IC,,S,0.6,,0.8,0.6,0.6,0.3,f,,,f,7,2013,,,f,Electric Utility,1,DFO,,,,,60,f,f,,,EIA860
+222,7488,PG1,OP,2021,,,Petroleum Liquids,IC,,S,0.4,,0.8,0.4,0.4,0.2,f,,,f,8,1988,,,f,Electric Utility,1,DFO,,,,,60,f,f,,,EIA860
+222,7488,PG2,OP,2021,,,Petroleum Liquids,IC,,S,0.4,,0.8,0.4,0.4,0.2,f,,,f,8,1988,,,f,Electric Utility,1,DFO,,,,,60,f,f,,,EIA860
+222,7488,PG3,OP,2021,,,Petroleum Liquids,IC,,S,0.4,,0.8,0.4,0.4,0.2,f,,,f,8,1989,,,f,Electric Utility,1,DFO,,,,,60,f,f,,,EIA860
+222,7488,PG4,RE,2021,,,Petroleum Liquids,IC,,S,0.3,,,0.3,0.3,0.1,f,,,f,88,1988,1,2003,f,Electric Utility,1,DFO,,,,,60,f,,,,EIA860
+222,7488,PG4A,OP,2021,,,Petroleum Liquids,IC,,S,0.9,,0.8,0.9,0.9,0.4,f,,,f,10,2001,,,f,Electric Utility,1,DFO,,,,,60,f,f,,,EIA860
+222,7488,PG5,OP,2021,,,Petroleum Liquids,IC,,S,0.9,,0.8,0.9,0.9,0.4,f,,,f,10,2001,,,f,Electric Utility,1,DFO,,,,,60,f,f,,,EIA860
+223,,1,OS,2021,John Deere,"6090AFM75, 9.0L, 3071F",Internal Combustion Engine,IC,,,0.21,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+223,,2,OS,2021,John Deere,"6090AFM75, 9.0L, 3071F",Internal Combustion Engine,IC,,,0.21,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+223,,3,OP,2021,John Deere,6081AF001,Internal Combustion Engine,IC,,,0.21,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+223,,4,OP,2021,John Deere ,608HF070,Internal Combustion Engine,IC,,,0.21,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+224,109,10,OP,2021,,,Petroleum Liquids,IC,,S,1.1,,0.8,1.1,1.1,0.5,f,,,f,5,1988,,,f,Electric Utility,1,DFO,,,,,10,f,f,f,,EIA860
+224,109,11,OP,2021,,,Petroleum Liquids,IC,,S,1,,0.8,1,1,0.5,f,,,f,11,2001,,,f,Electric Utility,1,DFO,,,,,10,f,f,f,,EIA860
+224,109,12,OP,2021,,,Petroleum Liquids,IC,,S,1,,0.8,1,1,0.5,f,,,f,3,2006,,,f,Electric Utility,1,DFO,,,,,10,f,f,f,,EIA860
+224,109,13,OP,2021,,,Petroleum Liquids,IC,,S,1,,0.8,1,1,0.5,f,,,f,4,2006,,,f,Electric Utility,1,DFO,,,,,10,f,f,f,,EIA860
+224,109,14,OP,2021,,,Petroleum Liquids,IC,,S,1,,0.8,1,1,0.5,f,,,f,3,2008,,,f,Electric Utility,1,DFO,,,,,10,f,f,f,,EIA860
+224,109,15,OP,2021,,,Petroleum Liquids,IC,,S,1,,0.8,1,1,0.5,f,,,f,5,2008,,,f,Electric Utility,1,DFO,,,,,10,f,f,f,,EIA860
+224,109,16,OP,2021,,,Petroleum Liquids,IC,,S,0.5,,0.8,0.5,0.5,0.1,f,,,f,12,2009,,,f,Electric Utility,1,DFO,,,,,10,f,f,f,,EIA860
+224,109,17,OP,2021,,,Petroleum Liquids,IC,,S,2.2,,0.8,2.2,2.2,1,f,,,f,6,2019,,,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+224,109,18,OP,2021,,,Petroleum Liquids,IC,,S,2.2,,0.8,2.2,2.2,1,f,,,f,6,2019,,,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+224,109,3,RE,2021,,,Petroleum Liquids,IC,,S,0.3,,,0.3,0.3,,f,,,f,1,1961,2,2009,f,Electric Utility,1,DFO,,,,,,,,,,EIA860
+224,109,4,RE,2021,,,Petroleum Liquids,IC,,S,0.5,,,0.5,0.5,,f,,,f,9,1967,5,2001,f,Electric Utility,1,DFO,,,,,,,f,,,EIA860
+224,109,5,RE,2021,,,Petroleum Liquids,IC,,S,0.7,,,0.7,0.7,,f,,,f,12,1973,3,2007,f,Electric Utility,1,DFO,,,,,,,f,,,EIA860
+224,109,6,RE,2021,,,Petroleum Liquids,IC,,S,1,,,1,1,,f,,,f,12,1976,10,2007,f,Electric Utility,1,DFO,,,,,,f,f,f,,EIA860
+224,109,8,RE,2021,,,Petroleum Liquids,IC,,S,0.8,,,0.8,0.8,,f,,,f,3,1985,4,2006,f,Electric Utility,1,DFO,,,,,,f,f,f,,EIA860
+224,109,IC9,RE,2021,,,Petroleum Liquids,IC,,S,0.8,,,0.8,0.8,,f,,,f,3,1985,3,2006,f,Electric Utility,1,DFO,,,,,,f,f,f,,EIA860
+225,,1,OP,2021,John Deere,4045tfm75,Internal Combustion Engine,IC,,,0.045,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+225,,2,OP,2021,John Deere,6068tfm76,Internal Combustion Engine,IC,,,0.101,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+225,,3,OP,2021,John Deere,6081af001,Internal Combustion Engine,IC,,,0.19,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+225,,,OP,,,,Conventional Hydroelectric,HY,Mahoona Lake,,0.125,,,,,,,,,,,1987,,,,Electric Utility,1,WAT,,,,0,,,,,,AEA
+227,,1,OP,2021,John Deere ,6068TFM76,Internal Combustion Engine,IC,,,0.095,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+227,,2,OS,2021,John Deere ,4045TFM75,Internal Combustion Engine,IC,,,0.062,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+227,,3,OS,2021,John Deere ,4045TF270,Internal Combustion Engine,IC,,,0.062,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+228,6702,HC1,OP,2021,,,Conventional Hydroelectric,HY,,W,0.6,,0.8,0.5,0.5,0.1,f,,,f,7,1984,,,f,Electric Utility,1,WAT,,,,,10,f,,,,EIA860
+228,6702,HC2,OP,2021,,,Conventional Hydroelectric,HY,,W,0.8,,0.8,0.1,0.1,0.1,f,,,f,5,1984,,,f,Electric Utility,1,WAT,,,,,10,f,,,,EIA860
+228,6702,IC1,RE,2021,,,Petroleum Liquids,IC,,W,0.3,,,0.3,0.3,,,,,f,12,1989,12,2011,f,Electric Utility,1,DFO,,,,,,,,,,EIA860
+228,6702,IC2,RE,2021,,,Petroleum Liquids,IC,,W,0.1,,,0.1,0.1,,,,,f,7,1964,12,2011,f,Electric Utility,1,DFO,,,,,,,,,,EIA860
+228,6702,IC3,RE,2021,,,Petroleum Liquids,IC,,W,0.2,,,0.2,0.2,,,,,f,9,1974,12,2011,f,Electric Utility,1,DFO,,,,,,,,,,EIA860
+228,6702,IC4,RE,2021,,,Petroleum Liquids,IC,,W,0.2,,,0.2,0.2,,,,,f,6,1980,12,2011,f,Electric Utility,1,DFO,,,,,,,,,,EIA860
+228,6702,IC5,RE,2021,,,Petroleum Liquids,IC,,W,0.4,,,0.4,0.4,,,,,f,7,1990,12,2011,f,Electric Utility,1,DFO,,,,,,f,,,,EIA860
+228,6702,IC6,OP,2021,,,Petroleum Liquids,IC,,W,0.4,,0.9,0.4,0.4,0.2,f,,,f,9,2008,,,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+228,6702,IC7,OP,2021,,,Petroleum Liquids,IC,,W,0.4,,0.9,0.4,0.4,0.2,f,,,f,9,2008,,,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+228,6702,IC8,OP,2021,,,Petroleum Liquids,IC,,W,0.2,,0.8,0.2,0.2,0.1,f,,,f,9,2008,,,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+229,91,3,OP,2021,,,Conventional Hydroelectric,HY,,S,1.6,,0.8,1.6,1.6,0.7,f,,,f,3,1954,,,f,Electric Utility,1,WAT,,,,,60,f,,,,EIA860
+229,91,IC1,OP,2021,,,Petroleum Liquids,IC,,S,2.6,,0.8,1.7,1.7,1.4,f,,,f,12,1972,,,f,Electric Utility,1,DFO,,,,,60,f,f,f,,EIA860
+229,91,IC2,RE,2021,,,Petroleum Liquids,IC,,S,0.3,,0.8,0.2,0.2,0.1,f,,,f,12,1972,8,2017,f,Electric Utility,1,DFO,,,,,10,f,f,f,,EIA860
+229,91,IC3,OP,2021,,,Petroleum Liquids,IC,,S,1.2,,0.8,1,1,0.5,f,,,f,10,1965,,,f,Electric Utility,1,DFO,,,,,60,f,f,f,,EIA860
+229,91,IC4,OP,2021,,,Petroleum Liquids,IC,,S,0.6,,0.8,0.6,0.6,0.3,f,,,f,3,1979,,,f,Electric Utility,1,DFO,,,,,10,f,f,f,,EIA860
+229,91,IC5,OP,2021,,,Petroleum Liquids,IC,,S,0.8,,0.8,0.7,0.7,0.4,f,,,f,3,1979,,,f,Electric Utility,1,DFO,,,,,10,f,f,f,,EIA860
+229,91,IC6,OP,2021,,,Petroleum Liquids,IC,,S,2.6,,0.8,2.3,2.3,1.5,f,,,f,9,1993,,,f,Electric Utility,1,DFO,,,,,60,f,f,f,,EIA860
+229,91,IC7,OP,2021,,,Petroleum Liquids,IC,,S,2.6,,0.8,2.3,2.3,1.5,f,,,f,8,2001,,,f,Electric Utility,1,DFO,,,,,60,f,f,f,,EIA860
+229,91,IC8,OP,2021,,,Petroleum Liquids,IC,,S,2.5,,0.8,2.2,2.2,1.2,f,,,f,10,2012,,,f,Electric Utility,1,DFO,,,,,10,f,f,f,,EIA860
+230,,1,OP,2021,John Deere ,4045AFM85,Internal Combustion Engine,IC,,,0.099,,,,,,,,,,9,2008,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+230,,2,OP,2021,John Deere ,4045AFM85E,Internal Combustion Engine,IC,,,0.099,,,,,,,,,,9,2008,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+230,,3,OS,2021,John Deere ,4045AFM85E,Internal Combustion Engine,IC,,,0.099,,,,,,,,,,9,2008,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+230,,,OS,,,,Onshore Wind Turbine,WT,,,0.2,,,,,,,,,,2,2005,,,,Electric Utility,1,WND,,,,2,,,,,USDA--100kW wind?,AEA
+231,,1,OS,2021,John Deere ,4045TFM85,Internal Combustion Engine,IC,,,0.065,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+231,,2,OP,2021,John Deere ,4039T,Internal Combustion Engine,IC,,,0.055,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+232,,1,OP,2021,John Deere,6090AFM75,Internal Combustion Engine,IC,,,0.276,,,,,,,,,,9,2019,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+232,,2,OP,2021,John Deere ,6090AFM75,Internal Combustion Engine,IC,,,0.276,,,,,,,,,,9,2019,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+232,,3,OP,2021,John Deere ,4045AFM85,Internal Combustion Engine,IC,,,0.15,,,,,,,,,,9,2019,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+233,,1,OP,2021,John Deere,6125AF001,Internal Combustion Engine,IC,,,0.235,,,,,,,,,,7,2020,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+233,,2,OP,2021,John Deere,6090HF485,Internal Combustion Engine,IC,,,0.275,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+233,,3,OS,2021,John Deere,6090HF485,Internal Combustion Engine,IC,,,0.275,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+233,,4,OP,2021,John Deere,6081AF001,Internal Combustion Engine,IC,,,0.14,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+233,,,OP,,,,Onshore Wind Turbine,WT,,,0.475,,,,,,,,,,12,2010,,,,Electric Utility,1,WND,,,,5,,,,,,AEA
+233,,,OP,,,,Batteries,BA,,,0.295,0.135,,,,,,,,,,2014,,,,,,MWH,,,,,,,,,200 kW battery?,
+234,,1,OP,2021,John Deere,4045AFM85,Internal Combustion Engine,IC,,,0.11,,,,,,,,,,6,2015,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+234,,2,OS,2021,John Deere,4045TF285,Internal Combustion Engine,IC,,,0.105,,,,,,,,,,6,2013,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+234,,3,OP,2021,Kubota,V3800-T,Internal Combustion Engine,IC,,,0.045,,,,,,,,,,6,2018,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+235,,,OP,,,,Solar PV,PV,,,0.14,,,,,,,,,,8,2018,,,,Electric Utility,1,SUN,,,,0,,,,,,AEA
+235,,,OP,,,,Solar PV,PV,,,1.2,,,,,,,,,,11,2019,,,,,,SUN,,,,,,,,,,Renewable IPP website
+236,,1,OP,2021,John Deere,6081HF070,Internal Combustion Engine,IC,,,0.23,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+236,,2,OP,2021,John Deere ,6081HF070,Internal Combustion Engine,IC,,,0.18,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+236,,3,OP,2021,John Deere,4045HF485,Internal Combustion Engine,IC,,,0.117,,,,,,,,,,9,2020,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+237,,1,OP,2021,John Deere,6090AFM75,Internal Combustion Engine,IC,,,0.21,,,,,,,,,,6,2012,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+237,,2,OP,2021,John Deere,6090AFM75,Internal Combustion Engine,IC,,,0.21,,,,,,,,,,6,2012,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+237,,3,OP,2021,John Deere,6090AFM75,Internal Combustion Engine,IC,,,0.21,,,,,,,,,,6,2012,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+237,,4,OP,2021,John Deere,6090AFM75,Internal Combustion Engine,IC,,,0.2,,,,,,,,,,6,2012,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+237,,,OS,,,,Onshore Wind Turbine,WT,,,0.095,,,,,,,,,,11,2016,12,2016,,Electric Utility,1,WND,,,,1,,,,,,AEA
+238,,1,OP,2021,Caterpillar,3512,Internal Combustion Engine,IC,,,0.855,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+238,,2,OS,2021,John Deere,6135HF485,Internal Combustion Engine,IC,,,0.38,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+238,,3,OP,2021,Caterpillar,3406,Internal Combustion Engine,IC,,,0.26,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+238,,4,OP,2021,Caterpillar,3412,Internal Combustion Engine,IC,,,0.3,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+238,,5,OS,2021,Caterpillar,3512,Internal Combustion Engine,IC,,,0,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+238,,6,OP,2021,Caterpillar,3512,Internal Combustion Engine,IC,,,0.855,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+239,92,1,RE,2021,,,Petroleum Liquids,IC,,S,1.5,,,1,1.2,,f,,,f,4,1965,9,2009,f,Electric Utility,1,DFO,,,,,,f,,,,EIA860
+239,92,2,RE,2021,,,Petroleum Liquids,IC,,S,1.5,,,1,1.2,,f,,,f,4,1965,9,2009,f,Electric Utility,1,DFO,,,,,,f,,,,EIA860
+239,92,3,OP,2021,,,Petroleum Liquids,IC,,S,2.5,,0.8,2.5,2.5,0.5,f,,,f,4,1975,,,f,Electric Utility,1,DFO,,,,,60,f,f,f,,EIA860
+239,92,4,OP,2021,,,Petroleum Liquids,IC,,S,2.5,,0.8,2.5,2.5,0.5,f,,,f,3,1986,,,f,Electric Utility,1,DFO,,,,,60,f,f,f,,EIA860
+239,92,5,OP,2021,,,Petroleum Liquids,IC,,S,2.5,,0.8,2.5,2.5,0.5,f,,,f,3,1985,,,f,Electric Utility,1,DFO,,,,,60,f,f,f,,EIA860
+239,92,6,OP,2021,,,Petroleum Liquids,IC,,S,2.8,,0.8,2.8,2.8,0.5,f,,,f,12,2000,,,f,Electric Utility,1,DFO,,,,,60,f,f,f,,EIA860
+239,92,N1,OP,2021,,,Petroleum Liquids,IC,,S,2.8,,0.8,2.8,2.8,0.5,f,,,f,7,2010,,,f,Electric Utility,1,DFO,,,,,60,f,f,f,,EIA860
+239,92,N2,OP,2021,,,Petroleum Liquids,IC,,S,2.5,,0.8,2.5,2.5,0.5,f,,,f,7,2010,,,f,Electric Utility,1,DFO,,,,,60,f,f,f,,EIA860
+240,93,1,RE,2021,,,Conventional Hydroelectric,HY,,S,3.5,,0.8,3.5,3.5,1,f,,,f,6,1961,8,2014,f,Electric Utility,1,WAT,,,,,60,f,,,,EIA860
+240,93,2,RE,2021,,,Conventional Hydroelectric,HY,,S,3.5,,0.8,3.5,3.5,1,f,,,f,6,1961,8,2014,f,Electric Utility,1,WAT,,,,,60,f,,,,EIA860
+240,93,3,OP,2021,,,Conventional Hydroelectric,HY,,S,5.3,,0.8,5.3,5.3,1,f,,,f,10,2014,,,f,Electric Utility,1,WAT,,,,,60,f,,,,EIA860
+240,93,4,OP,2021,,,Conventional Hydroelectric,HY,,S,5.3,,0.8,5.3,5.3,1,f,,,f,10,2014,,,f,Electric Utility,1,WAT,,,,,60,f,,,,EIA860
+240,93,5,OP,2021,,,Conventional Hydroelectric,HY,,S,5.3,,0.8,5.3,5.3,1,f,,,f,10,2014,,,f,Electric Utility,1,WAT,,,,,60,f,,,,EIA860
+241,313,1,OP,2021,,,Conventional Hydroelectric,HY,,S,9.3,,0.8,9.3,9.3,4,f,,,f,4,1982,,,f,Electric Utility,1,WAT,,,,,60,f,,,,EIA860
+241,313,2,OP,2021,,,Conventional Hydroelectric,HY,,S,9.3,,0.8,9.3,9.3,4,f,,,f,10,1982,,,f,Electric Utility,1,WAT,,,,,60,f,,,,EIA860
+242,6801,1,OP,2021,,,Petroleum Liquids,IC,,S,2,,0.8,2,2,1,f,,,f,8,1979,,,f,Electric Utility,1,DFO,,,,,60,f,f,,,EIA860
+242,6801,2,OP,2021,,,Petroleum Liquids,IC,,S,2.8,,0.8,2.8,2.8,1,f,,,f,8,1979,,,f,Electric Utility,1,DFO,,,,,60,f,,,,EIA860
+242,6801,3,OP,2021,,,Petroleum Liquids,IC,,S,2.8,,0.8,2.8,2.8,1,f,,,f,8,1979,,,f,Electric Utility,1,DFO,,,,,60,f,,,,EIA860
+242,6801,4,OP,2021,,,Petroleum Liquids,IC,,S,4.5,,0.8,4,4,2.5,f,,,f,7,2002,,,f,Electric Utility,1,DFO,,,,,60,f,,,,EIA860
+242,6801,5,OP,2021,,,Petroleum Liquids,IC,,S,13.5,,0.8,13.5,13.5,10,f,,,f,8,2014,,,f,Electric Utility,1,DFO,,,,,60,f,,,,EIA860
+243,,,OP,,,,Conventional Hydroelectric,HY,South Fork Eagle River,,1.2,,,,,,,,,,,2013,,,,Electric Utility,1,WAT,,,,0,,,,,,AEA
+244,61166,UNIT1,OP,2021,,,Conventional Hydroelectric,HY,,S,11.3,,0.9,11.3,11.3,2,f,,,f,7,1983,,,f,Commercial Non-CHP,4,WAT,,,,,10,,,,,EIA860
+244,61166,UNIT2,OP,2021,,,Conventional Hydroelectric,HY,,S,11.3,,0.9,11.3,11.3,2,f,,,f,7,1983,,,f,Commercial Non-CHP,4,WAT,,,,,10,,,,,EIA860
+246,,1,OP,2021,John Deere ,4045AFM85,Internal Combustion Engine,IC,,,0.097,,,,,,,,,,6,2020,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+246,,2,OP,2021,John Deere,SE501078,Internal Combustion Engine,IC,,,0.078,,,,,,,,,,9,2020,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+246,,3,OP,2021,John Deere ,4045TFM75,Internal Combustion Engine,IC,,,0.078,,,,,,,,,,9,2020,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+246,,4,OS,2021,Kubota,B3800-T,Internal Combustion Engine,IC,,,0.037,,,,,,,,,,6,2019,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+247,,1,OP,2021,John Deere,4045TF275,Internal Combustion Engine,IC,,,0.066,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+247,,2,OP,2021,John Deere,4039TF002,Internal Combustion Engine,IC,,,0.064,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+247,,3,OS,2021,John Deere,4045TF275,Internal Combustion Engine,IC,,,0,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+247,,4,OS,2021,John Deere,3029TF150,Internal Combustion Engine,IC,,,0.037,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+248,,1,OP,2021,John Deere ,6090AFM75,Internal Combustion Engine,IC,,,0.345,,,,,,,,,,1,2018,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+248,,2,OP,2021,John Deere ,6090AFM75,Internal Combustion Engine,IC,,,0,,,,,,,,,,9,2016,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+248,,3,OP,2021,Detroit Diesel 12.7 liter,6063TK35,Internal Combustion Engine,IC,,,0.47,,,,,,,,,,7,2020,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+249,,1,OP,2021,Detroit Diesel ,6063TK35,Internal Combustion Engine,IC,,,0.32,,,,,,,,,,6,2019,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+249,,2,OP,2021,Caterpillar ,3508-DITA,Internal Combustion Engine,IC,,,0.68,,,,,,,,,,6,1993,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+249,,3,OP,2021,Caterpillar,3508 DI,Internal Combustion Engine,IC,,,0.43,,,,,,,,,,6,1993,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+249,,4,OP,2021,Detroit Diesel ,6063TK35,Internal Combustion Engine,IC,,,0.175,,,,,,,,,,6,2017,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+252,,1,OP,2021,Caterpillar ,3516 DI,Internal Combustion Engine,IC,,,0.9,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+252,,2,OP,2021,Caterpillar ,3512 DI,Internal Combustion Engine,IC,,,0.875,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+252,,3,OP,2021,Caterpillar ,3456,Internal Combustion Engine,IC,,,0.455,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+252,,4,OS,2021,Caterpillar ,3512 DI,Internal Combustion Engine,IC,,,0.65,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+252,,WT1,OS,2021,,,Onshore Wind Turbine,WT,,S,0.5,,0.89,0.1,0.1,0.1,f,,,f,10,2011,,,f,Electric Utility,1,WND,,,,1,,,,,,EIA860
+252,,WT2,OA,2021,,,Onshore Wind Turbine,WT,,S,0.5,,0.89,0.3,0.3,0.3,f,,,f,10,2011,,,f,Electric Utility,1,WND,,,,1,,,,,,EIA860
+253,,1,OP,2021,John Deere,F717 CE,Internal Combustion Engine,IC,,,0.14,,,,,,,,,,6,2014,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+253,,2,OP,2021,John Deere,F867 C/E,Internal Combustion Engine,IC,,,0.096,,,,,,,,,,6,2016,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+254,58278,13,OP,2021,,,Petroleum Liquids,IC,,S,0.3,,0.8,0.3,0.3,0,f,,,f,10,2010,,,f,Electric Utility,1,DFO,,,,,10,f,f,,,EIA860
+254,58278,CT1,OP,2021,,,Natural Gas Fired Combustion Turbine,GT,,S,5.2,,0.8,4.5,5.8,0,f,,,f,1,2008,,,f,Electric Utility,1,NG,,,,,60,f,f,,,EIA860
+254,58278,CT2,OP,2021,,,Natural Gas Fired Combustion Turbine,GT,,S,5.2,,0.8,4.5,5.8,0,f,,,f,12,2009,,,f,Electric Utility,1,NG,,,,,60,f,f,,,EIA860
+254,58278,CT3,OP,2021,,,Natural Gas Fired Combustion Turbine,GT,,S,7.5,,0.8,6.9,9.5,0,f,,,f,11,2014,,,f,Electric Utility,1,NG,,,,,60,f,f,,,EIA860
+254,58278,CT4,OP,2021,,,Natural Gas Fired Combustion Turbine,GT,,S,7.5,,0.8,6.9,9.5,0,f,,,f,11,2014,,,f,Electric Utility,1,NG,,,,,60,f,f,,,EIA860
+255,58117,12,RE,2021,,,Natural Gas Internal Combustion Engine,IC,,S,0.6,,0.8,0.6,0.6,0.2,f,,,f,8,2010,1,2012,f,Electric Utility,1,NG,,,,,10,f,f,f,,EIA860
+255,58117,1A,OP,2021,,,Natural Gas Internal Combustion Engine,IC,,S,1.4,,0.8,1.3,1.3,0,f,,,f,9,2006,,,f,Electric Utility,1,NG,,,,,10,f,f,f,,EIA860
+255,58117,2,OP,2021,,,Natural Gas Internal Combustion Engine,IC,,S,0.8,,0.8,0.8,0.8,0,f,,,f,1,1992,,,f,Electric Utility,1,NG,,,,,10,f,f,f,,EIA860
+255,58117,3,OP,2021,,,Natural Gas Internal Combustion Engine,IC,,S,0.8,,0.8,0.8,0.8,0,f,,,f,1,1992,,,f,Electric Utility,1,NG,,,,,10,f,f,f,,EIA860
+255,58117,4A,OP,2021,,,Natural Gas Internal Combustion Engine,IC,,S,1.4,,0.8,1.3,1.3,0,f,,,f,9,2006,,,f,Electric Utility,1,NG,,,,,10,f,f,f,,EIA860
+255,58117,6,OP,2021,,,Natural Gas Internal Combustion Engine,IC,,S,3.4,,0.8,3,3,0,f,,,f,10,2003,,,f,Electric Utility,1,NG,,,,,60,f,f,f,,EIA860
+256,,1,OP,2021,John Deere ,PE6068TF150,Internal Combustion Engine,IC,,,0.088,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+256,,2,OP,2021,John Deere ,PE6068TF150,Internal Combustion Engine,IC,,,0.088,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+256,,3,OP,2021,John Deere ,PE4045TF150,Internal Combustion Engine,IC,,,0.064,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+256,,,OP,,,,Conventional Hydroelectric,HY,Indian River,,0.18,,,,,,,,,,6,2020,,,,Electric Utility,1,WAT,,,,0,,,,,Is this operational?,AEA
+257,52184,GEN1,OP,2021,,,Natural Gas Fired Combustion Turbine,GT,,S,4.3,,0.8,4.2,4.7,0.4,f,,,f,11,1988,,,t,Industrial CHP,7,NG,DFO,NG,,,10,t,f,t,,EIA860
+257,52184,GEN2,OP,2021,,,Natural Gas Fired Combustion Turbine,GT,,S,4.3,,0.8,4.2,4.7,0.4,f,,,f,11,1988,,,t,Industrial CHP,7,NG,DFO,NG,,0,10,t,f,t,,EIA860
+258,,1,OP,2021,John Deere,6068afm75,Internal Combustion Engine,IC,,,0.15,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+258,,2,OS,2021,John Deere,6068afm85,Internal Combustion Engine,IC,,,0.15,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+258,,3,OP,2021,John Deere,6068afm85,Internal Combustion Engine,IC,,,0.15,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+259,,1,OP,2021,John Deere ,6090AFM75,Internal Combustion Engine,IC,,,0.275,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+259,,2,OP,2021,John Deere ,6090AFM75,Internal Combustion Engine,IC,,,0.3,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+259,,3,OP,2021,John Deere,6090AFM75,Internal Combustion Engine,IC,,,0.22,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+259,,4,OP,2021,John Deere,6125HF070 (AFM75 Converted),Internal Combustion Engine,IC,,,0.325,,,,,,,,,,10,2021,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+259,,,OP,,,,Batteries,BA,,,0.295,0.135,,,,,,,,,,2014,,,,,,MWH,,,,,,,,,Installed? Operational?,
+259,,,OP,,,,Onshore Wind Turbine,WT,,,0.475,,,,,,,,,,1,2013,,,,Electric Utility,1,WND,,,,5,,,,,,AEA
+260,,1,OP,2021,John Deere ,SE500865,Internal Combustion Engine,IC,,,0.213,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+260,,2,UNK,2021,John Deere ,"6068HF285K,L",Internal Combustion Engine,IC,,,0.128,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+261,,,,,,,Onshore Wind Turbine,WT,,,0.065,,,,,,,,,,12,2011,,,,Electric Utility,1,WND,,,,1,,,,,REF grant? Or closed?,AEA
+262,6299,1,OP,2021,Caterpillar,3456,Internal Combustion Engine,IC,,,0.475,,,,,,,,,,6,2007,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+262,6299,1,RE,2021,,,Petroleum Liquids,IC,,S,0.4,,,0.3,0.3,,f,,,f,10,1965,5,2010,f,Electric Utility,1,DFO,,,,,,f,,,,EIA860
+262,6299,2,RE,2021,,,Petroleum Liquids,IC,,S,0.4,,,0.5,0.5,,f,,,f,5,1982,5,2010,f,Electric Utility,1,DFO,,,,,,f,,,,EIA860
+262,6299,2,OP,2021,Caterpillar ,3456,Internal Combustion Engine,IC,,,0.475,,,,,,,,,,6,2007,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+262,6299,3,RE,2021,,,Petroleum Liquids,IC,,S,0.4,,,0.4,0.4,,f,,,f,3,1983,5,2010,f,Electric Utility,1,DFO,,,,,,f,,,,EIA860
+262,6299,3,OS,2021,Caterpillar ,3456,Internal Combustion Engine,IC,,,0.475,,,,,,,,,,6,2007,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+262,6299,4,RE,2021,,,Petroleum Liquids,IC,,S,0.4,,,0.4,0.4,,f,,,f,3,1983,5,2010,f,Electric Utility,1,DFO,,,,,,,,,,EIA860
+262,6299,4,OP,2021,Caterpillar ,3456,Internal Combustion Engine,IC,,,0.475,,,,,,,,,,6,2007,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+262,6299,,OP,,,,Onshore Wind Turbine,WT,,,0.6,,,,,,,,,,11,2009,,,,Electric Utility,1,WND,,,,6,,,,,,AEA
+263,7502,1,RE,2021,,,Petroleum Liquids,IC,,S,0.3,,,0.3,0.3,,f,,,f,10,1985,7,2011,f,Electric Utility,1,DFO,,,,,,,,,,EIA860
+263,7502,10,OP,2021,,,Petroleum Liquids,IC,,S,5.2,,0.8,4.4,4.4,3.1,f,,,f,11,2010,,,f,Electric Utility,1,DFO,,,,,720,f,f,f,,EIA860
+263,7502,11,OP,2021,,,Petroleum Liquids,IC,,S,5.2,,0.8,4.4,4.4,3.1,f,,,f,11,2010,,,f,Electric Utility,1,DFO,,,,,720,f,f,f,,EIA860
+263,7502,12,OP,2021,,,Petroleum Liquids,IC,,S,4.4,,0.8,3.7,3.7,2.6,f,,,f,4,2015,,,f,Electric Utility,1,DFO,,,,,720,f,f,f,,EIA860
+263,7502,13,OP,2021,,,Petroleum Liquids,IC,,S,4.4,,0.8,3.7,3.7,2.6,f,,,f,12,2011,,,f,Electric Utility,1,DFO,,,,,720,f,f,f,,EIA860
+263,7502,15,SB,2021,,,Petroleum Liquids,IC,,S,0.3,,0.8,0.2,0.2,0.2,f,,,t,11,2010,,,f,Electric Utility,1,DFO,,,,,60,f,,f,,EIA860
+263,7502,2,RE,2021,,,Petroleum Liquids,IC,,S,0.3,,,0.3,0.3,,f,,,f,3,1987,7,2011,f,Electric Utility,1,DFO,,,,,,,,,,EIA860
+263,7502,3,RE,2021,,,Petroleum Liquids,IC,,S,0.6,,,0.5,0.5,,f,,,f,10,1986,7,2011,f,Electric Utility,1,DFO,,,,,,,,,,EIA860
+263,7502,4,RE,2021,,,Petroleum Liquids,IC,,S,0.9,,,0.7,0.7,,f,,,f,10,1986,7,2011,f,Electric Utility,1,DFO,,,,,60,,,,,EIA860
+263,7502,5,RE,2021,,,Petroleum Liquids,IC,,S,0.6,,,0.5,0.5,,f,,,f,10,1985,7,2011,f,Electric Utility,1,DFO,,,,,60,,,,,EIA860
+263,7502,6,RE,2021,,,Petroleum Liquids,IC,,S,1.4,,,1.2,1.2,,f,,,f,10,1985,7,2011,f,Electric Utility,1,DFO,,,,,60,,,,,EIA860
+263,7502,8,OP,2021,,,Petroleum Liquids,IC,,S,1.2,,0.8,1,1,0.6,f,,,f,11,1989,,,f,Electric Utility,1,DFO,,,,,60,f,f,f,,EIA860
+263,7502,9,OP,2021,,,Petroleum Liquids,IC,,S,1.2,,0.8,1,1,0.6,f,,,f,5,1994,,,f,Electric Utility,1,DFO,,,,,60,f,f,,,EIA860
+264,7503,7,OP,2021,,,Petroleum Liquids,IC,,S,1.1,,0.8,0.8,0.8,0.6,f,,,f,11,1993,,,f,Electric Utility,1,DFO,,,,,60,f,,,,EIA860
+264,7503,,OP,,,,ORC,BT,,,0.15,,,,,,,,,,10,2014,,,,,,WH,,,,,,,,,ORC,City of Unalaska
+265,,1,OS,2021,John Deere ,6068AFM75,Internal Combustion Engine,IC,,,0.15,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+265,,2,OP,2021,John Deere ,6081AFM75,Internal Combustion Engine,IC,,,0.229,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+266,54422,CAT1,RE,2021,,,Petroleum Liquids,IC,,S,0.8,,,0.8,0.8,0.3,f,,,f,2,1979,7,2011,f,Industrial Non-CHP,6,DFO,,,,,60,,,,,EIA860
+266,54422,CAT2,RE,2021,,,Petroleum Liquids,IC,,S,0.9,,,0.9,0.9,0.3,f,,,f,5,1973,7,2011,f,Industrial Non-CHP,6,DFO,,,,,60,,,,,EIA860
+266,54422,CAT4,OP,2021,,,Petroleum Liquids,IC,,S,1,,0.9,1,1,0.3,f,,,f,5,2012,,,f,Industrial Non-CHP,6,DFO,,,,,10,f,f,f,,EIA860
+266,54422,CAT5,OP,2021,,,Petroleum Liquids,IC,,S,1,,0.9,1,1,0.3,f,,,f,5,2012,,,f,Industrial Non-CHP,6,DFO,,,,,10,f,f,f,,EIA860
+266,54422,GEN1,OP,2021,,,Petroleum Liquids,IC,,S,2.5,,0.8,2.2,2.2,1.5,f,,,f,8,1990,,,f,Industrial Non-CHP,6,DFO,OBL,,,,10,t,t,f,,EIA860
+266,54422,GEN2,OP,2021,,,Petroleum Liquids,IC,,S,2.6,,0.8,2.3,2.3,1.5,f,,,f,8,1990,,,f,Industrial Non-CHP,6,DFO,OBL,,,,10,t,t,f,,EIA860
+266,54422,GEN3,OP,2021,,,Petroleum Liquids,IC,,S,2.7,,0.8,2.3,2.3,1.5,f,,,f,8,1990,,,f,Industrial Non-CHP,6,DFO,OBL,,,,10,t,t,f,,EIA860
+266,54422,GEN4,OP,2021,,,Petroleum Liquids,IC,,S,2.5,,0.8,2.2,2.2,1.5,f,,,f,8,1990,,,f,Industrial Non-CHP,6,DFO,OBL,,,,10,t,t,f,,EIA860
+266,54422,GEN5,OP,2021,,,Petroleum Liquids,IC,,S,2.7,,0.8,2.3,2.3,1.5,f,,,f,8,1990,,,f,Industrial Non-CHP,6,DFO,OBL,,,,10,t,t,f,,EIA860
+266,54422,GEN6,OP,2021,,,Petroleum Liquids,IC,,S,2.5,,0.8,2.2,2.2,1.5,f,,,f,8,1990,,,f,Industrial Non-CHP,6,DFO,OBL,,,,10,t,t,f,,EIA860
+267,50711,GEN1,OS,2021,,,Conventional Steam Coal,ST,,S,1.5,,0.8,0.5,1.4,0.2,f,,,f,1,1964,,,t,Commercial CHP,5,CL,DFO,NG,DFO,,720,t,f,f,,EIA860
+267,50711,GEN2,OS,2021,,,Conventional Steam Coal,ST,,S,1.5,,0.8,0.5,1.4,0.2,f,,,f,1,1964,,,t,Commercial CHP,5,CL,DFO,NG,DFO,,720,t,f,f,,EIA860
+267,50711,GEN3,OA,2021,,,Conventional Steam Coal,ST,,S,10,,0.85,8.1,10,2.5,f,,,f,4,1981,,,t,Commercial CHP,5,CL,DFO,NG,DFO,,720,t,f,f,,EIA860
+267,50711,GEN4,SB,2021,,,Petroleum Liquids,IC,,S,9.6,,0.8,9.6,9.6,2,f,,,t,8,2000,,,t,Commercial CHP,5,DFO,,,,,720,f,f,f,,EIA860
+267,50711,GEN5,OP,2021,,,Conventional Steam Coal,ST,,S,17,,0.94,17,17,4,f,,,f,2,2020,,,t,Commercial CHP,5,CL,DFO,NG,DFO,,720,t,t,f,,EIA860
+268,50392,DG01,SB,2021,,,Petroleum Liquids,IC,,S,1.5,,0.8,1.4,1.4,0.3,f,,,t,11,1998,,,f,Commercial CHP,5,DFO,,,,,10,f,f,f,,EIA860
+268,50392,DG02,SB,2021,,,Petroleum Liquids,IC,,S,1.5,,0.8,1.4,1.4,0.3,f,,,t,11,1998,,,f,Commercial CHP,5,DFO,,,,,10,f,f,f,,EIA860
+268,50392,DG03,SB,2021,,,Petroleum Liquids,IC,,S,1.5,,0.8,1.4,1.4,0.3,f,,,t,11,1998,,,f,Commercial CHP,5,DFO,,,,,10,f,f,f,,EIA860
+268,50392,DG04,SB,2021,,,Petroleum Liquids,IC,,S,1.5,,0.8,1.4,1.4,0.3,f,,,t,11,1998,,,f,Commercial CHP,5,DFO,,,,,10,f,,f,,EIA860
+268,50392,TG1,OP,2021,,,Conventional Steam Coal,ST,,S,2.5,,0.8,0.5,2.2,0.5,f,,,f,10,1952,,,t,Commercial CHP,5,CL,,CL,,,720,f,,f,,EIA860
+268,50392,TG2,OP,2021,,,Conventional Steam Coal,ST,,S,2.5,,0.8,0.5,2.2,0.5,f,,,f,10,1952,,,t,Commercial CHP,5,CL,,CL,,,720,f,,f,,EIA860
+268,50392,TG3,OP,2021,,,Conventional Steam Coal,ST,,S,5,,0.8,5,5,1,f,,,f,8,1955,,,t,Commercial CHP,5,CL,,CL,,,720,f,f,f,,EIA860
+268,50392,TG4,OP,2021,,,Conventional Steam Coal,ST,,S,5,,0.8,5,5,1,f,,,f,6,1969,,,t,Commercial CHP,5,CL,,CL,,,720,f,f,f,,EIA860
+268,50392,TG5,OP,2021,,,Conventional Steam Coal,ST,,S,10,,0.8,9,9.5,3,f,,,f,10,1987,,,t,Commercial CHP,5,CL,,CL,,,720,f,f,f,,EIA860
+270,,1,OP,2021,John Deere,6081AF001,Internal Combustion Engine,IC,,,0.18,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+270,,2,OP,2021,John Deere ,6081HT001,Internal Combustion Engine,IC,,,0.19,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+270,,3,OS,2021,John Deere ,6068TF250,Internal Combustion Engine,IC,,,0.125,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+271,54305,2,OP,2021,,,Petroleum Liquids,IC,,S,2.2,,0.8,2.2,2.2,1,f,,,f,3,1991,,,t,Industrial CHP,7,DFO,,,,,10,f,f,f,,EIA860
+271,54305,3,OP,2021,,,Petroleum Liquids,IC,,S,2.2,,0.8,2.2,2.2,1,f,,,f,3,1991,,,t,Industrial CHP,7,DFO,,,,,10,f,f,f,,EIA860
+271,54305,4,OP,2021,,,Petroleum Liquids,IC,,S,2.2,,0.8,2.2,2.2,1,f,,,f,3,1991,,,t,Industrial CHP,7,DFO,,,,,10,f,f,f,,EIA860
+272,,1,OP,2021,John Deere,6068AFM85,Internal Combustion Engine,IC,,,0.157,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+272,,2,OS,2021,Engine to is being replaced currently no engine 2 it will be the same as engine 3 John Deere,6090AFM85,Internal Combustion Engine,IC,,,0,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+272,,3,OP,2021,John Deere,6090AFM85,Internal Combustion Engine,IC,,,0.225,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
+273,95,1,RE,2021,,,Petroleum Liquids,IC,,S,1.3,,,1.3,1.3,,f,,,f,8,1972,1,2001,f,Electric Utility,1,DFO,,,,,,f,,,,EIA860
+273,95,11,OP,2021,,,Petroleum Liquids,IC,,S,2,,0.8,2,2,0.1,f,,,f,9,2000,,,f,Electric Utility,1,DFO,,,,,60,f,,,,EIA860
+273,95,12,OP,2021,,,Petroleum Liquids,IC,,S,2,,0.8,2,2,0.1,f,,,f,9,2000,,,f,Electric Utility,1,DFO,,,,,60,f,,,,EIA860
+273,95,13,OP,2021,,,Petroleum Liquids,IC,,S,2,,0.8,2,2,0.1,f,,,f,6,2002,,,f,Electric Utility,1,DFO,,,,,60,f,,,,EIA860
+273,95,2,RE,2021,,,Petroleum Liquids,IC,,S,1.3,,,1.3,1.3,,f,,,f,8,1972,1,2001,f,Electric Utility,1,DFO,,,,,,f,,,,EIA860
+273,95,3,RE,2021,,,Petroleum Liquids,IC,,S,1.3,,,1.3,1.3,,f,,,f,8,1973,1,2001,f,Electric Utility,1,DFO,,,,,,f,,,,EIA860
+273,95,4,RE,2021,,,Petroleum Liquids,IC,,S,1.3,,,1.3,1.3,,f,,,f,8,1973,1,2001,f,Electric Utility,1,DFO,,,,,,f,,,,EIA860
+273,95,5,RE,2021,,,Petroleum Liquids,IC,,S,0.5,,,0.5,0.5,,f,,,f,88,1964,1,2009,f,Electric Utility,1,DFO,,,,,,f,,,,EIA860
+273,95,7,RE,2021,,,Petroleum Liquids,IC,,S,0.5,,,0.5,0.5,,f,,,f,88,1970,1,2009,f,Electric Utility,1,DFO,,,,,,f,,,,EIA860
+273,95,9,OP,2021,,,Petroleum Liquids,IC,,S,2.5,,0.8,2.5,2.5,0.1,f,,,f,6,1987,,,f,Electric Utility,1,DFO,,,,,60,f,f,f,,EIA860
+275,,,OS,,,,Conventional Hydroelectric,HY,Marathon Creek,,0.16,,,,,,,,,,,1983,,1993,,Electric Utility,1,WAT,,,,0,,,,,Dates for Operation/Retirement are estimates,AEA
+276,,,OP,,,,Conventional Hydroelectric,HY,,,0.125,,,,,,,,,,0,1991,,,,Electric Utility,1,WAT,,,,0,,,,,,AEA
+278,7466,1,RE,2021,,,Petroleum Liquids,IC,,S,0.5,,,0.5,0.5,,f,,,f,1,1970,7,1999,f,Electric Utility,1,DFO,,,,,,,,,,EIA860
+278,7466,2,RE,2021,,,Petroleum Liquids,IC,,S,0.5,,,0.5,0.5,,f,,,f,1,1970,7,1999,f,Electric Utility,1,DFO,,,,,,,,,,EIA860
+278,7466,3,RE,2021,,,Petroleum Liquids,IC,,S,0.1,,,0.1,0.1,,f,,,f,6,1955,7,1999,f,Electric Utility,1,DFO,,,,,,,,,,EIA860
+278,7466,4,RE,2021,,,Petroleum Liquids,IC,,S,0.3,,,0.3,0.3,,f,,,f,6,1977,7,1999,f,Electric Utility,1,DFO,,,,,,,,,,EIA860
+293,59037,GEN 1,OP,2021,,,Conventional Hydroelectric,HY,,J,5,,0.8,5,5,0,f,,,f,1,2021,,,f,Electric Utility,1,WAT,,,,,60,f,,,,EIA860
+296,,,OP,,,,Batteries,BA,,,2,0.5,,,,,,,,,,2017,,,,Electric Utility,1,MWH,,,,0,,,,,,AEA
+296,,,OP,,,,Flywheels,FW,,,1,0.0045,,,,,,,,,,2017,,,,Electric Utility,1,MWH,,,,0,,,,,,AEA
+297,,,RE,,,,Flywheels,FW,,,0.16,0.027,,,,,,,,,12,2014,1,2016,,,,MWH,,,,,,,,,,
+297,,,OP,,,,Onshore Wind Turbine,WT,,,0.225,,,,,,,,,,6,2006,,,,Electric Utility,1,WND,,,,1,,,,,"Double-check the capacity, turbines",
+298,,,OP,,,,Conventional Hydroelectric,HY,Juniper Creek,,0.3,,,,,,,,,,7,2021,,,,,,WAT,,,,,,,,,,ADN
