@@ -39,13 +39,13 @@ AEDG includes Regional Corporations in the description of communities.
  Boroughs are analogous to a counties in other states. Organized boroughs were formed in those areas where economies were better developed. The remaining areas are the unorganized borough, which is divided into census areas; these areas exist for statistical analysis and do not have a government of their own. There are also consolidated city-borough governments. The Division of Community and Regional Affairs (DCRA) provides these boundaries as part of their Community Database Online (CDO), a source of information to aid in advising and assisting local governments, including for research purposes.
 AEDG includes borough or census area as a community attribute to identify governing entities.
 
-* **Alaska Energy Statistics Infrastructure Tables** (2024)
+* **Alaska Energy Statistics Infrastructure Table** (2023)
   https://acep-uaf.github.io/ak-energy-statistics-2011_2021/
  The Alaska Energy Statistics is a long-running collection of data and reports about energy production, consumption, and related topics specific to the state of Alaska. The workbooks were developed to provide community and utility level datasets that support regional and statewide aggregations for use in the 2024 Alaska Electricity Trends Report. This is a continuation of a 40+ year effort to create and maintain high level views of the state’s energy profile that are useful for policy makers, businesses, researchers, and others interested in Alaska’s energy sector. Data are derived from community Power Cost Equalization reports collated by the Alaska Energy Authority and power plant reporting to the U.S. Energy Information Administration (EIA). These sources are supplemented by annual filings to the Regulatory Commission of Alaska (RCA), village and powerhouse assessments, and direct communications with utilities and hydro/wind program managers.
 Additional funding was contributed by Office of Naval Research (ONR) funded Alaska Regional Collaboration for Technology Innovation and Commercialization (ARCTIC) program, the Denali Commission, and the State of Alaska.
 AEDG uses this dataset as the best available compilation of electrical generation capacity, incorporating data from multiple sources into a single source.
 
-* **Alaska Energy Statistics Financial Tables** (2024)
+* **Alaska Energy Statistics Annual Sales Table** (2023)
   https://acep-uaf.github.io/ak-energy-statistics-2011_2021/
  The Alaska Energy Statistics is a long-running collection of data and reports about energy production, consumption, and related topics specific to the state of Alaska. The workbooks were developed to provide community and utility level datasets that support regional and statewide aggregations for use in the 2024 Alaska Electricity Trends Report. This is a continuation of a 40+ year effort to create and maintain high level views of the state’s energy profile that are useful for policy makers, businesses, researchers, and others interested in Alaska’s energy sector. Data are derived from community Power Cost Equalization reports collated by the Alaska Energy Authority and power plant reporting to the U.S. Energy Information Administration (EIA). These sources are supplemented by annual filings to the Regulatory Commission of Alaska (RCA), village and powerhouse assessments, and direct communications with utilities and hydro/wind program managers.
 Additional funding was contributed by Office of Naval Research (ONR) funded Alaska Regional Collaboration for Technology Innovation and Commercialization (ARCTIC) program, the Denali Commission, and the State of Alaska.
@@ -93,7 +93,7 @@ Heating degree days (HDD), defined in the U.S. as degrees F below 65 multiplied 
 > 3. Used spatial joins to crosswalk AEDG communities with other organizations to create this dataset
 > 
 
-> **2026-01-12**: Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.
+> **2026-02-10**: Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.
 > 
 
 ## License

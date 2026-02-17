@@ -15,7 +15,7 @@ resource:
     - Public Use Microdata Areas (PUMAs)
   topics:
     - Social
-    - Electricity
+    - Energy
   publisher: acep
   sources: # list of directory names in https://github.com/acep-aedg/aedg-etl-2024/tree/main/data-sources to get source.yml
     - dol.places

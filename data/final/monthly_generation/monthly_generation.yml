@@ -18,7 +18,7 @@ resource:
     - Power Cost Equalization (PCE)
     - EIA Form 923
   topics:
-    - Electricity
+    - Energy
   publisher: acep
   sources:
     - acep.es_monthly_generation
