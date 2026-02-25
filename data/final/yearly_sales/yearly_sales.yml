@@ -50,4 +50,4 @@ resource:
       date: 2025
       object: data via https://github.com/acep-aedg/aedg-etl-2024
       comment: |
-        1. Paxson Inn and Lodge is showing discrepencies between aggregated revenues and total_revenue in 2002, records were dropped.
+        1. Inside Passage Elec Coop Inc reported to both PCE and EIA in 2020 and 2021. EIA records were dropped.
