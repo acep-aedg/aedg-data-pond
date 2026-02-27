@@ -1,0 +1,56 @@
+resource:
+  name: monthly_sales
+  title: "Monthly Sales Revenue and Customers by Reporting Entity"
+  summary: | # Short version of the description to appear in data explorer list
+    Monthly sales, revenue, and customer data aggregated by reporting entity. 
+  description: | # Description of what this dataset is and what it is doing here
+    Monthly sales, revenue, and customer data aggregated by reporting entity.
+  path: "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/final/monthly_sales/monthly_sales.csv"
+  keywords: 
+    - sales
+    - revenue
+    - electricity
+    - Power Cost Equalization (PCE)
+    - EIA Form 923
+  topics: 
+    - Electricity
+  publisher: acep
+  sources:
+    - acep.es_monthly_sales
+  licenses: 
+    - CC-BY-4.0
+  spatial: 
+    name: Alaska
+    boundingBox: [-187.55, 51.21, -130.0, 71.35]
+    crs: OGC:CRS84
+  temporal: 
+    referenceDate: "2021"
+    timeseries:  
+      - start: "2001-01"
+        end: "2021-12"
+        resolutionValue: "1"
+        resolutionUnit: month
+        alignment: null
+        aggregationType: sum
+  primaryKey:
+    - reporting_entity_id
+    - year
+  contributors: # roles from https://datacite-metadata-schema.readthedocs.io/en/4.5/properties/contributor/#a-contributortype
+    - title: Neil McMahon
+      organization: acep
+      roles:
+        - DataCollector
+      date: 2024
+      object: data from the Alaska Energy Statistics Electrical Generation Tables
+      comment: |
+        Pulled data from the original sources, the compiled, corrected, harmonized, transformed data into Excel Workbooks as annual datasets and as Financial and Generation timeseries. Additional corrections were applied to the yearly data.
+    - organization: acep
+      roles:
+        - DataCurator
+      date: 2025
+      object: data via https://github.com/acep-aedg/aedg-etl-2024
+      comment: |
+        1. Ambler had duplicated data in January 2015, dropped one record
+        2. Chenga Bay double counted PCE data in August 2019, averaged values
+        3. Napakiak double counted PCE data in December 2017, averaged values
+        4. Kwigillingok double counted PCE data in October 2019, averaged values

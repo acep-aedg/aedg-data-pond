@@ -35,8 +35,12 @@ datasets:
   # populations_ages_sexes:
   # regional_corporations:
   # reporting_entities:
-  sales:
-    data_path: data/final/sales/sales.csv
+  yearly_sales:
+    data_path: data/final/yearly_sales/yearly_sales.csv
+    bbox: infer
+    time: specify
+  monthly_sales:
+    data_path: data/final/monthly_sales/monthly_sales.csv
     bbox: infer
     time: specify
   # school_districts:
