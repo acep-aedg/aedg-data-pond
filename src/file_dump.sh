@@ -74,3 +74,4 @@ export_to_csv "public" "public_service_areas" "(SELECT * FROM public_service_are
 export_to_csv "public" "public_taxes" "(SELECT * FROM public_taxes)"
 export_to_csv "public" "public_transportation" "(SELECT * FROM public_transportation)"
 export_to_csv "public" "public_yearly_generation" "(SELECT * FROM public_yearly_generation)"
+export_to_csv "public" "public_generators" "(SELECT * FROM public_generators)"
