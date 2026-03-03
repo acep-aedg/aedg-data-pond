@@ -389,7 +389,7 @@ fips_code,name,reporting_entity_name,year,residential_rate,residential_rate_subs
 0204210,Atka,City of Atka,2005,0.50,0.34,,,,,,,PCE
 0204210,Atka,City of Atka,2006,0.53,0.26,0.53,,,,,0.53,PCE
 0204210,Atka,City of Atka,2007,0.55,0.27,0.55,,,,,0.55,PCE
-0204210,Atka,City of Atka,2008,0.77,0.28,0.77,,,,,0.76,PCE
+0204210,Atka,City of Atka,2008,0.62,0.24,0.19,,,,,0.20,PCE
 0204210,Atka,City of Atka,2009,0.70,0.23,0.70,,,,,0.70,PCE
 0204210,Atka,City of Atka,2010,0.61,0.18,0.61,,,,,0.61,PCE
 0204210,Atka,City of Atka,2011,0.70,0.20,0.70,,,,,0.69,PCE
@@ -535,7 +535,7 @@ fips_code,name,reporting_entity_name,year,residential_rate,residential_rate_subs
 0206520,Bethel,Alaska Village Electric Cooperative,2011,0.51,0.17,0.51,,,,,0.51,PCE
 0206520,Bethel,Alaska Village Electric Cooperative,2012,0.55,0.16,0.55,,,,,0.55,PCE
 0206520,Bethel,Alaska Village Electric Cooperative,2013,0.56,0.16,0.56,,,,,0.56,PCE
-0206520,Bethel,Alaska Village Electric Cooperative,2014,0.49,0.18,0.49,,,,,0.49,PCE
+0206520,Bethel,Alaska Village Electric Cooperative,2014,0.51,0.18,0.34,,,,,0.36,PCE
 0206520,Bethel,Alaska Village Electric Cooperative,2015,0.43,0.15,0.43,,,,,0.43,PCE
 0206520,Bethel,Alaska Village Electric Cooperative,2016,0.33,0.20,0.33,,,,,0.33,PCE
 0206520,Bethel,Alaska Village Electric Cooperative,2017,0.28,0.22,0.28,,,,,0.28,PCE
@@ -705,7 +705,7 @@ fips_code,name,reporting_entity_name,year,residential_rate,residential_rate_subs
 0211690,Central,Gold Country Energy,2007,0.51,0.18,0.51,,,,,0.51,PCE
 0211690,Central,Gold Country Energy,2008,0.56,0.15,0.56,,,,,0.56,PCE
 0211690,Central,Gold Country Energy,2009,0.60,0.31,0.60,,,,,0.60,PCE
-0211690,Central,Gold Country Energy,2010,0.62,0.25,0.62,,,,,0.62,PCE
+0211690,Central,Gold Country Energy,2010,0.65,0.25,0.39,,,,,0.41,PCE
 0211690,Central,Gold Country Energy,2011,0.78,0.24,0.78,,,,,0.78,PCE
 0211690,Central,Gold Country Energy,2012,0.77,0.26,0.77,,,,,0.77,PCE
 0211690,Central,Gold Country Energy,2013,0.72,0.25,0.72,,,,,0.72,PCE
@@ -1593,7 +1593,7 @@ fips_code,name,reporting_entity_name,year,residential_rate,residential_rate_subs
 0221810,Ekwok,Alaska Village Electric Cooperative,2008,0.50,0.13,0.50,,,,,0.50,PCE
 0221810,Ekwok,Alaska Village Electric Cooperative,2009,0.50,0.13,0.50,,,,,0.50,PCE
 0221810,Ekwok,Alaska Village Electric Cooperative,2010,0.60,0.17,0.60,,,,,0.60,PCE
-0221810,Ekwok,Alaska Village Electric Cooperative,2011,0.10,0.03,,,,,,,PCE
+0221810,Ekwok,Alaska Village Electric Cooperative,2011,0.37,0.11,0.00,,,,,0.00,PCE
 0221810,Ekwok,Alaska Village Electric Cooperative,2012,0.74,0.24,0.74,,,,,0.74,PCE
 0221810,Ekwok,Alaska Village Electric Cooperative,2013,0.70,0.21,0.70,,,,,0.70,PCE
 0221810,Ekwok,Alaska Village Electric Cooperative,2014,0.69,0.25,0.69,,,,,0.69,PCE
@@ -2226,7 +2226,7 @@ fips_code,name,reporting_entity_name,year,residential_rate,residential_rate_subs
 0230940,Gustavus,Alaska Power & Telephone Company,2011,0.45,0.28,0.45,,,,,0.45,PCE
 0230940,Gustavus,Alaska Power & Telephone Company,2012,0.44,0.26,0.44,,,,,0.44,PCE
 0230940,Gustavus,Alaska Power & Telephone Company,2013,0.47,0.30,,,,,,,PCE
-0230940,Gustavus,Alaska Power & Telephone Company,2014,0.44,0.29,0.44,,,,,0.44,PCE
+0230940,Gustavus,Alaska Power & Telephone Company,2014,0.44,0.27,0.21,,,,,0.19,PCE
 0230940,Gustavus,Alaska Power & Telephone Company,2015,0.42,0.29,0.42,,,,,0.42,PCE
 0230940,Gustavus,Alaska Power & Telephone Company,2016,0.43,0.30,0.43,,,,,0.43,PCE
 0230940,Gustavus,Alaska Power & Telephone Company,2017,0.45,0.31,0.45,,,,,0.45,PCE
@@ -3054,6 +3054,7 @@ fips_code,name,reporting_entity_name,year,residential_rate,residential_rate_subs
 0240840,Kobuk,Alaska Village Electric Cooperative,2009,0.87,0.47,,,,,,,PCE
 0240840,Kobuk,Alaska Village Electric Cooperative,2010,0.87,0.36,,,,,,,PCE
 0240840,Kobuk,Alaska Village Electric Cooperative,2011,0.87,0.39,0.87,,,,,0.87,PCE
+0240840,Kobuk,Alaska Village Electric Cooperative,2012,0.87,0.30,,,,,,,PCE
 0240840,Kobuk,Alaska Village Electric Cooperative,2013,0.72,0.21,0.72,,,,,0.72,PCE
 0240840,Kobuk,Alaska Village Electric Cooperative,2014,0.81,0.22,0.81,,,,,0.81,PCE
 0240840,Kobuk,Alaska Village Electric Cooperative,2015,0.76,0.22,0.76,,,,,0.76,PCE
@@ -3174,7 +3175,7 @@ fips_code,name,reporting_entity_name,year,residential_rate,residential_rate_subs
 0241720,Kotlik,Alaska Village Electric Cooperative,2005,0.35,0.21,0.35,,,,,0.34,PCE
 0241720,Kotlik,Alaska Village Electric Cooperative,2006,0.40,0.18,,,,,,,PCE
 0241720,Kotlik,Alaska Village Electric Cooperative,2007,0.48,0.18,,,,,,,PCE
-0241720,Kotlik,Alaska Village Electric Cooperative,2008,0.56,0.18,0.56,,,,,0.56,PCE
+0241720,Kotlik,Alaska Village Electric Cooperative,2008,0.57,0.18,0.07,,,,,0.06,PCE
 0241720,Kotlik,Alaska Village Electric Cooperative,2009,0.58,0.19,0.58,,,,,0.58,PCE
 0241720,Kotlik,Alaska Village Electric Cooperative,2010,0.51,0.18,0.51,,,,,0.51,PCE
 0241720,Kotlik,Alaska Village Electric Cooperative,2011,0.59,0.21,0.59,,,,,0.59,PCE
@@ -4378,7 +4379,7 @@ fips_code,name,reporting_entity_name,year,residential_rate,residential_rate_subs
 0258330,Oscarville,Alaska Village Electric Cooperative,2011,0.51,0.17,0.51,,,,,0.51,PCE
 0258330,Oscarville,Alaska Village Electric Cooperative,2012,0.55,0.16,0.55,,,,,0.55,PCE
 0258330,Oscarville,Alaska Village Electric Cooperative,2013,0.56,0.16,0.56,,,,,0.56,PCE
-0258330,Oscarville,Alaska Village Electric Cooperative,2014,0.49,0.18,0.49,,,,,0.49,PCE
+0258330,Oscarville,Alaska Village Electric Cooperative,2014,0.51,0.18,0.34,,,,,0.36,PCE
 0258330,Oscarville,Alaska Village Electric Cooperative,2015,0.43,0.15,0.43,,,,,0.43,PCE
 0258330,Oscarville,Alaska Village Electric Cooperative,2016,0.33,0.20,0.33,,,,,0.33,PCE
 0258330,Oscarville,Alaska Village Electric Cooperative,2017,0.28,0.22,0.28,,,,,0.28,PCE
@@ -6414,7 +6415,7 @@ fips_code,name,reporting_entity_name,year,residential_rate,residential_rate_subs
 0286490,Yakutat,Alaska Village Electric Cooperative,2014,0.53,0.21,0.53,,,,,0.53,PCE
 0286490,Yakutat,Alaska Village Electric Cooperative,2015,0.45,0.19,0.45,,,,,0.45,PCE
 0286490,Yakutat,Alaska Village Electric Cooperative,2016,0.43,0.19,,,,,,,PCE
-0286490,Yakutat,Alaska Village Electric Cooperative,2017,0.44,0.20,0.44,,,,,0.44,PCE
+0286490,Yakutat,Alaska Village Electric Cooperative,2017,0.43,0.19,0.22,,,,,0.25,PCE
 0286490,Yakutat,Alaska Village Electric Cooperative,2018,0.46,0.19,0.46,,,,,0.46,PCE
 0286490,Yakutat,Alaska Village Electric Cooperative,2019,0.47,0.19,0.47,,,,,0.47,PCE
 0286490,Yakutat,Alaska Village Electric Cooperative,2020,0.41,0.20,0.41,,,,,0.41,PCE
