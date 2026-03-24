@@ -6,8 +6,8 @@ datasets:
 # /final datasets should be located below
 
   # boroughs:
-  bulk_fuel:
-    data_path: data/final/bulk_fuel/bulk_fuel.geojson
+  bulk_fuel_2015:
+    data_path: data/final/bulk_fuel_2015/bulk_fuel_2015.geojson
     data_dictionary: bulk_fuel_data_dictionary.csv
     bbox: infer
     time: specify
