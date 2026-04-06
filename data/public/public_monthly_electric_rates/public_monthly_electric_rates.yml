@@ -1,6 +1,6 @@
 resource:
-  name: "public_rates"
-  title: "Electricity Rates for Communities"
+  name: public_monthly_electric_rates
+  title: Electricity Rates for Communities
   summary: |
     This dataset is sales by communities as they are recorded by reporting entities (i.e. utilities).
   description: |
@@ -31,11 +31,12 @@ resource:
   temporal:
     referenceDate: "2024-02-29"  # equivalent to as_of_date
     timeseries:
-      - start: "2001"
-        end: "2021"
+      - start: "2001-01-01"
+        end: "2021-12-31"
         resolutionValue: null
         resolutionUnit: month
         aggregationType: average
+        alignment: null
   primaryKey: # An array of fields that uniquely identifies each row in the table
     - fips_code  # this will change to reporting entity when that column gets added
     - year
