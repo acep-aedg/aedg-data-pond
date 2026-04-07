@@ -13,7 +13,7 @@
                 "Infrastructure"
             ],
             "title": "Bulk Fuel Facilities",
-            "path": "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/final/bulk_fuel/bulk_fuel.geojson",
+            "path": "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/ian/aedg-312-add-updated-bulk-fuel-dataset/data/final/bulk_fuel/bulk_fuel.geojson",
             "description": "This dataset derived from the Bulk Fuel Inventory, a list of bulk fuel facilities in Alaska including photos, assessments, and tank details provided by the Alaska Energy Authority, the U.S. Coast Guard, and Division of Community and Regional Affairs.\n",
             "languages": [
                 "en-US"
@@ -24,7 +24,7 @@
                 "road",
                 "community"
             ],
-            "publicationDate": "2026-02-10",
+            "publicationDate": "2026-04-06",
             "context": {
                 "title": "Alaska Energy Data Gateway v3.0",
                 "homepage": "https://akenergygateway.alaska.edu/",
@@ -54,8 +54,42 @@
                         "Alaska Division of Community and Regional Affairs (DCRA)"
                     ],
                     "description": "A list of bulk fuel facilities in Alaska including photos, assessments, and tank details provided by the Alaska Energy Authority, the U.S. Coast Guard, and Division of Community and Regional Affairs.\n",
-                    "publicationYear": "2025",
+                    "publicationYear": "2015",
                     "path": "https://maps.commerce.alaska.gov/server/rest/services/Services/CDO_Utilities/MapServer/48",
+                    "sourceLicenses": [
+                        {
+                            "name": "public-domain",
+                            "title": "U.S. Public Domain",
+                            "path": "http://www.usa.gov/publicdomain/label/1.0/",
+                            "instruction": "Data and content created by government employees within the scope of their employment are not subject\nto domestic copyright protection under 17 U.S.C. \u00a7 105. Government works are by default in the U.S.\nPublic Domain. You cannot use government materials in a way that implies endorsement by a government agency, official, or employee. You also cannot use federal government trademarks or federal government agency logos without permission - https://resources.data.gov/open-licenses/.\n"
+                        }
+                    ]
+                },
+                {
+                    "title": "Bulk Fuel Tanks",
+                    "authors": [
+                        "Alaska Energy Authority (AEA)"
+                    ],
+                    "description": "A list of bulk fuel tank details provided by the Alaska Energy Authority.\n",
+                    "publicationYear": "2024",
+                    "path": "https://github.com/acep-aedg/aedg-bulk-fuel/blob/main/data/l0/l0_bulk_fuel_survey.xlsx",
+                    "sourceLicenses": [
+                        {
+                            "name": "public-domain",
+                            "title": "U.S. Public Domain",
+                            "path": "http://www.usa.gov/publicdomain/label/1.0/",
+                            "instruction": "Data and content created by government employees within the scope of their employment are not subject\nto domestic copyright protection under 17 U.S.C. \u00a7 105. Government works are by default in the U.S.\nPublic Domain. You cannot use government materials in a way that implies endorsement by a government agency, official, or employee. You also cannot use federal government trademarks or federal government agency logos without permission - https://resources.data.gov/open-licenses/.\n"
+                        }
+                    ]
+                },
+                {
+                    "title": "Bulk Fuel Facilities",
+                    "authors": [
+                        "Alaska Energy Authority (AEA)"
+                    ],
+                    "description": "A list of bulk fuel facility details provided by the Alaska Energy Authority.\n",
+                    "publicationYear": "2024",
+                    "path": "https://github.com/acep-aedg/aedg-bulk-fuel/blob/main/data/l0/l0_bulk_fuel_survey.xlsx",
                     "sourceLicenses": [
                         {
                             "name": "public-domain",
@@ -112,7 +146,7 @@
                     "roles": [
                         "DataCurator"
                     ],
-                    "date": "2026-02-10",
+                    "date": "2026-04-06",
                     "object": "metadata via https://github.com/acep-aedg/aedg-metadata",
                     "comment": "Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.\n",
                     "path": "https://www.uaf.edu/acep/"
@@ -156,14 +190,6 @@
                         "unit": null
                     },
                     {
-                        "name": "data_source",
-                        "long_name": "Data Source",
-                        "description": null,
-                        "type": "string",
-                        "nullable": true,
-                        "unit": null
-                    },
-                    {
                         "name": "dcra_code",
                         "long_name": "DCRA Code",
                         "description": "Identification number given to this record by AK DCRA",
@@ -185,6 +211,14 @@
                         "description": null,
                         "type": "number",
                         "nullable": true,
+                        "unit": null
+                    },
+                    {
+                        "name": "end_year",
+                        "long_name": "End Year",
+                        "description": "End of the data collection period",
+                        "type": "integer",
+                        "nullable": false,
                         "unit": null
                     },
                     {
@@ -273,6 +307,22 @@
                         "description": "Does this community recieve fuel via road?",
                         "type": "boolean",
                         "nullable": true,
+                        "unit": null
+                    },
+                    {
+                        "name": "source",
+                        "long_name": "Source of Fuel Price Data",
+                        "description": "Name of reporting entity if surveyed, or DCRA if regionally averaged",
+                        "type": "string",
+                        "nullable": true,
+                        "unit": null
+                    },
+                    {
+                        "name": "start_year",
+                        "long_name": "Start Year",
+                        "description": "Beginning of the data collection period",
+                        "type": "integer",
+                        "nullable": false,
                         "unit": null
                     },
                     {

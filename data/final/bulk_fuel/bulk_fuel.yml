@@ -5,7 +5,7 @@ resource:
     Inventory of bulk fuel facilities in Alaska.
   description: | # Description of what this dataset is and what it is doing here
     This dataset derived from the Bulk Fuel Inventory, a list of bulk fuel facilities in Alaska including photos, assessments, and tank details provided by the Alaska Energy Authority, the U.S. Coast Guard, and Division of Community and Regional Affairs.
-  path: "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/final/bulk_fuel/bulk_fuel.geojson" # link to dataset in GitHub
+  path: "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/ian/aedg-312-add-updated-bulk-fuel-dataset/data/final/bulk_fuel/bulk_fuel.geojson" # link to dataset in GitHub
   keywords: # list of keywords and short phrases
     - barge
     - airport
@@ -18,6 +18,8 @@ resource:
   sources:  # optional if this is original data and there are no other sources. Otherwise choose one:
     # list of directory names in https://github.com/acep-aedg/aedg-etl-2024/tree/main/data-sources to get source.yml.
     - dcra.bulk_fuel
+    - aea.bulk_fuel_tanks
+    - aea.bulk_fuel_facilities
     - dol.places
     - dcra.communities
   licenses: # list of keys in the license.yml registry
