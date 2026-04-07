@@ -71,7 +71,7 @@ AEDG uses this dataset to associate places (point locations) with population div
 > 3. Joined population data with AEDG communities to create this dataset
 > 
 
-> **2026-01-12**: Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.
+> **2026-04-07**: Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.
 > 
 
 ## License
