@@ -25,7 +25,7 @@
                 "survey",
                 "census"
             ],
-            "publicationDate": "2026-01-12",
+            "publicationDate": "2026-04-07",
             "context": {
                 "title": "Alaska Energy Data Gateway v3.0",
                 "homepage": "https://akenergygateway.alaska.edu/",
@@ -139,7 +139,7 @@
                     "roles": [
                         "DataCurator"
                     ],
-                    "date": "2026-01-12",
+                    "date": "2026-04-07",
                     "object": "metadata via https://github.com/acep-aedg/aedg-metadata",
                     "comment": "Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.\n",
                     "path": "https://www.uaf.edu/acep/"
