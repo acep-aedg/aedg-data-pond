@@ -12,7 +12,7 @@
                 "Energy"
             ],
             "title": "Electricity Rates for Communities",
-            "path": "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/ian/aedg-667-update-rates-table/data/public/public_yearly_electric_rates/public_yearly_electric_rates.csv",
+            "path": "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/public/public_yearly_electric_rates/public_yearly_electric_rates.csv",
             "description": "This dataset is sales by communities as they are recorded by reporting entities (i.e. utilities). There is no single state or federal agency that collects data on all utility sales in Alaska.\nThis dataset derives from the Alaska Energy Statistics workbooks, which in turn compiles data from multiple sources including community Power Cost Equalization reports collated by the Alaska Energy Authority and reporting to the U.S. Energy Information Administration (EIA). Source data was harmonized to account for differences in reporting through a combination of subject matter expertise and transformations.\nThe same values for sales are reported for all the communities served by the reporting entity, which creates multiple duplicate values in this dataset.\n",
             "languages": [
                 "en-US"
@@ -25,7 +25,7 @@
                 "EIA Form 923",
                 "community"
             ],
-            "publicationDate": "2026-04-06",
+            "publicationDate": "2026-04-07",
             "context": {
                 "title": "Alaska Energy Data Gateway v3.0",
                 "homepage": "https://akenergygateway.alaska.edu/",
@@ -114,7 +114,7 @@
                     "roles": [
                         "DataCurator"
                     ],
-                    "date": "2026-04-06",
+                    "date": "2026-04-07",
                     "object": "metadata via https://github.com/acep-aedg/aedg-metadata",
                     "comment": "Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.\n",
                     "path": "https://www.uaf.edu/acep/"

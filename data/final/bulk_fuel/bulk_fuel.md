@@ -9,7 +9,7 @@ This dataset derived from the Bulk Fuel Inventory, a list of bulk fuel facilitie
 * **Funding Agency:** State of Alaska
 
 ## Data Lineage
-* **URL:** [https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/ian/aedg-312-add-updated-bulk-fuel-dataset/data/final/bulk_fuel/bulk_fuel.geojson](https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/ian/aedg-312-add-updated-bulk-fuel-dataset/data/final/bulk_fuel/bulk_fuel.geojson)
+* **URL:** [https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/final/bulk_fuel/bulk_fuel.geojson](https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/final/bulk_fuel/bulk_fuel.geojson)
 * **Reference Date:** 2025
 
 ### Sources
@@ -70,7 +70,7 @@ AEDG uses this list to define canonical community names since, as free text, the
 > 2. Complied community names, locations, and FIPS identifiers for AEDG
 > 
 
-> **2026-04-06**: Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.
+> **2026-04-07**: Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.
 > 
 
 ## License

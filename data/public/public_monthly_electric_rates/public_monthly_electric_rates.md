@@ -11,7 +11,7 @@ The same values for sales are reported for all the communities served by the rep
 * **Funding Agency:** State of Alaska
 
 ## Data Lineage
-* **URL:** [https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/ian/aedg-667-update-rates-table/data/public/public_monthly_electric_rates/public_monthly_electric_rates.csv](https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/ian/aedg-667-update-rates-table/data/public/public_monthly_electric_rates/public_monthly_electric_rates.csv)
+* **URL:** [https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/public/public_monthly_electric_rates/public_monthly_electric_rates.csv](https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/public/public_monthly_electric_rates/public_monthly_electric_rates.csv)
 * **Reference Date:** 2024-02-29
 
 ### Sources
@@ -63,7 +63,7 @@ AEDG uses this dataset as the best available compilation of electricity sales, i
 > 7. Joined sales data with AEDG communities to create this dataset
 > 
 
-> **2026-04-06**: Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.
+> **2026-04-07**: Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.
 > 
 
 ## License

@@ -13,7 +13,7 @@
                 "Infrastructure"
             ],
             "title": "Bulk Fuel Facilities",
-            "path": "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/ian/aedg-312-add-updated-bulk-fuel-dataset/data/final/bulk_fuel/bulk_fuel.geojson",
+            "path": "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/final/bulk_fuel/bulk_fuel.geojson",
             "description": "This dataset derived from the Bulk Fuel Inventory, a list of bulk fuel facilities in Alaska including photos, assessments, and tank details provided by the Alaska Energy Authority, the U.S. Coast Guard, and Division of Community and Regional Affairs.\n",
             "languages": [
                 "en-US"
@@ -24,7 +24,7 @@
                 "road",
                 "community"
             ],
-            "publicationDate": "2026-04-06",
+            "publicationDate": "2026-04-07",
             "context": {
                 "title": "Alaska Energy Data Gateway v3.0",
                 "homepage": "https://akenergygateway.alaska.edu/",
@@ -146,7 +146,7 @@
                     "roles": [
                         "DataCurator"
                     ],
-                    "date": "2026-04-06",
+                    "date": "2026-04-07",
                     "object": "metadata via https://github.com/acep-aedg/aedg-metadata",
                     "comment": "Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.\n",
                     "path": "https://www.uaf.edu/acep/"
