@@ -85,8 +85,12 @@ datasets:
     data_path: data/public/public_populations_ages_sexes/public_populations_ages_sexes.csv
     bbox: infer
     time: specify
-  public_rates:
-    data_path: data/public/public_rates/public_rates.csv
+  public_yearly_electric_rates:
+    data_path: data/public/public_yearly_electric_rates/public_yearly_electric_rates.csv
+    bbox: infer
+    time: specify
+  public_monthly_electric_rates:
+    data_path: data/public/public_monthly_electric_rates/public_monthly_electric_rates.csv
     bbox: infer
     time: specify
   # public_service_areas:
