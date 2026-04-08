@@ -1,9 +1,9 @@
-# Electricity Rates for Communities
+# Yearly Electricity Rates for Communities
 
 ## Description
-This dataset is sales by communities as they are recorded by reporting entities (i.e. utilities). There is no single state or federal agency that collects data on all utility sales in Alaska.
+This dataset is electric rates by communities as they are recorded by reporting entities (i.e. utilities). There is no single state or federal agency that collects data on all utility sales in Alaska.
 This dataset derives from the Alaska Energy Statistics workbooks, which in turn compiles data from multiple sources including community Power Cost Equalization reports collated by the Alaska Energy Authority and reporting to the U.S. Energy Information Administration (EIA). Source data was harmonized to account for differences in reporting through a combination of subject matter expertise and transformations.
-The same values for sales are reported for all the communities served by the reporting entity, which creates multiple duplicate values in this dataset.
+The same values for electric rates are reported for all the communities served by the reporting entity, which creates multiple duplicate values in this dataset.
 
 
 ## Responsible Party
@@ -24,6 +24,18 @@ AEDG uses this list to define canonical community names since, as free text, the
   https://live.laborstats.alaska.gov/article/maps-gis-data
  This is an ESRI Shapefile for use in GIS software that contains place data from the 2020 US Census for Alaska. The definition of places includes all incorporated cities as well as Census Designated Places (CDPs). Each geographic unit is identified using Federal Information Processing Standards (FIPS) numbers. Coordinate System: North American Datum 1983 Alaska Albers. Source: 2020 US Census, PL94-171 Redistricting File; 2020 US Census Tiger Shapefiles. Documentation of field names: https://live.laborstats.alaska.gov/cen/maps/gis/Places2020.pdf. The Alaska Department of Labor and Workforce Development has had a cooperative agreement with the U.S. Census Bureau since 1981 to assist with geographic programs and help Alaskans find Census Bureau data.
 AEDG uses this list to define canonical community locations to use in spatial joins and relations, to associate places with FIPS codes, and to establish total community population.
+
+* **Alaska Energy Statistics monthly Sales Table** (2023)
+  https://acep-uaf.github.io/ak-energy-statistics-2011_2021/
+ The Alaska Energy Statistics is a long-running collection of data and reports about energy production, consumption, and related topics specific to the state of Alaska. The workbooks were developed to provide community and utility level datasets that support regional and statewide aggregations for use in the 2024 Alaska Electricity Trends Report. This is a continuation of a 40+ year effort to create and maintain high level views of the state’s energy profile that are useful for policy makers, businesses, researchers, and others interested in Alaska’s energy sector. Data are derived from community Power Cost Equalization reports collated by the Alaska Energy Authority and power plant reporting to the U.S. Energy Information Administration (EIA). These sources are supplemented by monthly filings to the Regulatory Commission of Alaska (RCA), village and powerhouse assessments, and direct communications with utilities and hydro/wind program managers.
+Additional funding was contributed by Office of Naval Research (ONR) funded Alaska Regional Collaboration for Technology Innovation and Commercialization (ARCTIC) program, the Denali Commission, and the State of Alaska.
+AEDG uses this dataset as the best available compilation of electricity sales, incorporating data from multiple sources into a single source.
+
+* **Alaska Energy Statistics Annual Sales Table** (2023)
+  https://acep-uaf.github.io/ak-energy-statistics-2011_2021/
+ The Alaska Energy Statistics is a long-running collection of data and reports about energy production, consumption, and related topics specific to the state of Alaska. The workbooks were developed to provide community and utility level datasets that support regional and statewide aggregations for use in the 2024 Alaska Electricity Trends Report. This is a continuation of a 40+ year effort to create and maintain high level views of the state’s energy profile that are useful for policy makers, businesses, researchers, and others interested in Alaska’s energy sector. Data are derived from community Power Cost Equalization reports collated by the Alaska Energy Authority and power plant reporting to the U.S. Energy Information Administration (EIA). These sources are supplemented by annual filings to the Regulatory Commission of Alaska (RCA), village and powerhouse assessments, and direct communications with utilities and hydro/wind program managers.
+Additional funding was contributed by Office of Naval Research (ONR) funded Alaska Regional Collaboration for Technology Innovation and Commercialization (ARCTIC) program, the Denali Commission, and the State of Alaska.
+AEDG uses this dataset as the best available compilation of electricity sales, incorporating data from multiple sources into a single source.
 
 
 ### Data Dictionary
@@ -49,14 +61,12 @@ AEDG uses this list to define canonical community locations to use in spatial jo
 
 > **2025**: 1. Contracted Neil McMahon to produce the Workbooks, and then posted them in GitHub for distribution.
 > 2. Complied community names, locations, and FIPS identifiers for AEDG
-> 3. residential rates are pre-calculated as residential_rate for all reporting entities and post-subsidy effective_rate for PCE reporting entities
-> 4. data for commercial and industrial was reported only as sales and revenue. For these categories, rates were calculated by dividing revenue/sales_mwh, producing the columns industrial_rate_calculated and commercial_rate_calculated.
-> 5. For good measure, residential rates were also calculated this way. residential_rate pre-calculated in the Workbooks, should equal residential_rate_calculated, calculated by us. (spoiler: they are equal when rounded to 2 decimals, which I codified in a DBT data test)
-> 6. For a few non-PCE reporting entities, especially Railbelt utilities, neither residential rates nor effective rates were calculated. For this reason, I experimented with combining rates into a single column: starting with effective_rate and filling with residential_rate_calculated when effective_rate was NULL. I’m not sure this is the best approach since they are different situations (non-PCE vs PCE), I suppose that’s worth discussing. We could leave the two columns side by side in order to maintain clarity. Rails would need a smart query to pull calculated_rate when effective_rate was NULL, essentially making that column on the fly. For now, I left all 4 columns so we can look at this in detail.
-> 7. Joined sales data with AEDG communities to create this dataset
+> 3. Residential rates are pre-calculated as residential_rate for all reporting entities and post-subsidy residential_rate_subsidized for PCE reporting entities
+> 4. Data for non-residential sectors was reported only as sales and revenue. For these categories, rates were calculated by dividing revenue/sales_mwh.
+> 5. Joined rate data with AEDG communities to create this dataset
 > 
 
-> **2026-04-07**: Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.
+> **2026-04-08**: Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.
 > 
 
 ## License
