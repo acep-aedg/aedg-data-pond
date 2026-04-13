@@ -4059,34 +4059,34 @@ fips_code,name,service_area_name,aea_plant_id,eia_plant_id,plant_generator_id,st
 0280660,Unalakleet,"Unalakleet Valley Electric Cooperative, Inc.",262,6299,2,OP,2021,Caterpillar ,3456,Internal Combustion Engine,IC,,,0.475,,,,,,,,,,6,2007,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
 0280660,Unalakleet,"Unalakleet Valley Electric Cooperative, Inc.",262,6299,3,RE,2021,,,Petroleum Liquids,IC,,S,0.4,,,0.4,0.4,,f,,,f,3,1983,5,2010,f,Electric Utility,1,DFO,,,,,,f,,,,EIA860
 0280660,Unalakleet,"Unalakleet Valley Electric Cooperative, Inc.",262,6299,,OP,,,,Onshore Wind Turbine,WT,,,0.6,,,,,,,,,,11,2009,,,,Electric Utility,1,WND,,,,6,,,,,,AEA
-0280770,Unalaska,City of Unalaska,266,54422,CAT2,RE,2021,,,Petroleum Liquids,IC,,S,0.9,,,0.9,0.9,0.3,f,,,f,5,1973,7,2011,f,Industrial Non-CHP,6,DFO,,,,,60,,,,,EIA860
-0280770,Unalaska,City of Unalaska,263,7502,11,OP,2021,,,Petroleum Liquids,IC,,S,5.2,,0.8,4.4,4.4,3.1,f,,,f,11,2010,,,f,Electric Utility,1,DFO,,,,,720,f,f,f,,EIA860
-0280770,Unalaska,City of Unalaska,263,7502,12,OP,2021,,,Petroleum Liquids,IC,,S,4.4,,0.8,3.7,3.7,2.6,f,,,f,4,2015,,,f,Electric Utility,1,DFO,,,,,720,f,f,f,,EIA860
-0280770,Unalaska,City of Unalaska,263,7502,13,OP,2021,,,Petroleum Liquids,IC,,S,4.4,,0.8,3.7,3.7,2.6,f,,,f,12,2011,,,f,Electric Utility,1,DFO,,,,,720,f,f,f,,EIA860
-0280770,Unalaska,City of Unalaska,263,7502,15,SB,2021,,,Petroleum Liquids,IC,,S,0.3,,0.8,0.2,0.2,0.2,f,,,t,11,2010,,,f,Electric Utility,1,DFO,,,,,60,f,,f,,EIA860
-0280770,Unalaska,City of Unalaska,266,54422,GEN6,OP,2021,,,Petroleum Liquids,IC,,S,2.5,,0.8,2.2,2.2,1.5,f,,,f,8,1990,,,f,Industrial Non-CHP,6,DFO,OBL,,,,10,t,t,f,,EIA860
-0280770,Unalaska,City of Unalaska,263,7502,2,RE,2021,,,Petroleum Liquids,IC,,S,0.3,,,0.3,0.3,,f,,,f,3,1987,7,2011,f,Electric Utility,1,DFO,,,,,,,,,,EIA860
-0280770,Unalaska,City of Unalaska,263,7502,3,RE,2021,,,Petroleum Liquids,IC,,S,0.6,,,0.5,0.5,,f,,,f,10,1986,7,2011,f,Electric Utility,1,DFO,,,,,,,,,,EIA860
-0280770,Unalaska,City of Unalaska,271,54305,2,OP,2021,,,Petroleum Liquids,IC,,S,2.2,,0.8,2.2,2.2,1,f,,,f,3,1991,,,t,Industrial CHP,7,DFO,,,,,10,f,f,f,,EIA860
-0280770,Unalaska,City of Unalaska,271,54305,3,OP,2021,,,Petroleum Liquids,IC,,S,2.2,,0.8,2.2,2.2,1,f,,,f,3,1991,,,t,Industrial CHP,7,DFO,,,,,10,f,f,f,,EIA860
-0280770,Unalaska,City of Unalaska,271,54305,4,OP,2021,,,Petroleum Liquids,IC,,S,2.2,,0.8,2.2,2.2,1,f,,,f,3,1991,,,t,Industrial CHP,7,DFO,,,,,10,f,f,f,,EIA860
-0280770,Unalaska,City of Unalaska,263,7502,4,RE,2021,,,Petroleum Liquids,IC,,S,0.9,,,0.7,0.7,,f,,,f,10,1986,7,2011,f,Electric Utility,1,DFO,,,,,60,,,,,EIA860
-0280770,Unalaska,City of Unalaska,263,7502,5,RE,2021,,,Petroleum Liquids,IC,,S,0.6,,,0.5,0.5,,f,,,f,10,1985,7,2011,f,Electric Utility,1,DFO,,,,,60,,,,,EIA860
-0280770,Unalaska,City of Unalaska,263,7502,6,RE,2021,,,Petroleum Liquids,IC,,S,1.4,,,1.2,1.2,,f,,,f,10,1985,7,2011,f,Electric Utility,1,DFO,,,,,60,,,,,EIA860
-0280770,Unalaska,City of Unalaska,263,7502,8,OP,2021,,,Petroleum Liquids,IC,,S,1.2,,0.8,1,1,0.6,f,,,f,11,1989,,,f,Electric Utility,1,DFO,,,,,60,f,f,f,,EIA860
-0280770,Unalaska,City of Unalaska,263,7502,9,OP,2021,,,Petroleum Liquids,IC,,S,1.2,,0.8,1,1,0.6,f,,,f,5,1994,,,f,Electric Utility,1,DFO,,,,,60,f,f,,,EIA860
-0280770,Unalaska,City of Unalaska,264,7503,7,OP,2021,,,Petroleum Liquids,IC,,S,1.1,,0.8,0.8,0.8,0.6,f,,,f,11,1993,,,f,Electric Utility,1,DFO,,,,,60,f,,,,EIA860
-0280770,Unalaska,City of Unalaska,264,7503,,OP,,,,ORC,BT,,,0.15,,,,,,,,,,10,2014,,,,,,WH,,,,,,,,,ORC,City of Unalaska
-0280770,Unalaska,City of Unalaska,266,54422,CAT1,RE,2021,,,Petroleum Liquids,IC,,S,0.8,,,0.8,0.8,0.3,f,,,f,2,1979,7,2011,f,Industrial Non-CHP,6,DFO,,,,,60,,,,,EIA860
-0280770,Unalaska,City of Unalaska,266,54422,CAT4,OP,2021,,,Petroleum Liquids,IC,,S,1,,0.9,1,1,0.3,f,,,f,5,2012,,,f,Industrial Non-CHP,6,DFO,,,,,10,f,f,f,,EIA860
-0280770,Unalaska,City of Unalaska,266,54422,CAT5,OP,2021,,,Petroleum Liquids,IC,,S,1,,0.9,1,1,0.3,f,,,f,5,2012,,,f,Industrial Non-CHP,6,DFO,,,,,10,f,f,f,,EIA860
-0280770,Unalaska,City of Unalaska,266,54422,GEN1,OP,2021,,,Petroleum Liquids,IC,,S,2.5,,0.8,2.2,2.2,1.5,f,,,f,8,1990,,,f,Industrial Non-CHP,6,DFO,OBL,,,,10,t,t,f,,EIA860
-0280770,Unalaska,City of Unalaska,266,54422,GEN2,OP,2021,,,Petroleum Liquids,IC,,S,2.6,,0.8,2.3,2.3,1.5,f,,,f,8,1990,,,f,Industrial Non-CHP,6,DFO,OBL,,,,10,t,t,f,,EIA860
-0280770,Unalaska,City of Unalaska,266,54422,GEN3,OP,2021,,,Petroleum Liquids,IC,,S,2.7,,0.8,2.3,2.3,1.5,f,,,f,8,1990,,,f,Industrial Non-CHP,6,DFO,OBL,,,,10,t,t,f,,EIA860
-0280770,Unalaska,City of Unalaska,266,54422,GEN4,OP,2021,,,Petroleum Liquids,IC,,S,2.5,,0.8,2.2,2.2,1.5,f,,,f,8,1990,,,f,Industrial Non-CHP,6,DFO,OBL,,,,10,t,t,f,,EIA860
-0280770,Unalaska,City of Unalaska,266,54422,GEN5,OP,2021,,,Petroleum Liquids,IC,,S,2.7,,0.8,2.3,2.3,1.5,f,,,f,8,1990,,,f,Industrial Non-CHP,6,DFO,OBL,,,,10,t,t,f,,EIA860
-0280770,Unalaska,City of Unalaska,263,7502,1,RE,2021,,,Petroleum Liquids,IC,,S,0.3,,,0.3,0.3,,f,,,f,10,1985,7,2011,f,Electric Utility,1,DFO,,,,,,,,,,EIA860
-0280770,Unalaska,City of Unalaska,263,7502,10,OP,2021,,,Petroleum Liquids,IC,,S,5.2,,0.8,4.4,4.4,3.1,f,,,f,11,2010,,,f,Electric Utility,1,DFO,,,,,720,f,f,f,,EIA860
+0280770,Unalaska,City Of Unalaska,266,54422,CAT2,RE,2021,,,Petroleum Liquids,IC,,S,0.9,,,0.9,0.9,0.3,f,,,f,5,1973,7,2011,f,Industrial Non-CHP,6,DFO,,,,,60,,,,,EIA860
+0280770,Unalaska,City Of Unalaska,263,7502,11,OP,2021,,,Petroleum Liquids,IC,,S,5.2,,0.8,4.4,4.4,3.1,f,,,f,11,2010,,,f,Electric Utility,1,DFO,,,,,720,f,f,f,,EIA860
+0280770,Unalaska,City Of Unalaska,263,7502,12,OP,2021,,,Petroleum Liquids,IC,,S,4.4,,0.8,3.7,3.7,2.6,f,,,f,4,2015,,,f,Electric Utility,1,DFO,,,,,720,f,f,f,,EIA860
+0280770,Unalaska,City Of Unalaska,263,7502,13,OP,2021,,,Petroleum Liquids,IC,,S,4.4,,0.8,3.7,3.7,2.6,f,,,f,12,2011,,,f,Electric Utility,1,DFO,,,,,720,f,f,f,,EIA860
+0280770,Unalaska,City Of Unalaska,263,7502,15,SB,2021,,,Petroleum Liquids,IC,,S,0.3,,0.8,0.2,0.2,0.2,f,,,t,11,2010,,,f,Electric Utility,1,DFO,,,,,60,f,,f,,EIA860
+0280770,Unalaska,City Of Unalaska,266,54422,GEN6,OP,2021,,,Petroleum Liquids,IC,,S,2.5,,0.8,2.2,2.2,1.5,f,,,f,8,1990,,,f,Industrial Non-CHP,6,DFO,OBL,,,,10,t,t,f,,EIA860
+0280770,Unalaska,City Of Unalaska,263,7502,2,RE,2021,,,Petroleum Liquids,IC,,S,0.3,,,0.3,0.3,,f,,,f,3,1987,7,2011,f,Electric Utility,1,DFO,,,,,,,,,,EIA860
+0280770,Unalaska,City Of Unalaska,263,7502,3,RE,2021,,,Petroleum Liquids,IC,,S,0.6,,,0.5,0.5,,f,,,f,10,1986,7,2011,f,Electric Utility,1,DFO,,,,,,,,,,EIA860
+0280770,Unalaska,City Of Unalaska,271,54305,2,OP,2021,,,Petroleum Liquids,IC,,S,2.2,,0.8,2.2,2.2,1,f,,,f,3,1991,,,t,Industrial CHP,7,DFO,,,,,10,f,f,f,,EIA860
+0280770,Unalaska,City Of Unalaska,271,54305,3,OP,2021,,,Petroleum Liquids,IC,,S,2.2,,0.8,2.2,2.2,1,f,,,f,3,1991,,,t,Industrial CHP,7,DFO,,,,,10,f,f,f,,EIA860
+0280770,Unalaska,City Of Unalaska,271,54305,4,OP,2021,,,Petroleum Liquids,IC,,S,2.2,,0.8,2.2,2.2,1,f,,,f,3,1991,,,t,Industrial CHP,7,DFO,,,,,10,f,f,f,,EIA860
+0280770,Unalaska,City Of Unalaska,263,7502,4,RE,2021,,,Petroleum Liquids,IC,,S,0.9,,,0.7,0.7,,f,,,f,10,1986,7,2011,f,Electric Utility,1,DFO,,,,,60,,,,,EIA860
+0280770,Unalaska,City Of Unalaska,263,7502,5,RE,2021,,,Petroleum Liquids,IC,,S,0.6,,,0.5,0.5,,f,,,f,10,1985,7,2011,f,Electric Utility,1,DFO,,,,,60,,,,,EIA860
+0280770,Unalaska,City Of Unalaska,263,7502,6,RE,2021,,,Petroleum Liquids,IC,,S,1.4,,,1.2,1.2,,f,,,f,10,1985,7,2011,f,Electric Utility,1,DFO,,,,,60,,,,,EIA860
+0280770,Unalaska,City Of Unalaska,263,7502,8,OP,2021,,,Petroleum Liquids,IC,,S,1.2,,0.8,1,1,0.6,f,,,f,11,1989,,,f,Electric Utility,1,DFO,,,,,60,f,f,f,,EIA860
+0280770,Unalaska,City Of Unalaska,263,7502,9,OP,2021,,,Petroleum Liquids,IC,,S,1.2,,0.8,1,1,0.6,f,,,f,5,1994,,,f,Electric Utility,1,DFO,,,,,60,f,f,,,EIA860
+0280770,Unalaska,City Of Unalaska,264,7503,7,OP,2021,,,Petroleum Liquids,IC,,S,1.1,,0.8,0.8,0.8,0.6,f,,,f,11,1993,,,f,Electric Utility,1,DFO,,,,,60,f,,,,EIA860
+0280770,Unalaska,City Of Unalaska,264,7503,,OP,,,,ORC,BT,,,0.15,,,,,,,,,,10,2014,,,,,,WH,,,,,,,,,ORC,City of Unalaska
+0280770,Unalaska,City Of Unalaska,266,54422,CAT1,RE,2021,,,Petroleum Liquids,IC,,S,0.8,,,0.8,0.8,0.3,f,,,f,2,1979,7,2011,f,Industrial Non-CHP,6,DFO,,,,,60,,,,,EIA860
+0280770,Unalaska,City Of Unalaska,266,54422,CAT4,OP,2021,,,Petroleum Liquids,IC,,S,1,,0.9,1,1,0.3,f,,,f,5,2012,,,f,Industrial Non-CHP,6,DFO,,,,,10,f,f,f,,EIA860
+0280770,Unalaska,City Of Unalaska,266,54422,CAT5,OP,2021,,,Petroleum Liquids,IC,,S,1,,0.9,1,1,0.3,f,,,f,5,2012,,,f,Industrial Non-CHP,6,DFO,,,,,10,f,f,f,,EIA860
+0280770,Unalaska,City Of Unalaska,266,54422,GEN1,OP,2021,,,Petroleum Liquids,IC,,S,2.5,,0.8,2.2,2.2,1.5,f,,,f,8,1990,,,f,Industrial Non-CHP,6,DFO,OBL,,,,10,t,t,f,,EIA860
+0280770,Unalaska,City Of Unalaska,266,54422,GEN2,OP,2021,,,Petroleum Liquids,IC,,S,2.6,,0.8,2.3,2.3,1.5,f,,,f,8,1990,,,f,Industrial Non-CHP,6,DFO,OBL,,,,10,t,t,f,,EIA860
+0280770,Unalaska,City Of Unalaska,266,54422,GEN3,OP,2021,,,Petroleum Liquids,IC,,S,2.7,,0.8,2.3,2.3,1.5,f,,,f,8,1990,,,f,Industrial Non-CHP,6,DFO,OBL,,,,10,t,t,f,,EIA860
+0280770,Unalaska,City Of Unalaska,266,54422,GEN4,OP,2021,,,Petroleum Liquids,IC,,S,2.5,,0.8,2.2,2.2,1.5,f,,,f,8,1990,,,f,Industrial Non-CHP,6,DFO,OBL,,,,10,t,t,f,,EIA860
+0280770,Unalaska,City Of Unalaska,266,54422,GEN5,OP,2021,,,Petroleum Liquids,IC,,S,2.7,,0.8,2.3,2.3,1.5,f,,,f,8,1990,,,f,Industrial Non-CHP,6,DFO,OBL,,,,10,t,t,f,,EIA860
+0280770,Unalaska,City Of Unalaska,263,7502,1,RE,2021,,,Petroleum Liquids,IC,,S,0.3,,,0.3,0.3,,f,,,f,10,1985,7,2011,f,Electric Utility,1,DFO,,,,,,,,,,EIA860
+0280770,Unalaska,City Of Unalaska,263,7502,10,OP,2021,,,Petroleum Liquids,IC,,S,5.2,,0.8,4.4,4.4,3.1,f,,,f,11,2010,,,f,Electric Utility,1,DFO,,,,,720,f,f,f,,EIA860
 0281320,Upper Kalskag,"Alaska Village Electric Cooperative, Inc.",77,57054,UNIT3,OP,2021,,,Petroleum Liquids,IC,,S,0.5,,0.9,0.5,0.5,0.1,f,,,f,12,2004,,,t,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
 0281320,Upper Kalskag,"Alaska Village Electric Cooperative, Inc.",77,57054,UNIT1,OP,2021,,,Petroleum Liquids,IC,,S,0.2,,0.9,0.2,0.2,0.1,f,,,f,12,2004,,,t,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
 0281320,Upper Kalskag,"Alaska Village Electric Cooperative, Inc.",77,57054,UNIT2,OP,2021,,,Petroleum Liquids,IC,,S,0.4,,0.9,0.4,0.4,0.1,f,,,f,12,2004,,,t,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
