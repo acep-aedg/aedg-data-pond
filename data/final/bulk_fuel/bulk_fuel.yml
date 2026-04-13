@@ -18,6 +18,8 @@ resource:
   sources:  # optional if this is original data and there are no other sources. Otherwise choose one:
     # list of directory names in https://github.com/acep-aedg/aedg-etl-2024/tree/main/data-sources to get source.yml.
     - dcra.bulk_fuel
+    - aea.bulk_fuel_tanks
+    - aea.bulk_fuel_facilities
     - dol.places
     - dcra.communities
   licenses: # list of keys in the license.yml registry
