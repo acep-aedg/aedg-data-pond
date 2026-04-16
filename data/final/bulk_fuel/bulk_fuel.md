@@ -13,9 +13,17 @@ This dataset derived from the Bulk Fuel Inventory, a list of bulk fuel facilitie
 * **Reference Date:** 2025
 
 ### Sources
-* **Bulk Fuel Inventory** (2025)
+* **Bulk Fuel Inventory** (2015)
   https://maps.commerce.alaska.gov/server/rest/services/Services/CDO_Utilities/MapServer/48
  A list of bulk fuel facilities in Alaska including photos, assessments, and tank details provided by the Alaska Energy Authority, the U.S. Coast Guard, and Division of Community and Regional Affairs.
+
+* **Bulk Fuel Tanks** (2024)
+  https://github.com/acep-aedg/aedg-bulk-fuel/blob/main/data/l0/l0_bulk_fuel_survey.xlsx
+ A list of bulk fuel tank details provided by the Alaska Energy Authority.
+
+* **Bulk Fuel Facilities** (2024)
+  https://github.com/acep-aedg/aedg-bulk-fuel/blob/main/data/l0/l0_bulk_fuel_survey.xlsx
+ A list of bulk fuel facility details provided by the Alaska Energy Authority.
 
 * **Places (Cities and CDPs) Shapefile** (2020)
   https://live.laborstats.alaska.gov/article/maps-gis-data
@@ -35,10 +43,10 @@ AEDG uses this list to define canonical community names since, as free text, the
 | Aviation Gas Capacity | number | gallons | Capacity of aviation gas (avgas) in gallons |
 | Barge Delivery | boolean | None | Does this community receive fuel via barge? |
 | Community FIPS Code | string | None |  |
-| Data Source | string | None |  |
 | DCRA Code | string | None | Identification number given to this record by AK DCRA |
 | Diesel Capacity | number | gallons | Capacity of diesel in gallons |
 | Distance to Barge Mooring | number | None |  |
+| End Year | integer | None | End of the data collection period |
 | Entity Name | string | None |  |
 | Fuel Supplier | string | None |  |
 | Gasoline Capacity | number | gallons | Capacity of gasoline in gallons |
@@ -50,6 +58,8 @@ AEDG uses this list to define canonical community names since, as free text, the
 | Recommendations by AEA | string | None |  |
 | Report | string | None |  |
 | Road Delivery | boolean | None | Does this community recieve fuel via road? |
+| Source of Fuel Price Data | string | None | Name of reporting entity if surveyed, or DCRA if regionally averaged |
+| Start Year | integer | None | Beginning of the data collection period |
 | Tank Farm Evaluation ID | string | None |  |
 | Tank Farm ID | string | None |  |
 | Total Capacity | number | gallons | Total capacity of tank farm |
@@ -60,7 +70,7 @@ AEDG uses this list to define canonical community names since, as free text, the
 > 2. Complied community names, locations, and FIPS identifiers for AEDG
 > 
 
-> **2026-02-10**: Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.
+> **2026-04-07**: Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.
 > 
 
 ## License
