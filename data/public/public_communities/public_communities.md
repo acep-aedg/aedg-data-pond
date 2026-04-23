@@ -93,7 +93,7 @@ Heating degree days (HDD), defined in the U.S. as degrees F below 65 multiplied 
 > 3. Used spatial joins to crosswalk AEDG communities with other organizations to create this dataset
 > 
 
-> **2026-02-10**: Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.
+> **2026**: Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.
 > 
 
 ## License

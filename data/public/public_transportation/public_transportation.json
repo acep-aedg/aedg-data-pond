@@ -1,12 +1,12 @@
 {
-    "@context": "",
+    "@context": "https://raw.githubusercontent.com/OpenEnergyPlatform/oemetadata/production/oemetadata/latest/context.json",
     "name": "public_transportation",
     "title": "Community Transportation Summary",
     "description": "Summary of the types of transportation available to each community.\n",
-    "@id": "",
+    "@id": "https://github.com/acep-aedg/aedg-data-pond",
     "resources": [
         {
-            "@id": "",
+            "@id": "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/public/public_transportation/public_transportation.csv",
             "name": "public_transportation",
             "topics": [
                 "Infrastructure"
@@ -28,7 +28,7 @@
                 "dock",
                 "coastal"
             ],
-            "publicationDate": "2026-01-12",
+            "publicationDate": "2026",
             "context": {
                 "title": "Alaska Energy Data Gateway v3.0",
                 "homepage": "https://akenergygateway.alaska.edu/",
@@ -109,7 +109,7 @@
                     "roles": [
                         "DataCurator"
                     ],
-                    "date": "2026-01-12",
+                    "date": "2026",
                     "object": "metadata via https://github.com/acep-aedg/aedg-metadata",
                     "comment": "Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.\n",
                     "path": "https://www.uaf.edu/acep/"

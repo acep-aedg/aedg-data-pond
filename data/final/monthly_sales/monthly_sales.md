@@ -63,7 +63,7 @@ AEDG uses this dataset as the best available compilation of electricity sales, i
 > 4. Kwigillingok double counted PCE data in October 2019, averaged values
 > 
 
-> **2026-04-06**: Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.
+> **2026**: Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.
 > 
 
 ## License
