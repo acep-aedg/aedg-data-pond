@@ -9,9 +9,9 @@ markdown-it-py==4.0.0
 mdurl==0.1.2
 numpy==2.3.5
 oemetadata==2.0.4
-packaging==25.0
+packaging==26.0
 pandas==2.3.3
-Pygments==2.19.2
+Pygments==2.20.0
 pyogrio==0.12.1
 pyproj==3.7.2
 python-dateutil==2.9.0.post0
