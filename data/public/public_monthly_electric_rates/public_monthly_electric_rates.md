@@ -61,7 +61,7 @@ AEDG uses this dataset as the best available compilation of electricity sales, i
 > 5. Joined rate data with AEDG communities to create this dataset
 > 
 
-> **2026-04-08**: Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.
+> **2026**: Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.
 > 
 
 ## License

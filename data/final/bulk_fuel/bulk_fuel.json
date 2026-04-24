@@ -1,12 +1,12 @@
 {
-    "@context": "",
+    "@context": "https://raw.githubusercontent.com/OpenEnergyPlatform/oemetadata/production/oemetadata/latest/context.json",
     "name": "bulk_fuel",
     "title": "Bulk Fuel Facilities",
     "description": "Inventory of bulk fuel facilities in Alaska.\n",
-    "@id": "",
+    "@id": "https://github.com/acep-aedg/aedg-data-pond",
     "resources": [
         {
-            "@id": "",
+            "@id": "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/final/bulk_fuel/bulk_fuel.geojson",
             "name": "bulk_fuel",
             "topics": [
                 "Energy",
@@ -24,7 +24,7 @@
                 "road",
                 "community"
             ],
-            "publicationDate": "2026-04-07",
+            "publicationDate": "2026",
             "context": {
                 "title": "Alaska Energy Data Gateway v3.0",
                 "homepage": "https://akenergygateway.alaska.edu/",
@@ -146,7 +146,7 @@
                     "roles": [
                         "DataCurator"
                     ],
-                    "date": "2026-04-07",
+                    "date": "2026",
                     "object": "metadata via https://github.com/acep-aedg/aedg-metadata",
                     "comment": "Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.\n",
                     "path": "https://www.uaf.edu/acep/"

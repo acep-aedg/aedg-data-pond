@@ -49,7 +49,7 @@ AEDG uses these data to display transportation options because these greatly inf
 > 3. Joined transportation data with AEDG communities to create this dataset
 > 
 
-> **2026-01-12**: Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.
+> **2026**: Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.
 > 
 
 ## License

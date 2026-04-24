@@ -1,12 +1,12 @@
 {
-    "@context": "",
+    "@context": "https://raw.githubusercontent.com/OpenEnergyPlatform/oemetadata/production/oemetadata/latest/context.json",
     "name": "yearly_generation",
     "title": "Yearly Electrical Generation by Grid",
     "description": "This dataset is yearly electrical generation aggregated by grid. It summarizes the amount of electrical power produced for a grid and the fuels that were used to generate it. This is a normalized table intended for internal use within the AEDG database.\n",
-    "@id": "",
+    "@id": "https://github.com/acep-aedg/aedg-data-pond",
     "resources": [
         {
-            "@id": "",
+            "@id": "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/final/yearly_generation/yearly_generation.csv",
             "name": "yearly_generation",
             "topics": [
                 "Energy"
@@ -27,7 +27,7 @@
                 "Power Cost Equalization (PCE)",
                 "EIA Form 923"
             ],
-            "publicationDate": "2026-02-10",
+            "publicationDate": "2026",
             "context": {
                 "title": "Alaska Energy Data Gateway v3.0",
                 "homepage": "https://akenergygateway.alaska.edu/",
@@ -117,7 +117,7 @@
                     "roles": [
                         "DataCurator"
                     ],
-                    "date": "2026-02-10",
+                    "date": "2026",
                     "object": "metadata via https://github.com/acep-aedg/aedg-metadata",
                     "comment": "Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.\n",
                     "path": "https://www.uaf.edu/acep/"

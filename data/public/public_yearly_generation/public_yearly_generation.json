@@ -1,12 +1,12 @@
 {
-    "@context": "",
+    "@context": "https://raw.githubusercontent.com/OpenEnergyPlatform/oemetadata/production/oemetadata/latest/context.json",
     "name": "public_yearly_generation",
     "title": "Yearly Electrical Generation by Community",
     "description": "This dataset is yearly electrical generation aggregated by grid and associated with every community connected to the grid. It summarizes the amount of electrical power produced for a community and the fuels that were used to generate it.\n",
-    "@id": "",
+    "@id": "https://github.com/acep-aedg/aedg-data-pond",
     "resources": [
         {
-            "@id": "",
+            "@id": "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/public/public_yearly_generation/public_yearly_generation.csv",
             "name": "public_yearly_generation",
             "topics": [
                 "Energy"
@@ -28,7 +28,7 @@
                 "EIA Form 923",
                 "community"
             ],
-            "publicationDate": "2026-02-10",
+            "publicationDate": "2026",
             "context": {
                 "title": "Alaska Energy Data Gateway v3.0",
                 "homepage": "https://akenergygateway.alaska.edu/",
@@ -139,7 +139,7 @@
                     "roles": [
                         "DataCurator"
                     ],
-                    "date": "2026-02-10",
+                    "date": "2026",
                     "object": "metadata via https://github.com/acep-aedg/aedg-metadata",
                     "comment": "Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.\n",
                     "path": "https://www.uaf.edu/acep/"
