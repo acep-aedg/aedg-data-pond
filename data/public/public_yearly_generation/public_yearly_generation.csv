@@ -412,12 +412,12 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0203220,Anderson,32.000,Waste Oil,2002
 0203220,Anderson,1031.000,Wood Waste Solids,2002
 0203220,Anderson,456747.980,Coal,2003
-0203220,Anderson,6204.990,Distillate Fuel Oil,2003
+0203220,Anderson,6308.990,Distillate Fuel Oil,2003
 0203220,Anderson,453733.000,Residual Fuel Oil,2003
 0203220,Anderson,64.000,Waste Oil,2003
 0203220,Anderson,758.001,Wood Waste Solids,2003
 0203220,Anderson,519938.432,Coal,2004
-0203220,Anderson,10202.938,Distillate Fuel Oil,2004
+0203220,Anderson,9963.938,Distillate Fuel Oil,2004
 0203220,Anderson,360379.000,Residual Fuel Oil,2004
 0203220,Anderson,0.000,Waste Oil,2004
 0203220,Anderson,388.500,Wood Waste Solids,2004
@@ -683,12 +683,12 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0205000,Badger,32.000,Waste Oil,2002
 0205000,Badger,1031.000,Wood Waste Solids,2002
 0205000,Badger,456747.980,Coal,2003
-0205000,Badger,6204.990,Distillate Fuel Oil,2003
+0205000,Badger,6308.990,Distillate Fuel Oil,2003
 0205000,Badger,453733.000,Residual Fuel Oil,2003
 0205000,Badger,64.000,Waste Oil,2003
 0205000,Badger,758.001,Wood Waste Solids,2003
 0205000,Badger,519938.432,Coal,2004
-0205000,Badger,10202.938,Distillate Fuel Oil,2004
+0205000,Badger,9963.938,Distillate Fuel Oil,2004
 0205000,Badger,360379.000,Residual Fuel Oil,2004
 0205000,Badger,0.000,Waste Oil,2004
 0205000,Badger,388.500,Wood Waste Solids,2004
@@ -971,12 +971,12 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0206850,Big Delta,32.000,Waste Oil,2002
 0206850,Big Delta,1031.000,Wood Waste Solids,2002
 0206850,Big Delta,456747.980,Coal,2003
-0206850,Big Delta,6204.990,Distillate Fuel Oil,2003
+0206850,Big Delta,6308.990,Distillate Fuel Oil,2003
 0206850,Big Delta,453733.000,Residual Fuel Oil,2003
 0206850,Big Delta,64.000,Waste Oil,2003
 0206850,Big Delta,758.001,Wood Waste Solids,2003
 0206850,Big Delta,519938.432,Coal,2004
-0206850,Big Delta,10202.938,Distillate Fuel Oil,2004
+0206850,Big Delta,9963.938,Distillate Fuel Oil,2004
 0206850,Big Delta,360379.000,Residual Fuel Oil,2004
 0206850,Big Delta,0.000,Waste Oil,2004
 0206850,Big Delta,388.500,Wood Waste Solids,2004
@@ -1295,12 +1295,12 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0210150,Cantwell,32.000,Waste Oil,2002
 0210150,Cantwell,1031.000,Wood Waste Solids,2002
 0210150,Cantwell,456747.980,Coal,2003
-0210150,Cantwell,6204.990,Distillate Fuel Oil,2003
+0210150,Cantwell,6308.990,Distillate Fuel Oil,2003
 0210150,Cantwell,453733.000,Residual Fuel Oil,2003
 0210150,Cantwell,64.000,Waste Oil,2003
 0210150,Cantwell,758.001,Wood Waste Solids,2003
 0210150,Cantwell,519938.432,Coal,2004
-0210150,Cantwell,10202.938,Distillate Fuel Oil,2004
+0210150,Cantwell,9963.938,Distillate Fuel Oil,2004
 0210150,Cantwell,360379.000,Residual Fuel Oil,2004
 0210150,Cantwell,0.000,Waste Oil,2004
 0210150,Cantwell,388.500,Wood Waste Solids,2004
@@ -1532,12 +1532,12 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0212920,Chena Ridge,32.000,Waste Oil,2002
 0212920,Chena Ridge,1031.000,Wood Waste Solids,2002
 0212920,Chena Ridge,456747.980,Coal,2003
-0212920,Chena Ridge,6204.990,Distillate Fuel Oil,2003
+0212920,Chena Ridge,6308.990,Distillate Fuel Oil,2003
 0212920,Chena Ridge,453733.000,Residual Fuel Oil,2003
 0212920,Chena Ridge,64.000,Waste Oil,2003
 0212920,Chena Ridge,758.001,Wood Waste Solids,2003
 0212920,Chena Ridge,519938.432,Coal,2004
-0212920,Chena Ridge,10202.938,Distillate Fuel Oil,2004
+0212920,Chena Ridge,9963.938,Distillate Fuel Oil,2004
 0212920,Chena Ridge,360379.000,Residual Fuel Oil,2004
 0212920,Chena Ridge,0.000,Waste Oil,2004
 0212920,Chena Ridge,388.500,Wood Waste Solids,2004
@@ -2140,12 +2140,12 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0216750,College,32.000,Waste Oil,2002
 0216750,College,1031.000,Wood Waste Solids,2002
 0216750,College,456747.980,Coal,2003
-0216750,College,6204.990,Distillate Fuel Oil,2003
+0216750,College,6308.990,Distillate Fuel Oil,2003
 0216750,College,453733.000,Residual Fuel Oil,2003
 0216750,College,64.000,Waste Oil,2003
 0216750,College,758.001,Wood Waste Solids,2003
 0216750,College,519938.432,Coal,2004
-0216750,College,10202.938,Distillate Fuel Oil,2004
+0216750,College,9963.938,Distillate Fuel Oil,2004
 0216750,College,360379.000,Residual Fuel Oil,2004
 0216750,College,0.000,Waste Oil,2004
 0216750,College,388.500,Wood Waste Solids,2004
@@ -2598,12 +2598,12 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0218620,Delta Junction,32.000,Waste Oil,2002
 0218620,Delta Junction,1031.000,Wood Waste Solids,2002
 0218620,Delta Junction,456747.980,Coal,2003
-0218620,Delta Junction,6204.990,Distillate Fuel Oil,2003
+0218620,Delta Junction,6308.990,Distillate Fuel Oil,2003
 0218620,Delta Junction,453733.000,Residual Fuel Oil,2003
 0218620,Delta Junction,64.000,Waste Oil,2003
 0218620,Delta Junction,758.001,Wood Waste Solids,2003
 0218620,Delta Junction,519938.432,Coal,2004
-0218620,Delta Junction,10202.938,Distillate Fuel Oil,2004
+0218620,Delta Junction,9963.938,Distillate Fuel Oil,2004
 0218620,Delta Junction,360379.000,Residual Fuel Oil,2004
 0218620,Delta Junction,0.000,Waste Oil,2004
 0218620,Delta Junction,388.500,Wood Waste Solids,2004
@@ -2733,12 +2733,12 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0218675,Deltana,32.000,Waste Oil,2002
 0218675,Deltana,1031.000,Wood Waste Solids,2002
 0218675,Deltana,456747.980,Coal,2003
-0218675,Deltana,6204.990,Distillate Fuel Oil,2003
+0218675,Deltana,6308.990,Distillate Fuel Oil,2003
 0218675,Deltana,453733.000,Residual Fuel Oil,2003
 0218675,Deltana,64.000,Waste Oil,2003
 0218675,Deltana,758.001,Wood Waste Solids,2003
 0218675,Deltana,519938.432,Coal,2004
-0218675,Deltana,10202.938,Distillate Fuel Oil,2004
+0218675,Deltana,9963.938,Distillate Fuel Oil,2004
 0218675,Deltana,360379.000,Residual Fuel Oil,2004
 0218675,Deltana,0.000,Waste Oil,2004
 0218675,Deltana,388.500,Wood Waste Solids,2004
@@ -2868,12 +2868,12 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0218805,Denali Park,32.000,Waste Oil,2002
 0218805,Denali Park,1031.000,Wood Waste Solids,2002
 0218805,Denali Park,456747.980,Coal,2003
-0218805,Denali Park,6204.990,Distillate Fuel Oil,2003
+0218805,Denali Park,6308.990,Distillate Fuel Oil,2003
 0218805,Denali Park,453733.000,Residual Fuel Oil,2003
 0218805,Denali Park,64.000,Waste Oil,2003
 0218805,Denali Park,758.001,Wood Waste Solids,2003
 0218805,Denali Park,519938.432,Coal,2004
-0218805,Denali Park,10202.938,Distillate Fuel Oil,2004
+0218805,Denali Park,9963.938,Distillate Fuel Oil,2004
 0218805,Denali Park,360379.000,Residual Fuel Oil,2004
 0218805,Denali Park,0.000,Waste Oil,2004
 0218805,Denali Park,388.500,Wood Waste Solids,2004
@@ -3290,12 +3290,12 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0221370,Eielson AFB,32.000,Waste Oil,2002
 0221370,Eielson AFB,1031.000,Wood Waste Solids,2002
 0221370,Eielson AFB,456747.980,Coal,2003
-0221370,Eielson AFB,6204.990,Distillate Fuel Oil,2003
+0221370,Eielson AFB,6308.990,Distillate Fuel Oil,2003
 0221370,Eielson AFB,453733.000,Residual Fuel Oil,2003
 0221370,Eielson AFB,64.000,Waste Oil,2003
 0221370,Eielson AFB,758.001,Wood Waste Solids,2003
 0221370,Eielson AFB,519938.432,Coal,2004
-0221370,Eielson AFB,10202.938,Distillate Fuel Oil,2004
+0221370,Eielson AFB,9963.938,Distillate Fuel Oil,2004
 0221370,Eielson AFB,360379.000,Residual Fuel Oil,2004
 0221370,Eielson AFB,0.000,Waste Oil,2004
 0221370,Eielson AFB,388.500,Wood Waste Solids,2004
@@ -3500,12 +3500,12 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0223460,Ester,32.000,Waste Oil,2002
 0223460,Ester,1031.000,Wood Waste Solids,2002
 0223460,Ester,456747.980,Coal,2003
-0223460,Ester,6204.990,Distillate Fuel Oil,2003
+0223460,Ester,6308.990,Distillate Fuel Oil,2003
 0223460,Ester,453733.000,Residual Fuel Oil,2003
 0223460,Ester,64.000,Waste Oil,2003
 0223460,Ester,758.001,Wood Waste Solids,2003
 0223460,Ester,519938.432,Coal,2004
-0223460,Ester,10202.938,Distillate Fuel Oil,2004
+0223460,Ester,9963.938,Distillate Fuel Oil,2004
 0223460,Ester,360379.000,Residual Fuel Oil,2004
 0223460,Ester,0.000,Waste Oil,2004
 0223460,Ester,388.500,Wood Waste Solids,2004
@@ -3727,12 +3727,12 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0224230,Fairbanks,32.000,Waste Oil,2002
 0224230,Fairbanks,1031.000,Wood Waste Solids,2002
 0224230,Fairbanks,456747.980,Coal,2003
-0224230,Fairbanks,6204.990,Distillate Fuel Oil,2003
+0224230,Fairbanks,6308.990,Distillate Fuel Oil,2003
 0224230,Fairbanks,453733.000,Residual Fuel Oil,2003
 0224230,Fairbanks,64.000,Waste Oil,2003
 0224230,Fairbanks,758.001,Wood Waste Solids,2003
 0224230,Fairbanks,519938.432,Coal,2004
-0224230,Fairbanks,10202.938,Distillate Fuel Oil,2004
+0224230,Fairbanks,9963.938,Distillate Fuel Oil,2004
 0224230,Fairbanks,360379.000,Residual Fuel Oil,2004
 0224230,Fairbanks,0.000,Waste Oil,2004
 0224230,Fairbanks,388.500,Wood Waste Solids,2004
@@ -3926,12 +3926,12 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0224980,Farmers Loop,32.000,Waste Oil,2002
 0224980,Farmers Loop,1031.000,Wood Waste Solids,2002
 0224980,Farmers Loop,456747.980,Coal,2003
-0224980,Farmers Loop,6204.990,Distillate Fuel Oil,2003
+0224980,Farmers Loop,6308.990,Distillate Fuel Oil,2003
 0224980,Farmers Loop,453733.000,Residual Fuel Oil,2003
 0224980,Farmers Loop,64.000,Waste Oil,2003
 0224980,Farmers Loop,758.001,Wood Waste Solids,2003
 0224980,Farmers Loop,519938.432,Coal,2004
-0224980,Farmers Loop,10202.938,Distillate Fuel Oil,2004
+0224980,Farmers Loop,9963.938,Distillate Fuel Oil,2004
 0224980,Farmers Loop,360379.000,Residual Fuel Oil,2004
 0224980,Farmers Loop,0.000,Waste Oil,2004
 0224980,Farmers Loop,388.500,Wood Waste Solids,2004
@@ -4061,12 +4061,12 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0225220,Ferry,32.000,Waste Oil,2002
 0225220,Ferry,1031.000,Wood Waste Solids,2002
 0225220,Ferry,456747.980,Coal,2003
-0225220,Ferry,6204.990,Distillate Fuel Oil,2003
+0225220,Ferry,6308.990,Distillate Fuel Oil,2003
 0225220,Ferry,453733.000,Residual Fuel Oil,2003
 0225220,Ferry,64.000,Waste Oil,2003
 0225220,Ferry,758.001,Wood Waste Solids,2003
 0225220,Ferry,519938.432,Coal,2004
-0225220,Ferry,10202.938,Distillate Fuel Oil,2004
+0225220,Ferry,9963.938,Distillate Fuel Oil,2004
 0225220,Ferry,360379.000,Residual Fuel Oil,2004
 0225220,Ferry,0.000,Waste Oil,2004
 0225220,Ferry,388.500,Wood Waste Solids,2004
@@ -4284,12 +4284,12 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0226835,Four Mile Road,32.000,Waste Oil,2002
 0226835,Four Mile Road,1031.000,Wood Waste Solids,2002
 0226835,Four Mile Road,456747.980,Coal,2003
-0226835,Four Mile Road,6204.990,Distillate Fuel Oil,2003
+0226835,Four Mile Road,6308.990,Distillate Fuel Oil,2003
 0226835,Four Mile Road,453733.000,Residual Fuel Oil,2003
 0226835,Four Mile Road,64.000,Waste Oil,2003
 0226835,Four Mile Road,758.001,Wood Waste Solids,2003
 0226835,Four Mile Road,519938.432,Coal,2004
-0226835,Four Mile Road,10202.938,Distillate Fuel Oil,2004
+0226835,Four Mile Road,9963.938,Distillate Fuel Oil,2004
 0226835,Four Mile Road,360379.000,Residual Fuel Oil,2004
 0226835,Four Mile Road,0.000,Waste Oil,2004
 0226835,Four Mile Road,388.500,Wood Waste Solids,2004
@@ -4419,12 +4419,12 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0226870,Fox,32.000,Waste Oil,2002
 0226870,Fox,1031.000,Wood Waste Solids,2002
 0226870,Fox,456747.980,Coal,2003
-0226870,Fox,6204.990,Distillate Fuel Oil,2003
+0226870,Fox,6308.990,Distillate Fuel Oil,2003
 0226870,Fox,453733.000,Residual Fuel Oil,2003
 0226870,Fox,64.000,Waste Oil,2003
 0226870,Fox,758.001,Wood Waste Solids,2003
 0226870,Fox,519938.432,Coal,2004
-0226870,Fox,10202.938,Distillate Fuel Oil,2004
+0226870,Fox,9963.938,Distillate Fuel Oil,2004
 0226870,Fox,360379.000,Residual Fuel Oil,2004
 0226870,Fox,0.000,Waste Oil,2004
 0226870,Fox,388.500,Wood Waste Solids,2004
@@ -5082,12 +5082,12 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0229130,Goldstream,32.000,Waste Oil,2002
 0229130,Goldstream,1031.000,Wood Waste Solids,2002
 0229130,Goldstream,456747.980,Coal,2003
-0229130,Goldstream,6204.990,Distillate Fuel Oil,2003
+0229130,Goldstream,6308.990,Distillate Fuel Oil,2003
 0229130,Goldstream,453733.000,Residual Fuel Oil,2003
 0229130,Goldstream,64.000,Waste Oil,2003
 0229130,Goldstream,758.001,Wood Waste Solids,2003
 0229130,Goldstream,519938.432,Coal,2004
-0229130,Goldstream,10202.938,Distillate Fuel Oil,2004
+0229130,Goldstream,9963.938,Distillate Fuel Oil,2004
 0229130,Goldstream,360379.000,Residual Fuel Oil,2004
 0229130,Goldstream,0.000,Waste Oil,2004
 0229130,Goldstream,388.500,Wood Waste Solids,2004
@@ -5568,12 +5568,12 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0231765,Harding-Birch Lakes,32.000,Waste Oil,2002
 0231765,Harding-Birch Lakes,1031.000,Wood Waste Solids,2002
 0231765,Harding-Birch Lakes,456747.980,Coal,2003
-0231765,Harding-Birch Lakes,6204.990,Distillate Fuel Oil,2003
+0231765,Harding-Birch Lakes,6308.990,Distillate Fuel Oil,2003
 0231765,Harding-Birch Lakes,453733.000,Residual Fuel Oil,2003
 0231765,Harding-Birch Lakes,64.000,Waste Oil,2003
 0231765,Harding-Birch Lakes,758.001,Wood Waste Solids,2003
 0231765,Harding-Birch Lakes,519938.432,Coal,2004
-0231765,Harding-Birch Lakes,10202.938,Distillate Fuel Oil,2004
+0231765,Harding-Birch Lakes,9963.938,Distillate Fuel Oil,2004
 0231765,Harding-Birch Lakes,360379.000,Residual Fuel Oil,2004
 0231765,Harding-Birch Lakes,0.000,Waste Oil,2004
 0231765,Harding-Birch Lakes,388.500,Wood Waste Solids,2004
@@ -5703,12 +5703,12 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0232150,Healy,32.000,Waste Oil,2002
 0232150,Healy,1031.000,Wood Waste Solids,2002
 0232150,Healy,456747.980,Coal,2003
-0232150,Healy,6204.990,Distillate Fuel Oil,2003
+0232150,Healy,6308.990,Distillate Fuel Oil,2003
 0232150,Healy,453733.000,Residual Fuel Oil,2003
 0232150,Healy,64.000,Waste Oil,2003
 0232150,Healy,758.001,Wood Waste Solids,2003
 0232150,Healy,519938.432,Coal,2004
-0232150,Healy,10202.938,Distillate Fuel Oil,2004
+0232150,Healy,9963.938,Distillate Fuel Oil,2004
 0232150,Healy,360379.000,Residual Fuel Oil,2004
 0232150,Healy,0.000,Waste Oil,2004
 0232150,Healy,388.500,Wood Waste Solids,2004
@@ -7750,12 +7750,12 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0244580,Livengood,32.000,Waste Oil,2002
 0244580,Livengood,1031.000,Wood Waste Solids,2002
 0244580,Livengood,456747.980,Coal,2003
-0244580,Livengood,6204.990,Distillate Fuel Oil,2003
+0244580,Livengood,6308.990,Distillate Fuel Oil,2003
 0244580,Livengood,453733.000,Residual Fuel Oil,2003
 0244580,Livengood,64.000,Waste Oil,2003
 0244580,Livengood,758.001,Wood Waste Solids,2003
 0244580,Livengood,519938.432,Coal,2004
-0244580,Livengood,10202.938,Distillate Fuel Oil,2004
+0244580,Livengood,9963.938,Distillate Fuel Oil,2004
 0244580,Livengood,360379.000,Residual Fuel Oil,2004
 0244580,Livengood,0.000,Waste Oil,2004
 0244580,Livengood,388.500,Wood Waste Solids,2004
@@ -8268,12 +8268,12 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0250080,Moose Creek,32.000,Waste Oil,2002
 0250080,Moose Creek,1031.000,Wood Waste Solids,2002
 0250080,Moose Creek,456747.980,Coal,2003
-0250080,Moose Creek,6204.990,Distillate Fuel Oil,2003
+0250080,Moose Creek,6308.990,Distillate Fuel Oil,2003
 0250080,Moose Creek,453733.000,Residual Fuel Oil,2003
 0250080,Moose Creek,64.000,Waste Oil,2003
 0250080,Moose Creek,758.001,Wood Waste Solids,2003
 0250080,Moose Creek,519938.432,Coal,2004
-0250080,Moose Creek,10202.938,Distillate Fuel Oil,2004
+0250080,Moose Creek,9963.938,Distillate Fuel Oil,2004
 0250080,Moose Creek,360379.000,Residual Fuel Oil,2004
 0250080,Moose Creek,0.000,Waste Oil,2004
 0250080,Moose Creek,388.500,Wood Waste Solids,2004
@@ -8781,12 +8781,12 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0253050,Nenana,32.000,Waste Oil,2002
 0253050,Nenana,1031.000,Wood Waste Solids,2002
 0253050,Nenana,456747.980,Coal,2003
-0253050,Nenana,6204.990,Distillate Fuel Oil,2003
+0253050,Nenana,6308.990,Distillate Fuel Oil,2003
 0253050,Nenana,453733.000,Residual Fuel Oil,2003
 0253050,Nenana,64.000,Waste Oil,2003
 0253050,Nenana,758.001,Wood Waste Solids,2003
 0253050,Nenana,519938.432,Coal,2004
-0253050,Nenana,10202.938,Distillate Fuel Oil,2004
+0253050,Nenana,9963.938,Distillate Fuel Oil,2004
 0253050,Nenana,360379.000,Residual Fuel Oil,2004
 0253050,Nenana,0.000,Waste Oil,2004
 0253050,Nenana,388.500,Wood Waste Solids,2004
@@ -9442,12 +9442,12 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0255910,North Pole,32.000,Waste Oil,2002
 0255910,North Pole,1031.000,Wood Waste Solids,2002
 0255910,North Pole,456747.980,Coal,2003
-0255910,North Pole,6204.990,Distillate Fuel Oil,2003
+0255910,North Pole,6308.990,Distillate Fuel Oil,2003
 0255910,North Pole,453733.000,Residual Fuel Oil,2003
 0255910,North Pole,64.000,Waste Oil,2003
 0255910,North Pole,758.001,Wood Waste Solids,2003
 0255910,North Pole,519938.432,Coal,2004
-0255910,North Pole,10202.938,Distillate Fuel Oil,2004
+0255910,North Pole,9963.938,Distillate Fuel Oil,2004
 0255910,North Pole,360379.000,Residual Fuel Oil,2004
 0255910,North Pole,0.000,Waste Oil,2004
 0255910,North Pole,388.500,Wood Waste Solids,2004
@@ -10097,12 +10097,12 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0261120,Pleasant Valley,32.000,Waste Oil,2002
 0261120,Pleasant Valley,1031.000,Wood Waste Solids,2002
 0261120,Pleasant Valley,456747.980,Coal,2003
-0261120,Pleasant Valley,6204.990,Distillate Fuel Oil,2003
+0261120,Pleasant Valley,6308.990,Distillate Fuel Oil,2003
 0261120,Pleasant Valley,453733.000,Residual Fuel Oil,2003
 0261120,Pleasant Valley,64.000,Waste Oil,2003
 0261120,Pleasant Valley,758.001,Wood Waste Solids,2003
 0261120,Pleasant Valley,519938.432,Coal,2004
-0261120,Pleasant Valley,10202.938,Distillate Fuel Oil,2004
+0261120,Pleasant Valley,9963.938,Distillate Fuel Oil,2004
 0261120,Pleasant Valley,360379.000,Residual Fuel Oil,2004
 0261120,Pleasant Valley,0.000,Waste Oil,2004
 0261120,Pleasant Valley,388.500,Wood Waste Solids,2004
@@ -10886,12 +10886,12 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0266550,Salcha,32.000,Waste Oil,2002
 0266550,Salcha,1031.000,Wood Waste Solids,2002
 0266550,Salcha,456747.980,Coal,2003
-0266550,Salcha,6204.990,Distillate Fuel Oil,2003
+0266550,Salcha,6308.990,Distillate Fuel Oil,2003
 0266550,Salcha,453733.000,Residual Fuel Oil,2003
 0266550,Salcha,64.000,Waste Oil,2003
 0266550,Salcha,758.001,Wood Waste Solids,2003
 0266550,Salcha,519938.432,Coal,2004
-0266550,Salcha,10202.938,Distillate Fuel Oil,2004
+0266550,Salcha,9963.938,Distillate Fuel Oil,2004
 0266550,Salcha,360379.000,Residual Fuel Oil,2004
 0266550,Salcha,0.000,Waste Oil,2004
 0266550,Salcha,388.500,Wood Waste Solids,2004
@@ -11799,12 +11799,12 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0272230,South Van Horn,32.000,Waste Oil,2002
 0272230,South Van Horn,1031.000,Wood Waste Solids,2002
 0272230,South Van Horn,456747.980,Coal,2003
-0272230,South Van Horn,6204.990,Distillate Fuel Oil,2003
+0272230,South Van Horn,6308.990,Distillate Fuel Oil,2003
 0272230,South Van Horn,453733.000,Residual Fuel Oil,2003
 0272230,South Van Horn,64.000,Waste Oil,2003
 0272230,South Van Horn,758.001,Wood Waste Solids,2003
 0272230,South Van Horn,519938.432,Coal,2004
-0272230,South Van Horn,10202.938,Distillate Fuel Oil,2004
+0272230,South Van Horn,9963.938,Distillate Fuel Oil,2004
 0272230,South Van Horn,360379.000,Residual Fuel Oil,2004
 0272230,South Van Horn,0.000,Waste Oil,2004
 0272230,South Van Horn,388.500,Wood Waste Solids,2004
@@ -11955,12 +11955,12 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0272985,Steele Creek,32.000,Waste Oil,2002
 0272985,Steele Creek,1031.000,Wood Waste Solids,2002
 0272985,Steele Creek,456747.980,Coal,2003
-0272985,Steele Creek,6204.990,Distillate Fuel Oil,2003
+0272985,Steele Creek,6308.990,Distillate Fuel Oil,2003
 0272985,Steele Creek,453733.000,Residual Fuel Oil,2003
 0272985,Steele Creek,64.000,Waste Oil,2003
 0272985,Steele Creek,758.001,Wood Waste Solids,2003
 0272985,Steele Creek,519938.432,Coal,2004
-0272985,Steele Creek,10202.938,Distillate Fuel Oil,2004
+0272985,Steele Creek,9963.938,Distillate Fuel Oil,2004
 0272985,Steele Creek,360379.000,Residual Fuel Oil,2004
 0272985,Steele Creek,0.000,Waste Oil,2004
 0272985,Steele Creek,388.500,Wood Waste Solids,2004
@@ -13077,12 +13077,12 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0279830,Two Rivers,32.000,Waste Oil,2002
 0279830,Two Rivers,1031.000,Wood Waste Solids,2002
 0279830,Two Rivers,456747.980,Coal,2003
-0279830,Two Rivers,6204.990,Distillate Fuel Oil,2003
+0279830,Two Rivers,6308.990,Distillate Fuel Oil,2003
 0279830,Two Rivers,453733.000,Residual Fuel Oil,2003
 0279830,Two Rivers,64.000,Waste Oil,2003
 0279830,Two Rivers,758.001,Wood Waste Solids,2003
 0279830,Two Rivers,519938.432,Coal,2004
-0279830,Two Rivers,10202.938,Distillate Fuel Oil,2004
+0279830,Two Rivers,9963.938,Distillate Fuel Oil,2004
 0279830,Two Rivers,360379.000,Residual Fuel Oil,2004
 0279830,Two Rivers,0.000,Waste Oil,2004
 0279830,Two Rivers,388.500,Wood Waste Solids,2004
@@ -13633,12 +13633,12 @@ fips_code,name,service_area_generation_mwh,fuel_type,year
 0284120,Whitestone,32.000,Waste Oil,2002
 0284120,Whitestone,1031.000,Wood Waste Solids,2002
 0284120,Whitestone,456747.980,Coal,2003
-0284120,Whitestone,6204.990,Distillate Fuel Oil,2003
+0284120,Whitestone,6308.990,Distillate Fuel Oil,2003
 0284120,Whitestone,453733.000,Residual Fuel Oil,2003
 0284120,Whitestone,64.000,Waste Oil,2003
 0284120,Whitestone,758.001,Wood Waste Solids,2003
 0284120,Whitestone,519938.432,Coal,2004
-0284120,Whitestone,10202.938,Distillate Fuel Oil,2004
+0284120,Whitestone,9963.938,Distillate Fuel Oil,2004
 0284120,Whitestone,360379.000,Residual Fuel Oil,2004
 0284120,Whitestone,0.000,Waste Oil,2004
 0284120,Whitestone,388.500,Wood Waste Solids,2004
