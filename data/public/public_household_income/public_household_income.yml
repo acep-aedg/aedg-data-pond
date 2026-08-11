@@ -1,0 +1,59 @@
+resource:
+  name: public_household_income
+  title: ACS Population Characteristics: Household Income and Benefits
+  summary: Population counts by household income in Alaskan communities for the last 12 months of the most recent ACS 5-year interval.
+  description: Population counts by household income in Alaskan communities for the last 12 months of the most recent ACS 5-year interval. This data has been visualized in a Geographic Information Systems (GIS) format and is provided as a service in the DCRA Information Portal by the Alaska Department of Commerce, Community, and Economic Development Division of Community and Regional Affairs (SOA DCCED DCRA), Research and Analysis section. SOA DCCED DCRA Research and Analysis is not the authoritative source for this data. For more information and for questions about this data, see: US Census Bureau, Household Income and Alaska American Community Survey Data.
+  path: "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/public/public_household_income/public_household_income.csv" # link to dataset in GitHub
+  keywords: # list of keywords and short phrases
+    - census
+    - census area
+  topics: # 1-2 broad topics for display in AEDG (which not all datasets need?)
+    - Social
+  publisher: acep
+  sources:  # optional if this is original data and there are no other sources. Otherwise choose one:
+    # list of directory names in https://github.com/acep-aedg/aedg-etl-2024/tree/main/data-sources to get source.yml.
+    - acs.household_income
+    # Or use the tag "metadata" to indicate the source that is defined within this file.
+    - metadata:
+      title: Household Income
+      authors:
+        - United States Census
+      description: |
+        This source is described here.
+      path: https://www.census.gov
+      sourceLicenses:
+        - public-domain
+  licenses: # list of keys in the license.yml registry
+    - CC-BY-4.0
+  spatial:  # optional if `-bbox none`
+    name: Alaska
+    boundingBox: [-187.55, 51.21, -130.0, 71.35]
+    crs: OGC:CRS84
+  temporal:  # optional if `-time none`
+    referenceDate: "2026-01-01"  # equivalent to as_of_date
+    timeseries:  # is a list of possibly multiple time periods
+      - start: "2007-01"
+        end: "2023-12"
+        resolutionValue: "1"
+        resolutionUnit: year
+        alignment: null
+        aggregationType: sum
+  primaryKey: # list of the fields that uniquely identifies each row in the table. Fields harvested from posted file.
+    - 
+  contributors: # who helped make the dataset
+    - title: # name of a person (optional)
+      organization: # link to key in agents.yml
+      roles: # list of roles from https://datacite-metadata-schema.readthedocs.io/en/4.5/properties/contributor/#a-contributortype
+        - DataCurator
+      date: 2024 # when did they do the things
+      object: # what was the thing affected (i.e. "data and metadata")
+      comment: | # free text description of what was done
+    - organization: acep
+      roles:
+        - DataCurator
+      date: now
+      object: data via https://github.com/acep-aedg/aedg-etl-2024
+      comment: |
+        1. Identified data source and integrated it into the data pipeline.
+        2. Complied community names, locations, and FIPS identifiers for AEDG
+        3. Joined generation data with AEDG communities to create this dataset

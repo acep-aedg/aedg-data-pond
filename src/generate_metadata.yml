@@ -106,3 +106,7 @@ datasets:
     data_path: data/public/public_yearly_generation/public_yearly_generation.csv
     bbox: infer
     time: specify
+  public_household_income:
+    data_path: data/public/public_household_income/public_household_income.csv
+    bbox: infer
+    time: specify
