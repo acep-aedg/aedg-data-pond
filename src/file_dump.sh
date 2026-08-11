@@ -65,6 +65,7 @@ export_to_csv "final" "generators" "l2_es_generators"
 export_to_csv "intermediate" "lookup_rca_electric_certificates" "lookup_rca_electric_certificates"
 
 # Export de-normalized views for public consumption (note: views are special, need the SELECT * query nested in the COPY command)
+export_to_csv "public" "public_bulk_fuel" "(SELECT * FROM public_bulk_fuel)"
 export_to_csv "public" "public_household_income" "(SELECT * FROM public_household_income)"
 export_to_csv "public" "public_capacity" "(SELECT * FROM public_capacity)"
 export_to_csv "public" "public_communities" "(SELECT * FROM public_communities)"
