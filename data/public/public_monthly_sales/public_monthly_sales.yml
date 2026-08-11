@@ -1,9 +1,9 @@
 resource:
   name: public_monthly_sales
   title: "Monthly Sales Revenue and Customers by Reporting Entity and Community"
-  summary: | # Short version of the description to appear in data explorer list
+  summary: |
     Monthly sales, revenue, and customer data aggregated by reporting entity and community. 
-  description: | # Description of what this dataset is and what it is doing here
+  description: |
     Monthly sales, revenue, and customer data aggregated by reporting entity and community.
   path: "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/public/public_monthly_sales/public_monthly_sales.csv"
   keywords: 
