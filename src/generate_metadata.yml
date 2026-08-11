@@ -106,3 +106,7 @@ datasets:
     data_path: data/public/public_yearly_generation/public_yearly_generation.csv
     bbox: infer
     time: specify
+  public_monthly_sales:
+    data_path: data/public/public_monthly_sales/public_monthly_sales.csv
+    bbox: infer
+    time: specify
