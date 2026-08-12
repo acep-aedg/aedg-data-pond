@@ -2,30 +2,30 @@ resource:
   name: public_yearly_sales
   title: "Yearly Sales Revenue and Customers by Reporting Entity and Community"
   summary: | # Short version of the description to appear in data explorer list
-    Yearly sales, revenue, and customer data aggregated by reporting entity and community. 
+    Yearly sales, revenue, and customer data aggregated by reporting entity and community.
   description: | # Description of what this dataset is and what it is doing here
     Yearly sales, revenue, and customer data aggregated by reporting entity and community.
-  path: "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/public/public_monthly_sales/public_monthly_sales.csv"
-  keywords: 
+  path: "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/public/public_yearly_sales/public_yearly_sales.csv"
+  keywords:
     - sales
     - revenue
     - electricity
     - Power Cost Equalization (PCE)
     - EIA Form 923
-  topics: 
+  topics:
     - Electricity
   publisher: acep
   sources:
-    - acep.es_yearly_sales
-  licenses: 
+    - acep.es_annual_sales
+  licenses:
     - CC-BY-4.0
-  spatial: 
+  spatial:
     name: Alaska
     boundingBox: [-187.55, 51.21, -130.0, 71.35]
     crs: OGC:CRS84
-  temporal: 
+  temporal:
     referenceDate: "2020"
-    timeseries:  
+    timeseries:
       - start: "2001-01"
         end: "2020-12"
         resolutionValue: "1"

@@ -8,7 +8,7 @@
 *.shx
 *.sbx
 
-# database dumpfiles 
+# database dumpfiles
 *.dat
 *.dat.gz
 *.gz
@@ -21,7 +21,7 @@
 .tar.bz2
 .rar
 .7z
-.gz 
+.gz
 
 # common binaries
 #*.xlsx Neil delivered his tables as Excel and want to stash those
@@ -52,3 +52,4 @@ ENV/
 env.bak/
 venv.bak/
 .ipynb_checkpoints/
+.tool-versions
