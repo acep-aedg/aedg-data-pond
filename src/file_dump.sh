@@ -82,3 +82,4 @@ export_to_csv "public" "public_transportation" "(SELECT * FROM public_transporta
 export_to_csv "public" "public_yearly_generation" "(SELECT * FROM public_yearly_generation)"
 export_to_csv "public" "public_yearly_sales" "(SELECT * FROM public_yearly_sales)"
 export_to_csv "public" "public_monthly_sales" "(SELECT * FROM public_monthly_sales)"
+export_to_csv "public" "public_income_poverty" "(SELECT * FROM public_income_poverty)"
