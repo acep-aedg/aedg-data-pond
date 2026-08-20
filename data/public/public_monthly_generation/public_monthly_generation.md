@@ -40,7 +40,7 @@ AEDG uses this dataset as the best available compilation of electrical generatio
 | Alaska Energy Authority Plant ID | number | None |  |
 | Service Area Geometry ID | string | None | Unique identifier of service area polygon |
 | Year | integer | None | Four digit year as Common Era (CE) |
-| Month | integer | None | Month as 1-12 for which generation was reported |
+| Month | integer | None | Month as 1-12 for the reported observation |
 | Fuel Type | string | None | Generation fuel as defined by the U.S. Energy Information Administration (EIA) |
 | Service Area PCE Fuel Price | number | USD | Price of fuel paid by utility as reported to PCE program |
 | Service Area Generation (MWh) | number | MWh | Generation of all plants within the service area |
