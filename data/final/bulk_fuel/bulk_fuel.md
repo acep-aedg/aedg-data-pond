@@ -42,7 +42,7 @@ AEDG uses this list to define canonical community names since, as free text, the
 | Alaska Energy Authority ID | string | None | Identification number given by Alaska Energy Authority |
 | Aviation Gas Capacity | number | gallons | Capacity of aviation gas (avgas) in gallons |
 | Barge Delivery | boolean | None | Does this community receive fuel via barge? |
-| Community FIPS Code | string | None |  |
+| Community FIPS Code | string | None | 5-digit Federal Information Processing Series (FIPS) code identifier for places, assigned and maintained by the Census Bureau |
 | DCRA Code | string | None | Identification number given to this record by AK DCRA |
 | Diesel Capacity | number | gallons | Capacity of diesel in gallons |
 | Distance to Barge Mooring | number | None |  |
@@ -56,9 +56,9 @@ AEDG uses this list to define canonical community names since, as free text, the
 | Other Fuel Capacity | number | gallons | Capacity of other fuel (non diesel; jet fuel; gasoline; or avgas) in gallons |
 | Plane Delivery | boolean | None | Does this community receive fuel via airplane? |
 | Recommendations by AEA | string | None |  |
-| Report | string | None |  |
+| Report | string | None | Title, type, or classification of the source document or reference report associated with the record |
 | Road Delivery | boolean | None | Does this community recieve fuel via road? |
-| Source of Fuel Price Data | string | None | Name of reporting entity if surveyed, or DCRA if regionally averaged |
+| Source | string | None | Source of data |
 | Start Year | integer | None | Beginning of the data collection period |
 | Tank Farm Evaluation ID | string | None |  |
 | Tank Farm ID | string | None |  |

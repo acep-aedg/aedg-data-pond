@@ -184,7 +184,7 @@
                     {
                         "name": "community_fips_code",
                         "long_name": "Community FIPS Code",
-                        "description": null,
+                        "description": "5-digit Federal Information Processing Series (FIPS) code identifier for places, assigned and maintained by the Census Bureau",
                         "type": "string",
                         "nullable": false,
                         "unit": null
@@ -296,7 +296,7 @@
                     {
                         "name": "report",
                         "long_name": "Report",
-                        "description": null,
+                        "description": "Title, type, or classification of the source document or reference report associated with the record",
                         "type": "string",
                         "nullable": true,
                         "unit": null
@@ -311,8 +311,8 @@
                     },
                     {
                         "name": "source",
-                        "long_name": "Source of Fuel Price Data",
-                        "description": "Name of reporting entity if surveyed, or DCRA if regionally averaged",
+                        "long_name": "Source",
+                        "description": "Source of data",
                         "type": "string",
                         "nullable": true,
                         "unit": null

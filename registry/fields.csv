@@ -137,3 +137,24 @@ year,Year,Four digit year as Common Era (CE) for which monthly reported generati
 year,Year,Four digit year as Common Era (CE) for which monthly reported generation was summed,integer,FALSE,null,yearly_generation.csv
 year,Year,Four digit year as Common Era (CE) when the population was measured,integer,FALSE,null,public_population.csv
 year,Year,Four digit year as Common Era (CE),integer,FALSE,null,default
+tank_farm_evaluation_id,Tank Farm Evaluation ID,,string,TRUE,NULL,default
+tank_farm_id,Tank Farm ID,,string,TRUE,NULL,default
+total_capacity,Total Capacity,Total capacity of tank farm,number,TRUE,gallons,default
+uscg_id,USCG ID,Identification number given by United States Coast Guard,string,TRUE,NULL,default
+road_delivery,Road Delivery,Does this community recieve fuel via road?,boolean,TRUE,NULL,default
+recommendations_by_aea,Recommendations by AEA,,string,TRUE,NULL,default
+jet_fuel_capacity,Jet Fuel Capacity,Capacity of jet fuel in gallons,number,TRUE,gallons,default
+number_of_tanks,Number of Tanks,Number of tanks in the facility,number,TRUE,NULL,default
+other_fuel_capacity,Other Fuel Capacity,Capacity of other fuel (non diesel; jet fuel; gasoline; or avgas) in gallons,number,TRUE,gallons,default
+fuel_supplier,Fuel Supplier,,string,TRUE,NULL,default
+gasoline_capacity,Gasoline Capacity,Capacity of gasoline in gallons,number,TRUE,gallons,default
+inspected_by_uscg,Inspected by USCG,Is this facility inspected by United States Coast Guard?,boolean,TRUE,NULL,default
+av_gas_capacity,Aviation Gas Capacity,Capacity of aviation gas (avgas) in gallons,number,TRUE,gallons,default
+barge_delivery,Barge Delivery,Does this community receive fuel via barge?,boolean,TRUE,NULL,default
+diesel_capacity,Diesel Capacity,Capacity of diesel in gallons,number,TRUE,gallons,default
+distance_to_barge_mooring,Distance to Barge Mooring,,number,TRUE,NULL,default
+entity_name,Entity Name,,string,TRUE,NULL,default
+plane_delivery,Plane Delivery,Does this community receive fuel via airplane?,boolean,TRUE,NULL,default
+dcra_code,DCRA Code,Identification number given to this record by AK DCRA,string,FALSE,NULL,default
+aea_id,Alaska Energy Authority ID,Identification number given by Alaska Energy Authority,string,TRUE,NULL,default
+report,Report,"Title, type, or classification of the source document or reference report associated with the record",string,TRUE,NULL,default
