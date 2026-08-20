@@ -144,7 +144,7 @@
                     {
                         "name": "month",
                         "long_name": "Month",
-                        "description": "Month as 1-12 for which generation was reported",
+                        "description": "Month as 1-12 for the reported observation",
                         "type": "integer",
                         "nullable": false,
                         "unit": null

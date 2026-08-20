@@ -1,0 +1,49 @@
+resource:
+  name: public_heating_degree_days
+  title: Heating Degree Days by Communities
+  summary: |
+    Monthly heating degree days (HDD) for Alaska communities, tracking cumulative temperature deficits and space heating demand over time.
+  description: |
+    This dataset provides monthly counts of Heating Degree Days (HDD) for Alaska communities identified by name and Census FIPS code. Heating degree days quantify the daily thermal deficit below a 65 degree Fahrenheit baseline, serving as a primary metric for estimating building heating fuel consumption, analyzing seasonal energy demand, and supporting rural energy planning across Alaska.
+  path: "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/public/public_heating_degree_days/public_heating_degree_days.csv"
+  keywords:
+    - community
+    - heating_fuel
+  topics:
+    - Energy
+    - Geography
+  publisher: acep
+  sources:
+    - dol.places
+    - dcra.communities
+    - ornl.heating_degree_days
+    - snap.heating_degree_days
+  licenses:
+    - CC-BY-4.0
+  spatial:
+    name: Alaska
+    boundingBox: [-187.55, 51.21, -130.0, 71.35]
+    crs: OGC:CRS84
+  temporal:
+    referenceDate: "2025"  # equivalent to as_of_date
+    timeseries:
+      - start: "2017-01"
+        end: "2024-12"
+        resolutionValue: "1"
+        resolutionUnit: month
+        alignment: null
+        aggregationType: sum
+  primaryKey:
+    - community_fips_code
+    - year
+    - month
+  contributors:
+    - organization: acep
+      roles:
+        - DataCurator
+      date: 2025
+      object: data via https://github.com/acep-aedg/aedg-etl-2024
+      comment: |
+        1. Identified climate data sources and integrated it into the data pipeline.
+        2. Compiled community names and FIPS identifiers for AEDG.
+        3. Joined heating degree day data with AEDG communities to create this dataset.

@@ -39,7 +39,7 @@ AEDG uses this dataset as the best available compilation of electricity sales, i
 | Community Name | string | None | Name of the community |
 | Reporting Entity | string | None | The name of the electric service area providing electricity to the community |
 | Year | integer | None | Four digit year as Common Era (CE) |
-| Month | integer | None | Month as 1-12 for which generation was reported |
+| Month | integer | None | Month as 1-12 for the reported observation |
 | Residential Rate | number | USD//kWh | Price of electricity as US dollars per killowatt hour for residential customers |
 | Residential Rate Subsidized | number | USD//kWh | Price of electricity as US dollars per killowatt hour for residential customers after Power Cost Equalization subsidy |
 | Commercial Rate | number | USD//kWh | Price of electricity as US dollars per killowatt hour for commercial customers |

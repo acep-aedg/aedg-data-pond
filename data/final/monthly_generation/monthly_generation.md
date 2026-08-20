@@ -28,7 +28,7 @@ AEDG uses this dataset as the best available compilation of electrical generatio
 | Alaska Energy Authority Plant ID | number | None |  |
 | Energy Information Administration Plant ID | number | None |  |
 | Year | integer | None | Four digit year as Common Era (CE) |
-| Month | integer | None | Month as 1-12 for which generation was reported |
+| Month | integer | None | Month as 1-12 for the reported observation |
 | Fuel Type Code | string | None | Code indicating generation fuel as defined by the U.S. Energy Information Administration (EIA) |
 | Fuel Type | string | None | Generation fuel |
 | PCE Fuel Price | number | USD | Price of fuel paid by utility as reported to PCE program |
