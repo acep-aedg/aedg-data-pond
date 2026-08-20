@@ -117,3 +117,7 @@ datasets:
     data_path: data/public/public_heating_degree_days/public_heating_degree_days.csv
     bbox: infer
     time: specify
+  public_bulk_fuel:
+    data_path: data/public/public_bulk_fuel/public_bulk_fuel.csv
+    bbox: infer
+    time: specify

@@ -1,0 +1,54 @@
+resource:
+  name: "public_bulk_fuel"
+  title: Bulk Fuel Facilities
+  summary: |
+    Inventory of bulk fuel facilities in Alaska.
+  description: |
+    This dataset derived from the Bulk Fuel Inventory, a list of bulk fuel facilities in Alaska including assessments and tank details provided by the Alaska Energy Authority, the U.S. Coast Guard, and Division of Community and Regional Affairs.
+  path: "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/public/public_bulk_fuel/public_bulk_fuel.csv"
+  keywords:
+    - fuel type
+    - barge
+    - airport
+    - road
+    - community
+    - report
+  topics:
+    - Electricity
+    - Infrastructure
+  publisher: acep
+  sources:
+    - dcra.bulk_fuel
+    - aea.bulk_fuel_tanks
+    - aea.bulk_fuel_facilities
+    - dol.places
+    - dcra.communities
+  licenses:
+    - CC-BY-4.0
+  spatial:
+    name: Alaska
+    boundingBox: [-187.55, 51.21, -130.0, 71.35]
+    crs: OGC:CRS84
+  temporal:
+    referenceDate: "2026"
+    timeseries:
+      - start: "2015-01"
+        end: "2024-01"
+        resolutionValue: "1"
+        resolutionUnit: year
+        alignment: null
+        aggregationType: null
+  primaryKey: # list of the fields that uniquely identifies each row in the table. Fields harvested from posted file.
+    - entity_name
+    - longitude
+    - total_capacity
+  contributors:
+    - organization: acep
+      roles:
+        - DataCurator
+      date: 2025
+      object: data via https://github.com/acep-aedg/aedg-etl-2024
+      comment: |
+        1. Identified data source and integrated it into the data pipeline.
+        2. Complied community names, locations, and FIPS identifiers for AEDG
+        3. Joined bulk fuel, bulk fuel tanks and bulk fuel facilities with AEDG communities to create this dataset.

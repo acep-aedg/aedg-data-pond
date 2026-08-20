@@ -76,6 +76,7 @@ measurement_year,Year,Four digit year as Common Era (CE),integer,FALSE,null,publ
 month,Month,Month as 1-12 for the reported observation,integer,FALSE,null,default
 months_of_data,Months of Data,Number of months represented by the utilities annual reporting,number,TRUE,null,default
 name,Community Name,Name of the community,string,FALSE,null,default
+community_name,Community Name,Name of the community,string,FALSE,null,default
 nameplate_capacity_mw,Nameplate Capacity (MW),Nameplate Capacity of the powerplant in Megawatts,number,TRUE,MW,default
 generation_mwh,Generation (MWh),Electrical generation,number,TRUE,MWh,default
 net_generation_mwh,Net Generation (MWh),Net electrical generation,number,TRUE,MWh,default
