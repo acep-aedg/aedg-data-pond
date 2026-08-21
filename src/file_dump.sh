@@ -24,6 +24,7 @@ export_to_geojson "final" "service_areas" "l2_electric_service_areas"
 export_to_geojson "final" "service_area_geoms" "l2_electric_service_area_geoms"
 export_to_geojson "final" "plants" "l2_es_plants"
 export_to_geojson "final" "bulk_fuel" "l3_bulk_fuel"
+export_to_geojson "public" "public_service_areas" "(SELECT * FROM public_service_areas)"
 
 
 # Function to export Postgres table to CSV
@@ -76,7 +77,6 @@ export_to_csv "public" "public_monthly_generation" "(SELECT * FROM public_monthl
 export_to_csv "public" "public_populations_ages_sexes" "(SELECT * FROM public_populations_ages_sexes)"
 export_to_csv "public" "public_yearly_electric_rates" "(SELECT * FROM public_yearly_electric_rates)"
 export_to_csv "public" "public_monthly_electric_rates" "(SELECT * FROM public_monthly_electric_rates)"
-export_to_csv "public" "public_service_areas" "(SELECT * FROM public_service_areas)"
 export_to_csv "public" "public_taxes" "(SELECT * FROM public_taxes)"
 export_to_csv "public" "public_transportation" "(SELECT * FROM public_transportation)"
 export_to_csv "public" "public_yearly_generation" "(SELECT * FROM public_yearly_generation)"
