@@ -5,7 +5,7 @@ resource:
     Electric service areas and certificates
   description: | 
     Spatial file of electric service areas in Alaska, used in AEDG to associate communities with infrastructure and sales reporting. 
-  path: "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/public/public_service_areas.geojson"
+  path: "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/public/public_service_areas/public_service_areas.geojson"
   keywords: 
     - electricty
     - sales
