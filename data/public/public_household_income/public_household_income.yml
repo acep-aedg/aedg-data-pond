@@ -1,0 +1,48 @@
+resource:
+  name: public_household_income
+  title: Household Income by Community
+  summary: |
+    Household counts, median income, and income bracket distributions for communities in Alaska derived from U.S. Census Bureau ACS 5-year estimates.
+  description: | # Description of what this dataset is and what it is doing here
+    This dataset contains community-level household income and benefits estimates for Alaska derived from U.S. Census Bureau American Community Survey (ACS) 5-year data. It provides total household counts, median household income, and household distributions across income brackets ranging from under $10,000 to $200,000 or more. All income categories and monetary metrics include both household income and benefits, inflation-adjusted to the period end year and are organized by FIPS code, community name, and ACS survey time period.
+  path: "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/public/public_household_income/public_household_income.csv" # link to dataset in GitHub
+  keywords:
+    - community
+    - income
+    - census
+    - economy
+  topics:
+    - Social
+  publisher: acep
+  sources: # list of directory names in https://github.com/acep-aedg/aedg-etl-2024/tree/main/data-sources to get source.yml
+    - dcra.communities
+    - dol.places
+    - acs.household_income
+  licenses: # list of keys in the license.yml registry
+    - CC-BY-4.0
+  spatial:
+    name: Alaska
+    boundingBox: [-187.55, 51.21, -130.0, 71.35]
+    crs: OGC:CRS84
+  temporal:
+    referenceDate: "2023"  # equivalent to as_of_date
+    timeseries:
+      - start: "2007"
+        end: "2023"
+        resolutionValue: "5"
+        resolutionUnit: year
+        alignment: end
+        aggregationType: average
+  primaryKey:
+    - fips_code
+    - end_year
+  contributors:
+    - organization: acep
+      roles:
+        - DataCurator
+      date: 2025
+      object: data via https://github.com/acep-aedg/aedg-etl-2024
+      comment: |
+        1. Identified data source and integrated it into the data pipeline.
+        2. Complied community names, locations, and FIPS identifiers for AEDG
+        3. Joined household_income data with AEDG communities to create this dataset
