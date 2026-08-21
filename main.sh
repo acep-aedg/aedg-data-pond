@@ -41,6 +41,7 @@ source ./src/identify_stale_datasets.sh 2023
 # run metadata to markdown script
 source ./src/generate_markdown.sh
 
+source ./src/alphabetize_data_dictionary.sh
 
 # End time
 end_time=$(date +%s.%N)
