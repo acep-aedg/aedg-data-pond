@@ -1,7 +1,7 @@
 # Bulk Fuel Facilities
 
 ## Description
-This dataset derived from the Bulk Fuel Inventory, a list of bulk fuel facilities in Alaska including photos, assessments, and tank details provided by the Alaska Energy Authority, the U.S. Coast Guard, and Division of Community and Regional Affairs.
+This dataset derived from the Bulk Fuel Inventory, a list of bulk fuel facilities in Alaska including assessments and tank details provided by the Alaska Energy Authority, the U.S. Coast Guard, and Division of Community and Regional Affairs.
 
 
 ## Responsible Party
@@ -9,8 +9,8 @@ This dataset derived from the Bulk Fuel Inventory, a list of bulk fuel facilitie
 * **Funding Agency:** State of Alaska
 
 ## Data Lineage
-* **URL:** [https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/final/bulk_fuel/bulk_fuel.geojson](https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/final/bulk_fuel/bulk_fuel.geojson)
-* **Reference Date:** 2025
+* **URL:** [https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/public/public_bulk_fuel/public_bulk_fuel.csv](https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/public/public_bulk_fuel/public_bulk_fuel.csv)
+* **Reference Date:** 2026
 
 ### Sources
 * **Bulk Fuel Inventory** (2015)
@@ -39,35 +39,38 @@ AEDG uses this list to define canonical community names since, as free text, the
 ### Data Dictionary
 | Column Name | Type | Unit | Description |
 | :--- | :--- | :--- | :--- |
-| Alaska Energy Authority ID | string | None | Identification number given by Alaska Energy Authority |
-| Aviation Gas Capacity | number | gallons | Capacity of aviation gas (avgas) in gallons |
-| Barge Delivery | boolean | None | Does this community receive fuel via barge? |
-| Community FIPS Code | string | None | 5-digit Federal Information Processing Series (FIPS) code identifier for places, assigned and maintained by the Census Bureau |
-| DCRA Code | string | None | Identification number given to this record by AK DCRA |
-| Diesel Capacity | number | gallons | Capacity of diesel in gallons |
-| Distance to Barge Mooring | number | None |  |
-| End Year | integer | None | End of the data collection period |
-| Entity Name | string | None |  |
-| Fuel Supplier | string | None |  |
-| Gasoline Capacity | number | gallons | Capacity of gasoline in gallons |
-| Inspected by USCG | boolean | None | Is this facility inspected by United States Coast Guard? |
-| Jet Fuel Capacity | number | gallons | Capacity of jet fuel in gallons |
-| Number of Tanks | number | None | Number of tanks in the facility |
-| Other Fuel Capacity | number | gallons | Capacity of other fuel (non diesel; jet fuel; gasoline; or avgas) in gallons |
-| Plane Delivery | boolean | None | Does this community receive fuel via airplane? |
-| Recommendations by AEA | string | None |  |
-| Report | string | None | Title, type, or classification of the source document or reference report associated with the record |
-| Road Delivery | boolean | None | Does this community recieve fuel via road? |
-| Source | string | None | Source of data |
-| Start Year | integer | None | Beginning of the data collection period |
-| Tank Farm Evaluation ID | string | None |  |
+| FIPS Code | string | None | 5-digit Federal Information Processing Series (FIPS) code identifier for places and boroughs (counties), assigned and maintained by the Census Bureau |
+| Community Name | string | None | Name of the community |
 | Tank Farm ID | string | None |  |
-| Total Capacity | number | gallons | Total capacity of tank farm |
 | USCG ID | string | None | Identification number given by United States Coast Guard |
+| Alaska Energy Authority ID | string | None | Identification number given by Alaska Energy Authority |
+| Entity Name | string | None |  |
+| Number of Tanks | number | None | Number of tanks in the facility |
+| Total Capacity | number | gallons | Total capacity of tank farm |
+| Gasoline Capacity | number | gallons | Capacity of gasoline in gallons |
+| Diesel Capacity | number | gallons | Capacity of diesel in gallons |
+| Aviation Gas Capacity | number | gallons | Capacity of aviation gas (avgas) in gallons |
+| Jet Fuel Capacity | number | gallons | Capacity of jet fuel in gallons |
+| Other Fuel Capacity | number | gallons | Capacity of other fuel (non diesel; jet fuel; gasoline; or avgas) in gallons |
+| Barge Delivery | boolean | None | Does this community receive fuel via barge? |
+| Plane Delivery | boolean | None | Does this community receive fuel via airplane? |
+| Road Delivery | boolean | None | Does this community recieve fuel via road? |
+| Inspected by USCG | boolean | None | Is this facility inspected by United States Coast Guard? |
+| Fuel Supplier | string | None |  |
+| Recommendations by AEA | string | None |  |
+| Distance to Barge Mooring | number | None |  |
+| Tank Farm Evaluation ID | string | None |  |
+| Source | string | None | Source of data |
+| Report | string | None | Title, type, or classification of the source document or reference report associated with the record |
+| Start Year | integer | None | Beginning of the data collection period |
+| End Year | integer | None | End of the data collection period |
+| Latitude | number | degrees N | Latitude |
+| Longitude | number | degrees E | Longitude |
 
 ### Comments
 > **2025**: 1. Identified data source and integrated it into the data pipeline.
 > 2. Complied community names, locations, and FIPS identifiers for AEDG
+> 3. Joined bulk fuel, bulk fuel tanks and bulk fuel facilities with AEDG communities to create this dataset.
 > 
 
 > **2026**: Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.

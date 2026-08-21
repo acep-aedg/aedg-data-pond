@@ -8,7 +8,6 @@ datasets:
   # boroughs:
   bulk_fuel:
     data_path: data/final/bulk_fuel/bulk_fuel.geojson
-    data_dictionary: bulk_fuel_data_dictionary.csv
     bbox: infer
     time: specify
   capacity:
@@ -116,5 +115,9 @@ datasets:
     time: specify
   public_heating_degree_days:
     data_path: data/public/public_heating_degree_days/public_heating_degree_days.csv
+    bbox: infer
+    time: specify
+  public_bulk_fuel:
+    data_path: data/public/public_bulk_fuel/public_bulk_fuel.csv
     bbox: infer
     time: specify
