@@ -10,7 +10,7 @@ resource:
     - one
     - two
   topics: # 1-2 broad topics for display in AEDG (which not all datasets need?)
-    - Electricity
+    - Energy
   publisher: acep
   sources:  # optional if this is original data and there are no other sources. Otherwise choose one:
     # list of directory names in https://github.com/acep-aedg/aedg-etl-2024/tree/main/data-sources to get source.yml.

@@ -1,0 +1,158 @@
+{
+    "@context": "https://raw.githubusercontent.com/OpenEnergyPlatform/oemetadata/production/oemetadata/latest/context.json",
+    "name": "public_service_areas",
+    "title": "Electric Service Areas of Alaska",
+    "description": "Electric service areas and certificates\n",
+    "@id": "https://github.com/acep-aedg/aedg-data-pond",
+    "resources": [
+        {
+            "@id": "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/public/public_service_areas/public_service_areas.geojson",
+            "name": "public_service_areas",
+            "topics": [
+                "Energy",
+                "Geography",
+                "Infrastructure"
+            ],
+            "title": "Electric Service Areas of Alaska",
+            "path": "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/public/public_service_areas/public_service_areas.geojson",
+            "description": "Spatial file of electric service areas in Alaska, used in AEDG to associate communities with infrastructure and sales reporting. \n",
+            "languages": [
+                "en-US"
+            ],
+            "keywords": [
+                "electricty",
+                "sales",
+                "grid"
+            ],
+            "publicationDate": "2026",
+            "context": {
+                "title": "Alaska Energy Data Gateway v3.0",
+                "homepage": "https://akenergygateway.alaska.edu/",
+                "publisher": "Alaska Center for Energy and Power (ACEP) at the University of Alaska Fairbanks (UAF)",
+                "fundingAgency": "State of Alaska"
+            },
+            "spatial": {
+                "extent": {
+                    "name": "Alaska",
+                    "boundingBox": [
+                        -187.55,
+                        51.21,
+                        -130.0,
+                        71.35
+                    ],
+                    "crs": "OGC:CRS84"
+                }
+            },
+            "temporal": {
+                "referenceDate": "2026-01-01",
+                "timeseries": [
+                    {
+                        "start": "2025-01",
+                        "end": "2026-01"
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "title": "ACEP Electric Service Areas",
+                    "authors": [
+                        "Alaska Center for Energy and Power (ACEP)",
+                        "Regulatory Commission of Alaska (RCA)"
+                    ],
+                    "description": "The Regulatory Commission of Alaska (RCA) associates every regulated electric utility with a service area in which they are allowed to operate. Using the individual service area files provided by the RCA, the Alaska Center for Energy and Power (ACEP) assembled a single geospatial file in GeoJSON format which contains the service area boundaries of every active electric utility in Alaska. AEDG uses these service area polygons to identify the utility/utilities serving each community across the state.\n",
+                    "publicationYear": "2025",
+                    "path": "https://acep-uaf.github.io/utility-service-areas/",
+                    "sourceLicenses": []
+                }
+            ],
+            "licenses": [
+                {
+                    "name": "CC-BY-4.0",
+                    "title": "Creative Commons Attribution 4.0 International",
+                    "path": "https://creativecommons.org/licenses/by/4.0/",
+                    "instruction": "You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.\n",
+                    "attribution": "Alaska Center for Energy and Power, University of Alaska Fairbanks"
+                }
+            ],
+            "contributors": [
+                {
+                    "title": "Liam England",
+                    "organization": "Alaska Center for Energy and Power (ACEP) at the University of Alaska Fairbanks (UAF)",
+                    "roles": [
+                        "DataCurator"
+                    ],
+                    "date": "2025",
+                    "object": "data",
+                    "comment": "Shapefiles of individual electric service areas were collected from RCA, cleaned and validated, then combined into a singular geojson file.\n",
+                    "path": "https://www.uaf.edu/acep/"
+                },
+                {
+                    "organization": "Alaska Center for Energy and Power (ACEP) at the University of Alaska Fairbanks (UAF)",
+                    "roles": [
+                        "DataCurator"
+                    ],
+                    "date": "2026",
+                    "object": "data via https://github.com/acep-aedg/aedg-etl-2024",
+                    "comment": "",
+                    "path": "https://www.uaf.edu/acep/"
+                },
+                {
+                    "organization": "Alaska Center for Energy and Power (ACEP) at the University of Alaska Fairbanks (UAF)",
+                    "roles": [
+                        "DataCurator"
+                    ],
+                    "date": "2026",
+                    "object": "metadata via https://github.com/acep-aedg/aedg-metadata",
+                    "comment": "Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.\n",
+                    "path": "https://www.uaf.edu/acep/"
+                }
+            ],
+            "type": "geospatial",
+            "format": "geojson",
+            "encoding": "",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "cpcn_id",
+                        "long_name": "Reporting Entity Certificate Number",
+                        "description": "A CPCN (Certificate of Public Convenience & Necessity) number, also called a certificate number, denotes a unique CPCN/certificate assigned by the Regulatory Commission of Alaska to a reporting entity.",
+                        "type": "integer",
+                        "nullable": false,
+                        "unit": null
+                    },
+                    {
+                        "name": "name",
+                        "long_name": "Community Name",
+                        "description": "Name of the community",
+                        "type": "string",
+                        "nullable": false,
+                        "unit": null
+                    },
+                    {
+                        "name": "url",
+                        "long_name": "Uniform Resource Locator",
+                        "description": "Internet address of resource",
+                        "type": "string",
+                        "nullable": true,
+                        "unit": null
+                    }
+                ],
+                "primaryKey": [
+                    "cpcn_id"
+                ]
+            },
+            "dialect": {
+                "delimiter": ",",
+                "decimalSeparator": "."
+            }
+        }
+    ],
+    "metaMetadata": {
+        "metadataVersion": "OEMetadata-2.0.4",
+        "metadataLicense": {
+            "name": "CC0-1.0",
+            "title": "Creative Commons Zero v1.0 Universal",
+            "path": "https://creativecommons.org/publicdomain/zero/1.0"
+        }
+    }
+}
