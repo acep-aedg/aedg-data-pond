@@ -1,28 +1,30 @@
 {
     "@context": "https://raw.githubusercontent.com/OpenEnergyPlatform/oemetadata/production/oemetadata/latest/context.json",
-    "name": "bulk_fuel",
+    "name": "public_bulk_fuel",
     "title": "Bulk Fuel Facilities",
     "description": "Inventory of bulk fuel facilities in Alaska.\n",
     "@id": "https://github.com/acep-aedg/aedg-data-pond",
     "resources": [
         {
-            "@id": "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/final/bulk_fuel/bulk_fuel.geojson",
-            "name": "bulk_fuel",
+            "@id": "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/public/public_bulk_fuel/public_bulk_fuel.csv",
+            "name": "public_bulk_fuel",
             "topics": [
-                "Energy",
+                "Electricity",
                 "Infrastructure"
             ],
             "title": "Bulk Fuel Facilities",
-            "path": "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/final/bulk_fuel/bulk_fuel.geojson",
-            "description": "This dataset derived from the Bulk Fuel Inventory, a list of bulk fuel facilities in Alaska including photos, assessments, and tank details provided by the Alaska Energy Authority, the U.S. Coast Guard, and Division of Community and Regional Affairs.\n",
+            "path": "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/public/public_bulk_fuel/public_bulk_fuel.csv",
+            "description": "This dataset derived from the Bulk Fuel Inventory, a list of bulk fuel facilities in Alaska including assessments and tank details provided by the Alaska Energy Authority, the U.S. Coast Guard, and Division of Community and Regional Affairs.\n",
             "languages": [
                 "en-US"
             ],
             "keywords": [
+                "fuel type",
                 "barge",
                 "airport",
                 "road",
-                "community"
+                "community",
+                "report"
             ],
             "publicationDate": "2026",
             "context": {
@@ -44,8 +46,15 @@
                 }
             },
             "temporal": {
-                "referenceDate": "2025",
-                "timeseries": []
+                "referenceDate": "2026",
+                "timeseries": [
+                    {
+                        "start": "2015-01",
+                        "end": "2024-01",
+                        "resolutionValue": "1",
+                        "resolutionUnit": "year"
+                    }
+                ]
             },
             "sources": [
                 {
@@ -138,7 +147,7 @@
                     ],
                     "date": "2025",
                     "object": "data via https://github.com/acep-aedg/aedg-etl-2024",
-                    "comment": "1. Identified data source and integrated it into the data pipeline.\n2. Complied community names, locations, and FIPS identifiers for AEDG\n",
+                    "comment": "1. Identified data source and integrated it into the data pipeline.\n2. Complied community names, locations, and FIPS identifiers for AEDG\n3. Joined bulk fuel, bulk fuel tanks and bulk fuel facilities with AEDG communities to create this dataset.\n",
                     "path": "https://www.uaf.edu/acep/"
                 },
                 {
@@ -152,11 +161,43 @@
                     "path": "https://www.uaf.edu/acep/"
                 }
             ],
-            "type": "geospatial",
-            "format": "geojson",
+            "type": "table",
+            "format": "csv",
             "encoding": "",
             "schema": {
                 "fields": [
+                    {
+                        "name": "fips_code",
+                        "long_name": "FIPS Code",
+                        "description": "5-digit Federal Information Processing Series (FIPS) code identifier for places and boroughs (counties), assigned and maintained by the Census Bureau",
+                        "type": "string",
+                        "nullable": false,
+                        "unit": null
+                    },
+                    {
+                        "name": "community_name",
+                        "long_name": "Community Name",
+                        "description": "Name of the community",
+                        "type": "string",
+                        "nullable": false,
+                        "unit": null
+                    },
+                    {
+                        "name": "tank_farm_id",
+                        "long_name": "Tank Farm ID",
+                        "description": null,
+                        "type": "string",
+                        "nullable": true,
+                        "unit": null
+                    },
+                    {
+                        "name": "uscg_id",
+                        "long_name": "USCG ID",
+                        "description": "Identification number given by United States Coast Guard",
+                        "type": "string",
+                        "nullable": true,
+                        "unit": null
+                    },
                     {
                         "name": "aea_id",
                         "long_name": "Alaska Energy Authority ID",
@@ -166,9 +207,65 @@
                         "unit": null
                     },
                     {
+                        "name": "entity_name",
+                        "long_name": "Entity Name",
+                        "description": null,
+                        "type": "string",
+                        "nullable": true,
+                        "unit": null
+                    },
+                    {
+                        "name": "number_of_tanks",
+                        "long_name": "Number of Tanks",
+                        "description": "Number of tanks in the facility",
+                        "type": "number",
+                        "nullable": true,
+                        "unit": null
+                    },
+                    {
+                        "name": "total_capacity",
+                        "long_name": "Total Capacity",
+                        "description": "Total capacity of tank farm",
+                        "type": "number",
+                        "nullable": true,
+                        "unit": "gallons"
+                    },
+                    {
+                        "name": "gasoline_capacity",
+                        "long_name": "Gasoline Capacity",
+                        "description": "Capacity of gasoline in gallons",
+                        "type": "number",
+                        "nullable": true,
+                        "unit": "gallons"
+                    },
+                    {
+                        "name": "diesel_capacity",
+                        "long_name": "Diesel Capacity",
+                        "description": "Capacity of diesel in gallons",
+                        "type": "number",
+                        "nullable": true,
+                        "unit": "gallons"
+                    },
+                    {
                         "name": "av_gas_capacity",
                         "long_name": "Aviation Gas Capacity",
                         "description": "Capacity of aviation gas (avgas) in gallons",
+                        "type": "number",
+                        "nullable": true,
+                        "unit": "gallons"
+                    },
+                    {
+                        "name": "jet_fuel_capacity",
+                        "long_name": "Jet Fuel Capacity",
+                        "description": "Capacity of jet fuel in gallons",
+                        "type": "number",
+                        "nullable": true,
+                        "unit": "gallons"
+                    },
+                    {
+                        "name": "other_fuel_capacity",
+                        "long_name": "Other Fuel Capacity",
+                        "description": "Capacity of other fuel (non diesel; jet fuel; gasoline; or avgas) in gallons",
                         "type": "number",
                         "nullable": true,
                         "unit": "gallons"
@@ -182,50 +279,26 @@
                         "unit": null
                     },
                     {
-                        "name": "community_fips_code",
-                        "long_name": "Community FIPS Code",
-                        "description": "5-digit Federal Information Processing Series (FIPS) code identifier for places, assigned and maintained by the Census Bureau",
-                        "type": "string",
-                        "nullable": false,
-                        "unit": null
-                    },
-                    {
-                        "name": "dcra_code",
-                        "long_name": "DCRA Code",
-                        "description": "Identification number given to this record by AK DCRA",
-                        "type": "string",
-                        "nullable": false,
-                        "unit": null
-                    },
-                    {
-                        "name": "diesel_capacity",
-                        "long_name": "Diesel Capacity",
-                        "description": "Capacity of diesel in gallons",
-                        "type": "number",
-                        "nullable": true,
-                        "unit": "gallons"
-                    },
-                    {
-                        "name": "distance_to_barge_mooring",
-                        "long_name": "Distance to Barge Mooring",
-                        "description": null,
-                        "type": "number",
+                        "name": "plane_delivery",
+                        "long_name": "Plane Delivery",
+                        "description": "Does this community receive fuel via airplane?",
+                        "type": "boolean",
                         "nullable": true,
                         "unit": null
                     },
                     {
-                        "name": "end_year",
-                        "long_name": "End Year",
-                        "description": "End of the data collection period",
-                        "type": "integer",
-                        "nullable": false,
+                        "name": "road_delivery",
+                        "long_name": "Road Delivery",
+                        "description": "Does this community recieve fuel via road?",
+                        "type": "boolean",
+                        "nullable": true,
                         "unit": null
                     },
                     {
-                        "name": "entity_name",
-                        "long_name": "Entity Name",
-                        "description": null,
-                        "type": "string",
+                        "name": "inspected_by_uscg",
+                        "long_name": "Inspected by USCG",
+                        "description": "Is this facility inspected by United States Coast Guard?",
+                        "type": "boolean",
                         "nullable": true,
                         "unit": null
                     },
@@ -238,57 +311,33 @@
                         "unit": null
                     },
                     {
-                        "name": "gasoline_capacity",
-                        "long_name": "Gasoline Capacity",
-                        "description": "Capacity of gasoline in gallons",
-                        "type": "number",
-                        "nullable": true,
-                        "unit": "gallons"
-                    },
-                    {
-                        "name": "inspected_by_uscg",
-                        "long_name": "Inspected by USCG",
-                        "description": "Is this facility inspected by United States Coast Guard?",
-                        "type": "boolean",
-                        "nullable": true,
-                        "unit": null
-                    },
-                    {
-                        "name": "jet_fuel_capacity",
-                        "long_name": "Jet Fuel Capacity",
-                        "description": "Capacity of jet fuel in gallons",
-                        "type": "number",
-                        "nullable": true,
-                        "unit": "gallons"
-                    },
-                    {
-                        "name": "number_of_tanks",
-                        "long_name": "Number of Tanks",
-                        "description": "Number of tanks in the facility",
-                        "type": "number",
-                        "nullable": true,
-                        "unit": null
-                    },
-                    {
-                        "name": "other_fuel_capacity",
-                        "long_name": "Other Fuel Capacity",
-                        "description": "Capacity of other fuel (non diesel; jet fuel; gasoline; or avgas) in gallons",
-                        "type": "number",
-                        "nullable": true,
-                        "unit": "gallons"
-                    },
-                    {
-                        "name": "plane_delivery",
-                        "long_name": "Plane Delivery",
-                        "description": "Does this community receive fuel via airplane?",
-                        "type": "boolean",
-                        "nullable": true,
-                        "unit": null
-                    },
-                    {
                         "name": "recommendations_by_aea",
                         "long_name": "Recommendations by AEA",
                         "description": null,
+                        "type": "string",
+                        "nullable": true,
+                        "unit": null
+                    },
+                    {
+                        "name": "distance_to_barge_mooring",
+                        "long_name": "Distance to Barge Mooring",
+                        "description": null,
+                        "type": "number",
+                        "nullable": true,
+                        "unit": null
+                    },
+                    {
+                        "name": "tank_farm_evaluation_id",
+                        "long_name": "Tank Farm Evaluation ID",
+                        "description": null,
+                        "type": "string",
+                        "nullable": true,
+                        "unit": null
+                    },
+                    {
+                        "name": "source",
+                        "long_name": "Source",
+                        "description": "Source of data",
                         "type": "string",
                         "nullable": true,
                         "unit": null
@@ -302,22 +351,6 @@
                         "unit": null
                     },
                     {
-                        "name": "road_delivery",
-                        "long_name": "Road Delivery",
-                        "description": "Does this community recieve fuel via road?",
-                        "type": "boolean",
-                        "nullable": true,
-                        "unit": null
-                    },
-                    {
-                        "name": "source",
-                        "long_name": "Source",
-                        "description": "Source of data",
-                        "type": "string",
-                        "nullable": true,
-                        "unit": null
-                    },
-                    {
                         "name": "start_year",
                         "long_name": "Start Year",
                         "description": "Beginning of the data collection period",
@@ -326,40 +359,34 @@
                         "unit": null
                     },
                     {
-                        "name": "tank_farm_evaluation_id",
-                        "long_name": "Tank Farm Evaluation ID",
-                        "description": null,
-                        "type": "string",
-                        "nullable": true,
+                        "name": "end_year",
+                        "long_name": "End Year",
+                        "description": "End of the data collection period",
+                        "type": "integer",
+                        "nullable": false,
                         "unit": null
                     },
                     {
-                        "name": "tank_farm_id",
-                        "long_name": "Tank Farm ID",
-                        "description": null,
-                        "type": "string",
-                        "nullable": true,
-                        "unit": null
-                    },
-                    {
-                        "name": "total_capacity",
-                        "long_name": "Total Capacity",
-                        "description": "Total capacity of tank farm",
+                        "name": "latitude",
+                        "long_name": "Latitude",
+                        "description": "Latitude",
                         "type": "number",
                         "nullable": true,
-                        "unit": "gallons"
+                        "unit": "degrees N"
                     },
                     {
-                        "name": "uscg_id",
-                        "long_name": "USCG ID",
-                        "description": "Identification number given by United States Coast Guard",
-                        "type": "string",
+                        "name": "longitude",
+                        "long_name": "Longitude",
+                        "description": "Longitude",
+                        "type": "number",
                         "nullable": true,
-                        "unit": null
+                        "unit": "degrees E"
                     }
                 ],
                 "primaryKey": [
-                    "dcra_code"
+                    "entity_name",
+                    "longitude",
+                    "total_capacity"
                 ]
             },
             "dialect": {
