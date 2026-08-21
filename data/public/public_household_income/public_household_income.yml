@@ -11,6 +11,7 @@ resource:
     - income
     - census
     - economy
+    - population
   topics:
     - Social
   publisher: acep
