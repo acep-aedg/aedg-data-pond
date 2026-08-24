@@ -1,0 +1,49 @@
+resource:
+  name: public_income_poverty
+  title: Income Poverty by Community
+  summary: |
+    Per capita income estimates, population counts below the poverty level and population evaluated for poverty status for communities in Alaska derived from U.S. Census Bureau ACS 5-year estimates.
+  description: | # Description of what this dataset is and what it is doing here
+    This dataset contains community-level per capita income and poverty status estimates for communities in Alaska derived from U.S. Census Bureau American Community Survey (ACS) 5-year data. It provides estimated per capita income alongside population counts for individuals living below the federal poverty level and total individuals evaluated for poverty status (determined using reported income from the preceding 12 months of the ACD 5-year interval end year), with associated margins of error for each metric. All monetary metrics are inflation-adjusted to the period end year and are organized by community FIPS code, community name and ACS survey time period.
+  path: "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/public/public_income_poverty/public_income_poverty.csv" # link to dataset in GitHub
+  keywords:
+    - community
+    - income
+    - census
+    - population
+    - economy
+  topics:
+    - Social
+  publisher: acep
+  sources: # list of directory names in https://github.com/acep-aedg/aedg-etl-2024/tree/main/data-sources to get source.yml
+    - dcra.communities
+    - dol.places
+    - acs.income_poverty
+  licenses: # list of keys in the license.yml registry
+    - CC-BY-4.0
+  spatial:
+    name: Alaska
+    boundingBox: [-187.55, 51.21, -130.0, 71.35]
+    crs: OGC:CRS84
+  temporal:
+    referenceDate: "2023"  # equivalent to as_of_date
+    timeseries:
+      - start: "2007"
+        end: "2023"
+        resolutionValue: "5"
+        resolutionUnit: year
+        alignment: end
+        aggregationType: average
+  primaryKey:
+    - community_fips_code
+    - end_year
+  contributors:
+    - organization: acep
+      roles:
+        - DataCurator
+      date: 2025
+      object: data via https://github.com/acep-aedg/aedg-etl-2024
+      comment: |
+        1. Identified data source and integrated it into the data pipeline.
+        2. Complied community names, locations, and FIPS identifiers for AEDG
+        3. Joined income poverty data with AEDG communities to create this dataset

@@ -128,3 +128,7 @@ datasets:
     data_path: data/public/public_household_income/public_household_income.csv
     bbox: infer
     time: specify
+  public_income_poverty:
+    data_path: data/public/public_income_poverty/public_income_poverty.csv
+    bbox: infer
+    time: specify
