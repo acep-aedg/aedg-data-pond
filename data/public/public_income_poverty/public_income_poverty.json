@@ -1,0 +1,236 @@
+{
+    "@context": "https://raw.githubusercontent.com/OpenEnergyPlatform/oemetadata/production/oemetadata/latest/context.json",
+    "name": "public_income_poverty",
+    "title": "Income Poverty by Community",
+    "description": "Per capita income estimates, population counts below the poverty level and population evaluated for poverty status for communities in Alaska derived from U.S. Census Bureau ACS 5-year estimates.\n",
+    "@id": "https://github.com/acep-aedg/aedg-data-pond",
+    "resources": [
+        {
+            "@id": "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/public/public_income_poverty/public_income_poverty.csv",
+            "name": "public_income_poverty",
+            "topics": [
+                "Social"
+            ],
+            "title": "Income Poverty by Community",
+            "path": "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/public/public_income_poverty/public_income_poverty.csv",
+            "description": "This dataset contains community-level per capita income and poverty status estimates for communities in Alaska derived from U.S. Census Bureau American Community Survey (ACS) 5-year data. It provides estimated per capita income alongside population counts for individuals living below the federal poverty level and total individuals evaluated for poverty status (determined using reported income from the preceding 12 months of the ACD 5-year interval end year), with associated margins of error for each metric. All monetary metrics are inflation-adjusted to the period end year and are organized by community FIPS code, community name and ACS survey time period.\n",
+            "languages": [
+                "en-US"
+            ],
+            "keywords": [
+                "community",
+                "income",
+                "census",
+                "population",
+                "economy"
+            ],
+            "publicationDate": "2026",
+            "context": {
+                "title": "Alaska Energy Data Gateway v3.0",
+                "homepage": "https://akenergygateway.alaska.edu/",
+                "publisher": "Alaska Center for Energy and Power (ACEP) at the University of Alaska Fairbanks (UAF)",
+                "fundingAgency": "State of Alaska"
+            },
+            "spatial": {
+                "extent": {
+                    "name": "Alaska",
+                    "boundingBox": [
+                        -187.55,
+                        51.21,
+                        -130.0,
+                        71.35
+                    ],
+                    "crs": "OGC:CRS84"
+                }
+            },
+            "temporal": {
+                "referenceDate": "2023",
+                "timeseries": [
+                    {
+                        "start": "2007",
+                        "end": "2023",
+                        "resolutionValue": "5",
+                        "resolutionUnit": "year",
+                        "alignment": "end",
+                        "aggregationType": "average"
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "title": "Alaska Communities",
+                    "authors": [
+                        "Alaska Division of Community and Regional Affairs (DCRA)"
+                    ],
+                    "description": "The Alaska Communities dataset is the reference list of place locations, represented as points, used by the Alaska Division of Community and Regional Affairs (DCRA). In includes community locations but for historical reasons, it is a mix of Communities, Places of Interest, Borough/Census Area as well as Alaska centroid. DCRA uses it to link communities to their internal key GUID used elsewhere in their systems.\nAEDG uses this list to define canonical community names since, as free text, these can vary in different contexts, and to establish locations to use in spatial joins and relations.\n",
+                    "publicationYear": "2023",
+                    "path": "https://maps.commerce.alaska.gov/server/rest/services/Community_Related/Community_Locations_and_Boundaries/MapServer/0",
+                    "sourceLicenses": []
+                },
+                {
+                    "title": "Places (Cities and CDPs) Shapefile",
+                    "authors": [
+                        "United States Census Bureau",
+                        "Alaska Department of Labor and Workforce Development (DOLWD)"
+                    ],
+                    "description": "This is an ESRI Shapefile for use in GIS software that contains place data from the 2020 US Census for Alaska. The definition of places includes all incorporated cities as well as Census Designated Places (CDPs). Each geographic unit is identified using Federal Information Processing Standards (FIPS) numbers. Coordinate System: North American Datum 1983 Alaska Albers. Source: 2020 US Census, PL94-171 Redistricting File; 2020 US Census Tiger Shapefiles. Documentation of field names: https://live.laborstats.alaska.gov/cen/maps/gis/Places2020.pdf. The Alaska Department of Labor and Workforce Development has had a cooperative agreement with the U.S. Census Bureau since 1981 to assist with geographic programs and help Alaskans find Census Bureau data.\nAEDG uses this list to define canonical community locations to use in spatial joins and relations, to associate places with FIPS codes, and to establish total community population.\n",
+                    "publicationYear": "2020",
+                    "path": "https://live.laborstats.alaska.gov/article/maps-gis-data",
+                    "sourceLicenses": []
+                },
+                {
+                    "title": "American Community Survey Income and Poverty",
+                    "authors": [
+                        "United States Census Bureau",
+                        "Alaska Division of Community and Regional Affairs (DCRA)"
+                    ],
+                    "description": "Population counts in Alaskan communities that fall under poverty status measures for the last 12 months of the most recent ACS 5-year interval. This data has been visualized in a Geographic Information Systems (GIS) format and is provided as a service in the DCRA Information Portal by the Alaska Department of Commerce, Community, and Economic Development Division of Community and Regional Affairs (SOA DCCED DCRA), Research and Analysis section. SOA DCCED DCRA Research and Analysis is not the authoritative source for this data. For more information and for questions about this data, see US Census Bureau, Poverty Data and Alaska American Community Survey Data\n",
+                    "publicationYear": "2025",
+                    "path": "https://maps.commerce.alaska.gov/server/rest/services/Demographics/Alaska_American_Community_Survey/MapServer/2",
+                    "sourceLicenses": [
+                        {
+                            "name": "public-domain",
+                            "title": "U.S. Public Domain",
+                            "path": "http://www.usa.gov/publicdomain/label/1.0/",
+                            "instruction": "Data and content created by government employees within the scope of their employment are not subject\nto domestic copyright protection under 17 U.S.C. \u00a7 105. Government works are by default in the U.S.\nPublic Domain. You cannot use government materials in a way that implies endorsement by a government agency, official, or employee. You also cannot use federal government trademarks or federal government agency logos without permission - https://resources.data.gov/open-licenses/.\n"
+                        }
+                    ]
+                }
+            ],
+            "licenses": [
+                {
+                    "name": "CC-BY-4.0",
+                    "title": "Creative Commons Attribution 4.0 International",
+                    "path": "https://creativecommons.org/licenses/by/4.0/",
+                    "instruction": "You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.\n",
+                    "attribution": "Alaska Center for Energy and Power, University of Alaska Fairbanks"
+                }
+            ],
+            "contributors": [
+                {
+                    "organization": "Alaska Center for Energy and Power (ACEP) at the University of Alaska Fairbanks (UAF)",
+                    "roles": [
+                        "DataCurator"
+                    ],
+                    "date": "2025",
+                    "object": "data via https://github.com/acep-aedg/aedg-etl-2024",
+                    "comment": "1. Identified data source and integrated it into the data pipeline.\n2. Complied community names, locations, and FIPS identifiers for AEDG\n3. Joined income poverty data with AEDG communities to create this dataset",
+                    "path": "https://www.uaf.edu/acep/"
+                },
+                {
+                    "organization": "Alaska Center for Energy and Power (ACEP) at the University of Alaska Fairbanks (UAF)",
+                    "roles": [
+                        "DataCurator"
+                    ],
+                    "date": "2026",
+                    "object": "metadata via https://github.com/acep-aedg/aedg-metadata",
+                    "comment": "Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.\n",
+                    "path": "https://www.uaf.edu/acep/"
+                }
+            ],
+            "type": "table",
+            "format": "csv",
+            "encoding": "",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "community_fips_code",
+                        "long_name": "Community FIPS Code",
+                        "description": "5-digit Federal Information Processing Series (FIPS) code identifier for places, assigned and maintained by the Census Bureau",
+                        "type": "string",
+                        "nullable": false,
+                        "unit": null
+                    },
+                    {
+                        "name": "name",
+                        "long_name": "Community Name",
+                        "description": "Name of the community",
+                        "type": "string",
+                        "nullable": false,
+                        "unit": null
+                    },
+                    {
+                        "name": "estimated_per_capita_income",
+                        "long_name": "Per Capita Income",
+                        "description": "Estimated per capita income (adjusted for inflation to survey end year)",
+                        "type": "integer",
+                        "nullable": true,
+                        "unit": "USD"
+                    },
+                    {
+                        "name": "margin_error_per_capita_income",
+                        "long_name": "Per Capita Income Margin of Error",
+                        "description": "Margin of error for estimated per capita income",
+                        "type": "integer",
+                        "nullable": true,
+                        "unit": "USD"
+                    },
+                    {
+                        "name": "estimated_population_below_poverty",
+                        "long_name": "Population Below Poverty Level",
+                        "description": "Estimated population with income below the federal poverty level",
+                        "type": "integer",
+                        "nullable": true,
+                        "unit": "persons"
+                    },
+                    {
+                        "name": "margin_error_population_below_poverty",
+                        "long_name": "Population Below Poverty Level Margin of Error",
+                        "description": "Margin of error for estimated population with income below the federal poverty level",
+                        "type": "integer",
+                        "nullable": true,
+                        "unit": "persons"
+                    },
+                    {
+                        "name": "estimated_population_poverty_determined",
+                        "long_name": "Population Evaluated for Poverty Status",
+                        "description": "Estimated total population for whom poverty status is determined",
+                        "type": "integer",
+                        "nullable": true,
+                        "unit": "persons"
+                    },
+                    {
+                        "name": "margin_error_popuation_poverty_determined",
+                        "long_name": "Population Evaluated for Poverty Status Margin of Error",
+                        "description": "Margin of error for estimated population for whom poverty status is determined",
+                        "type": "integer",
+                        "nullable": true,
+                        "unit": "persons"
+                    },
+                    {
+                        "name": "start_year",
+                        "long_name": "ACS Start Year",
+                        "description": "Start year of the 5-year ACS survey observation window",
+                        "type": "integer",
+                        "nullable": false,
+                        "unit": "year"
+                    },
+                    {
+                        "name": "end_year",
+                        "long_name": "ACS End Year",
+                        "description": "End year (vintage) of the 5-year ACS survey observation window",
+                        "type": "integer",
+                        "nullable": false,
+                        "unit": "year"
+                    }
+                ],
+                "primaryKey": [
+                    "community_fips_code",
+                    "end_year"
+                ]
+            },
+            "dialect": {
+                "delimiter": ",",
+                "decimalSeparator": "."
+            }
+        }
+    ],
+    "metaMetadata": {
+        "metadataVersion": "OEMetadata-2.0.4",
+        "metadataLicense": {
+            "name": "CC0-1.0",
+            "title": "Creative Commons Zero v1.0 Universal",
+            "path": "https://creativecommons.org/publicdomain/zero/1.0"
+        }
+    }
+}
