@@ -28,8 +28,21 @@ description,Description,Narrative description,string,TRUE,null,default
 did_community_report,Community Report,"Answers the question: Did the community report these taxes?  (""t"" for yes, and ""f"" for no)",boolean,TRUE,USD,default
 diesel_capacity,Diesel Capacity,Capacity of diesel in gallons,number,TRUE,gallons,default
 distance_to_barge_mooring,Distance to Barge Mooring,,number,TRUE,NULL,default
+e_household_inc_100000_149999,"Household Income $100,000–$149,999","Estimated households with income of $100,000 to $149,999 (including benefits, adjusted for inflation to survey end year)",integer,false,households,public_household_income.csv
+e_household_inc_10000_14999,"Household Income $10,000–$14,999","Estimated households with income of $10,000 to $14,999 (including benefits, adjusted for inflation to survey end year)",integer,false,households,public_household_income.csv
+e_household_inc_150000_199999,"Household Income $150,000–$199,999","Estimated households with income of $150,000 to $199,999 (including benefits, adjusted for inflation to survey end year)",integer,false,households,public_household_income.csv
+e_household_inc_15000_24999,"Household Income $15,000–$24,999","Estimated households with income of $15,000 to $24,999 (including benefits, adjusted for inflation to survey end year)",integer,false,households,public_household_income.csv
+e_household_inc_200000_plus,"Household Income $200,000+","Estimated households with income of $200,000 or more (including benefits, adjusted for inflation to survey end year)",integer,false,households,public_household_income.csv
+e_household_inc_25000_34999,"Household Income $25,000–$34,999","Estimated households with income of $25,000 to $34,999 (including benefits, adjusted for inflation to survey end year)",integer,false,households,public_household_income.csv
+e_household_inc_35000_49999,"Household Income $35,000–$49,999","Estimated households with income of $35,000 to $49,999 (including benefits, adjusted for inflation to survey end year)",integer,false,households,public_household_income.csv
+e_household_inc_50000_74999,"Household Income $50,000–$74,999","Estimated households with income of $50,000 to $74,999 (including benefits, adjusted for inflation to survey end year)",integer,false,households,public_household_income.csv
+e_household_inc_75000_99999,"Household Income $75,000–$99,999","Estimated households with income of $75,000 to $99,999 (including benefits, adjusted for inflation to survey end year)",integer,false,households,public_household_income.csv
+e_household_inc_under_10000,Household Income Under $10k,"Estimated households with income under $10,000 (including benefits, adjusted for inflation to survey end year)",integer,false,households,public_household_income.csv
+e_household_median_income,Median Household Income,"Estimated median household income (including benefits, adjusted for inflation to survey end year)",integer,true,USD,public_household_income.csv
+e_households_total,Total Households,Estimated total number of households,integer,false,households,public_household_income.csv
 economic_region,DCRA Economic Region,Alaska Division of Community and Regional Affairs (DCRA) economic regions were determined based on 2013 borough and census area geography by the Alaska Department of Labor & Workforce Development.,string,TRUE,null,default
 eia_plant_id,Energy Information Administration Plant ID,,number,TRUE,null,default
+end_year,ACS End Year,End year (vintage) of the 5-year ACS survey observation window,integer,false,year,public_household_income.csv
 end_year,End Year,End of the data collection period,integer,FALSE,null,default
 entity_name,Entity Name,,string,TRUE,NULL,default
 estimated_pop_age_10_14,Estimated Population 10-14 Years Old,Estimated population between ages 10-14 years old,number,TRUE,null,default
@@ -130,6 +143,7 @@ service_area_net_generation_mwh,Service Area Net Generation (MWh),Net generation
 service_area_pce_fuel_price,Service Area PCE Fuel Price,Price of fuel paid by utility as reported to PCE program,number,TRUE,USD,default
 source,Source of Fuel Price Data,"Name of reporting entity if surveyed, or DCRA if regionally averaged",string,TRUE,null,public_fuel_prices.csv
 source,Source,Source of data,string,TRUE,null,default
+start_year,ACS Start Year,Start year of the 5-year ACS survey observation window,integer,false,year,public_household_income.csv
 start_year,Start Year,Beginning of the data collection period,integer,FALSE,null,default
 state_ferry,State Ferry,"Answers the question: Is the Community served by a state ferry? (""t"" for yes, and ""f"" for no)",boolean,TRUE,null,default
 tank_farm_evaluation_id,Tank Farm Evaluation ID,,string,TRUE,NULL,default
