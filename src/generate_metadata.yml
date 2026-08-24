@@ -124,3 +124,7 @@ datasets:
     data_path: data/public/public_service_areas/public_service_areas.geojson
     bbox: infer
     time: specify
+  public_household_income:
+    data_path: data/public/public_household_income/public_household_income.csv
+    bbox: infer
+    time: specify
