@@ -80,6 +80,8 @@ export_to_csv "public" "public_monthly_electric_rates" "(SELECT * FROM public_mo
 export_to_csv "public" "public_taxes" "(SELECT * FROM public_taxes)"
 export_to_csv "public" "public_transportation" "(SELECT * FROM public_transportation)"
 export_to_csv "public" "public_yearly_generation" "(SELECT * FROM public_yearly_generation)"
+export_to_csv "public" "public_communities_generators" "(SELECT * FROM public_communities_generators)"
+export_to_csv "public" "public_plants_generators" "(SELECT * FROM public_plants_generators)"
 export_to_csv "public" "public_yearly_sales" "(SELECT * FROM public_yearly_sales)"
 export_to_csv "public" "public_monthly_sales" "(SELECT * FROM public_monthly_sales)"
 export_to_csv "public" "public_income_poverty" "(SELECT * FROM public_income_poverty)"
