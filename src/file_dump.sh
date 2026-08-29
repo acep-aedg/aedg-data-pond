@@ -62,6 +62,8 @@ export_to_csv "final" "income_poverty" "l2_income_poverty"
 export_to_csv "final" "heating_degree_days" "l2_heating_degree_days"
 export_to_csv "final" "communities_reporting_entities" "communities_reporting_entities"
 export_to_csv "final" "generators" "l2_es_generators"
+export_to_csv "final" "natural_gas_prices" "l2_natural_gas_prices"
+export_to_csv "final" "natural_gas_production" "l2_natural_gas_production"
 
 export_to_csv "intermediate" "lookup_rca_electric_certificates" "lookup_rca_electric_certificates"
 
