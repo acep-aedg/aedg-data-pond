@@ -1,4 +1,4 @@
-aedg_metadata @ git+https://github.com/acep-aedg/aedg-metadata.git@v0.2.2
+-e ../aedg-metadata
 attrs==25.4.0
 certifi==2025.11.12
 click==8.3.1

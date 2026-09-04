@@ -7,6 +7,7 @@
 
 
 ## Requirements
+make sure you have the etl repo cloned and the database created and run `dtb build` (see docs)
 
 * **Python:** 3.12
 * **yq:** v4
@@ -23,21 +24,30 @@ git clone https://github.com/acep-aedg/aedg-etl-2024.git
 ```bash
 git clone https://github.com/acep-aedg/aedg-data-pond.git
 ```
+```bash
+git clone git@github.com:acep-aedg/aedg-metadata.git
+```
 
 ### 2. Configure Python Environment
 
+Create virtual environment
 ```bash
-# Create virtual environment
 python3 -m venv .venv
 ```
+Activate virtual environment
+On macOS/Linux:
 ```bash
-# Activate virtual environment
-# On macOS/Linux:
 source .venv/bin/activate
-# On Windows:
+```
+On Windows:
+```bash
 # .venv\Scripts\activate
 ```
+install requirements 
 ```bash
-# Install requirements
 pip install -r requirements.txt
+```
+run main to run all associated scripts (see in main.sh) for public datasets, metadata generation .json and .md.
+```bash
+./main.sh
 ```
