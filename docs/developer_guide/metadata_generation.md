@@ -1,5 +1,7 @@
 ## 📁 Metadata Configuration & Generation Workflow
 
+This is only if you are running the metadata generation on its own. Otherwise the data pipeline was built to run `main.sh`
+
 ### Step 1: Verify Dataset Location
 
 Ensure your dataset CSV is merged into the `main` branch of `aedg-data-pond` at:

@@ -1,7 +1,7 @@
 # Electric Service Areas of Alaska
 
 ## Description
-Spatial file of electric service areas in Alaska, used in AEDG to associate communities with infrastructure and sales reporting. 
+Spatial file of electric service areas in Alaska, used in AEDG to associate communities with infrastructure and sales reporting.
 
 
 ## Responsible Party

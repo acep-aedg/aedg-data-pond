@@ -1,7 +1,7 @@
 fips_code,community_name,tank_farm_id,uscg_id,aea_id,entity_name,number_of_tanks,total_capacity,gasoline_capacity,diesel_capacity,av_gas_capacity,jet_fuel_capacity,other_fuel_capacity,barge_delivery,plane_delivery,road_delivery,inspected_by_uscg,fuel_supplier,recommendations_by_aea,distance_to_barge_mooring,tank_farm_evaluation_id,source,report,start_year,end_year,latitude,longitude
-0200065,Adak,,ANC-A-042,,AK DOT&PF Adak,1,1000,,1000,,,,,,,t,,,,,DEC,,,,51.8751220703125,-176.64251708984375
 0200065,Adak,,ANC-A-017,,Adak Petroleum Bulk Fuel,,,,,,,,,,,t,,,,,,,,,51.8682861328125,-176.64031982421875
 0200065,Adak,,ANC-A-001,,Adak Petroleum Bulk Fuel Facility,4,71100,51100,,,20000,,t,f,f,t,,,,,DEC,,,,51.853515625,-176.65460205078125
+0200065,Adak,,ANC-A-042,,AK DOT&PF Adak,1,1000,,1000,,,,,,,t,,,,,DEC,,,,51.8751220703125,-176.64251708984375
 0200065,Adak,,,,TDX Power,3,41080,,41080,,,,f,f,t,f,,,,,DEC,,,,51.89849853515625,-176.6239013671875
 0200650,Akhiok,,,,City of Akhiok,4,41000,,41000,,,,t,f,f,f,,,,,DEC,,,,56.9302978515625,-154.20257568359375
 0200650,Akhiok,,,,City of Akhiok,3,36000,,24000,,,12000,t,f,f,,Ocean Beauty Cannery,,,,AEA,2024 Assessment,2023,2024,56.9302633943918,-154.202607345013
@@ -15,8 +15,8 @@ fips_code,community_name,tank_farm_id,uscg_id,aea_id,entity_name,number_of_tanks
 0200870,Akiak,,,,Akiak Fuel Storage Facility,8,226000,45000,175000,,,6000,t,f,f,,Crowley,,,,AEA,2024 Assessment,2023,2024,60.9140224489645,-161.220677464081
 0200870,Akiak,,,,Akiak school tank farm,4,94800,,94800,,,,t,f,f,,Crowley,,,,AEA,2024 Assessment,2023,2024,60.9078622015956,-161.228614425223
 0200870,Akiak,752,,,Alaska Army National Guard,,5500,,,,,,t,f,f,f,,,,985,AEA,,,,60.91229248046875,-161.21728515625
-0200870,Akiak,750,,,City of Akiak Electric Utility,,24000,,,,,,t,f,f,f,,,,983,AEA,,,,60.9102783203125,-161.21868896484375
 0200870,Akiak,751,,,City of Akiak Electric Utility,,2000,,,,,,t,f,f,f,,,,984,AEA,,,,60.90972900390625,-161.21917724609375
+0200870,Akiak,750,,,City of Akiak Electric Utility,,24000,,,,,,t,f,f,f,,,,983,AEA,,,,60.9102783203125,-161.21868896484375
 0200870,Akiak,753,ANC-A-007,,Kokamiut Corporation,,258000,,,,,,t,f,f,t,,,,986,AEA,,,,60.91412353515625,-161.22052001953125
 0200870,Akiak,749,,,Kokarmiut Corpation,,58000,,,,,,t,f,f,f,,,,982,AEA,,,,60.91412353515625,-161.220703125
 0200870,Akiak,,ANC-A-008,,Yupiit School District,6,103800,5000,98800,,,,t,f,f,t,,,,,DEC,,,,60.907470703125,-161.2283935546875
@@ -41,9 +41,9 @@ fips_code,community_name,tank_farm_id,uscg_id,aea_id,entity_name,number_of_tanks
 0201420,Aleknagik,,,,Southwest Region School District,2,22000,,22000,,,,f,f,t,f,,,,,DEC,,,,59.27947998046875,-158.6243896484375
 0201860,Allakaket,,,,Alatna Village Tank Farm,2,15000,5000,10000,,,,f,t,f,f,,,,,DEC,,,,66.54931640625,-152.6326904296875
 0201860,Allakaket,,,,Allakaket Shared Tank Farm,10,50000,10000,40000,,,,f,t,f,,Everts Air,,,,AEA,2024 Assessment,2023,2024,66.5471230650955,-152.637086037636
-0201860,Allakaket,,,,Allakaket Tank Farm,3,16000,,16000,,,,f,t,f,f,,,,,DEC,,,,66.54608154296875,-152.6444091796875
-0201860,Allakaket,,,,Allakaket Tank Farm,7,29000,,29000,,,,f,t,f,f,,,,,DEC,,,,66.5634765625,-152.64410400390625
 0201860,Allakaket,,,,Allakaket Tank Farm,4,20000,10000,10000,,,,f,t,f,f,,,,,DEC,,,,66.54730224609375,-152.63671875
+0201860,Allakaket,,,,Allakaket Tank Farm,7,29000,,29000,,,,f,t,f,f,,,,,DEC,,,,66.5634765625,-152.64410400390625
+0201860,Allakaket,,,,Allakaket Tank Farm,3,16000,,16000,,,,f,t,f,f,,,,,DEC,,,,66.54608154296875,-152.6444091796875
 0201860,Allakaket,100,,,Allakatna Co-op Store,,9252,,,,,,f,t,f,f,,,,131,AEA,2015 Assessment,2015,2015,66.56109619140625,-152.65130615234375
 0201860,Allakaket,103,,,Brice Construction,,10000,,,,,,f,t,f,f,,,,705,AEA,2015 Assessment,2015,2015,66.56109619140625,-152.651123046875
 0201860,Allakaket,99,,,City of Allakaket,,12000,,,,,,f,t,f,f,,,,667,AEA,2015 Assessment & Best Practice Assessment,2015,2015,66.56109619140625,-152.65087890625
@@ -52,11 +52,10 @@ Secondary Containment: No containment; Inadequate containment
 Foundations: Belly of tank more than ",,1009,AEA,2015 Assessment & Best Practice Assessment,2015,2015,66.54730224609375,-152.63702392578125
 0201860,Allakaket,,,,DOT&PF Allakaket APT,1,1000,,1000,,,,f,t,f,f,,,,,DEC,,,,66.54949951171875,-152.62939453125
 0201860,Allakaket,,,,School Tanks,4,22000,,22000,,,,t,f,f,,Ruby Marine,,,,AEA,2024 Assessment,2023,2024,66.5635013869854,-152.644172164303
+0201860,Allakaket,102,,,Yukon-Koyukuk School District,,1500,,,,,,f,t,f,f,,,,133,AEA,2015 Assessment,2015,2015,66.563720703125,-152.6439208984375
 0201860,Allakaket,101,,,Yukon-Koyukuk School District,5,19000,,19000,,,,f,t,f,f,Everts Air Cargo,"Site Location: Tank farm in flood plain Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well
 Secondary Containment: No containment; Inadequate containment. 
 Foundations: Belly of tank more than 12in",,132,AEA,2015 Assessment,2015,2015,66.5634765625,-152.64398193359375
-0201860,Allakaket,102,,,Yukon-Koyukuk School District,,1500,,,,,,f,t,f,f,,,,133,AEA,2015 Assessment,2015,2015,66.563720703125,-152.6439208984375
-0201970,Ambler,,,,ARUC,1,10000,,10000,,,,t,f,f,,,,,,AEA,2024 Assessment,2023,2024,67.086375416319,-157.858587959928
 0201970,Ambler,,,,Alaska Village Electric Cooperative,12,100100,,100100,,,,,,,f,,,,,DEC,,,,67.08770751953125,-157.8568115234375
 0201970,Ambler,,,,Ambler Fuel Depot- Diesel,2,2200,,2200,,,,f,t,f,,Everts Air,,,,AEA,2024 Assessment,2023,2024,67.0867133547173,-157.859218369484
 0201970,Ambler,,,,Ambler Fuel Depot- Gasoline,2,4000,4000,,,,,f,t,f,,Everts air,,,,AEA,2024 Assessment,2023,2024,67.0862767777142,-157.856703486033
@@ -67,6 +66,7 @@ Foundation: Belly of tank more than 12ft above",,134,AEA,2015 Assessment,2015,
 0201970,Ambler,347,,,Ambler Traditional Council,1,2000,2000,2000,,,,t,t,f,f,Everts Air Cargo,"Site Location:  History of flooding;  Facility threatened by coastal erosion/avalanche/river erosion/other;  Tank Farm within 100-feet of a well
 Secondary Containment: No containment; Inadequate containment
 Foundations: Belly of tank more than 12ft ab",,738,AEA,2015 Assessment,2015,2015,67.10028076171875,-157.857177734375
+0201970,Ambler,,,,ARUC,1,10000,,10000,,,,t,f,f,,,,,,AEA,2024 Assessment,2023,2024,67.086375416319,-157.858587959928
 0201970,Ambler,,,,Avec,12,100859,,100859,,,,t,f,f,,,,,,AEA,2024 Assessment,2023,2024,67.0879573329045,-157.857500994725
 0201970,Ambler,1107,,,City Gasoline Dispensing,1,2000,2000,0,,,,f,t,f,f,Everts Air Cargo,"Site Location: History of flooding; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well
 Secondary Containment: No containment;  Inadequate containment
@@ -75,20 +75,21 @@ Foundations: Belly of tank more than 12in above",,1098,AEA,2015 Assessment,201
 Secondary Containment: No containment; Inadequate containment
 Foundations: Belly of tank more than 12in above ",,1097,AEA,2015 Assessment,2015,2015,67.0863037109375,-157.85870361328125
 0201970,Ambler,,,,DOT&PF Ambler APT,1,1000,,1000,,,,f,t,f,f,,,,,DEC,,,,67.10052490234375,-157.856201171875
+0201970,Ambler,,ANC-A-015,,Northwest Arctic Borough School District,5,59400,,59400,,,,t,f,f,t,,,,,DEC,,,,67.0863037109375,-157.859375
 0201970,Ambler,,,,NWABSD Tank Farm 1,1,28000,,28000,,,,t,f,f,,Crowley,,,,AEA,2024 Assessment,2023,2024,67.086497512369,-157.860331427639
 0201970,Ambler,,,,NWABSD Tank Farm 2,4,31500,,31500,,,,t,f,f,,crowley,,,,AEA,2024 Assessment,2023,2024,67.0861523029266,-157.859421570567
-0201970,Ambler,,ANC-A-015,,Northwest Arctic Borough School District,5,59400,,59400,,,,t,f,f,t,,,,,DEC,,,,67.0863037109375,-157.859375
 0202080,Anaktuvuk Pass,,,,AKP Tank Farm,4,194000,37000,157000,,,,f,t,f,,Everts Air Fuel,,,,AEA,2024 Assessment,2023,2024,68.1367808279336,-151.741813947677
+0202080,Anaktuvuk Pass,359,,,North Slope Borough,,1200,,,,,,f,t,f,f,,,,916,AEA,2015 Assessment,2015,2015,68.143310546875,-151.73388671875
+0202080,Anaktuvuk Pass,350,,,North Slope Borough,1,6500,,6500,,,,f,t,f,f,Everts Air Cargo,,,907,AEA,2015 Assessment,2015,2015,68.14288330078125,-151.7333984375
 0202080,Anaktuvuk Pass,351,,,North Slope Borough,,1200,,,,,,f,t,f,f,,,,908,AEA,2015 Assessment,2015,2015,68.143310546875,-151.73431396484375
 0202080,Anaktuvuk Pass,352,,,North Slope Borough,,10000,,,,,,f,t,f,f,,,,909,AEA,2015 Assessment,2015,2015,68.13470458984375,-151.7449951171875
-0202080,Anaktuvuk Pass,358,,,North Slope Borough,1,10000,,10000,,,,f,t,f,f,Everts Air Cargo,"Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well
-Secondary Containment:  No containment; Inadequate containment
-Foundations: Belly of tank more than 12in ",,915,AEA,2015 Assessment,2015,2015,68.1376953125,-151.74139404296875
-0202080,Anaktuvuk Pass,350,,,North Slope Borough,1,6500,,6500,,,,f,t,f,f,Everts Air Cargo,,,907,AEA,2015 Assessment,2015,2015,68.14288330078125,-151.7333984375
-0202080,Anaktuvuk Pass,359,,,North Slope Borough,,1200,,,,,,f,t,f,f,,,,916,AEA,2015 Assessment,2015,2015,68.143310546875,-151.73388671875
 0202080,Anaktuvuk Pass,354,,,North Slope Borough,1,5000,,5000,,,,f,t,f,f,Everts Air Cargo,"Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well
 Secondary Containment: No containment; Inadequate containment
 Foundations: Belly of tank more than 12in a",,911,AEA,2015 Assessment,2015,2015,68.14068603515625,-151.7432861328125
+0202080,Anaktuvuk Pass,358,,,North Slope Borough,1,10000,,10000,,,,f,t,f,f,Everts Air Cargo,"Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well
+Secondary Containment:  No containment; Inadequate containment
+Foundations: Belly of tank more than 12in ",,915,AEA,2015 Assessment,2015,2015,68.1376953125,-151.74139404296875
+0202080,Anaktuvuk Pass,357,,,North Slope BoroughAnaktuvuk Pass Fire Dept.,2,17500,,17500,,,,f,t,f,f,Everts Air Cargo,Tank Farm 7 - Deficiencies & Recommendations Site Location: Tank farm in flood lpain;  Facility threatened by coastal erosion/avalanche/river erosion/othe;  Tank Farm within 100-feet of a wel. Secondary Containmen:  No containment;  Inadequate containment,,914,AEA,2015 Assessment,2015,2015,68.13787841796875,-151.739013671875
 0202080,Anaktuvuk Pass,349,,,North Slope Borough Fuel Division & Energy Management Nunamuit Corporation Fuel Station,5,248000,37000,211000,,,,f,t,f,f,Everts Air Cargo,"Site Location:  Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well
 Secondary Containment: No containment;  Inadequate containment
 Foundations: Belly of tank more than 12in",,542,AEA,2015 Assessment,2015,2015,68.13592529296875,-151.74359130859375
@@ -97,42 +98,39 @@ Foundations: Belly of tank more than 12in",,542,AEA,2015 Assessment,2015,2015,
 0202080,Anaktuvuk Pass,348,,,North Slope Borough School District,1,2000,,2000,,,,f,t,f,f,Everts Air Cargo,"Site Location: Tank farm in flood plain;  Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well
 Secondary Containment: No containment;  Inadequate containment
 Foundations: Belly of tank more than 12in",,91,AEA,2015 Assessment,2015,2015,68.14007568359375,-151.7388916015625
-0202080,Anaktuvuk Pass,357,,,North Slope BoroughAnaktuvuk Pass Fire Dept.,2,17500,,17500,,,,f,t,f,f,Everts Air Cargo,Tank Farm 7 - Deficiencies & Recommendations Site Location: Tank farm in flood lpain;  Facility threatened by coastal erosion/avalanche/river erosion/othe;  Tank Farm within 100-feet of a wel. Secondary Containmen:  No containment;  Inadequate containment,,914,AEA,2015 Assessment,2015,2015,68.13787841796875,-151.739013671875
 0202080,Anaktuvuk Pass,356,,,Nunamiut Corporation,,12000,,,,,,f,t,f,f,,,,913,AEA,2015 Assessment,2015,2015,68.1361083984375,-151.74310302734375
 0202080,Anaktuvuk Pass,355,,,Nunamiut Corporation Restaurant,1,2000,,2000,,,,f,t,f,f,Everts Air Cargo,"Site Location:  Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well
 Secondary Containment: No containment;  Inadequate containment
 Foundations:  Belly of tank more than 12",,912,AEA,2015 Assessment,2015,2015,68.1392822265625,-151.73651123046875
-0203110,Anchor Point,,,,North Fork Unit,1,5000,,5000,,,,f,f,t,f,,,,,DEC,,,,59.79730224609375,-151.63031005859375
-0203110,Anchor Point,,,,Petro 49,5,40100,18500,10800,,10800,,f,f,t,f,,,,,DEC,,,,59.78369140625,-151.8330078125
-0203000,Anchorage,,,,AK DOT&PF Anchorage Maintenance Station,1,10000,,10000,,,,f,f,t,f,,,,,DEC,,,,61.18212890625,-149.84112548828125
 0203000,Anchorage,,,,Air Medical Group Holdings,1,12000,,,,12000,,,,,f,,,,,DEC,,,,61.17327880859375,-149.9508056640625
+0203000,Anchorage,,,,AK DOT&PF Anchorage Maintenance Station,1,10000,,10000,,,,f,f,t,f,,,,,DEC,,,,61.18212890625,-149.84112548828125
 0203000,Anchorage,,,,Alaska Airlines,2,10000,5000,5000,,,,f,f,t,f,,,,,DEC,,,,61.17352294921875,-149.98150634765625
 0203000,Anchorage,,,,Alaska Railroad,2,76700,,76700,,,,f,f,t,f,,,,,DEC,,,,61.22528076171875,-149.88861083984375
 0203000,Anchorage,,,,Alaska Waste,2,10000,,10000,,,,f,f,t,f,,,,,DEC,,,,61.1636962890625,-149.860595703125
-0203000,Anchorage,,,,Anchorage Fueling and Service Company,6,21000,2000,3000,,16000,,t,f,f,f,,,,,DEC,,,,61.17510986328125,-150.03997802734375
 0203000,Anchorage,,,,Anchorage Fueling and Service Company,1,10000,,,,10000,,t,f,f,f,,,,,DEC,,,,61.17510986328125,-150.03997802734375
+0203000,Anchorage,,,,Anchorage Fueling and Service Company,6,21000,2000,3000,,16000,,t,f,f,f,,,,,DEC,,,,61.17510986328125,-150.03997802734375
 0203000,Anchorage,,,,Anchorage Fueling and Service Company,2,4000,,2000,,2000,,t,f,f,f,,,,,DEC,,,,61.17510986328125,-150.03997802734375
-0203000,Anchorage,,,,Anchorage School District,1,6000,,6000,,,,f,f,t,f,,,,,DEC,,,,61.20867919921875,-149.743408203125
-0203000,Anchorage,,,,Anchorage School District,1,1500,,1500,,,,f,f,t,f,,,,,DEC,,,,61.139892578125,-149.7877197265625
+0203000,Anchorage,,,,Anchorage School District,1,5000,,5000,,,,f,f,t,f,,,,,DEC,,,,61.10009765625,-149.8082275390625
+0203000,Anchorage,,,,Anchorage School District,1,1500,,1500,,,,f,f,t,f,,,,,DEC,,,,61.22747802734375,-149.82550048828125
+0203000,Anchorage,,,,Anchorage School District,2,12000,,12000,,,,f,f,t,f,,,,,DEC,,,,61.1796875,-149.8101806640625
 0203000,Anchorage,,,,Anchorage School District,1,10230,,10230,,,,f,f,t,f,,,,,DEC,,,,61.2000732421875,-149.805908203125
 0203000,Anchorage,,,,Anchorage School District,1,8000,,8000,,,,f,f,t,f,,,,,DEC,,,,61.1436767578125,-149.93389892578125
 0203000,Anchorage,,,,Anchorage School District,1,3550,,3550,,,,f,f,t,f,,,,,DEC,,,,61.22271728515625,-149.81048583984375
-0203000,Anchorage,,,,Anchorage School District,1,4000,,4000,,,,f,f,t,f,,,,,DEC,,,,61.07867431640625,-149.77801513671875
-0203000,Anchorage,,,,Anchorage School District,2,12125,,12125,,,,f,f,t,f,,,,,DEC,,,,61.23248291015625,-149.7333984375
-0203000,Anchorage,,,,Anchorage School District,2,12000,,12000,,,,f,f,t,f,,,,,DEC,,,,61.1796875,-149.8101806640625
-0203000,Anchorage,,,,Anchorage School District,1,1500,,1500,,,,f,f,t,f,,,,,DEC,,,,61.22747802734375,-149.82550048828125
-0203000,Anchorage,,,,Anchorage School District,1,5000,,5000,,,,f,f,t,f,,,,,DEC,,,,61.19390869140625,-149.83612060546875
+0203000,Anchorage,,,,Anchorage School District,1,6000,,6000,,,,f,f,t,f,,,,,DEC,,,,61.20867919921875,-149.743408203125
 0203000,Anchorage,,,,Anchorage School District,1,2000,,2000,,,,f,f,t,f,,,,,DEC,,,,61.1759033203125,-149.9208984375
 0203000,Anchorage,,,,Anchorage School District,2,4500,,4500,,,,f,f,t,f,,,,,DEC,,,,61.2335205078125,-149.87060546875
 0203000,Anchorage,,,,Anchorage School District,2,3524,,3524,,,,f,f,t,f,,,,,DEC,,,,61.130126953125,-149.83001708984375
 0203000,Anchorage,,,,Anchorage School District,1,3000,,3000,,,,f,f,t,f,,,,,DEC,,,,61.11328125,-149.8577880859375
 0203000,Anchorage,,,,Anchorage School District,1,3500,,3500,,,,f,f,t,f,,,,,DEC,,,,61.12890625,-149.931396484375
+0203000,Anchorage,,,,Anchorage School District,2,4000,,4000,,,,f,f,t,f,,,,,DEC,,,,61.1123046875,-149.85772705078125
+0203000,Anchorage,,,100-BF-01,Anchorage School District,1,3000,,3000,,,,f,f,t,f,,,,,DEC,,,,61.25128173828125,-149.67742919921875
 0203000,Anchorage,,,,Anchorage School District,1,5000,,5000,,,,,,,f,,,,,DEC,,,,61.1978759765625,-149.91497802734375
 0203000,Anchorage,,,,Anchorage School District,1,1500,,1500,,,,,,,f,,,,,DEC,,,,61.20068359375,-149.80047607421875
 0203000,Anchorage,,,,Anchorage School District,1,5000,,5000,,,,f,f,t,f,,,,,DEC,,,,61.13909912109375,-149.78118896484375
-0203000,Anchorage,,,,Anchorage School District,1,5000,,5000,,,,f,f,t,f,,,,,DEC,,,,61.10009765625,-149.8082275390625
-0203000,Anchorage,,,100-BF-01,Anchorage School District,1,3000,,3000,,,,f,f,t,f,,,,,DEC,,,,61.25128173828125,-149.67742919921875
-0203000,Anchorage,,,,Anchorage School District,2,4000,,4000,,,,f,f,t,f,,,,,DEC,,,,61.1123046875,-149.85772705078125
+0203000,Anchorage,,,,Anchorage School District,1,4000,,4000,,,,f,f,t,f,,,,,DEC,,,,61.07867431640625,-149.77801513671875
+0203000,Anchorage,,,,Anchorage School District,2,12125,,12125,,,,f,f,t,f,,,,,DEC,,,,61.23248291015625,-149.7333984375
+0203000,Anchorage,,,,Anchorage School District,1,1500,,1500,,,,f,f,t,f,,,,,DEC,,,,61.139892578125,-149.7877197265625
+0203000,Anchorage,,,,Anchorage School District,1,5000,,5000,,,,f,f,t,f,,,,,DEC,,,,61.19390869140625,-149.83612060546875
 0203000,Anchorage,,,102-BF-01,Anchorage US Courthouse,1,4000,,4000,,,,f,f,t,f,,,,,DEC,,,,61.215087890625,-149.885009765625
 0203000,Anchorage,,ANC-A-024,,Andeavor Logistics,,,,,,,,,,,t,,,,,,,,,61.21630859375,-149.894775390625
 0203000,Anchorage,,ANC-A-025,,Andeavor Logistics LP,,,,,,,,,,,t,,,,,,,,,61.21630859375,-149.894775390625
@@ -145,26 +143,26 @@ Foundations:  Belly of tank more than 12",,912,AEA,2015 Assessment,2015,2015,68.
 0203000,Anchorage,,,,EAN Vehicle Service Center,1,1000,1000,,,,,f,f,t,f,,,,,DEC,,,,61.17547607421875,-149.969482421875
 0203000,Anchorage,,,104-BF-04,ENSTAR Natural Gas,1,1300,1300,,,,,f,f,t,f,,,,,DEC,,,,61.17431640625,-149.87701416015625
 0203000,Anchorage,,,104-BF-05,Environmental Compliance Consultants,4,12500,,10000,,2500,,f,f,t,f,,,,,DEC,,,,61.22509765625,-149.85479736328125
-0203000,Anchorage,,,105-BF-01,FedEx Express Corporation,1,2688,,2688,,,,f,f,t,f,,,,,DEC,,,,61.190673828125,-149.9984130859375
-0203000,Anchorage,,,104-BF-02,Federal Aviation Administration,1,1000,,1000,,,,f,f,t,f,,,,,DEC,,,,61.17828369140625,-150.01629638671875
-0203000,Anchorage,,,104-BF-01,Federal Aviation Administration,1,2000,,2000,,,,f,f,t,f,,,,,DEC,,,,61.09552001953125,-150.002685546875
 0203000,Anchorage,,,,Federal Aviation Administration,1,2000,,2000,,,,f,f,t,f,,,,,DEC,,,,61.17327880859375,-149.98150634765625
+0203000,Anchorage,,,104-BF-01,Federal Aviation Administration,1,2000,,2000,,,,f,f,t,f,,,,,DEC,,,,61.09552001953125,-150.002685546875
+0203000,Anchorage,,,104-BF-02,Federal Aviation Administration,1,1000,,1000,,,,f,f,t,f,,,,,DEC,,,,61.17828369140625,-150.01629638671875
 0203000,Anchorage,,,104-BF-03,Federal Aviation Administration,1,1000,,1000,,,,f,f,t,f,,,,,DEC,,,,61.164306640625,-149.9884033203125
-0203000,Anchorage,,,105-BF-02,GCI Communication Corp.,2,2000,,2000,,,,f,f,t,f,,,,,DEC,,,,61.1790771484375,-149.88970947265625
-0203000,Anchorage,,,105-BF-03,GCI Communication Corp.,1,3000,,3000,,,,f,f,t,f,,,,,DEC,,,,61.2100830078125,-149.79388427734375
+0203000,Anchorage,,,105-BF-01,FedEx Express Corporation,1,2688,,2688,,,,f,f,t,f,,,,,DEC,,,,61.190673828125,-149.9984130859375
 0203000,Anchorage,,,,GCI Communication Corp.,2,10000,,10000,,,,f,f,t,f,,,,,DEC,,,,61.15869140625,-149.890625
+0203000,Anchorage,,,105-BF-03,GCI Communication Corp.,1,3000,,3000,,,,f,f,t,f,,,,,DEC,,,,61.2100830078125,-149.79388427734375
+0203000,Anchorage,,,105-BF-02,GCI Communication Corp.,2,2000,,2000,,,,f,f,t,f,,,,,DEC,,,,61.1790771484375,-149.88970947265625
 0203000,Anchorage,,,,Global Rides,2,24454,,,,24454,,f,f,t,f,,,,,DEC,,,,61.16009521484375,-149.98028564453125
 0203000,Anchorage,,,106-BF-03,Lake and Peninsula Air,1,3000,,,,3000,,f,f,t,f,,,,,DEC,,,,61.2169189453125,-149.84918212890625
+0203000,Anchorage,,,106-BF-02,Lowe's,1,2000,,2000,,,,f,f,t,f,,,,,DEC,,,,61.1824951171875,-149.8787841796875
 0203000,Anchorage,,,106-BF-05,Lowe's,1,1500,,1500,,,,f,f,t,f,,,,,DEC,,,,61.22991943359375,-149.747802734375
 0203000,Anchorage,,,106-BF-01,Lowe's,1,1500,,1500,,,,f,f,t,f,,,,,DEC,,,,61.1217041015625,-149.86810302734375
-0203000,Anchorage,,,106-BF-02,Lowe's,1,2000,,2000,,,,f,f,t,f,,,,,DEC,,,,61.1824951171875,-149.8787841796875
 0203000,Anchorage,,ANC-A-099,,Matson Navigation,,,,,,,,,,,t,,,,,,,,,61.21630859375,-149.894775390625
-0203000,Anchorage,,,107-BF-01,Municipal Light and Power,3,227072,8000,219072,,,,f,f,t,f,,,,,DEC,,,,61.22088623046875,-149.85968017578125
 0203000,Anchorage,,,,Municipality of Anchorage,1,1500,,1500,,,,f,f,t,f,,,,,DEC,,,,61.21832275390625,-149.8822021484375
-0203000,Anchorage,,,109-BF-01,NRC Alaska,1,10000,,10000,,,,f,f,t,f,,,,,DEC,,,,61.223876953125,-149.84271240234375
-0203000,Anchorage,,,,North Park Fuels,8,140000,10000,10000,,120000,,f,f,t,f,,,,,DEC,,,,61.19732666015625,-149.99530029296875
+0203000,Anchorage,,,107-BF-01,Municipal Light and Power,3,227072,8000,219072,,,,f,f,t,f,,,,,DEC,,,,61.22088623046875,-149.85968017578125
 0203000,Anchorage,,,109-BF-03,Northern Holdings,1,16000,,,,16000,,f,f,t,f,,,,,DEC,,,,61.1636962890625,-149.99072265625
+0203000,Anchorage,,,,North Park Fuels,8,140000,10000,10000,,120000,,f,f,t,f,,,,,DEC,,,,61.19732666015625,-149.99530029296875
 0203000,Anchorage,,ANC-A-041,,Northstar Terminal,,,,,,,,,,,t,,,,,,,,,61.21630859375,-149.894775390625
+0203000,Anchorage,,,109-BF-01,NRC Alaska,1,10000,,10000,,,,f,f,t,f,,,,,DEC,,,,61.223876953125,-149.84271240234375
 0203000,Anchorage,,ANC-A-026,109-BF-02,Petro 49,1,10000,,10000,,,,f,f,t,t,,,,,DEC,,,,61.1624755859375,-149.83331298828125
 0203000,Anchorage,,ANC-A-069,,Petro Star Inc.,,,,,,,,,,,t,,,,,,,,,61.21630859375,-149.894775390625
 0203000,Anchorage,,ANC-A-021,,Port of Anchorage,1,2000,,2000,,,,f,f,t,t,,,,,DEC,,,,61.2388916015625,-149.88592529296875
@@ -174,11 +172,13 @@ Foundations:  Belly of tank more than 12",,912,AEA,2015 Assessment,2015,2015,68.
 0203000,Anchorage,,,,State of Alaska Department of Fish and Game,1,4000,,4000,,,,f,f,t,f,,,,,DEC,,,,61.23028564453125,-149.8297119140625
 0203000,Anchorage,,,112-BF-04,Ted Stevens Anchorage International Airport,9,32000,6000,26000,,,,f,f,t,f,,,,,DEC,,,,61.17352294921875,-149.98150634765625
 0203000,Anchorage,,ANC-A-040,,Totem International,,,,,,,,,,,t,,,,,,,,,61.21630859375,-149.894775390625
-0203000,Anchorage,,ANC-A-080,,US Ecology Alaska Services,,,,,,,,,,,t,,,,,,,,,61.21630859375,-149.894775390625
 0203000,Anchorage,,,112-BF-08,United Parcel Service,2,7000,5000,2000,,,,f,f,t,f,,,,,DEC,,,,61.19451904296875,-150.0006103515625
 0203000,Anchorage,,,112-BF-01,University of Alaska Anchorage,9,15419,,15419,,,,f,f,t,f,,,,,DEC,,,,61.19189453125,-149.81378173828125
+0203000,Anchorage,,ANC-A-080,,US Ecology Alaska Services,,,,,,,,,,,t,,,,,,,,,61.21630859375,-149.894775390625
 0203000,Anchorage,,,112-BF-06,Verizon Wireless,2,16000,,16000,,,,f,f,t,f,,,,,DEC,,,,61.18511962890625,-149.87139892578125
 0203000,Anchorage,,,112-BF-05,Weaver Bros.,1,6000,,6000,,,,f,f,t,f,,,,,DEC,,,,66.5001220703125,-161.030029296875
+0203110,Anchor Point,,,,North Fork Unit,1,5000,,5000,,,,f,f,t,f,,,,,DEC,,,,59.79730224609375,-151.63031005859375
+0203110,Anchor Point,,,,Petro 49,5,40100,18500,10800,,10800,,f,f,t,f,,,,,DEC,,,,59.78369140625,-151.8330078125
 0203220,Anderson,,,112-BF-09,Denali Borough,1,1500,,1500,,,,f,f,t,f,,,,,DEC,,,,64.27252197265625,-149.105712890625
 0203220,Anderson,,,112-BF-07,Denali Borough School District,1,5000,,5000,,,,f,f,t,f,,,,,DEC,,,,64.3428955078125,-149.18878173828125
 0203440,Angoon,,,,Angoon Power Plant,3,60000,,60000,,,,t,f,f,,Petro Marine,,,,AEA,2024 Assessment,2023,2024,57.499030600025,-134.586284950667
@@ -196,8 +196,8 @@ Foundations:  Belly of tank more than 12",,912,AEA,2015 Assessment,2015,2015,68.
 0203550,Aniak,112,,115-BF-18,Bush-Tell,,6000,,,,,,t,f,f,f,,,,586,AEA,,,,61.5806884765625,-159.53387451171875
 0203550,Aniak,104,,115-BF-10,Department of Transportation & Public Facilities,,3800,,,,,,t,f,f,f,,,,567,AEA,,,,61.5806884765625,-159.54302978515625
 0203550,Aniak,115,,115-BF-01,Hageland Aviation Service,,1900,,,,,,t,f,f,f,,,,571,AEA,,,,61.57427978515625,-159.53472900390625
-0203550,Aniak,,ANC-A-029,115-BF-12,Kuspuk School District,7,18000,,18000,,,,,,,t,,,,,DEC,,,,61.58050537109375,-159.55010986328125
 0203550,Aniak,108,,115-BF-07,Kuspuk School District,,142100,,,,,,t,f,f,t,,,,137,AEA,,,,61.58087158203125,-159.551025390625
+0203550,Aniak,,ANC-A-029,115-BF-12,Kuspuk School District,7,18000,,18000,,,,,,,t,,,,,DEC,,,,61.58050537109375,-159.55010986328125
 0203550,Aniak,111,,115-BF-06,Moffitt Contracting Co.,,349000,,,,,,t,f,f,f,,,,570,AEA,,,,61.58111572265625,-159.54541015625
 0203550,Aniak,107,,115-BF-15,Ryan Air,,72230,,,,,,t,f,f,f,,,,2,AEA,,,,61.57489013671875,-159.5352783203125
 0203550,Aniak,106,,115-BF-16,Steve Hill,,21000,,,,,,t,f,f,f,,,,584,AEA,,,,61.581298828125,-159.54620361328125
@@ -206,8 +206,8 @@ Foundations:  Belly of tank more than 12",,912,AEA,2015 Assessment,2015,2015,68.
 0203880,Anvik,120,,115-BF-02,Anvik Commercial Company,,16555,,,,,,t,f,f,f,,,,7,AEA,,,,62.65252685546875,-160.198486328125
 0203880,Anvik,119,,,Chase Enterprises Store,,10520,,,,,,t,f,f,f,,,,6,AEA,,,,62.65631103515625,-160.2086181640625
 0203880,Anvik,121,,,City of Anvik,,6500,,,,,,t,f,f,f,,,,8,AEA,,,,62.65252685546875,-160.19879150390625
-0203880,Anvik,,,,DOT&PF Anvik APT,1,3000,,3000,,,,f,t,f,f,,,,,DEC,,,,62.6492919921875,-160.1923828125
 0203880,Anvik,,,,Deloy Ges Tank Farm,6,97000,31000,60000,,,6000,t,f,f,,Ruby Marine,,,,AEA,2024 Assessment,2023,2024,62.6544293154389,-160.206989105048
+0203880,Anvik,,,,DOT&PF Anvik APT,1,3000,,3000,,,,f,t,f,f,,,,,DEC,,,,62.6492919921875,-160.1923828125
 0203880,Anvik,,,115-BF-17,Iditarod Area School District,1,1500,,1500,,,,t,f,f,f,,,,,DEC,,,,62.64910888671875,-160.19427490234375
 0203880,Anvik,117,,,Ingalik,,20310,,,,,,t,f,f,f,,,,4,AEA,,,,62.6527099609375,-160.19769287109375
 0203990,Arctic Village,124,,,Arctic Village Electric Co.,,12000,,,,,,f,t,f,f,,,,424,AEA,,,,68.12548828125,-145.53887939453125
@@ -223,9 +223,9 @@ Foundations:  Belly of tank more than 12",,912,AEA,2015 Assessment,2015,2015,68.
 0204210,Atka,887,,,Atka Native Store,,67300,,,,,,t,f,f,f,,,,407,AEA,,,,52.2012939453125,-174.19500732421875
 0204210,Atka,,ANC-A-049,,City of Atka,,,,,,,,,,,t,,,,,,,,,52.1978759765625,-174.2001953125
 0204430,Atmautluak,,,,Atmautlak Airport Maintenance Station,2,2000,,2000,,,,f,f,t,f,,,,,DEC,,,,60.86309814453125,-162.27410888671875
+0204430,Atmautluak,,ANC-A-033,,Atmautluak Tank Farm,10,75000,,75000,,,,t,f,f,t,,,,,DEC,,,,60.8572998046875,-162.27978515625
 0204430,Atmautluak,,,,Atmautluak Tank Farm,2,26400,,26400,,,,t,f,f,f,,,,,DEC,,,,60.8572998046875,-162.27978515625
 0204430,Atmautluak,,,,Atmautluak Tank Farm,7,66000,20000,46000,,,,t,f,f,f,,,,,DEC,,,,60.85748291015625,-162.2799072265625
-0204430,Atmautluak,,ANC-A-033,,Atmautluak Tank Farm,10,75000,,75000,,,,t,f,f,t,,,,,DEC,,,,60.8572998046875,-162.27978515625
 0204430,Atmautluak,,ANC-A-034,,Atmautluak Traditional Council,2,50000,,50000,,,,t,f,f,t,,,,,USCG,,,,60.8582763671875,-162.276123046875
 0204430,Atmautluak,,,,Atmautluak Utility and Atmautluak Limited,19,194367,36000,158367,,,,t,f,f,,Crowley,,,,AEA,2024 Assessment,2023,2024,60.85638979,-162.27819184
 0204500,Atqasuk,365,,,Atqasuk Community Center & City Hall,,2000,,,,,,f,t,f,f,,,,922,AEA,2015 Assessment,2015,2015,70.4822998046875,-157.42340087890625
@@ -237,9 +237,6 @@ Foundations:  Belly of tank more than 12i",,1050,AEA,2015 Assessment,2015,2015,7
 0204500,Atqasuk,1094,,344-BF-01,North Slope Borough,1,2000,,2000,,,,f,t,f,f,Colville,"Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well. 
 Secondary Containment:  No containment; Inadequate containment. 
 Foundations:  Belly of tank more than 12i",,1066,AEA,2015 Assessment,2015,2015,70.4832763671875,-157.426025390625
-0204500,Atqasuk,1095,,344-BF-03,North Slope Borough,1,2000,,2000,,,,f,t,f,f,Colville,"Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well. 
-Secondary Containment:  No containment; Inadequate containment. 
-Foundations:  Belly of tank more than 12i",,1067,AEA,2015 Assessment,2015,2015,70.48248291015625,-157.42529296875
 0204500,Atqasuk,367,,,North Slope Borough,5,87500,,87500,,,,f,t,f,f,Peak Oil Field Services / Everts Air Cargo,Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well. Secondary Containment: No containment;  Inadequate containment. Foundations: Belly of tank more than 12€ a,,924,AEA,2015 Assessment,2015,2015,70.4832763671875,-157.42608642578125
 0204500,Atqasuk,363,,,North Slope Borough,,1100,,,,,,f,t,f,f,,,,920,AEA,2015 Assessment,2015,2015,70.48248291015625,-157.4202880859375
 0204500,Atqasuk,364,,,North Slope Borough,1,7000,,7000,,,,f,t,f,f,Peak Oil Field Services / Everts Air Cargo,"Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well
@@ -248,24 +245,27 @@ Foundations: Belly of tank more than 12in ab",,921,AEA,2015 Assessment,2015,2015
 0204500,Atqasuk,366,,,North Slope Borough,1,6700,,6700,,,,f,t,f,f,Peak Oil Field Services / Everts Air Cargo,"Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well
 Secondary Containment: No containment; Inadequate containment
 Foundations:  Belly of tank more than 12in ",,923,AEA,2015 Assessment,2015,2015,70.481689453125,-157.42431640625
+0204500,Atqasuk,1095,,344-BF-03,North Slope Borough,1,2000,,2000,,,,f,t,f,f,Colville,"Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well. 
+Secondary Containment:  No containment; Inadequate containment. 
+Foundations:  Belly of tank more than 12i",,1067,AEA,2015 Assessment,2015,2015,70.48248291015625,-157.42529296875
 0204500,Atqasuk,361,,,North Slope Borough,1,5000,,5000,,,,f,t,f,f,Peak Oil Field Services / Everts Air Cargo,Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a wel. Secondary Containment: No containment; Inadequate containment. Foundations: Belly of tank more than 12in ab,,918,AEA,2015 Assessment,2015,2015,70.480712890625,-157.419921875
 0204500,Atqasuk,362,,,North Slope Borough,1,10000,,10000,,,,f,t,f,f,Peak Oil Field Services / Everts Air Cargo,"Site Location:  Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a wel. Secondary Containment: No containment; Inadequate containment
 Foundations: Belly of tank more than 12in ",,919,AEA,2015 Assessment,2015,2015,70.4822998046875,-157.4169921875
-0204500,Atqasuk,,,,North Slope Borough School District,1,5000,,5000,,,,f,f,t,f,,,,,DEC,,,,70.48187255859375,-157.4163818359375
 0204500,Atqasuk,369,,,North Slope BoroughFuel Division & Energy ManagementAtqasuk Corp. Fuel Station,,580000,,,,,,f,t,f,f,,,,926,AEA,2015 Assessment,2015,2015,70.477294921875,-157.41851806640625
+0204500,Atqasuk,,,,North Slope Borough School District,1,5000,,5000,,,,f,f,t,f,,,,,DEC,,,,70.48187255859375,-157.4163818359375
 0204500,Atqasuk,,,,Power Plant Tank Farm,5,87500,,87500,,,,f,f,t,,Crowley,,,,AEA,2024 Assessment,2023,2024,70.4833817055682,-157.425946172208
 0205750,Beaver,,,,Beaver Tank Farm,3,17400,,17400,,,,f,t,f,f,,,,,DEC,,,,66.35968017578125,-147.396728515625
 0205750,Beaver,,,,Beaver Tank Farm,2,11350,,11350,,,,f,t,f,f,,,,,DEC,,,,66.35968017578125,-147.396728515625
 0205750,Beaver,130,,,Beaver Tribal CouncilInuit Store Gasoline Tanks,,2000,,,,,,t,t,f,f,,,,618,AEA,2016 Letter Report,2016,2016,66.36151123046875,-147.4010009765625
 0205750,Beaver,,,,DOT&PF Beaver APT,1,1000,,1000,,,,f,t,f,f,,,,,DEC,,,,66.36151123046875,-147.4010009765625
 0206520,Bethel,,,,AK DOT&PF Bethel Maintenance Station,8,21000,2000,19000,,,,f,f,t,f,,,,,DEC,,,,60.78411865234375,-161.8411865234375
-0206520,Bethel,,,,AT&T,1,2000,,2000,,,,f,f,t,f,,,,,DEC,,,,60.7943115234375,-161.76080322265625
 0206520,Bethel,,,,Alaska Airlines,1,1500,,1500,,,,f,f,t,f,,,,,DEC,,,,60.792724609375,-161.76971435546875
 0206520,Bethel,,,,Alaska Army National Guard,1,4000,,4000,,,,f,f,t,f,,,,,DEC,,,,60.77691650390625,-161.84912109375
 0206520,Bethel,,,,Alaska Army National Guard,1,10000,,10000,,,,f,f,t,f,,,,,DEC,,,,60.7755126953125,-161.8463134765625
 0206520,Bethel,,,,Alaska Commercial Company,3,4000,,4000,,,,f,f,t,f,,,,,DEC,,,,60.801513671875,-161.7794189453125
-0206520,Bethel,,ANC-B-005,,CPD,,,,,,,,,,,t,,,,,,,,,60.79132080078125,-161.77178955078125
+0206520,Bethel,,,,AT&T,1,2000,,2000,,,,f,f,t,f,,,,,DEC,,,,60.7943115234375,-161.76080322265625
 0206520,Bethel,,,,City of Bethel,8,18000,,18000,,,,f,f,t,f,,,,,DEC,,,,60.79168701171875,-161.77130126953125
+0206520,Bethel,,ANC-B-005,,CPD,,,,,,,,,,,t,,,,,,,,,60.79132080078125,-161.77178955078125
 0206520,Bethel,,,,Delta Western,2,6000,,6000,,,,f,f,t,f,,,,,DEC,,,,67.79571533203125,-161.7611083984375
 0206520,Bethel,,,,Federal Aviation Administration,1,2000,,2000,,,,f,f,t,f,,,,,DEC,,,,60.7918701171875,-161.87628173828125
 0206520,Bethel,,,,Federal Aviation Administration,1,1000,,1000,,,,f,f,t,f,,,,,DEC,,,,60.7786865234375,-161.83709716796875
@@ -274,11 +274,11 @@ Foundations: Belly of tank more than 12in ",,919,AEA,2015 Assessment,2015,201
 0206520,Bethel,,,,University of Alaska Fairbanks,1,1500,,1500,,,,f,f,t,f,,,,,DEC,,,,60.7908935546875,-161.77410888671875
 0206520,Bethel,,,,Vitus Terminal,2,7000,6000,1000,,,,f,f,t,f,,,,,DEC,,,,60.79010009765625,-161.739990234375
 0206520,Bethel,,,,Yuut Elitnaurviat Inc.,4,7250,,7250,,,,f,f,t,f,,,,,DEC,,,,60.7958984375,-161.78277587890625
-0206630,Bettles,,,,AT&T,2,5000,,5000,,,,f,t,f,f,,,,,DEC,,,,67.66748046875,-149.82489013671875
-0206630,Bettles,,,,AT&T,4,5000,,5000,,,,f,t,f,f,,,,,DEC,,,,66.52728271484375,-150.4232177734375
 0206630,Bettles,136,,,Ace Supply Store,,13600,,,,,,f,t,f,f,,,,709,AEA,,,,66.92169189453125,-151.5076904296875
-0206630,Bettles,133,,,Alaska Power & Telephone,,85000,,,,,,f,t,f,f,,,,706,AEA,,,,66.92352294921875,-151.50811767578125
 0206630,Bettles,,,,Alaska Power & Telephone,4,85000,,85000,,,,,,,f,,,,,DEC,,,,66.885498046875,-151.56927490234375
+0206630,Bettles,133,,,Alaska Power & Telephone,,85000,,,,,,f,t,f,f,,,,706,AEA,,,,66.92352294921875,-151.50811767578125
+0206630,Bettles,,,,AT&T,4,5000,,5000,,,,f,t,f,f,,,,,DEC,,,,66.52728271484375,-150.4232177734375
+0206630,Bettles,,,,AT&T,2,5000,,5000,,,,f,t,f,f,,,,,DEC,,,,67.66748046875,-149.82489013671875
 0206630,Bettles,135,,,Bettles Lodge,,10000,,,,,,f,t,f,f,,,,708,AEA,,,,66.9193115234375,-151.51397705078125
 0206630,Bettles,134,,,Brooks Range Aviation,,6100,,,,,,f,t,f,f,,,,707,AEA,,,,66.91827392578125,-151.5166015625
 0206630,Bettles,,,,DOT&PF Bettles APT,1,3000,,3000,,,,f,t,f,f,,,,,DEC,,,,66.9171142578125,-151.51568603515625
@@ -288,10 +288,10 @@ Foundations: Belly of tank more than 12in ",,919,AEA,2015 Assessment,2015,201
 0207070,Big Lake,,,,Federal Aviation Administration,1,1000,,1000,,,,f,f,t,f,,,,,DEC,,,,61.56951904296875,-149.96710205078125
 0207620,Birch Creek,,,,Birch Creek Tribal Council,1,6000,,6000,,,,f,f,t,,Everts,,,,AEA,2024 Assessment,2023,2024,66.2633532426006,-145.818948643418
 0207620,Birch Creek,,,,Birch Creek Tribal Council Airport Tank,1,6000,,6000,,,,f,t,f,,Everts,,,,AEA,2024 Assessment,2023,2024,66.2688363483793,-145.818505911292
-0207620,Birch Creek,,,,DOT&PF Birch Creek APT,1,1000,,1000,,,,f,t,f,f,,,,,DEC,,,,66.26910400390625,-145.81817626953125
 0207620,Birch Creek,139,,,Dendu Gwich'in Tribal Council,2,7800,,7800,,,,f,t,f,f,Everts Air Cargo,"Site Location: Tank farm in flood plain;  Facility threatened by coastal erosion/avalanche/river erosion/other;  Tank Farm within 100-feet of a well.
 Secondary Containment: No containment;  Inadequate containment.
 Foundations:  Belly of tank more than 12i",,428,AEA,2017 Letter Report,2017,2017,66.26312255859375,-145.81890869140625
+0207620,Birch Creek,,,,DOT&PF Birch Creek APT,1,1000,,1000,,,,f,t,f,f,,,,,DEC,,,,66.26910400390625,-145.81817626953125
 0208740,Brevig Mission,377,,120-BF-02,Alaska Army National Guard,,4750,,,,,,t,f,f,f,,,,537,AEA,,,,65.33270263671875,-166.49420166015625
 0208740,Brevig Mission,,ANC-B-011,,Alaska Village Electric Cooperative,9,234000,,234000,,,,,,,t,,,,,DEC,,,,65.33148193359375,-166.4810791015625
 0208740,Brevig Mission,,,,Bering Strait School District,3,59000,,59000,,,,t,f,f,f,,,,,DEC,,,,65.3331298828125,-166.48651123046875
@@ -314,8 +314,8 @@ Foundations:  Belly of tank more than 12i",,428,AEA,2017 Letter Report,2017,2017
 0209600,Buckland,,,121-BF-04,Northwest Arctic Borough School District,1,12000,,12000,,,,t,f,f,f,,,,,DEC,,,,65.97747802734375,-161.1234130859375
 0210150,Cantwell,,,,Alaska Railroad,1,1000,,1000,,,,f,f,t,f,,,,,DEC,,,,63.39129638671875,-148.95147705078125
 0210150,Cantwell,,,122-BF-07,Cantwell Community Hall,1,1000,,1000,,,,f,f,t,f,,,,,DEC,,,,63.39312744140625,-148.91668701171875
-0210150,Cantwell,,,122-BF-02,DOT&PF Cantwell MS,1,5000,5000,,,,,f,f,t,f,,,,,DEC,,,,63.38909912109375,-148.88519287109375
 0210150,Cantwell,,,122-BF-06,Denali Borough School District,1,3000,,3000,,,,f,f,t,f,,,,,DEC,,,,63.39208984375,-148.965087890625
+0210150,Cantwell,,,122-BF-02,DOT&PF Cantwell MS,1,5000,5000,,,,,f,f,t,f,,,,,DEC,,,,63.38909912109375,-148.88519287109375
 0211690,Central,,,,DOT&PF Central APT,2,3260,1000,2260,,,,f,t,f,f,,,,,DEC,,,,65.573486328125,-144.7952880859375
 0211800,Chalkyitsik,,,,Chalkyitsik Native Corporation,4,14500,5200,9300,,,,f,t,f,f,,,,,DEC,,,,66.64910888671875,-143.72930908203125
 0211800,Chalkyitsik,147,,123-BF-01,Chalkyitsik Native Corporation Airport Tank,3,9300,5200,4100,,,,f,t,f,f,Everts Air Cargo,"Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well.
@@ -348,10 +348,10 @@ Foundations:  Belly of tank more than 1",,1031,AEA,2016 Letter Report & Best Pra
 0212970,Chenega,,,126-BF-18,Prince William Sound Aquaculture Corporation,5,24200,2200,22000,,,,t,f,f,f,,,,,DEC,,,,60.05072021484375,-148.06768798828125
 0213230,Chevak,377,,120-BF-02,Alaska Army National Guard,,4750,,,,,,t,f,f,f,,,,537,AEA,,,,65.33270263671875,-166.49420166015625
 0213230,Chevak,,ANC-C-004,,Alaska Village Electric Cooperative,7,329000,,329000,,,,,,,t,,,,,DEC,,,,61.52532958984375,-165.590576171875
-0213230,Chevak,,,,Chevak AVEC Tank Farm,7,310000,,310000,,,,t,f,f,,AVEC,,,,AEA,2024 Assessment,2023,2024,61.5253287960179,-165.59066642228
 0213230,Chevak,,,126-BF-17,Chevak Airport Maintenance Station,2,2000,,2000,,,,f,f,t,f,,,,,DEC,,,,61.53668212890625,-165.60150146484375
-0213230,Chevak,532,ANC-C-005,,Chevak Company Corp. Store,1,195840,50000,150000,,,,t,f,f,t,,,,31,AEA,,,,61.5277099609375,-165.5894775390625
+0213230,Chevak,,,,Chevak AVEC Tank Farm,7,310000,,310000,,,,t,f,f,,AVEC,,,,AEA,2024 Assessment,2023,2024,61.5253287960179,-165.59066642228
 0213230,Chevak,535,,,Chevak Company Corporation,,46000,,,,,,t,f,f,f,,,,32,AEA,,,,61.5286865234375,-165.584716796875
+0213230,Chevak,532,ANC-C-005,,Chevak Company Corp. Store,1,195840,50000,150000,,,,t,f,f,t,,,,31,AEA,,,,61.5277099609375,-165.5894775390625
 0213230,Chevak,,,,Chevak Corporation Tank Farm,9,406000,200000,200000,,,6000,t,f,f,,Crowley,,,,AEA,2024 Assessment,2023,2024,61.5250811267781,-165.591940859229
 0213230,Chevak,,,,Chevak School Tank Farm,5,114975,,114975,,,,t,f,f,,Crowley before but using different company now.,,,,AEA,2024 Assessment,2023,2024,61.5321078957481,-165.584517707397
 0213230,Chevak,536,,,Chevak Traditional Council,,2600,,,,,,t,f,f,f,,,,33,AEA,,,,61.529296875,-165.5863037109375
@@ -401,8 +401,8 @@ Foundations:  Belly of tank more than 1",,1031,AEA,2016 Letter Report & Best Pra
 0214880,Circle,,,,Yukon Flats School District,2,7000,,7000,,,,f,f,t,f,,,,,DEC,,,,65.82672119140625,-144.06671142578125
 0215430,Clark's Point,774,,139-BF-04,City of Clark's Point,,10200,,,,,,t,f,f,f,,,,845,AEA,,,,58.8353271484375,-158.555908203125
 0215430,Clark's Point,771,,,City of Clark's Point,2,22600,16000,20000,,,,t,f,f,f,,,,842,AEA,,,,58.83587646484375,-158.556396484375
-0215430,Clark's Point,770,ANC-C-018,139-BF-07,City of Clarks Point,,1000,,,,,,t,f,f,t,,,,841,AEA,,,,58.83489990234375,-158.547607421875
 0215430,Clark's Point,,,,City of Clark’s Point,4,78000,,60000,,,18000,t,f,f,,Crowley,,,,AEA,2024 Assessment,2023,2024,58.8346717026766,-158.554556059205
+0215430,Clark's Point,770,ANC-C-018,139-BF-07,City of Clarks Point,,1000,,,,,,t,f,f,t,,,,841,AEA,,,,58.83489990234375,-158.547607421875
 0215430,Clark's Point,,,,Clarks Point Airport Maintenance Station,2,2000,,2000,,,,t,f,f,f,,,,,DEC,,,,58.8369140625,-158.529296875
 0215430,Clark's Point,,,,Southwest Region School District,1,12000,,12000,,,,t,f,f,f,,,,,DEC,,,,58.8363037109375,-158.54449462890625
 0215430,Clark's Point,769,,139-BF-02,Trident Seafoods,,10000,,,,,,t,f,f,f,,,,840,AEA,,,,58.84130859375,-158.5537109375
@@ -416,15 +416,15 @@ Secondary Containment:  No containment;  Inadequate containment.
 Foundations:  Belly of tank more than ",,729,AEA,2015 Assessment,2015,2015,56.0142822265625,-132.82830810546875
 0216360,Coffman Cove,,,141-BF-05,Southeast Island School District,1,2000,,2000,,,,f,f,t,f,,,,,DEC,,,,56.013916015625,-132.82769775390625
 0216530,Cold Bay,,,,AK DOT&PF Cold Bay,6,10000,1000,9000,,,,f,f,t,f,,,,,DEC,,,,55.20391845703125,-162.71990966796875
-0216530,Cold Bay,,,,AT&T,1,1000,,1000,,,,f,f,t,f,,,,,DEC,,,,55.20867919921875,-162.72308349609375
 0216530,Cold Bay,1064,,141-BF-03,Aleutians East Borough,1,3500,,3500,,,,f,f,t,f,Frosty Fuels,"Site Location: History of flooding; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well.
 Secondary Containment: No containment;  Inadequate containment.
 Foundations: Belly of tank more than 12in above ",0,997,AEA,2015 Assessment,2015,2015,55.2025146484375,-162.71990966796875
 0216530,Cold Bay,,,,Aleutians East Borough School District,2,8000,,8000,,,,f,f,t,f,,,,,DEC,,,,55.2047119140625,-162.7197265625
+0216530,Cold Bay,,,,AT&T,1,1000,,1000,,,,f,f,t,f,,,,,DEC,,,,55.20867919921875,-162.72308349609375
 0216530,Cold Bay,,,,Cold Bay FOL,2,4000,,4000,,,,f,f,t,f,,,,,DEC,,,,55.202880859375,-162.71917724609375
 0216530,Cold Bay,,ANC-C-026,,Crowley Fuels,,,,,,,,,,,t,,,,,,,,,55.20648193359375,-162.71490478515625
-0216530,Cold Bay,,,,Federal Aviation Administration,1,1000,,1000,,,,f,f,t,f,,,,,DEC,,,,55.205322265625,-162.7244873046875
 0216530,Cold Bay,,,,Federal Aviation Administration,1,1000,,1000,,,,f,f,t,f,,,,,DEC,,,,55.205078125,-162.72442626953125
+0216530,Cold Bay,,,,Federal Aviation Administration,1,1000,,1000,,,,f,f,t,f,,,,,DEC,,,,55.205322265625,-162.7244873046875
 0216530,Cold Bay,,,,Frosty Fuels LLC Tank Farm,6,553514,89864,122420,,,341230,t,f,f,,Delta Western or Petro Marine,,,,AEA,2024 Assessment,2023,2024,55.2015270814549,-162.715703783173
 0216530,Cold Bay,924,,,G & K Electric Inc.,1,12500,,12500,,,,f,f,t,f,Frosty Fuels,"Site Location: History of flooding;  Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well.
 Secondary Containment: No containment;  Inadequate containment.
@@ -434,8 +434,8 @@ Foundations: Belly of tank more than 12in above",0,683,AEA,2015 Assessment,2015,
 0216630,Coldfoot,,,,DOT&PF Coldfoot MS,3,15500,10000,5500,,,,f,f,t,f,,,,,DEC,,,,67.25531005859375,-150.18682861328125
 0217190,Cooper Landing,,,,Quartz Creek Highway Station,2,6000,,6000,,,,f,f,t,f,,,,,DEC,,,,60.481689453125,-149.72369384765625
 0217300,Copper Center,,,,National Park Service,14,18100,1000,10100,,7000,,f,f,t,f,,,,,DEC,,,,62.02069091796875,-145.3634033203125
-0217410,Cordova,,,146-BF-08,AVSUPFAC Cordova,4,23500,,13500,,10000,,f,t,f,f,,,,,DEC,,,,60.4967041015625,-145.480224609375
 0217410,Cordova,,,,Alaska Commercial Company,1,1100,,1100,,,,f,f,t,f,,,,,DEC,,,,60.542724609375,-145.7637939453125
+0217410,Cordova,,,146-BF-08,AVSUPFAC Cordova,4,23500,,13500,,10000,,f,t,f,f,,,,,DEC,,,,60.4967041015625,-145.480224609375
 0217410,Cordova,,,146-BF-07,City of Cordova,1,2000,,2000,,,,f,f,t,f,,,,,DEC,,,,60.54449462890625,-145.75830078125
 0217410,Cordova,,,146-BF-04,Cordova Electric Cooperative,2,2000,,2000,,,,f,f,t,f,,,,,DEC,,,,60.544677734375,-145.7572021484375
 0217410,Cordova,,,146-BF-03,Cordova Jr.,1,3000,,3000,,,,f,f,t,f,,,,,DEC,,,,60.540283203125,-145.7589111328125
@@ -449,12 +449,12 @@ Foundations: Belly of tank more than 12in above",0,683,AEA,2015 Assessment,2015,
 0217410,Cordova,,,148-BF-03,Prince William Sound Aquaculture Corporation,3,13100,3100,10000,,,,t,f,f,f,,,,,DEC,,,,60.79931640625,-148.08929443359375
 0217410,Cordova,,,148-BF-04,Prince William Sound Aquaculture Corporation,4,32500,2500,30000,,,,t,f,f,f,,,,,DEC,,,,61.01812744140625,-147.51611328125
 0217410,Cordova,,,,Trident,4,7000,,7000,,,,f,f,t,f,,,,,DEC,,,,60.54888916015625,-145.76422119140625
-0217740,Craig,10,,,AT&T,,2000,,,,,,t,f,f,f,,,,778,AEA,2015 Assessment,2015,2015,55.47650146484375,-133.14739990234375
 0217740,Craig,,,,Alaska Power & Telephone,1,10000,,10000,,,,f,f,t,f,,,,,DEC,,,,55.4769287109375,-133.148681640625
 0217740,Craig,8,,148-BF-02,Alaska Power & Telephone,4,21900,,21900,,,,t,f,f,f,Petro Marine,"Site Location: Tank farm in flood plain;  Facility threatened by coastal erosion/avalanche/river erosion/other;  Tank Farm within 100-feet of a well.
 Secondary Containment:  No containment;  Inadequate containment.
 Foundations: Belly of tank more than 12i",,776,AEA,2015 Assessment,2015,2015,56.01727294921875,-132.8280029296875
 0217740,Craig,,,,Alaska Power & Telephone,2,11000,,11000,,,,f,f,t,f,,,,,DEC,,,,55.48931884765625,-133.13409423828125
+0217740,Craig,10,,,AT&T,,2000,,,,,,t,f,f,f,,,,778,AEA,2015 Assessment,2015,2015,55.47650146484375,-133.14739990234375
 0217740,Craig,9,,,City of Craig,,998,,,,,,t,f,f,f,,,,777,AEA,2015 Assessment,2015,2015,55.47607421875,-133.13690185546875
 0217740,Craig,1117,,,City of Craig Public Works,2,1275,500,775,,,,t,f,f,f,Petro Marine,"Site Location: Tank farm in flood plain;  Facility threatened by coastal erosion/avalanche/river erosion/other;  Tank Farm within 100-feet of a well.
 Secondary Containment:  No containment;  Inadequate containment.
@@ -468,8 +468,8 @@ Foundations:  Belly of tank more than 12",,1105,AEA,2015 Assessment,2015,2015,55
 0217850,Crooked Creek,152,ANC-C-023,150-BF-05,Dennis Thomas,2,47100,40000,40000,,,,t,f,f,t,,,,572,AEA,,,,61.86932373046875,-158.11297607421875
 0217850,Crooked Creek,,,,KSD Tank,1,20000,,20000,,,,t,f,f,,Crowley/Vitus,,,,AEA,2024 Assessment,2023,2024,61.86394232191,-158.138464158554
 0217850,Crooked Creek,,,150-BF-09,Kuspuk School District,2,21000,,21000,,,,t,f,f,f,,,,,DEC,,,,61.86407470703125,-158.1383056640625
-0217850,Crooked Creek,,,,MKEC Tanks,3,46000,,46000,,,,t,f,f,,Vitus/Crowley,,,,AEA,2024 Assessment,2023,2024,61.860535209222,-158.137432567872
 0217850,Crooked Creek,,ANC-C-022,150-BF-07,Middle Kuskokwim Electric Cooperative,3,46000,,46000,,,,t,f,f,t,,,,,DEC,,,,61.8604736328125,-158.13739013671875
+0217850,Crooked Creek,,,,MKEC Tanks,3,46000,,46000,,,,t,f,f,,Vitus/Crowley,,,,AEA,2024 Assessment,2023,2024,61.860535209222,-158.137432567872
 0217850,Crooked Creek,151,,150-BF-02,Native Village of Crooked Creek,,7600,,,,,,t,f,f,f,,,,144,AEA,,,,61.8651123046875,-158.13128662109375
 0217850,Crooked Creek,154,,150-BF-06,New Washeteria-PHS,,9500,,,,,,t,f,f,f,,,,573,AEA,,,,61.8604736328125,-158.13739013671875
 0217850,Crooked Creek,,,,Thomas Trading Post,4,60000,30000,30000,,,,t,f,f,,Vitus/crowley,,,,AEA,2024 Assessment,2023,2024,61.8693133955736,-158.112859712509
@@ -481,21 +481,21 @@ Foundations:  Belly of tank more than 12",,1105,AEA,2015 Assessment,2015,2015,55
 0218510,Deering,,,,Deering Tank Farm,2,25500,,25500,,,,t,f,f,f,,,,,DEC,,,,66.080078125,-162.73822021484375
 0218510,Deering,,ANC-D-007,,Deering Tank Farm,2,46000,,46000,,,,t,f,f,t,,,,,DEC,,,,66.080078125,-162.73809814453125
 0218510,Deering,,,,Deering Tank Farm,5,96000,27000,69000,,,,t,f,f,f,,,,,DEC,,,,66.080078125,-162.73828125
-0218510,Deering,,,,IRA,11,242000,23000,207000,,,12000,t,f,f,,Vitus,,,,AEA,2024 Assessment,2023,2024,66.0800992867911,-162.738204986046
 0218510,Deering,,,,Ipnatchiaq Electric Company Tank Farm,3,69402,,69402,,,,t,f,f,,Crowley,,,,AEA,2024 Assessment,2023,2024,66.0797054631546,-162.73773774594
+0218510,Deering,,,,IRA,11,242000,23000,207000,,,12000,t,f,f,,Vitus,,,,AEA,2024 Assessment,2023,2024,66.0800992867911,-162.738204986046
 0218620,Delta Junction,,,153-BF-01,AT&T,4,5000,,5000,,,,f,t,f,f,,,,,DEC,,,,63.58551025390625,-145.98712158203125
 0218620,Delta Junction,,,153-BF-04,City of Delta Junction,4,4000,,4000,,,,f,f,t,f,,,,,DEC,,,,64.03350830078125,-145.72930908203125
 0218620,Delta Junction,,,153-BF-03,Colaska,3,35000,,35000,,,,f,f,t,f,,,,,DEC,,,,64.06488037109375,-145.74139404296875
-0218620,Delta Junction,,,,DOT&PF Delta MS,3,5000,1000,4000,,,,f,f,t,f,,,,,DEC,,,,64.0374755859375,-145.7349853515625
 0218620,Delta Junction,,,,Delta,3,15500,,15500,,,,f,f,t,f,,,,,DEC,,,,64.040283203125,-145.72869873046875
+0218620,Delta Junction,,,,DOT&PF Delta MS,3,5000,1000,4000,,,,f,f,t,f,,,,,DEC,,,,64.0374755859375,-145.7349853515625
 0218620,Delta Junction,,,154-BF-11,Golden Valley Electric Association,1,50000,,,,50000,,f,f,t,f,,,,,DEC,,,,64.028076171875,-145.71929931640625
 0218620,Delta Junction,,,154-BF-08,Healy Lake Tribal Transportation,3,7000,1500,5500,,,,f,f,t,f,,,,,DEC,,,,63.9998779296875,-144.7310791015625
 0218620,Delta Junction,,,,Pogo Mine,6,79000,3000,61000,,15000,,f,f,t,f,,,,,DEC,,,,64.4547119140625,-144.90887451171875
 0218620,Delta Junction,,,,State of Alaska Department of Fish and Game,1,1000,,1000,,,,f,f,t,f,,,,,DEC,,,,63.909912109375,-145.277099609375
 0218805,Denali Park,,,154-BF-05,National Park Service,15,75200,22000,48000,,5200,,f,f,t,f,,,,,DEC,,,,63.7244873046875,-148.9595947265625
 0218950,Dillingham,,,,AK DOT&PF Dillingham Maintenance Station,5,12000,,12000,,,,f,f,t,f,,,,,DEC,,,,59.04510498046875,-158.5128173828125
-0218950,Dillingham,,,,AT&T,1,2000,,2000,,,,f,f,t,f,,,,,DEC,,,,59.04412841796875,-158.45599365234375
 0218950,Dillingham,,,,Alaska Commercial Company,1,1000,,1000,,,,f,f,t,f,,,,,DEC,,,,59.0396728515625,-158.46630859375
+0218950,Dillingham,,,,AT&T,1,2000,,2000,,,,f,f,t,f,,,,,DEC,,,,59.04412841796875,-158.45599365234375
 0218950,Dillingham,,ANC-D-004,,Bristol Alliance Fuels,,,,,,,,,,,t,,,,,,,,,59.03948974609375,-158.4630126953125
 0218950,Dillingham,,ANC-D-005,,Bristol Alliance Fuels,,,,,,,,,,,t,,,,,,,,,59.03948974609375,-158.4630126953125
 0218950,Dillingham,,,155-BF-04,Bristol Express,1,1000,,1000,,,,f,f,t,f,,,,,DEC,,,,59.04052734375,-158.46820068359375
@@ -510,8 +510,8 @@ Foundations:  Belly of tank more than 12",,1105,AEA,2015 Assessment,2015,2015,55
 0219060,Diomede,,ANC-D-016,,Diomede Tank Farm,6,157900,7900,150000,,,,t,f,f,t,,,,,DEC,,,,65.75927734375,-168.95050048828125
 0219060,Diomede,,,,Diomede Tank Farm,4,138000,,138000,,,,t,f,f,,Crowley,,,,AEA,2024 Assessment,2023,2024,65.7593502169191,-168.950502803389
 0219720,Dot Lake,,,,Alaska Gateway School District,1,10000,,10000,,,,f,f,t,f,,,,,DEC,,,,63.65789794921875,-144.05859375
-0220380,Eagle,,,160-BF-01,AT&T,4,5000,,5000,,,,f,t,f,f,,,,,DEC,,,,64.7855224609375,-141.210205078125
 0220380,Eagle,,,,Alaska Power & Telephone,3,36000,,36000,,,,f,f,t,f,,,,,DEC,,,,64.788330078125,-141.21270751953125
+0220380,Eagle,,,160-BF-01,AT&T,4,5000,,5000,,,,f,t,f,f,,,,,DEC,,,,64.7855224609375,-141.210205078125
 0220380,Eagle,,,,DOT&PF Eagle MS,3,6000,1000,5000,,,,f,f,t,f,,,,,DEC,,,,64.789306640625,-141.2073974609375
 0220380,Eagle,,,160-BF-05,Eagle Village Tank Farm,1,6000,,6000,,,,f,f,t,f,,,,,DEC,,,,64.7833251953125,-141.19879150390625
 0220380,Eagle,,,,National Park Service,8,14000,3500,4000,,6500,,f,t,t,f,,,,,DEC,,,,64.790283203125,-141.203125
@@ -519,8 +519,8 @@ Foundations:  Belly of tank more than 12",,1105,AEA,2015 Assessment,2015,2015,55
 0220970,Edna Bay,,,164-BF-05,Southeast Island School District,1,2500,,2500,,,,t,f,f,f,,,,,DEC,,,,55.9437255859375,-133.66339111328125
 0221040,Eek,,ANC-E-030,164-BF-06,Alaska Native Tribal Health Consortium,4,25000,5000,20000,,,,f,t,f,t,,,,,DEC,,,,60.2200927734375,-162.0341796875
 0221040,Eek,,,164-BF-04,Alaska Village Electric Cooperative,10,80900,,80900,,,,,,,f,,,,,DEC,,,,60.21868896484375,-162.03021240234375
-0221040,Eek,,,,Eek AVEC Tank Farm,9,73170,,73170,,,,t,f,f,,Vitus,,,,AEA,2024 Assessment,2023,2024,60.2184244492423,-162.030071610682
 0221040,Eek,,,,Eek Airport Maintenance Station,2,3006,,3006,,,,f,f,t,f,,,,,DEC,,,,60.2144775390625,-162.0404052734375
+0221040,Eek,,,,Eek AVEC Tank Farm,9,73170,,73170,,,,t,f,f,,Vitus,,,,AEA,2024 Assessment,2023,2024,60.2184244492423,-162.030071610682
 0221040,Eek,779,ANC-E-004,,Eek School,2,34000,,34000,,,,t,f,f,t,Delta Western Crowley Marine Vitus Marine,"Site Location:  History of Flooding;  Facility threatened by coastal erosion/avalanche/river erosion/other;  Tank Farm within 100-feet of a well.
 Secondary Containment: No containment;  Inadequate containment.
 Foundations: Belly of tank more than 12in ab",50,150,AEA,2015 Assessment,2015,2015,60.21588134765625,-162.02508544921875
@@ -541,15 +541,15 @@ Foundations: Belly of tank more than 12€ above",150,149,AEA,2015 Assessment,
 0221150,Egegik,936,,,Nelbro Packing Company,,52000,,,,,,t,f,f,f,,,,820,AEA,,,,58.2144775390625,-157.3773193359375
 0221150,Egegik,934,,,Woodbine Alaska Fish Company,,98000,,,,,,t,f,f,f,,,,818,AEA,,,,58.21429443359375,-157.3765869140625
 0221370,Eielson AFB,,,167-BF-03,Doyon Utilities JBER-R,6,69000,,69000,,,,f,f,t,f,,,,,DEC,,,,61.24591064453125,-149.710693359375
-0221370,Eielson AFB,,,167-BF-02,Eielson Airforce Base,1,1000,,1000,,,,f,t,f,f,,,,,DEC,,,,62.9744873046875,-146.81439208984375
-0221370,Eielson AFB,,,,Eielson Airforce Base,4,40000,,40000,,,,f,t,f,f,,,,,DEC,,,,64.0264892578125,-142.314208984375
+0221370,Eielson AFB,,,,Eielson Airforce Base,1,1000,,1000,,,,f,t,f,f,,,,,DEC,,,,65.2025146484375,-143.83001708984375
 0221370,Eielson AFB,,,,Eielson Airforce Base,12,32075,,32075,,,,f,t,f,f,,,,,DEC,,,,63.83331298828125,-145.82208251953125
 0221370,Eielson AFB,,,,Eielson Airforce Base,22,53500,,53500,,,,f,t,f,f,,,,,DEC,,,,65.080322265625,-145.7777099609375
-0221370,Eielson AFB,,,,Eielson Airforce Base,1,1000,,1000,,,,f,t,f,f,,,,,DEC,,,,62.5634765625,-148.3358154296875
-0221370,Eielson AFB,,,,Eielson Airforce Base,1,1000,,1000,,,,f,t,f,f,,,,,DEC,,,,65.2025146484375,-143.83001708984375
+0221370,Eielson AFB,,,167-BF-02,Eielson Airforce Base,1,1000,,1000,,,,f,t,f,f,,,,,DEC,,,,62.9744873046875,-146.81439208984375
 0221370,Eielson AFB,,,,Eielson Airforce Base,1,1000,,1000,,,,f,t,f,f,,,,,DEC,,,,64.74029541015625,-141.76531982421875
-0221810,Ekwok,,,,AVEC Power Plant,6,50264,,50264,,,,t,f,f,,Vitus,,,,AEA,2024 Assessment,2023,2024,59.3501013829439,-157.478203377504
+0221370,Eielson AFB,,,,Eielson Airforce Base,1,1000,,1000,,,,f,t,f,f,,,,,DEC,,,,62.5634765625,-148.3358154296875
+0221370,Eielson AFB,,,,Eielson Airforce Base,4,40000,,40000,,,,f,t,f,f,,,,,DEC,,,,64.0264892578125,-142.314208984375
 0221810,Ekwok,,,,Alaska Village Electric Cooperative,6,49000,,49000,,,,,,,f,,,,,DEC,,,,59.34649658203125,-157.4801025390625
+0221810,Ekwok,,,,AVEC Power Plant,6,50264,,50264,,,,t,f,f,,Vitus,,,,AEA,2024 Assessment,2023,2024,59.3501013829439,-157.478203377504
 0221810,Ekwok,,ANC-E-014,,City of Ekwok,3,55000,15000,40000,,,,,,,t,,,,,DEC,,,,59.34649658203125,-157.47930908203125
 0221810,Ekwok,,,,Ekwok Airport Maintenance Station,2,3500,,3500,,,,t,f,f,f,,,,,DEC,,,,59.35308837890625,-157.47308349609375
 0221810,Ekwok,939,,,Southwest Region School District,4,43700,,43700,,,,t,f,f,f,"Vitus Marine, Crowley Marine","Site Location: History of flooding;  Facility threatened by coastal erosion/avalanche/river erosion/other;  Tank Farm within 100-feet of a well.
@@ -566,12 +566,12 @@ Foundations:  Belly of tank more than 12i",40,153,AEA,2017 Letter Report,2017,20
 0222250,Elim,,,,Elim Native Store Tank Farm,5,147400,70700,70700,,,6000,t,f,f,,Crowley,,,,AEA,2024 Assessment,2023,2024,64.6110856690813,-162.273007197491
 0222250,Elim,,,,Elim School  Tank Farm,3,45000,,45000,,,,t,f,f,,Crowley,,,,AEA,2024 Assessment,2023,2024,64.6107758650931,-162.273556558218
 0222250,Elim,,ANC-E-051,,Elim Tank Farm,4,84000,3000,81000,,,,f,f,t,t,,,,,DEC,,,,64.61090087890625,-162.273193359375
-0222250,Elim,,ANC-E-017,,Elim Tank Farm,5,143000,73000,70000,,,,t,f,f,t,,,,,DEC,,,,64.61749267578125,-162.26019287109375
 0222250,Elim,,ANC-E-016,,Elim Tank Farm,5,47000,,47000,,,,t,f,f,t,,,,,DEC,,,,64.6160888671875,-162.26470947265625
+0222250,Elim,,ANC-E-017,,Elim Tank Farm,5,143000,73000,70000,,,,t,f,f,t,,,,,DEC,,,,64.61749267578125,-162.26019287109375
 0222910,Emmonak,556,,,AC Company Store,,20000,,,,,,t,f,f,f,,,,871,AEA,,,,62.778076171875,-164.5457763671875
-0222910,Emmonak,,,,AVEC,12,560000,,560000,,,,t,f,f,,Vitus,,,,AEA,2024 Assessment,2023,2024,62.77732693,-164.53197665
 0222910,Emmonak,,,,Alaska Army National Guard,1,1500,,1500,,,,f,f,t,f,,,,,DEC,,,,62.77728271484375,-164.5299072265625
 0222910,Emmonak,552,ANC-E-020,,Alaska Village Electric Cooperative,,172247,,,,,,t,f,f,t,,,,97,AEA,,,,62.77789306640625,-164.531005859375
+0222910,Emmonak,,,,AVEC,12,560000,,560000,,,,t,f,f,,Vitus,,,,AEA,2024 Assessment,2023,2024,62.77732693,-164.53197665
 0222910,Emmonak,555,ANC-E-023,176-BF-08,City of Emmonak,,52200,,,,,,t,f,f,t,,,,99,AEA,Best Practice Assessment,,,62.77667236328125,-164.5181884765625
 0222910,Emmonak,,,176-BF-07,DOT&PF Emmonak APT,1,3000,,3000,,,,f,t,f,f,,,,,DEC,,,,62.7783203125,-164.49530029296875
 0222910,Emmonak,554,ANC-E-021,176-BF-09,Emmonak Corporation,,380000,200000,150000,,,,t,f,f,t,,,,100,AEA,Best Practice Assessment,,,62.7764892578125,-164.5177001953125
@@ -579,33 +579,33 @@ Foundations:  Belly of tank more than 12i",40,153,AEA,2017 Letter Report,2017,20
 0222910,Emmonak,,,,Emmonak Tank Farm,8,355000,205000,150000,,,,t,f,f,f,,,,,DEC,,,,62.77667236328125,-164.51788330078125
 0222910,Emmonak,,,176-BF-06,Emmonak Tank Farm,3,50000,10000,40000,,,,t,f,f,f,,,,,DEC,,,,62.7764892578125,-164.51708984375
 0222910,Emmonak,548,ANC-E-025,176-BF-01,Grant Air Services,,133000,,,,,,t,f,f,t,,,,873,AEA,,,,62.77691650390625,-164.4951171875
-0222910,Emmonak,,ANC-E-031,,Kwik'Pak Fisheries,,,,,,,,,,,t,,,,,,,,,62.777099609375,-164.52978515625
 0222910,Emmonak,,ANC-E-029,,Kwik'Pak Fisheries,,,,,,,,,,,t,,,,,,,,,62.777099609375,-164.52978515625
+0222910,Emmonak,,ANC-E-031,,Kwik'Pak Fisheries,,,,,,,,,,,t,,,,,,,,,62.777099609375,-164.52978515625
 0222910,Emmonak,,ANC-E-022,176-BF-05,Lower Yukon School District,9,112000,3000,109000,,,,t,f,f,t,,,,,DEC,,,,62.7783203125,-164.52838134765625
 0222910,Emmonak,,,,Retail and City Tank Farm,11,410000,210000,190000,,,10000,t,f,f,,Vitus/Crowley,,,,AEA,2024 Assessment,2023,2024,62.77526929,-164.52218577
 0223790,Evansville,,,176-BF-02,Evansville Tribal Council,2,15000,5000,10000,,,,f,f,t,f,,,,,DEC,,,,66.9227294921875,-151.5062255859375
-0224230,Fairbanks,,,400-BF-01,ASRC Energy Services,1,15000,,15000,,,,f,f,t,f,,,,,DEC,,,,64.81488037109375,-147.73858642578125
-0224230,Fairbanks,,,180-BF-01,AT&T,1,2000,,2000,,,,f,f,t,f,,,,,DEC,,,,64.83648681640625,-147.70849609375
-0224230,Fairbanks,,,,AT&T,2,5000,,5000,,,,f,t,f,f,,,,,DEC,,,,68.15032958984375,-149.40631103515625
-0224230,Fairbanks,,,180-BF-06,AT&T,1,1250,,1250,,,,f,f,t,f,,,,,DEC,,,,64.82830810546875,-147.66888427734375
-0224230,Fairbanks,,,,AT&T,1,1017,,1017,,,,f,f,t,f,,,,,DEC,,,,64.81988525390625,-147.7174072265625
-0224230,Fairbanks,,,,AT&T,4,5000,,5000,,,,f,t,f,f,,,,,DEC,,,,65.217529296875,-148.05718994140625
-0224230,Fairbanks,,,,AT&T,4,5000,,5000,,,,f,t,f,f,,,,,DEC,,,,64.3795166015625,-146.397216796875
 0224230,Fairbanks,,,176-BF-03,Air Medical Group Holdings,1,12000,,,,12000,,f,f,t,f,,,,,DEC,,,,64.82769775390625,-147.848388671875
 0224230,Fairbanks,,,176-BF-04,Alaska Airlines,2,8000,3000,5000,,,,f,f,t,f,,,,,DEC,,,,64.81768798828125,-147.867919921875
-0224230,Fairbanks,,,177-BF-03,Alaska Army National Guard,1,1500,,1500,,,,f,f,t,f,,,,,DEC,,,,64.8416748046875,-147.75360107421875
 0224230,Fairbanks,,,177-BF-04,Alaska Army National Guard,1,1500,,1500,,,,f,f,t,f,,,,,DEC,,,,64.84210205078125,-147.75311279296875
+0224230,Fairbanks,,,177-BF-03,Alaska Army National Guard,1,1500,,1500,,,,f,f,t,f,,,,,DEC,,,,64.8416748046875,-147.75360107421875
 0224230,Fairbanks,,,177-BF-01,Alaska Fuel Services,1,2500,2500,,,,,f,f,t,f,,,,,DEC,,,,64.81329345703125,-147.76019287109375
 0224230,Fairbanks,,,177-BF-05,Alaska Fuel Sevices,1,2500,2500,,,,,f,f,t,f,,,,,DEC,,,,64.8563232421875,-147.80279541015625
 0224230,Fairbanks,,,177-BF-02,Alaska Railroad,1,1000,,1000,,,,f,f,t,f,,,,,DEC,,,,64.84808349609375,-147.7550048828125
 0224230,Fairbanks,,,,Alaska Waste,2,8000,,8000,,,,f,f,t,f,,,,,DEC,,,,64.80291748046875,-147.69171142578125
+0224230,Fairbanks,,,400-BF-01,ASRC Energy Services,1,15000,,15000,,,,f,f,t,f,,,,,DEC,,,,64.81488037109375,-147.73858642578125
+0224230,Fairbanks,,,,AT&T,4,5000,,5000,,,,f,t,f,f,,,,,DEC,,,,64.3795166015625,-146.397216796875
+0224230,Fairbanks,,,180-BF-01,AT&T,1,2000,,2000,,,,f,f,t,f,,,,,DEC,,,,64.83648681640625,-147.70849609375
+0224230,Fairbanks,,,,AT&T,2,5000,,5000,,,,f,t,f,f,,,,,DEC,,,,68.15032958984375,-149.40631103515625
+0224230,Fairbanks,,,,AT&T,4,5000,,5000,,,,f,t,f,f,,,,,DEC,,,,65.217529296875,-148.05718994140625
+0224230,Fairbanks,,,180-BF-06,AT&T,1,1250,,1250,,,,f,f,t,f,,,,,DEC,,,,64.82830810546875,-147.66888427734375
+0224230,Fairbanks,,,,AT&T,1,1017,,1017,,,,f,f,t,f,,,,,DEC,,,,64.81988525390625,-147.7174072265625
 0224230,Fairbanks,,ANC-F-009,,Big State Logistics Inc.,,,,,,,,,,,t,,,,,,,,,64.8397216796875,-147.72119140625
 0224230,Fairbanks,,,,Birch Hill Maintenance Building,1,600,600,,,,,f,f,t,f,,,,,DEC,,,,64.87030029296875,-147.64581298828125
 0224230,Fairbanks,,,,City of Fairbanks,6,60000,20000,40000,,,,f,f,t,f,,,,,DEC,,,,64.82928466796875,-147.76971435546875
 0224230,Fairbanks,,,,Claire Air LLC,1,2000,,2000,,,,f,f,t,f,,,,,DEC,,,,64.81048583984375,-147.881591796875
 0224230,Fairbanks,,,,Crowley,2,3000,1000,2000,,,,f,f,t,f,,,,,DEC,,,,64.8134765625,-147.70721435546875
-0224230,Fairbanks,,,,DOT&PF Fairbanks Maintenance Station,14,28000,1000,27000,,,,f,f,t,f,,,,,DEC,,,,64.825927734375,-147.772705078125
 0224230,Fairbanks,,,,Department of Natural Resources,3,9000,,3000,,6000,,f,f,t,f,,,,,DEC,,,,64.837890625,-147.81451416015625
+0224230,Fairbanks,,,,DOT&PF Fairbanks Maintenance Station,14,28000,1000,27000,,,,f,f,t,f,,,,,DEC,,,,64.825927734375,-147.772705078125
 0224230,Fairbanks,,,,Enterprise Service Facility,2,5000,4000,1000,,,,f,f,t,f,,,,,DEC,,,,64.82427978515625,-147.868896484375
 0224230,Fairbanks,,,,Ester Gas,1,4000,,4000,,,,f,f,t,f,,,,,DEC,,,,64.8441162109375,-148.0103759765625
 0224230,Fairbanks,,,,Fairbanks Pioneer Home,1,1400,,1400,,,,f,f,t,f,,,,,DEC,,,,64.83392333984375,-147.772705078125
@@ -661,8 +661,8 @@ Foundations:  Belly of tank more than 12",,1054,AEA,2015 Assessment,2015,2015,66
 Secondary Containment:  No containment; Inadequate containment. 
 Foundations:  Belly of tank more than 12",,1055,AEA,2015 Assessment,2015,2015,66.5687255859375,-145.24359130859375
 0226760,Fort Yukon,,ANC-F-006,203-BF-02,Crowley Marine Services,,,,,,,,t,f,f,t,,,,,USCG,2015 Assessment,2015,2015,66.56427001953125,-145.25762939453125
-0226760,Fort Yukon,,,200-BF-02,DOT&PF Fort Yukon APT,1,1000,,1000,,,,f,t,f,f,,,,,DEC,,,,66.56829833984375,-145.25421142578125
 0226760,Fort Yukon,166,,200-BF-03,Dan Teager,,3500,,,,,,t,t,f,f,,,,23,AEA,2015 Assessment,2015,2015,66.564697265625,-145.25909423828125
+0226760,Fort Yukon,,,200-BF-02,DOT&PF Fort Yukon APT,1,1000,,1000,,,,f,t,f,f,,,,,DEC,,,,66.56829833984375,-145.25421142578125
 0226760,Fort Yukon,,,,Fort Yukon School Tank Farm,4,40000,,40000,,,,f,f,t,,Crowley,,,,AEA,2024 Assessment,2023,2024,66.564255352194,-145.253823381053
 0226760,Fort Yukon,158,,200-BF-01,Frontier Flying Service,,10500,,,,,,t,t,f,f,,,,575,AEA,2015 Assessment,2015,2015,66.56787109375,-145.25811767578125
 0226760,Fort Yukon,,,,Ft. Yukon Bulk Petroleum Storage Facility,,,,,,,,t,t,f,f,,,,,USCG,2015 Assessment,2015,2015,66.5706787109375,-145.27630615234375
@@ -694,10 +694,10 @@ Foundations:  Belly of tank more than 12",,1051,AEA,2015 Assessment,2015,2015,66
 0227530,Galena,,,,Galena Backup Generator,2,60000,,60000,,,,t,f,t,,Crowley,,,,AEA,2024 Assessment,2023,2024,64.7408267355194,-156.957516800887
 0227530,Galena,173,,,Galena City School District,1,3000,,3000,,,,t,f,f,f,Crowley,"Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well. 
 Secondary Containment:  No containment; Inadequate containment. 
-Foundations:  Belly of tank more than 12i",,699,AEA,2015 Assessment,2015,2015,64.74627685546875,-156.87957763671875
+Foundations:  Belly of tank more than 12i",,699,AEA,2015 Assessment,2015,2015,64.74627685546875,-156.87890625
 0227530,Galena,173,,,Galena City School District,1,3000,,3000,,,,t,f,f,f,Crowley,"Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well. 
 Secondary Containment:  No containment; Inadequate containment. 
-Foundations:  Belly of tank more than 12i",,699,AEA,2015 Assessment,2015,2015,64.74627685546875,-156.87890625
+Foundations:  Belly of tank more than 12i",,699,AEA,2015 Assessment,2015,2015,64.74627685546875,-156.87957763671875
 0227530,Galena,172,,,Galena Power Plant,2,630000,,568000,,,,t,f,f,f,,,,698,AEA,2015 Assessment,2015,2015,64.74407958984375,-156.8726806640625
 0227530,Galena,167,,,Gana A'Yoo,,100000,,,,,,t,f,f,f,,,,892,AEA,2015 Assessment,2015,2015,64.740478515625,-156.96221923828125
 0227530,Galena,1084,,,Patrick Lumba,1,4000,4000,0,,,,t,f,f,f,Crowley,"Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well. 
@@ -709,18 +709,18 @@ Foundations:  Belly of tank more than 12i",,1037,AEA,2015 Assessment,2015,2015,6
 0227530,Galena,168,,,Warbelow's Air Service,,37000,,,,,,t,f,f,f,,,,893,AEA,2015 Assessment,2015,2015,64.73907470703125,-156.944091796875
 0227530,Galena,171,,,Yukon Fuel Company,,100000,,,,,,t,f,f,f,,,,697,AEA,2015 Assessment,2015,2015,64.73388671875,-156.9188232421875
 0227640,Gambell,560,,,7th Day Adventist Church,,2300,,,,,,t,f,f,f,,,,161,AEA,,,,63.77752685546875,-171.73028564453125
-0227640,Gambell,563,,,ANICA Native Store,,332400,,,,,,t,f,f,f,,,,109,AEA,,,,63.778076171875,-171.726806640625
-0227640,Gambell,,,,AVEC,9,231831,,231831,,,,t,f,f,,Crowley,,,,AEA,2024 Assessment,2023,2024,63.77720517,-171.71123558
 0227640,Gambell,,,,Alaska Army National Guard,2,3000,,3000,,,,f,f,t,f,,,,,DEC,,,,63.77850341796875,-171.73028564453125
 0227640,Gambell,,ANC-G-006,,Alaska Village Electric Cooperative,9,234000,,234000,,,,,,,t,,,,,DEC,,,,63.7789306640625,-171.7318115234375
+0227640,Gambell,563,,,ANICA Native Store,,332400,,,,,,t,f,f,f,,,,109,AEA,,,,63.778076171875,-171.726806640625
+0227640,Gambell,,,,AVEC,9,231831,,231831,,,,t,f,f,,Crowley,,,,AEA,2024 Assessment,2023,2024,63.77720517,-171.71123558
 0227640,Gambell,561,ANC-G-004,,Bering Straits Schools,,51700,,,,,,t,f,f,t,,,,106,AEA,,,,63.7786865234375,-171.73529052734375
 0227640,Gambell,,ANC-G-007,,City of Gambell,3,31500,,31500,,,,t,f,f,t,,,,,DEC,,,,63.7764892578125,-171.71807861328125
 0227640,Gambell,,,,Gambell School Tank Farm,3,40722,,40722,,,,t,f,f,,Crowley,,,,AEA,2024 Assessment,2023,2024,63.77645872,-171.71483465
 0227640,Gambell,,ANC-G-005,,Native Village,,,,,,,,,,,t,,,,,,,,,63.77691650390625,-171.71881103515625
 0227640,Gambell,565,,,Presbyterian Church,,2700,,,,,,t,f,f,f,,,,92,AEA,,,,63.77911376953125,-171.7340087890625
 0228740,Glennallen,,,,AT&T,4,5000,,5000,,,,,,,f,,,,,DEC,,,,61.51348876953125,-145.02899169921875
-0228740,Glennallen,,,,AT&T,1,1017,,1017,,,,f,f,t,f,,,,,DEC,,,,62.10968017578125,-145.5482177734375
 0228740,Glennallen,,,,AT&T,4,5000,,5000,,,,f,t,f,f,,,,,DEC,,,,61.47271728515625,-145.152099609375
+0228740,Glennallen,,,,AT&T,1,1017,,1017,,,,f,f,t,f,,,,,DEC,,,,62.10968017578125,-145.5482177734375
 0228740,Glennallen,,,,Copper River School District,4,19000,,19000,,,,f,f,t,f,,,,,DEC,,,,62.11309814453125,-145.52618408203125
 0228740,Glennallen,,,,Copper Valley Electric Association,2,51000,,51000,,,,f,f,t,f,,,,,DEC,,,,62.10992431640625,-145.52581787109375
 0228740,Glennallen,,,,Crowley,10,153800,55000,83800,,15000,,f,f,t,f,,,,,DEC,,,,62.1085205078125,-145.48858642578125
@@ -728,11 +728,11 @@ Foundations:  Belly of tank more than 12i",,1037,AEA,2015 Assessment,2015,2015,6
 0229180,Golovin,,,,Golovin City Tank Farm,9,199600,23700,165900,,,10000,t,f,f,,Crowley,,,,AEA,2024 Assessment,2023,2024,64.5429986522865,-163.036521760253
 0229180,Golovin,,ANC-G-008,,Golovin Tank Farm,10,356404,28700,327704,,,,t,f,f,t,,,,,DEC,,,,64.54290771484375,-163.0364990234375
 0229180,Golovin,,,,Golovin Tank Farm,3,51400,,51400,,,,t,f,f,f,,,,,DEC,,,,64.54290771484375,-163.03509521484375
+0229290,Goodnews Bay,,,,Alaska Village Electric Cooperative,11,91500,,91500,,,,,,,f,,,,,DEC,,,,59.11810302734375,-161.5885009765625
 0229290,Goodnews Bay,1061,,,ANTHC,1,8000,,8000,,,,t,f,f,f,Delta Western Crowley Marine Vitus Marine,"Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well. 
 Secondary Containment:  No containment; Inadequate containment. 
 Foundations:  Belly of tank more than 12i",0,995,AEA,2017 Letter Report & Best Practice Assessment,2017,2017,59.11871337890625,-161.58209228515625
 0229290,Goodnews Bay,,,,AVEC Tank Farm,11,89524,,89524,,,,t,f,f,,Crowley,,,,AEA,2024 Assessment,2023,2024,59.1178062760764,-161.588743449807
-0229290,Goodnews Bay,,,,Alaska Village Electric Cooperative,11,91500,,91500,,,,,,,f,,,,,DEC,,,,59.11810302734375,-161.5885009765625
 0229290,Goodnews Bay,,,,City of Goodnews Bay,2,15100,,15100,,,,t,f,f,f,,,,,DEC,,,,59.11810302734375,-161.588623046875
 0229290,Goodnews Bay,,,,Goodnews Bay Maintenance Station,2,2000,,2000,,,,f,f,t,f,,,,,DEC,,,,59.1185302734375,-161.5792236328125
 0229290,Goodnews Bay,785,,,Goodnews Bay School LKSD,2,43000,,43000,,,,t,f,f,f,Delta Western Crowley Marine Vitus Marine,"Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well. 
@@ -743,8 +743,8 @@ Secondary Containment:  No containment; Inadequate containment.
 Foundations:  Belly of tank more than 12i",100,847,AEA,2017 Letter Report & Best Practice Assessment,2017,2017,59.1185302734375,-161.58270263671875
 0229290,Goodnews Bay,,,,Mumtram Pikkai Retail Tank Farm,6,111000,51000,60000,,,,t,f,f,,Crowley,,,,AEA,2024 Assessment,2023,2024,59.1187951248693,-161.582524962874
 0229290,Goodnews Bay,,,,Rocky Mountain School Tank Farm,2,39336,,39336,,,,f,f,t,,Crowley,,,,AEA,2024 Assessment,2023,2024,59.1220309579377,-161.591998739642
-0230060,Grayling,174,ANC-G-014,,AVEC,,175300,,,,,,t,f,f,t,,,,114,AEA,,,,62.90692138671875,-160.0654296875
 0230060,Grayling,,,,Alaska Village Electric Cooperative,8,66300,,66300,,,,,,,f,,,,,DEC,,,,62.9071044921875,-160.06439208984375
+0230060,Grayling,174,ANC-G-014,,AVEC,,175300,,,,,,t,f,f,t,,,,114,AEA,,,,62.90692138671875,-160.0654296875
 0230060,Grayling,,,,GCI Communication Corp.,2,9000,,9000,,,,f,t,f,f,,,,,DEC,,,,65.2542724609375,-152.74078369140625
 0230060,Grayling,,,,GCI Communication Corp.,2,9000,,9000,,,,f,t,f,f,,,,,DEC,,,,62.9581298828125,-160.17437744140625
 0230060,Grayling,,,,Grayling AVEC tanks,8,67016,,67016,,,,t,f,f,,Ruby Marine,,,,AEA,2024 Assessment,2023,2024,62.9070204097851,-160.06465212004
@@ -765,8 +765,8 @@ Foundations:  Belly of tank more than 12i",100,847,AEA,2017 Letter Report & Best
 0230940,Gustavus,19,,,Whalesong Lodge,,1000,,,,,,t,f,f,f,,,,859,AEA,,,,58.4547119140625,-135.88250732421875
 0232150,Healy,,,,Alaska Power & Telephone,1,14000,,14000,,,,f,f,t,f,,,,,DEC,,,,64.00030517578125,-144.734375
 0232150,Healy,,,,Alaska Railroad,1,1000,,1000,,,,f,f,t,f,,,,,DEC,,,,63.85791015625,-148.96868896484375
-0232150,Healy,,,,DOT&PF Healy MS,2,7000,1000,6000,,,,f,f,t,f,,,,,DEC,,,,63.8704833984375,-149.0137939453125
 0232150,Healy,,,,Denali Borough School District,2,7000,,7000,,,,f,f,t,f,,,,,DEC,,,,63.87249755859375,-149.01361083984375
+0232150,Healy,,,,DOT&PF Healy MS,2,7000,1000,6000,,,,f,f,t,f,,,,,DEC,,,,63.8704833984375,-149.0137939453125
 0232150,Healy,,,,Golden Valley Electric Association,1,1000,,1000,,,,f,f,t,f,,,,,DEC,,,,64.05987548828125,-148.90008544921875
 0232150,Healy,,,,Golden Valley Electric Association,1,1500,,1500,,,,f,f,t,f,,,,,DEC,,,,64.01947021484375,-149.11572265625
 0232150,Healy,,,,Healy Creek Former Tank Farm,,,,,,,,f,f,t,f,,,,,USCG,,,,63.87347412109375,-149.0032958984375
@@ -790,11 +790,11 @@ Foundations:  Belly of tank more than 12i",50,118,AEA,2016 Letter Report,2016,20
 0233140,Homer,,,216-BF-17,Homer Airport,2,5000,1000,4000,,,,f,f,t,f,,,,,DEC,,,,59.64208984375,-151.47711181640625
 0233140,Homer,,,216-BF-01,Homer Electric Association,3,16000,5000,11000,,,,t,f,f,f,,,,,DEC,,,,59.7786865234375,-150.94012451171875
 0233140,Homer,,,,Homer Highway Station,1,4000,,4000,,,,f,f,t,f,,,,,DEC,,,,59.66009521484375,-151.63922119140625
-0233140,Homer,,,216-BF-07,Kenai Peninsula Borough,1,3000,,3000,,,,f,f,t,f,,,,,DEC,,,,59.74609375,-151.2584228515625
-0233140,Homer,,,216-BF-02,Kenai Peninsula Borough,1,2000,,2000,,,,f,f,t,f,,,,,DEC,,,,59.74530029296875,-151.2589111328125
-0233140,Homer,,,,Kenai Peninsula Borough,1,1000,,1000,,,,f,f,t,f,,,,,DEC,,,,59.652099609375,-151.52880859375
-0233140,Homer,,,216-BF-04,Kenai Peninsula Borough,1,10000,,10000,,,,f,f,t,f,,,,,DEC,,,,59.65228271484375,-151.5513916015625
 0233140,Homer,,,,Kenai Peninsula Borough,2,3500,,3500,,,,f,f,t,f,,,,,DEC,,,,59.65167236328125,-151.5283203125
+0233140,Homer,,,216-BF-02,Kenai Peninsula Borough,1,2000,,2000,,,,f,f,t,f,,,,,DEC,,,,59.74530029296875,-151.2589111328125
+0233140,Homer,,,216-BF-07,Kenai Peninsula Borough,1,3000,,3000,,,,f,f,t,f,,,,,DEC,,,,59.74609375,-151.2584228515625
+0233140,Homer,,,216-BF-04,Kenai Peninsula Borough,1,10000,,10000,,,,f,f,t,f,,,,,DEC,,,,59.65228271484375,-151.5513916015625
+0233140,Homer,,,,Kenai Peninsula Borough,1,1000,,1000,,,,f,f,t,f,,,,,DEC,,,,59.652099609375,-151.52880859375
 0233140,Homer,,,216-BF-18,Kenai Peninsula Borough,1,1000,,1000,,,,f,f,t,f,,,,,DEC,,,,59.6439208984375,-151.56781005859375
 0233140,Homer,,,216-BF-19,Petro 49,3,69000,23000,46000,,,,t,f,f,f,,,,,DEC,,,,59.60467529296875,-151.417724609375
 0233140,Homer,,,,Tutka Bay Lagoon Hatchery,3,11000,,11000,,,,f,f,t,f,,,,,DEC,,,,59.43511962890625,-151.42901611328125
@@ -813,16 +813,16 @@ Foundations:  Belly of tank more than 12i",50,118,AEA,2016 Letter Report,2016,20
 0233470,Hooper Bay,,,,Alaska Commercial Company,1,1000,,1000,,,,f,f,t,f,,,,,DEC,,,,61.53228759765625,-166.1007080078125
 0233470,Hooper Bay,,ANC-H-004,,Alaska Village Electric Cooperative,29,223200,,223200,,,,,,,t,,,,,DEC,,,,61.53070068359375,-166.102294921875
 0233470,Hooper Bay,569,,223-BF-04,Alaska Village Electric Cooperative,,160900,,,,,,t,f,f,f,,,,123,AEA,,,,61.53070068359375,-166.102294921875
-0233470,Hooper Bay,,ANC-H-006,,CPD,,,,,,,,t,f,f,t,,,,,USCG,,,,61.52972412109375,-166.10308837890625
 0233470,Hooper Bay,570,ANC-H-010,223-BF-03,City of Hooper Bay,,20000,,,,,,t,f,f,t,,,,124,AEA,,,,61.53009033203125,-166.10308837890625
+0233470,Hooper Bay,,ANC-H-006,,CPD,,,,,,,,t,f,f,t,,,,,USCG,,,,61.52972412109375,-166.10308837890625
 0233470,Hooper Bay,,,224-BF-03,Crowley,3,384047,3192,380855,,,,f,f,t,f,,,,,DEC,,,,61.53131103515625,-166.0968017578125
 0233470,Hooper Bay,,,,Hooper Bay AVEC Tank Farm,28,213240,,213240,,,,t,f,f,,AVEC,,,,AEA,2024 Assessment,2023,2024,61.5307124032605,-166.102444155397
 0233470,Hooper Bay,,,224-BF-06,Hooper Bay Maintenance Station,2,2000,,2000,,,,t,f,f,f,,,,,DEC,,,,61.52008056640625,-166.1392822265625
 0233470,Hooper Bay,,,,Hooper Bay School Tank Farm,5,156395,,156395,,,,t,f,t,,Vitas (Maybe),,,,AEA,2024 Assessment,2023,2024,61.5213991223354,-166.097478160738
 0233470,Hooper Bay,,,,Hooper Bay Water Treatment Plant and Washeteria Oil Storage Tank Farm,3,59036,,40000,,,19036,t,f,f,,ARUC,,,,AEA,2024 Assessment,2023,2024,61.5329576120689,-166.102554340153
-0233470,Hooper Bay,,,224-BF-05,LYSD,,,,,,,,t,f,f,f,,,,,USCG,,,,61.52130126953125,-166.097412109375
 0233470,Hooper Bay,575,,,Little Flower of Jesus Parish,,2519,,,,,,t,f,f,f,,,,127,AEA,,,,61.53009033203125,-166.10418701171875
 0233470,Hooper Bay,,,224-BF-02,Lower Yukon School District,6,151200,1200,150000,,,,t,f,f,f,,,,,DEC,,,,61.52191162109375,-166.09619140625
+0233470,Hooper Bay,,,224-BF-05,LYSD,,,,,,,,t,f,f,f,,,,,USCG,,,,61.52130126953125,-166.097412109375
 0233470,Hooper Bay,573,,224-BF-01,Yukon Fuel Company,,96208,,,,,,t,f,f,f,,,,126,AEA,,,,61.5333251953125,-166.1029052734375
 0233470,Hooper Bay,572,,224-BF-08,Yukon Fuel Company,,126995,,,,,,t,f,f,f,,,,125,AEA,,,,61.53411865234375,-166.10040283203125
 0233470,Hooper Bay,171,,,Yukon Fuel Company,,100000,,,,,,t,f,f,f,,,,697,AEA,2015 Assessment,2015,2015,61.5299072265625,-166.10369873046875
@@ -842,8 +842,8 @@ Foundations:  Belly of tank more than 12i",,1039,AEA,2015 Assessment,2015,2015,6
 0234350,Huslia,,ANC-H-008,231-BF-01,Huslia Gas & Oil,11,142000,68000,74000,,,,t,f,f,t,,,,,DEC,,,,65.69708251953125,-156.38177490234375
 0234350,Huslia,,,,Huslia Oil and Gas Tank Farm,11,144000,70000,74000,,,,t,f,f,,Ruby Marine,,,,AEA,2024 Assessment,2023,2024,65.6969820027431,-156.381887320548
 0234350,Huslia,,,,Huslia School Tank Farm,3,31000,,31000,,,,t,f,f,,Ruby Marine,,,,AEA,2024 Assessment,2023,2024,65.7019787142665,-156.388588473346
-0234350,Huslia,,,231-BF-02,Yukon Koyukuk School District,4,23000,,23000,,,,t,f,f,f,,,,,DEC,,,,65.701904296875,-156.3892822265625
 0234350,Huslia,187,,,Yukon Koyukuk School district,,39874,,,,,,t,f,f,f,,,,165,AEA,,,,65.70208740234375,-156.38848876953125
+0234350,Huslia,,,231-BF-02,Yukon Koyukuk School District,4,23000,,23000,,,,t,f,f,f,,,,,DEC,,,,65.701904296875,-156.3892822265625
 0234460,Hydaburg,,,232-BF-04,Alaska Power & Telephone,2,11000,,11000,,,,f,f,t,f,,,,,DEC,,,,55.2144775390625,-132.82501220703125
 0234460,Hydaburg,38,,232-BF-02,Haida Apartment BuildingTlingit-Haida Regional Housing Authority,,1000,,,,,,t,f,f,f,,,,855,AEA,2015 Assessment,2015,2015,55.20611572265625,-132.8223876953125
 0234460,Hydaburg,36,,232-BF-03,Haida Oil Products,,100000,,,,,,t,f,f,f,,,,670,AEA,2015 Assessment,2015,2015,55.20489501953125,-132.8275146484375
@@ -856,12 +856,12 @@ Foundations:  Belly of tank more than 12i",,1107,AEA,2015 Assessment,2015,2015,5
 0234790,Igiugig,,,,Igiugig Tribal Council Tank Farm,8,110400,36600,73800,,,,f,t,f,,Alaska Air Field,,,,AEA,2024 Assessment,2023,2024,59.3271715180973,-155.898008146346
 0234790,Igiugig,193,,233-BF-01,Igiugig Village Council,,3500,,,,,,t,t,f,f,,,,365,AEA,,,,59.32672119140625,-155.8978271484375
 0234790,Igiugig,,,,Lake and Peninsula School District,2,6000,,6000,,,,f,f,t,f,,,,,DEC,,,,59.32568359375,-155.90380859375
-0235120,Iliamna,,,233-BF-04,AK DOT&PF Iliamna Maintenance Station,4,8000,1000,7000,,,,,,,f,,,,,DEC,,,,59.75390625,-154.9044189453125
 0235120,Iliamna,202,,,Aero Maintenance Service,,2500,,,,,,t,t,f,f,,,,398,AEA,,,,59.75628662109375,-154.90850830078125
+0235120,Iliamna,,,233-BF-04,AK DOT&PF Iliamna Maintenance Station,4,8000,1000,7000,,,,,,,f,,,,,DEC,,,,59.75390625,-154.9044189453125
 0235120,Iliamna,208,,233-BF-02,Iliamna Air,,10000,,,,,,t,t,f,f,,,,384,AEA,,,,59.75567626953125,-154.92169189453125
-0235120,Iliamna,207,,233-BF-03,Iliamna Air Taxi,,1000,,,,,,t,t,f,f,,,,85,AEA,,,,59.75567626953125,-154.90740966796875
 0235120,Iliamna,205,,233-BF-05,Iliamna Airport Hotel,,2500,,,,,,t,t,f,f,,,,383,AEA,,,,59.75347900390625,-154.90802001953125
 0235120,Iliamna,,,,Iliamna Airport Tank Farm,6,84000,42000,42000,,,,t,f,f,,Petro Marine,,,,AEA,2024 Assessment,2023,2024,59.7567627884996,-154.901352132013
+0235120,Iliamna,207,,233-BF-03,Iliamna Air Taxi,,1000,,,,,,t,t,f,f,,,,85,AEA,,,,59.75567626953125,-154.90740966796875
 0235120,Iliamna,197,,,Iliamna Baptist Chapel,,2500,,,,,,t,t,f,f,,,,393,AEA,,,,59.75909423828125,-154.82000732421875
 0235120,Iliamna,,,,Iliamna Development Corp Store,4,48000,24000,24000,,,,t,f,f,,Petro Marine,,,,AEA,2024 Assessment,2023,2024,59.7557549874013,-154.873469929147
 0235120,Iliamna,199,,,Iliamna Lake Lodge,,3300,,,,,,t,t,f,f,,,,395,AEA,,,,59.75592041015625,-154.9031982421875
@@ -875,13 +875,12 @@ Foundations:  Belly of tank more than 12i",,1107,AEA,2015 Assessment,2015,2015,5
 0235120,Iliamna,198,,236-BF-04,Royal AK Lodges,,2000,,,,,,t,t,f,f,,,,394,AEA,,,,59.75592041015625,-154.9027099609375
 0235120,Iliamna,203,,,Telarik Creek Lodge,,5000,,,,,,t,t,f,f,,,,399,AEA,,,,59.75091552734375,-154.8114013671875
 0235120,Iliamna,209,,,Thomas Hedlund,,4700,,,,,,t,t,f,f,,,,385,AEA,,,,59.75567626953125,-154.902587890625
-0235120,Iliamna,212,,,U.S. Postal Service,,2000,,,,,,t,t,f,f,,,,388,AEA,,,,59.7545166015625,-154.87249755859375
 0235120,Iliamna,195,,,US DOT FAA,,3000,,,,,,t,t,f,f,,,,391,AEA,,,,59.7542724609375,-154.90618896484375
+0235120,Iliamna,212,,,U.S. Postal Service,,2000,,,,,,t,t,f,f,,,,388,AEA,,,,59.7545166015625,-154.87249755859375
 0235120,Iliamna,201,,,Village Council Clinic,,2000,,,,,,t,t,f,f,,,,397,AEA,,,,59.75408935546875,-154.851806640625
 0235890,Ivanof Bay,947,ANC-I-002,,Ivanof Bay Village Council,,22600,,,,,,t,f,f,t,,,,808,AEA,,,,55.9014892578125,-159.48651123046875
 0235890,Ivanof Bay,,,,Lake and Peninsula School District,4,20000,,20000,,,,t,f,f,f,,,,,DEC,,,,55.9036865234375,-159.48468017578125
 0235890,Ivanof Bay,948,,,PTI Communications,,4500,,,,,,t,f,f,f,,,,809,AEA,,,,55.9014892578125,-159.48651123046875
-0236400,Juneau,,,,AT&T,1,1000,,1000,,,,f,f,t,f,,,,,DEC,,,,58.39227294921875,-134.7681884765625
 0236400,Juneau,,,,Aero Services Juneau,1,20000,,,,20000,,f,f,t,f,,,,,DEC,,,,58.3623046875,-134.589111328125
 0236400,Juneau,,,,Alaska Airlines,1,1000,,1000,,,,f,f,t,f,,,,,DEC,,,,58.35931396484375,-134.58380126953125
 0236400,Juneau,,,,Alaska Army National Guard,2,3600,,3600,,,,f,f,t,f,,,,,DEC,,,,58.39007568359375,-134.6453857421875
@@ -893,13 +892,14 @@ Foundations:  Belly of tank more than 12i",,1107,AEA,2015 Assessment,2015,2015,5
 0236400,Juneau,,,,Alaska Electric Light and Power,2,200000,,200000,,,,f,f,t,f,,,,,DEC,,,,58.35369873046875,-134.4954833984375
 0236400,Juneau,,,,Alaska Electric Light and Power,1,15000,,15000,,,,f,f,t,f,,,,,DEC,,,,58.3018798828125,-134.41729736328125
 0236400,Juneau,,,,Alaska Power & Telephone,2,6000,,6000,,,,f,t,f,f,,,,,DEC,,,,58.3936767578125,-134.715087890625
+0236400,Juneau,,,,AT&T,1,1000,,1000,,,,f,f,t,f,,,,,DEC,,,,58.39227294921875,-134.7681884765625
 0236400,Juneau,,,,CG Station Juneau,1,1500,,1500,,,,f,f,t,f,,,,,DEC,,,,58.2987060546875,-134.41278076171875
 0236400,Juneau,,,246-BF-02,Coastal Fuel,1,6000,,,,6000,,f,f,t,f,,,,,DEC,,,,58.35809326171875,-134.580810546875
 0236400,Juneau,,,246-BF-03,Colaska,2,2000,,2000,,,,f,f,t,f,,,,,DEC,,,,58.35430908203125,-134.5020751953125
 0236400,Juneau,,,,Delta Western,3,90000,,,,90000,,f,f,t,f,,,,,DEC,,,,58.36248779296875,-134.5889892578125
 0236400,Juneau,,,,Federal Aviation Administration,1,1000,,1000,,,,f,f,t,f,,,,,DEC,,,,58.35467529296875,-134.5745849609375
-0236400,Juneau,,,,Federal Aviation Administration,1,1000,,1000,,,,f,f,t,f,,,,,DEC,,,,58.35870361328125,-134.6361083984375
 0236400,Juneau,,,,Federal Aviation Administration,1,10000,,10000,,,,t,f,f,f,,,,,DEC,,,,58.3594970703125,-134.69940185546875
+0236400,Juneau,,,,Federal Aviation Administration,1,1000,,1000,,,,f,f,t,f,,,,,DEC,,,,58.35870361328125,-134.6361083984375
 0236400,Juneau,,,,Federal Aviation Administration,1,1000,,1000,,,,f,f,t,f,,,,,DEC,,,,58.35870361328125,-134.6361083984375
 0236400,Juneau,,,,Federal Aviation Administration,1,1000,,1000,,,,f,f,t,f,,,,,DEC,,,,58.35467529296875,-134.5745849609375
 0236400,Juneau,,,,GCI Communication Corp.,1,1000,,1000,,,,f,f,t,f,,,,,DEC,,,,58.2864990234375,-134.38262939453125
@@ -925,40 +925,40 @@ Foundations:  Belly of tank more than 12i",,1107,AEA,2015 Assessment,2015,2015,5
 0236990,Kaktovik,,,,Bulk Fuel Tank Farm,6,1010000,60000,950000,,,,t,f,f,,Crowley,,,,AEA,2024 Assessment,2023,2024,70.1319574161078,-143.618174599044
 0236990,Kaktovik,,,,Kaktovik Dispensing Tank Farm,2,10000,5000,5000,,,,t,f,f,,Crowley,,,,AEA,2024 Assessment,2023,2024,70.1323184608538,-143.618349869343
 0236990,Kaktovik,401,,248-BF-01,Kaktovik Inupiat Corporation,,60000,,,,,,t,f,f,f,,,,932,AEA,2015 Assessment,2015,2015,70.13232421875,-143.61810302734375
-0236990,Kaktovik,406,,249-BF-08,North Slope Borough,1,10000,,10000,,,,t,f,f,f,Kaktovik Inupiat Corporation,"Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well. 
-Secondary Containment:  No containment; Inadequate containment. 
-Foundations:  Belly of tank more than 12i",,1045,AEA,2015 Assessment,2015,2015,70.1260986328125,-143.61529541015625
-0236990,Kaktovik,396,,249-BF-07,North Slope Borough,2,20000,10000,10000,,,,t,f,f,f,Crowley,"Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well. 
-Secondary Containment:  No containment; Inadequate containment. 
-Foundations:  Belly of tank more than 12i",500,1042,AEA,2015 Assessment,2015,2015,70.1298828125,-143.62127685546875
-0236990,Kaktovik,397,ANC-K-001,249-BF-03,North Slope Borough,1,4000,,4000,,,,t,f,f,t,Kaktovik Inupiat Corporation,"Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well. 
-Secondary Containment:  No containment; Inadequate containment. 
-Foundations:  Belly of tank more than 12i",,928,AEA,2015 Assessment,2015,2015,70.1292724609375,-143.6094970703125
-0236990,Kaktovik,407,,,North Slope Borough,1,5000,,5000,,,,t,f,f,f,Kaktovik Inupiat Corporation,"Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well. 
-Secondary Containment:  No containment; Inadequate containment. 
-Foundations:  Belly of tank more than 12i",,1046,AEA,2015 Assessment,2015,2015,70.1295166015625,-143.6102294921875
-0236990,Kaktovik,1086,,249-BF-09,North Slope Borough,1,2000,,2000,,,,t,f,f,f,Kaktovik Inupiat Corporation,"Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well. 
-Secondary Containment:  No containment; Inadequate containment. 
-Foundations:  Belly of tank more than 12i",,1049,AEA,2015 Assessment,2015,2015,70.12890625,-143.6077880859375
 0236990,Kaktovik,1087,,249-BF-10,North Slope Borough,1,2000,,2000,,,,t,f,f,f,Kaktovik Inupiat Corporation,"Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well. 
 Secondary Containment:  No containment; Inadequate containment. 
 Foundations:  Belly of tank more than 12i",,1050,AEA,2015 Assessment,2015,2015,70.48150634765625,-157.42510986328125
+0236990,Kaktovik,396,,249-BF-07,North Slope Borough,2,20000,10000,10000,,,,t,f,f,f,Crowley,"Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well. 
+Secondary Containment:  No containment; Inadequate containment. 
+Foundations:  Belly of tank more than 12i",500,1042,AEA,2015 Assessment,2015,2015,70.1298828125,-143.62127685546875
+0236990,Kaktovik,406,,249-BF-08,North Slope Borough,1,10000,,10000,,,,t,f,f,f,Kaktovik Inupiat Corporation,"Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well. 
+Secondary Containment:  No containment; Inadequate containment. 
+Foundations:  Belly of tank more than 12i",,1045,AEA,2015 Assessment,2015,2015,70.1260986328125,-143.61529541015625
+0236990,Kaktovik,1086,,249-BF-09,North Slope Borough,1,2000,,2000,,,,t,f,f,f,Kaktovik Inupiat Corporation,"Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well. 
+Secondary Containment:  No containment; Inadequate containment. 
+Foundations:  Belly of tank more than 12i",,1049,AEA,2015 Assessment,2015,2015,70.12890625,-143.6077880859375
+0236990,Kaktovik,407,,,North Slope Borough,1,5000,,5000,,,,t,f,f,f,Kaktovik Inupiat Corporation,"Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well. 
+Secondary Containment:  No containment; Inadequate containment. 
+Foundations:  Belly of tank more than 12i",,1046,AEA,2015 Assessment,2015,2015,70.1295166015625,-143.6102294921875
 0236990,Kaktovik,405,,249-BF-06,North Slope Borough,1,10000,,10000,,,,t,f,f,f,Kaktovik Inupiat Corporation,"Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well. 
 Secondary Containment:  No containment; Inadequate containment. 
 Foundations:  Belly of tank more than 12i",,1044,AEA,2015 Assessment,2015,2015,70.12591552734375,-143.6195068359375
+0236990,Kaktovik,397,ANC-K-001,249-BF-03,North Slope Borough,1,4000,,4000,,,,t,f,f,t,Kaktovik Inupiat Corporation,"Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well. 
+Secondary Containment:  No containment; Inadequate containment. 
+Foundations:  Belly of tank more than 12i",,928,AEA,2015 Assessment,2015,2015,70.1292724609375,-143.6094970703125
+0236990,Kaktovik,400,,249-BF-05,North Slope BoroughFuel Division & Energy ManagementKaktovik Inupiat Corp. Fuel Station,,950000,,,,,,t,f,f,f,,,,931,AEA,2015 Assessment,2015,2015,70.1326904296875,-143.61859130859375
 0236990,Kaktovik,,,,North Slope Borough School District,2,5000,,5000,,,,f,f,t,f,,,,,DEC,,,,70.127685546875,-143.6162109375
 0236990,Kaktovik,404,,249-BF-04,North Slope Borough School District,1,2000,,2000,,,,t,f,f,f,Kaktovik Inupiat Corporation,"Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well. 
 Secondary Containment:  No containment; Inadequate containment. 
 Foundations:  Belly of tank more than 12i",,1043,AEA,2015 Assessment,2015,2015,70.1270751953125,-143.6162109375
-0236990,Kaktovik,400,,249-BF-05,North Slope BoroughFuel Division & Energy ManagementKaktovik Inupiat Corp. Fuel Station,,950000,,,,,,t,f,f,f,,,,931,AEA,2015 Assessment,2015,2015,70.1326904296875,-143.61859130859375
 0236990,Kaktovik,403,,249-BF-02,SKW,,200000,,,,,,t,f,f,f,,,,934,AEA,2015 Assessment,2015,2015,70.12872314453125,-143.62200927734375
 0236990,Kaktovik,398,,,U.S. Air Force-Defense Early Warning Site,,29000,,,,,,t,f,f,f,,,,929,AEA,2015 Assessment,2015,2015,70.1304931640625,-143.6361083984375
 0236990,Kaktovik,402,,,U.S. Fish & Wildlife,,35000,,,,,,t,f,f,f,,,,933,AEA,2015 Assessment,2015,2015,70.132080078125,-143.62017822265625
 0236990,Kaktovik,399,,,Waldo Arms Hotel & U.S. Fish & Wildlife Service,,33000,,,,,,t,f,f,f,,,,930,AEA,2015 Assessment,2015,2015,70.12890625,-143.6182861328125
 0237430,Kaltag,,ANC-K-002,,Alaska Village Electric Cooperative,4,112000,,112000,,,,,,,t,,,,,DEC,,,,64.3228759765625,-158.7235107421875
 0237430,Kaltag,,,253-BF-01,DOT&PF Kaltag APT,1,1500,,1500,,,,f,t,f,f,,,,,DEC,,,,64.3197021484375,-158.73529052734375
-0237430,Kaltag,,,,Kaltag AVEC Tank Farm,4,119800,,119800,,,,t,f,f,,Ruby Marine,,,,AEA,2024 Assessment,2023,2024,64.3229077403174,-158.724001971347
 0237430,Kaltag,222,,253-BF-05,Kaltag Armory,,3000,,,,,,t,f,f,f,,,,400,AEA,,,,64.32470703125,-158.7283935546875
+0237430,Kaltag,,,,Kaltag AVEC Tank Farm,4,119800,,119800,,,,t,f,f,,Ruby Marine,,,,AEA,2024 Assessment,2023,2024,64.3229077403174,-158.724001971347
 0237430,Kaltag,221,,253-BF-04,Kaltag Catholic Church,,9000,,,,,,t,f,f,f,,,,579,AEA,,,,64.32568359375,-158.722900390625
 0237430,Kaltag,217,,253-BF-02,Kaltag Cooperative Industries,,108000,,,,,,t,f,f,f,,,,577,AEA,,,,64.32470703125,-158.7283935546875
 0237430,Kaltag,,ANC-K-105,,Kaltag Fuel Depot,,,,,,,,,,,t,,,,,,,,,64.32647705078125,-158.72491455078125
@@ -980,16 +980,16 @@ Foundations:  Belly of tank more than 12i",,1043,AEA,2015 Assessment,2015,2015,7
 0237650,Kasaan,41,,257-BF-01,Norpex Lumber,,10000,,,,,,t,f,f,f,,,,856,AEA,,,,55.5377197265625,-132.39599609375
 0237650,Kasaan,,,257-BF-21,Organized Village of Kasaaan,2,5000,,5000,,,,f,f,t,f,,,,,DEC,,,,55.54510498046875,-132.4132080078125
 0237650,Kasaan,,,,Organized Village of Kasaan Fleet Dispensing Tanks,3,6870,,6870,,,,f,f,t,,Petro Marine,,,,AEA,2024 Assessment,2023,2024,55.5448324811163,-132.413059192665
-0237975,Kasigluk,,ANC-K-103,,ANTHC New Kasigluk,,,,,,,,,,,t,,,,,,,,,60.89471435546875,-162.5194091796875
-0237975,Kasigluk,,ANC-K-104,,ANTHC Old Kasigluk,,,,,,,,,,,t,,,,,,,,,60.89471435546875,-162.5194091796875
 0237975,Kasigluk,796,,257-BF-06,Alaska Army National Guard,,2000,,,,,,t,f,f,f,,,,79,AEA,,,,60.89410400390625,-162.51959228515625
 0237975,Kasigluk,,ANC-K-062,257-BF-17,Alaska Village Electric Cooperative,7,310000,,310000,,,,,,,t,,,,,DEC,,,,60.8720703125,-162.517578125
+0237975,Kasigluk,,ANC-K-103,,ANTHC New Kasigluk,,,,,,,,,,,t,,,,,,,,,60.89471435546875,-162.5194091796875
+0237975,Kasigluk,,ANC-K-104,,ANTHC Old Kasigluk,,,,,,,,,,,t,,,,,,,,,60.89471435546875,-162.5194091796875
 0237975,Kasigluk,792,ANC-K-013,257-BF-03,Kasigluk,,136500,,,,,,t,f,f,t,,,,36,AEA,,,,60.87469482421875,-162.5181884765625
 0237975,Kasigluk,,,,Kasigluk AVEC Tank Farm,7,276516,,276516,,,,t,f,f,,Vitus,,,,AEA,2024 Assessment,2023,2024,60.8719911814185,-162.517663008335
 0237975,Kasigluk,,,,Kasigluk Inc. Tank Farm,7,261930,133758,116172,,,12000,t,f,f,,Vitus,,,,AEA,2024 Assessment,2023,2024,60.8720505766059,-162.51806180494
 0237975,Kasigluk,,,257-BF-12,Kasigluk Tank Farm,7,283000,156000,127000,,,,t,f,f,f,,,,,DEC,,,,60.8720703125,-162.51800537109375
-0237975,Kasigluk,795,,257-BF-02,Kasigluk Traditional Council,,2500,,,,,,t,f,f,f,,,,78,AEA,,,,60.87408447265625,-162.51641845703125
 0237975,Kasigluk,,,257-BF-20,Kasigluk Traditional Council,2,40000,,40000,,,,t,f,f,f,,,,,DEC,,,,60.87109375,-162.51708984375
+0237975,Kasigluk,795,,257-BF-02,Kasigluk Traditional Council,,2500,,,,,,t,f,f,f,,,,78,AEA,,,,60.87408447265625,-162.51641845703125
 0237975,Kasigluk,,,257-BF-10,Lower Kuskokwim School District,5,63000,,63000,,,,t,f,f,f,,,,,DEC,,,,60.89471435546875,-162.5194091796875
 0237975,Kasigluk,,ANC-K-014,257-BF-09,Lower Kuskokwim School District,1,4000,,4000,,,,t,f,f,t,,,,,DEC,,,,60.8729248046875,-162.5159912109375
 0238090,Kasilof,,,257-BF-07,Icicle,3,7000,1050,5950,,,,f,f,t,f,,,,,DEC,,,,60.38348388671875,-151.28350830078125
@@ -998,25 +998,25 @@ Foundations:  Belly of tank more than 12i",,1043,AEA,2015 Assessment,2015,2015,7
 0238420,Kenai,,,257-BF-19,City of Kenai,2,15000,7500,7500,,,,f,f,t,f,,,,,DEC,,,,60.54412841796875,-151.2196044921875
 0238420,Kenai,,,257-BF-05,ConocoPhillips Kenai LNG Facility,4,7624,1000,6624,,,,f,f,t,f,,,,,DEC,,,,60.67852783203125,-151.3831787109375
 0238420,Kenai,,,257-BF-08,Crowley,2,16000,6000,,,10000,,f,f,t,f,,,,,DEC,,,,60.56671142578125,-151.24407958984375
-0238420,Kenai,,,258-BF-02,Federal Aviation Administration,1,2000,,2000,,,,f,f,t,f,,,,,DEC,,,,60.72589111328125,-151.351318359375
 0238420,Kenai,,,257-BF-14,Federal Aviation Administration,1,3000,,3000,,,,f,f,t,f,,,,,DEC,,,,60.615478515625,-151.28302001953125
+0238420,Kenai,,,258-BF-02,Federal Aviation Administration,1,2000,,2000,,,,f,f,t,f,,,,,DEC,,,,60.72589111328125,-151.351318359375
 0238420,Kenai,,,258-BF-01,Hilcorp,1,4000,,,,4000,,f,f,t,f,,,,,DEC,,,,60.5684814453125,-151.24188232421875
 0238420,Kenai,,,258-BF-03,Hilcorp,1,1000,,1000,,,,f,f,t,f,,,,,DEC,,,,60.47467041015625,-151.2744140625
 0238420,Kenai,,,,Homer Electric Association,2,10000,5000,5000,,,,f,f,t,f,,,,,DEC,,,,60.5634765625,-151.2373046875
 0238420,Kenai,,,,Kenai Peninsula Borough,1,1000,,1000,,,,f,f,t,f,,,,,DEC,,,,60.6292724609375,-151.3416748046875
 0238420,Kenai,,,,Kenai Peninsula Borough,1,2010,,2010,,,,f,f,t,f,,,,,DEC,,,,60.7288818359375,-151.302978515625
-0238420,Kenai,,,,NRC Alaska,1,2500,,2500,,,,f,f,t,f,,,,,DEC,,,,60.61932373046875,-151.3280029296875
 0238420,Kenai,,,,North Kenai Highway Station,1,2000,,2000,,,,f,f,t,f,,,,,DEC,,,,60.71429443359375,-151.31939697265625
 0238420,Kenai,,,,North Pacific Seafoods,2,6000,2000,4000,,,,f,f,t,f,,,,,DEC,,,,60.53631591796875,-151.25677490234375
+0238420,Kenai,,,,NRC Alaska,1,2500,,2500,,,,f,f,t,f,,,,,DEC,,,,60.61932373046875,-151.3280029296875
 0238420,Kenai,,,,State of Alaska Department of Corrections,2,2000,1000,1000,,,,f,f,t,f,,,,,DEC,,,,60.58331298828125,-151.30279541015625
 0238420,Kenai,,,,Weaver Bros.,4,53600,10000,16800,,26800,,f,f,t,f,,,,,DEC,,,,60.5775146484375,-151.3184814453125
 0238910,Kenny Lake,,,,Copper River School District,2,4000,,4000,,,,f,f,t,f,,,,,DEC,,,,61.7266845703125,-145.007080078125
-0238970,Ketchikan,,,,AT&T,1,2000,,2000,,,,f,f,t,f,,,,,DEC,,,,58.37548828125,-134.57501220703125
 0238970,Ketchikan,,,,Aero Services Ketchikan,3,50000,,,,50000,,f,f,t,f,,,,,DEC,,,,55.3529052734375,-131.70318603515625
 0238970,Ketchikan,,,,Alaska Army National Guard,1,1500,,1500,,,,f,f,t,f,,,,,DEC,,,,55.3538818359375,-131.68170166015625
 0238970,Ketchikan,,,,Alaska General Seafoods,1,10000,,10000,,,,f,f,t,f,,,,,DEC,,,,55.33673095703125,-131.63177490234375
 0238970,Ketchikan,,,,Alaska Power & Telephone,1,5000,,5000,,,,f,t,f,f,,,,,DEC,,,,56.74371337890625,-133.0775146484375
 0238970,Ketchikan,,,,Alaska Power & Telephone,1,5000,,5000,,,,f,t,f,f,,,,,DEC,,,,55.36090087890625,-131.7957763671875
+0238970,Ketchikan,,,,AT&T,1,2000,,2000,,,,f,f,t,f,,,,,DEC,,,,58.37548828125,-134.57501220703125
 0238970,Ketchikan,,,,Colaska,2,7000,,7000,,,,f,f,t,f,,,,,DEC,,,,55.3629150390625,-131.7052001953125
 0238970,Ketchikan,,,,Crowley,1,5700,5700,,,,,t,f,f,f,,,,,DEC,,,,55.44287109375,-131.80047607421875
 0238970,Ketchikan,,,,Crowley,4,40000,18000,22000,,,,t,f,f,f,,,,,DEC,,,,55.35870361328125,-131.69970703125
@@ -1031,8 +1031,8 @@ Foundations:  Belly of tank more than 12i",,1043,AEA,2015 Assessment,2015,2015,7
 0239300,Kiana,415,,,Alaska DOT&PF,,2900,,,,,,t,f,f,f,,,,755,AEA,,,,65.98052978515625,-161.138427734375
 0239300,Kiana,410,ANC-K-016,,Alaska Village Electric Cooperative,,120300,,,,,,t,f,f,t,,,,41,AEA,,,,66.973876953125,-160.4290771484375
 0239300,Kiana,413,ANC-K-017,,Blankenship Trading Post,,7100,,,,,,t,f,f,t,,,,753,AEA,,,,66.97528076171875,-160.43377685546875
-0239300,Kiana,,,,CRUZ Construction,6,85000,5000,80000,,,,t,f,f,f,,,,,DEC,,,,66.97509765625,-160.44097900390625
 0239300,Kiana,414,,,City of Kiana Firehouse,,2200,,,,,,t,f,f,f,,,,754,AEA,,,,66.972900390625,-160.43670654296875
+0239300,Kiana,,,,CRUZ Construction,6,85000,5000,80000,,,,t,f,f,f,,,,,DEC,,,,66.97509765625,-160.44097900390625
 0239300,Kiana,,,,GCI Communication Corp.,2,9000,,9000,,,,f,t,f,f,,,,,DEC,,,,66.96087646484375,-160.49090576171875
 0239300,Kiana,,,,Kiana AVEC Tank Farm,4,108000,,108000,,,,t,f,f,,Crowley Barge,,,,AEA,2024 Assessment,2023,2024,66.967930410642,-160.444218269958
 0239300,Kiana,,,,Kiana Co-located Tank Farm,23,374400,83300,291100,,,,t,f,f,,Crowley Marine,,,,AEA,2024 Assessment,2023,2024,66.9683501687682,-160.444840542449
@@ -1065,15 +1065,15 @@ Foundations:  Belly of tank more than 12i",,1043,AEA,2015 Assessment,2015,2015,7
 0239740,Kipnuk,799,ANC-K-025,,Kugkaktlik Limited,,324500,,,,,,t,f,f,t,,,,903,AEA,Best Practice Assessment,,,59.93768310546875,-164.03997802734375
 0239740,Kipnuk,,,264-BF-04,Lower Kuskokwim School District,6,185000,,185000,,,,t,f,f,f,,,,,DEC,,,,59.940673828125,-164.03619384765625
 0239740,Kipnuk,710,ANC-C-028,436-BF-04,Lower Kuskokwim School District,,24700,,,,,,t,f,f,t,,,,515,AEA,,,,60.85687255859375,-162.2764892578125
-0239960,Kivalina,419,,,AVEC,11,87500,,87500,,,,t,f,f,f,Delta Western Crowley Marine Vitus Marine,"Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well. 
-Secondary Containment:  No containment; Inadequate containment. 
-Foundations:  Belly of tank more than 12i",200,46,AEA,2015 Assessment,2015,2015,67.72509765625,-164.53302001953125
+0239960,Kivalina,,,,Abandoned old School Tanks.,5,51102,,,,,51102,t,f,f,,,,,,AEA,2024 Assessment,2023,2024,67.7256485865591,-164.533485332077
+0239960,Kivalina,,ANC-K-030,,Alaska Village Electric Cooperative,16,131600,,131600,,,,,,,t,,,,,DEC,,,,67.72509765625,-164.53302001953125
 0239960,Kivalina,420,,,AVEC,3,23100,,23100,,,,t,f,f,f,Vitus Marine 	Delta Western 	Crowley Marine,"Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well. 
 Secondary Containment:  No containment; Inadequate containment. 
 Foundations:  Belly of tank more than 12i",,756,AEA,2015 Assessment,2015,2015,67.72650146484375,-164.53851318359375
 0239960,Kivalina,,,,AVEC,18,144900,,144900,,,,t,f,f,,Vitus,,,,AEA,2024 Assessment,2023,2024,67.7248957151266,-164.532587080814
-0239960,Kivalina,,,,Abandoned old School Tanks.,5,51102,,,,,51102,t,f,f,,,,,,AEA,2024 Assessment,2023,2024,67.7256485865591,-164.533485332077
-0239960,Kivalina,,ANC-K-030,,Alaska Village Electric Cooperative,16,131600,,131600,,,,,,,t,,,,,DEC,,,,67.72509765625,-164.53302001953125
+0239960,Kivalina,419,,,AVEC,11,87500,,87500,,,,t,f,f,f,Delta Western Crowley Marine Vitus Marine,"Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well. 
+Secondary Containment:  No containment; Inadequate containment. 
+Foundations:  Belly of tank more than 12i",200,46,AEA,2015 Assessment,2015,2015,67.72509765625,-164.53302001953125
 0239960,Kivalina,418,,,City of Kivalina,1,8400,,8400,,,,t,f,f,f,Delta Western Crowley Marine Vitus Marine,"Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well. 
 Secondary Containment:  No containment; Inadequate containment. 
 Foundations:  Belly of tank more than 12i",500,45,AEA,2015 Assessment,2015,2015,67.7269287109375,-164.53729248046875
@@ -1086,11 +1086,11 @@ Foundations:  Belly of tank more than 12i",200,44,AEA,2015 Assessment,2015,2015,
 0239960,Kivalina,,ANC-K-065,266-BF-03,Northwest Arctic Borough School District,5,49100,,49100,,,,t,f,f,t,,,,,DEC,,,,67.72528076171875,-164.533203125
 0239960,Kivalina,,ANC-K-057,,Red Dog Mine,,,,,,,,t,f,f,t,,,,,USCG,2015 Assessment,2015,2015,67.72491455078125,-164.53240966796875
 0239960,Kivalina,,,,Water Treatment Plant,1,15700,,15700,,,,t,f,f,,Vitus,,,,AEA,2024 Assessment,2023,2024,67.7264400861262,-164.538629652325
-0240400,Klawock,,,,Alaska Power & Telephone,1,6000,,6000,,,,f,f,t,f,,,,,DEC,,,,55.5518798828125,-133.07000732421875
-0240400,Klawock,,,,Alaska Power & Telephone,1,3000,,3000,,,,f,f,t,f,,,,,DEC,,,,55.55328369140625,-133.0853271484375
 0240400,Klawock,1110,,,Alaska Power and Telephone,4,15600,,15600,,,,t,f,f,f,Petro Marine,"Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well. 
 Secondary Containment:  No containment; Inadequate containment. 
 Foundations:  Belly of tank more than 12i",,1101,AEA,2015 Assessment,2015,2015,66.54931640625,-152.6326904296875
+0240400,Klawock,,,,Alaska Power & Telephone,1,6000,,6000,,,,f,f,t,f,,,,,DEC,,,,55.5518798828125,-133.07000732421875
+0240400,Klawock,,,,Alaska Power & Telephone,1,3000,,3000,,,,f,f,t,f,,,,,DEC,,,,55.55328369140625,-133.0853271484375
 0240400,Klawock,1111,,266-BF-04,Klawock City School District,3,3000,,3000,,,,t,f,f,f,Petro Marine,"Site Location
 : Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well. 
 Secondary Containment:  No containment; Inadequate containment. 
@@ -1104,24 +1104,24 @@ Foundations:  Belly of tank more than 12",,1106,AEA,2015 Assessment,2015,2015,55
 Secondary Containment:  No containment; Inadequate containment. 
 Foundations:  Belly of tank more than 12i",,47,AEA,2015 Assessment,2015,2015,66.90667724609375,-156.882080078125
 0240840,Kobuk,,,,City of Kobuk Retail Sales,3,16900,4000,12900,,,,f,t,f,,Evert’s Air or ALASK AIR FUEL,,,,AEA,2024 Assessment,2023,2024,66.9061396766065,-156.887596657674
-0240840,Kobuk,,,,NWAB School District,4,27200,,27200,,,,t,f,f,,Crowley marine,,,,AEA,2024 Assessment,2023,2024,66.9080154734964,-156.88651687246
 0240840,Kobuk,,,,Northwest Arctic Borough School District,4,27500,,27500,,,,t,f,f,f,,,,,DEC,,,,66.9083251953125,-156.8828125
+0240840,Kobuk,,,,NWAB School District,4,27200,,27200,,,,t,f,f,,Crowley marine,,,,AEA,2024 Assessment,2023,2024,66.9080154734964,-156.88651687246
 0240950,Kodiak,,,269-BF-02,Alaska Army National Guard,1,3000,,3000,,,,f,f,t,f,,,,,DEC,,,,57.794677734375,-152.39288330078125
-0240950,Kodiak,,,,Federal Aviation Administration,1,2000,,2000,,,,f,f,t,f,,,,,DEC,,,,57.77508544921875,-152.33978271484375
 0240950,Kodiak,,,269-BF-01,Federal Aviation Administration,1,1000,,1000,,,,f,f,t,f,,,,,DEC,,,,57.7498779296875,-152.49371337890625
+0240950,Kodiak,,,,Federal Aviation Administration,1,2000,,2000,,,,f,f,t,f,,,,,DEC,,,,57.77508544921875,-152.33978271484375
 0240950,Kodiak,,,,Kalsin Maintenance Station,2,3000,,3000,,,,f,f,t,f,,,,,DEC,,,,57.58892822265625,-152.43548583984375
 0240950,Kodiak,,,270-BF-04,Kodiak Court Building,1,1000,,1000,,,,f,f,t,f,,,,,DEC,,,,57.78729248046875,-152.40631103515625
 0240950,Kodiak,,,270-BF-07,Kodiak DOT&PF Maintenance Station,2,5000,,5000,,,,,,,f,,,,,DEC,,,,57.7598876953125,-152.51580810546875
 0240950,Kodiak,,,,Kodiak Electric Association,2,40000,,40000,,,,f,f,t,f,,,,,DEC,,,,57.7896728515625,-152.3966064453125
-0240950,Kodiak,,,270-BF-06,Kodiak Electric Association,1,27000,,27000,,,,f,f,t,f,,,,,DEC,,,,57.7310791015625,-152.50830078125
 0240950,Kodiak,,,270-BF-03,Kodiak Electric Association,2,11100,,11100,,,,f,f,t,f,,,,,DEC,,,,57.77569580078125,-152.48028564453125
+0240950,Kodiak,,,270-BF-06,Kodiak Electric Association,1,27000,,27000,,,,f,f,t,f,,,,,DEC,,,,57.7310791015625,-152.50830078125
 0240950,Kodiak,,,270-BF-01,Kodiak Griffin Memorial Building,1,1000,,1000,,,,f,f,t,f,,,,,DEC,,,,57.7886962890625,-152.40069580078125
-0240950,Kodiak,,,,Kodiak Island Borough School District,1,8000,,8000,,,,f,f,t,f,,,,,DEC,,,,57.79327392578125,-152.39361572265625
+0240950,Kodiak,,,,Kodiak Island Borough School District,1,3000,,3000,,,,,,,f,,,,,DEC,,,,57.80487060546875,-152.36798095703125
 0240950,Kodiak,,,,Kodiak Island Borough School District,1,2000,,2000,,,,f,f,t,f,,,,,DEC,,,,57.79547119140625,-152.39129638671875
 0240950,Kodiak,,,,Kodiak Island Borough School District,1,3000,,3000,,,,f,f,t,f,,,,,DEC,,,,57.79388427734375,-152.3922119140625
-0240950,Kodiak,,,,Kodiak Island Borough School District,1,4000,,4000,,,,f,f,t,f,,,,,DEC,,,,57.7470703125,-152.49560546875
-0240950,Kodiak,,,,Kodiak Island Borough School District,1,3000,,3000,,,,,,,f,,,,,DEC,,,,57.80487060546875,-152.36798095703125
 0240950,Kodiak,,,,Kodiak Island Borough School District,1,5000,,5000,,,,f,f,t,f,,,,,DEC,,,,57.8212890625,-152.365478515625
+0240950,Kodiak,,,,Kodiak Island Borough School District,1,4000,,4000,,,,f,f,t,f,,,,,DEC,,,,57.7470703125,-152.49560546875
+0240950,Kodiak,,,,Kodiak Island Borough School District,1,8000,,8000,,,,f,f,t,f,,,,,DEC,,,,57.79327392578125,-152.39361572265625
 0240950,Kodiak,,,,Kodiak Regional Office Building,1,1000,,1000,,,,f,f,t,f,,,,,DEC,,,,57.78887939453125,-152.40301513671875
 0240950,Kodiak,,,,Kodiak State Airport,4,8000,,8000,,,,f,f,t,f,,,,,DEC,,,,57.7489013671875,-152.49407958984375
 0240950,Kodiak,,,,North Pacific Seafoods,1,1550,,1550,,,,f,f,t,f,,,,,DEC,,,,57.78472900390625,-152.42327880859375
@@ -1133,8 +1133,8 @@ Foundations:  Belly of tank more than 12i",,47,AEA,2015 Assessment,2015,2015,66.
 0241280,Kokhanok,,,,AK DOT&PF Kokhanok,2,2000,,2000,,,,,,,f,,,,,DEC,,,,59.43511962890625,-154.7974853515625
 0241280,Kokhanok,225,,,Danny's RoehlRoehl's Enterprise,,3800,,,,,,t,t,f,f,,,,361,AEA,,,,59.43951416015625,-154.75531005859375
 0241280,Kokhanok,,,,Kokhanok Utility Tank Farm,9,133000,24000,109000,,,,t,f,f,,Iliamna Development Corporation,,,,AEA,2024 Assessment,2023,2024,59.4403754108898,-154.747733652647
-0241280,Kokhanok,226,,,Kokhanok Village,,2300,,,,,,t,t,f,f,,,,362,AEA,,,,59.4412841796875,-154.751708984375
 0241280,Kokhanok,224,,,Kokhanok Village,,56600,,,,,,t,t,f,f,,,,360,AEA,,,,59.4412841796875,-154.75140380859375
+0241280,Kokhanok,226,,,Kokhanok Village,,2300,,,,,,t,t,f,f,,,,362,AEA,,,,59.4412841796875,-154.751708984375
 0241280,Kokhanok,,,,Lake and Peninsula School District,3,45000,,45000,,,,f,f,t,f,,,,,DEC,,,,59.4403076171875,-154.7476806640625
 0241500,Koliganek,,,,Koliganek Airport Maintenance Station,2,2000,,2000,,,,t,f,f,f,,,,,DEC,,,,59.726318359375,-157.26702880859375
 0241500,Koliganek,,,,Koliganek School Tank Farm,4,51000,,51000,,,,t,f,f,,Vitus,,,,AEA,2024 Assessment,2023,2024,59.7261935825959,-157.284881529355
@@ -1142,8 +1142,8 @@ Foundations:  Belly of tank more than 12i",,47,AEA,2015 Assessment,2015,2015,66.
 0241500,Koliganek,,,,New Koliganek Village Tank Farm,7,185000,40600,144400,,,,t,f,f,,Vitus,,,,AEA,2024 Assessment,2023,2024,59.7261667607316,-157.284249828993
 0241500,Koliganek,956,,,Original owner: Alaska Power Systems,,60000,,,,,,t,f,f,f,,,,712,AEA,,,,59.7266845703125,-157.2841796875
 0241500,Koliganek,,,,Southwest Region School District,4,50000,,50000,,,,t,f,f,f,,,,,DEC,,,,59.7269287109375,-157.28582763671875
-0241610,Kongiganak,808,,,A&L Variety Shop,,8900,,,,,,t,f,f,f,,,,592,AEA,,,,59.959716796875,-162.89080810546875
 0241610,Kongiganak,385,,121-BF-02,Alaska Army National Guard,,4600,,,,,,t,f,f,f,,,,744,AEA,,,,65.97991943359375,-161.13177490234375
+0241610,Kongiganak,808,,,A&L Variety Shop,,8900,,,,,,t,f,f,f,,,,592,AEA,,,,59.959716796875,-162.89080810546875
 0241610,Kongiganak,,,,Kongiganak Airport Maintenance Station,2,2000,,2000,,,,f,f,t,f,,,,,DEC,,,,59.95867919921875,-162.8853759765625
 0241610,Kongiganak,,,,Kongiganak Joint Tank Farm,8,346003,96000,238003,,,12000,t,f,f,,Vitus,,,,AEA,2024 Assessment,2023,2024,59.9611649618785,-162.884729056511
 0241610,Kongiganak,,ANC-K-060,,Kongiganak Tank Farm,5,198000,102000,96000,,,,t,f,f,t,,,,,DEC,,,,59.96112060546875,-162.8843994140625
@@ -1151,22 +1151,22 @@ Foundations:  Belly of tank more than 12i",,47,AEA,2015 Assessment,2015,2015,66.
 0241610,Kongiganak,,,,Kongiganak Tank Farm,1,48000,,48000,,,,t,f,f,f,,,,,DEC,,,,59.96112060546875,-162.8843994140625
 0241610,Kongiganak,,ANC-K-036,,Kongiganak Traditional Council,4,64000,,64000,,,,t,f,f,t,,,,,DEC,,,,59.95892333984375,-162.88751220703125
 0241610,Kongiganak,,,,Lower Kuskokwim School District,2,14500,,14500,,,,t,f,f,f,,,,,DEC,,,,59.96270751953125,-162.871826171875
-0241610,Kongiganak,804,,,Moravian Church,,2200,,,,,,t,f,f,f,,,,53,AEA,,,,59.95892333984375,-162.8892822265625
 0241610,Kongiganak,806,,,Moravian Church,,800,,,,,,t,f,f,f,,,,588,AEA,,,,59.95892333984375,-162.8892822265625
+0241610,Kongiganak,804,,,Moravian Church,,2200,,,,,,t,f,f,f,,,,53,AEA,,,,59.95892333984375,-162.8892822265625
 0241610,Kongiganak,809,,,Puvurnaq Power Company,1,74500,,60000,,,,t,f,f,f,,,,54,AEA,,,,59.95892333984375,-162.8876953125
 0241610,Kongiganak,807,,,Puvurnq Power Company,,2000,,,,,,t,f,f,f,,,,589,AEA,,,,59.95892333984375,-162.88739013671875
 0241720,Kotlik,580,,,Alaska Commercial Store,,15000,,,,,,t,f,f,f,,,,713,AEA,,,,63.03448486328125,-163.54229736328125
 0241720,Kotlik,579,,,City of Kotlik,,18100,,,,,,t,f,f,f,,,,60,AEA,,,,63.03289794921875,-163.5546875
 0241720,Kotlik,,,,Kotlik Shared Tank Farm,10,444000,96000,336000,,,12000,t,f,f,,Crowley/Vitus,,,,AEA,2024 Assessment,2023,2024,63.036919579847,-163.528245211284
-0241720,Kotlik,,ANC-K-066,,Kotlik Tank Farm,6,252000,,252000,,,,t,f,f,t,,,,,DEC,,,,63.03692626953125,-163.5281982421875
 0241720,Kotlik,,ANC-K-040,,Kotlik Tank Farm,5,198000,6000,192000,,,,t,f,f,t,,,,,DEC,,,,63.03692626953125,-163.5281982421875
+0241720,Kotlik,,ANC-K-066,,Kotlik Tank Farm,6,252000,,252000,,,,t,f,f,t,,,,,DEC,,,,63.03692626953125,-163.5281982421875
 0241720,Kotlik,,,277-BF-07,Lower Yukon School District,2,9000,,9000,,,,t,f,f,f,,,,,DEC,,,,63.03167724609375,-163.55499267578125
-0241830,Kotzebue,,,277-BF-03,AT&T,2,2000,,2000,,,,f,f,t,f,,,,,DEC,,,,66.89849853515625,-162.5985107421875
 0241830,Kotzebue,,,,Alaska Airlines,1,1200,,,,1200,,f,f,t,f,,,,,DEC,,,,66.8914794921875,-162.60247802734375
 0241830,Kotzebue,,,277-BF-08,Alaska Army National Guard,1,1500,,1500,,,,f,f,t,f,,,,,DEC,,,,66.88232421875,-162.606689453125
 0241830,Kotzebue,,,277-BF-04,Alaska Army National Guard,1,3000,,3000,,,,f,f,t,f,,,,,DEC,,,,66.901123046875,-162.58172607421875
-0241830,Kotzebue,,ANC-K-043,,CPD Alaska,,,,,,,,,,,t,,,,,,,,,66.896728515625,-162.593017578125
+0241830,Kotzebue,,,277-BF-03,AT&T,2,2000,,2000,,,,f,f,t,f,,,,,DEC,,,,66.89849853515625,-162.5985107421875
 0241830,Kotzebue,,<Null>,277-BF-01,City of Kotzebue,12,21000,,21000,,,,f,f,t,f,,,,,DEC,,,,66.896728515625,-162.5928955078125
+0241830,Kotzebue,,ANC-K-043,,CPD Alaska,,,,,,,,,,,t,,,,,,,,,66.896728515625,-162.593017578125
 0241830,Kotzebue,,,,DOT&PF Kotzebue APT,4,8600,1100,7500,,,,t,f,f,f,,,,,DEC,,,,66.8914794921875,-162.60650634765625
 0241830,Kotzebue,,,277-BF-05,National Park Service,2,3000,,3000,,,,f,f,t,f,,,,,DEC,,,,66.8936767578125,-162.60162353515625
 0241830,Kotzebue,,ANC-K-101,,Northland Services,,,,,,,,,,,t,,,,,,,,,66.896728515625,-162.593017578125
@@ -1187,16 +1187,16 @@ Foundations:  Belly of tank more than 12i",,47,AEA,2015 Assessment,2015,2015,66.
 0242050,Koyukuk,,ANC-K-048,,Koyukuk Tank Farm,5,95000,33000,62000,,,,t,f,f,t,,,,,DEC,,,,64.8817138671875,-157.7056884765625
 0242050,Koyukuk,,ANC-K-047,281-BF-06,Koyukuk Tank Farm,2,17000,,17000,,,,t,f,f,t,,,,,DEC,,,,64.8817138671875,-157.70440673828125
 0242050,Koyukuk,219,,254-BF-03,State of Alaska DOT&PF,,1000,,,,,,t,f,f,f,,,,171,AEA,,,,64.87969970703125,-157.71868896484375
-0242380,Kwethluk,,ANC-K-106,,ANTHC,,,,,,,,,,,t,,,,,,,,,60.811279296875,-161.4375
 0242380,Kwethluk,,,,Alaska Army National Guard,1,1500,,1500,,,,f,f,t,f,,,,,DEC,,,,60.81109619140625,-161.43511962890625
-0242380,Kwethluk,,,,City of Kwethluk,3,22000,,22000,,,,t,f,f,f,,,,,DEC,,,,60.81072998046875,-161.44049072265625
+0242380,Kwethluk,,ANC-K-106,,ANTHC,,,,,,,,,,,t,,,,,,,,,60.811279296875,-161.4375
 0242380,Kwethluk,812,,281-BF-03,City of Kwethluk,,17000,,,,,,t,f,f,f,,,,175,AEA,,,,60.811279296875,-161.43389892578125
+0242380,Kwethluk,,,,City of Kwethluk,3,22000,,22000,,,,t,f,f,f,,,,,DEC,,,,60.81072998046875,-161.44049072265625
 0242380,Kwethluk,,,281-BF-05,Kwethluk Airport Maintenance Station,2,2000,,2000,,,,f,f,t,f,,,,,DEC,,,,60.79388427734375,-161.438720703125
+0242380,Kwethluk,,,,Kwethluk corporation tank farm,18,394500,115000,276000,,,3500,t,f,f,,Crowley/Vitus,,,,AEA,2024 Assessment,2023,2024,60.8098578096617,-161.418821184499
 0242380,Kwethluk,815,ANC-K-050,281-BF-01,Kwethluk Electric Utility,,25000,,,,,,t,f,f,t,,,,71,AEA,,,,60.8115234375,-161.43389892578125
 0242380,Kwethluk,,,,Kwethluk Tank Farm,7,143000,,143000,,,,t,f,f,f,,,,,DEC,,,,60.81011962890625,-161.418701171875
 0242380,Kwethluk,,,,Kwethluk Tank Farm,2,46000,,46000,,,,,,,f,,,,,DEC,,,,60.80731201171875,-161.42120361328125
 0242380,Kwethluk,,ANC-K-053,,Kwethluk Tank Farm,10,208750,116750,92000,,,,t,f,f,t,,,,,DEC,,,,60.81011962890625,-161.418701171875
-0242380,Kwethluk,,,,Kwethluk corporation tank farm,18,394500,115000,276000,,,3500,t,f,f,,Crowley/Vitus,,,,AEA,2024 Assessment,2023,2024,60.8098578096617,-161.418821184499
 0242380,Kwethluk,,ANC-K-052,,Lower Kuskokwim School District,5,78000,,78000,,,,t,f,f,t,,,,,DEC,,,,60.8074951171875,-161.42279052734375
 0242380,Kwethluk,,,,School Tank Farm,4,61508,,61508,,,,t,f,f,,Crowley / vitus,,,,AEA,2024 Assessment,2023,2024,60.80726343,-161.42138927
 0242490,Kwigillingok,385,,121-BF-02,Alaska Army National Guard,,4600,,,,,,t,f,f,f,,,,744,AEA,,,,65.97991943359375,-161.13177490234375
@@ -1219,15 +1219,15 @@ Foundations:  Belly of tank more than 12i",,47,AEA,2015 Assessment,2015,2015,66.
 0243810,Levelock,,,,Levelock Village Council Tank Farm,6,138000,18000,120000,,,,t,f,f,,Vitus,,,,AEA,2024 Assessment,2023,2024,59.1125128757584,-156.858652272516
 0244030,Lime Village,233,,,Iditarod Area Schools,,1000,,,,,,t,t,f,f,,,,538,AEA,,,,61.35552978515625,-155.43719482421875
 0244030,Lime Village,232,,287-BF-01,Iditarod Area Schools,,7000,,,,,,t,t,f,f,,,,980,AEA,,,,61.35552978515625,-155.43719482421875
+0244030,Lime Village,235,,,lime Village Electric Utility,,3000,,,,,,t,t,f,f,,,,102,AEA,,,,61.3560791015625,-155.43658447265625
 0244030,Lime Village,234,,,Lime Village Traditional Council,,7200,,,,,,t,t,f,f,,,,70,AEA,,,,61.35528564453125,-155.43548583984375
 0244030,Lime Village,236,,,United Utilities,,1000,,,,,,t,t,f,f,,,,103,AEA,,,,61.35491943359375,-155.435791015625
-0244030,Lime Village,235,,,lime Village Electric Utility,,3000,,,,,,t,t,f,f,,,,102,AEA,,,,61.3560791015625,-155.43658447265625
 0244580,Livengood,,,,AT&T,4,3900,,3900,,,,f,t,f,f,,,,,DEC,,,,65.58807373046875,-148.47869873046875
 0244580,Livengood,,,,AT&T,4,5000,,5000,,,,f,t,f,f,,,,,DEC,,,,66.0145263671875,-149.814208984375
 0244580,Livengood,,,,DOT&PF Livengood MS,5,16000,3000,13000,,,,f,f,t,f,,,,,DEC,,,,65.522705078125,-148.5491943359375
 0244580,Livengood,,,,GCI Communication Corp.,1,2000,,2000,,,,f,f,t,f,,,,,DEC,,,,65.47271728515625,-148.64947509765625
-0245460,Lower Kalskag,,,,AVEC Tank Farm,7,189000,,189000,,,,t,f,f,,Lucy Jordanitus,,,,AEA,2024 Assessment,2023,2024,61.5267456735407,-160.347894806976
 0245460,Lower Kalskag,237,,,Alaska Village Electric Cooperative,,103500,,,,,,t,f,f,f,,,,184,AEA,,,,61.51287841796875,-160.36309814453125
+0245460,Lower Kalskag,,,,AVEC Tank Farm,7,189000,,189000,,,,t,f,f,,Lucy Jordanitus,,,,AEA,2024 Assessment,2023,2024,61.5267456735407,-160.347894806976
 0245460,Lower Kalskag,239,,,City of Lower Kalskag,,74770,,,,,,t,f,f,f,,,,186,AEA,,,,61.5126953125,-160.36407470703125
 0245460,Lower Kalskag,,,,Kalskag City Tank Farm,6,206000,27000,159000,,,20000,t,f,f,,Crowley/Vitus,,,,AEA,2024 Assessment,2023,2024,61.5262086336166,-160.348428145839
 0245460,Lower Kalskag,,,,Kalskag Morgan's Fuel Tank Farm,6,145000,81000,54000,,,10000,t,f,f,,Vitus,,,,AEA,2024 Assessment,2023,2024,61.526003719582,-160.348633384922
@@ -1269,32 +1269,32 @@ Foundations:  Belly of tank more than 12i",100,191,AEA,2017 Letter Report & Best
 0246010,McGrath,,ANC-M-009,,McGrath Light & Power,4,392500,,392500,,,,t,f,f,t,,,,,DEC,,,,62.95672607421875,-155.59442138671875
 0246010,McGrath,,,,Yukon Fuel Company,,,,,,,,,,,f,,,,,,,,,62.9500732421875,-155.58837890625
 0247990,Mekoryuk,,,,Alaska Army National Guard,1,1500,,1500,,,,f,f,t,f,,,,,DEC,,,,60.38787841796875,-166.1875
-0247990,Mekoryuk,602,,,Alaska Village Electric Cooperative,,84900,,,,,,t,f,f,f,,,,198,AEA,,,,60.388671875,-166.1881103515625
 0247990,Mekoryuk,,ANC-M-014,,Alaska Village Electric Cooperative,4,108000,,108000,,,,,,,t,,,,,DEC,,,,60.3892822265625,-166.18792724609375
+0247990,Mekoryuk,602,,,Alaska Village Electric Cooperative,,84900,,,,,,t,f,f,f,,,,198,AEA,,,,60.388671875,-166.1881103515625
 0247990,Mekoryuk,594,,293-BF-04,Bering Sea Reindeer Products,,15900,,,,,,t,f,f,f,,,,597,AEA,,,,60.38067626953125,-166.21710205078125
 0247990,Mekoryuk,,,293-BF-07,Lower Kuskokwim School District,3,56500,,56500,,,,t,f,f,f,,,,,DEC,,,,60.386474609375,-166.1890869140625
 0247990,Mekoryuk,,,,Mekoryuk LKSD School Tank Farm,3,56500,,56500,,,,t,f,t,,Crowley,,,,AEA,2024 Assessment,2023,2024,60.3885380478857,-166.195884827389
 0247990,Mekoryuk,,,,Mekoryuk Shared Tank Farm,4,108000,,108000,,,,t,f,f,,Vitus or Crowley,,,,AEA,2024 Assessment,2023,2024,60.3890945763201,-166.197052001998
 0247990,Mekoryuk,,,,Mekoryuk Tank Farm,2,29500,,29500,,,,t,f,f,f,,,,,DEC,,,,60.388916015625,-166.1875
 0247990,Mekoryuk,,,293-BF-01,Mekoryuk Tank Farm,7,167000,59000,108000,,,,t,f,f,f,,,,,DEC,,,,60.3892822265625,-166.1873779296875
-0247990,Mekoryuk,597,ANC-M-016,293-BF-03,NIMA Corporation,,34700,,,,,,t,f,f,t,,,,194,AEA,,,,60.38812255859375,-166.185302734375
 0247990,Mekoryuk,596,,294-BF-05,NIMA Corporation,,43800,,,,,,t,f,f,f,,,,640,AEA,,,,60.38848876953125,-166.18780517578125
+0247990,Mekoryuk,597,ANC-M-016,293-BF-03,NIMA Corporation,,34700,,,,,,t,f,f,t,,,,194,AEA,,,,60.38812255859375,-166.185302734375
 0247990,Mekoryuk,,,,NIMA Store & City Shared Tank Farm,9,180000,80000,100000,,,,t,f,f,,Vitus,,,,AEA,2024 Assessment,2023,2024,60.3890097570609,-166.19756698604
 0248540,Mentasta Lake,,,,Alaska Gateway School District,1,10000,,10000,,,,f,f,t,f,,,,,DEC,,,,62.92950439453125,-143.798583984375
 0248590,Mertarvik,,,,Mertarvik Village Council Tank Farm,4,80546,24171,56375,,,,t,f,f,,Vitus,,,,AEA,2024 Assessment,2023,2024,60.8213425162617,-164.509847300145
-0248870,Metlakatla,,,294-BF-01,AT&T,1,6000,,6000,,,,f,t,f,f,,,,,DEC,,,,54.91748046875,-130.84222412109375
 0248870,Metlakatla,47,,294-BF-03,Annette Island Gas Service,7,77400,30000,45600,,,,t,f,f,f,Petro Marine,"Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well. 
 Secondary Containment:  No containment; Inadequate containment. 
 Foundations:  Belly of tank more than 12i",400,888,AEA,2015 Assessment,2015,2015,55.12371826171875,-131.5576171875
 0248870,Metlakatla,,,,Annette Island Gas Station,9,93039,40051,38005,,,14983,t,f,f,,Petro Marine,,,,AEA,2024 Assessment,2023,2024,55.1229492850001,-131.563564193
 0248870,Metlakatla,,,294-BF-02,Annette Island School District,4,10000,,10000,,,,f,f,t,f,,,,,DEC,,,,55.1251220703125,-131.57568359375
+0248870,Metlakatla,,,294-BF-01,AT&T,1,6000,,6000,,,,f,t,f,f,,,,,DEC,,,,54.91748046875,-130.84222412109375
 0248870,Metlakatla,,,,Federal Aviation Administration,1,1000,,1000,,,,f,f,t,f,,,,,DEC,,,,55.06048583984375,-131.5780029296875
 0248870,Metlakatla,45,,,Guthrie Fuel Service,,117000,,,,,,t,f,f,f,,,,886,AEA,2015 Assessment,2015,2015,55.12127685546875,-131.56060791015625
 0248870,Metlakatla,46,,,Louisiana Pacific Ketchikan,,11300,,,,,,t,f,f,f,,,,887,AEA,2015 Assessment,2015,2015,55.1248779296875,-131.56390380859375
-0248870,Metlakatla,,,,Metlakatla Power & Light,9,410000,,410000,,,,t,f,f,,Petro Marine,,,,AEA,2024 Assessment,2023,2024,55.1213052160001,-131.56012992
 0248870,Metlakatla,48,,,Metlakatla Power and Light,10,411800,,410000,,,1800,t,f,f,f,Petro Marine,"Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well. 
 Secondary Containment:  No containment; Inadequate containment. 
 Foundations:  Belly of tank more than 12i",100,889,AEA,2015 Assessment,2015,2015,55.11712646484375,-131.54608154296875
+0248870,Metlakatla,,,,Metlakatla Power & Light,9,410000,,410000,,,,t,f,f,,Petro Marine,,,,AEA,2024 Assessment,2023,2024,55.1213052160001,-131.56012992
 0249530,Minto,,,,Alaska Village Electric Cooperative,7,42000,,42000,,,,,,,f,,,,,DEC,,,,65.14788818359375,-149.35400390625
 0249530,Minto,,,,DOT&PF Minto APT,1,3000,,3000,,,,f,t,f,f,,,,,DEC,,,,65.14630126953125,-149.3662109375
 0249530,Minto,,,,Minto AVEC Tank Farm,9,53216,,41416,,,11800,f,f,t,,Crowley or Vitus,,,,AEA,2024 Assessment,2023,2024,65.1478964071368,-149.353951855327
@@ -1320,8 +1320,8 @@ Foundations:  Belly of tank more than 12i",100,206,AEA,2015 Assessment,2015,2015
 0252060,Naknek,,,297-BF-05,Bristol Bay Express,1,3000,3000,,,,,t,f,f,f,,,,,DEC,,,,58.7454833984375,-156.9578857421875
 0252060,Naknek,,,,D & D Restaurant,1,1000,,1000,,,,f,f,t,f,,,,,DEC,,,,58.727294921875,-157.019287109375
 0252060,Naknek,,,297-BF-01,Delta Western,1,5000,5000,,,,,t,f,f,f,,,,,DEC,,,,58.72747802734375,-157.0142822265625
-0252060,Naknek,,ANC-N-003,,L&M Equipment,,,,,,,,,,,t,,,,,,,,,58.728271484375,-157.0198974609375
 0252060,Naknek,,,299-BF-01,Leader Creek Fisheries Inc.,3,22000,1000,21000,,,,f,f,t,f,,,,,DEC,,,,58.74627685546875,-156.94879150390625
+0252060,Naknek,,ANC-N-003,,L&M Equipment,,,,,,,,,,,t,,,,,,,,,58.728271484375,-157.0198974609375
 0252060,Naknek,,,,Naknek Engine Sales & SRV,3,7000,6000,1000,,,,,,,f,,,,,DEC,,,,58.728271484375,-157.013427734375
 0252060,Naknek,,ANC-N-008,,North Pacific Seafoods,12,38220,1000,37220,,,,f,f,t,t,,,,,DEC,,,,58.7376708984375,-156.97802734375
 0252060,Naknek,,,,North Pacific Seafoods,8,263300,9700,253600,,,,t,f,f,f,,,,,DEC,,,,58.761474609375,-157.0623779296875
@@ -1334,14 +1334,14 @@ Secondary Containment:  No containment; Inadequate containm",,829,AEA,2015 Asses
 0252390,Napakiak,834,,299-BF-04,Jung's Trading Post,,1530,,,,,,t,f,f,f,,,,213,AEA,,,,60.6934814453125,-161.97259521484375
 0252390,Napakiak,830,ANC-N-013,299-BF-02,Lower Kuskokwim Schools,,76156,,,,,,t,f,f,t,,,,209,AEA,,,,60.8109130859375,-161.4224853515625
 0252390,Napakiak,,,300-BF-02,Napakiak Airport Maintenance Station,2,2100,,2100,,,,f,f,t,f,,,,,DEC,,,,60.69390869140625,-161.97747802734375
-0252390,Napakiak,,,,Napakiak Corp. Tank Farm,6,106000,40000,60000,,,6000,t,f,f,,Crowley,,,,AEA,2024 Assessment,2023,2024,60.69341336,-161.97273852
 0252390,Napakiak,831,ANC-N-014,300-BF-04,Napakiak Corporation,,59000,,,,,,t,f,f,t,,,,210,AEA,,,,60.6962890625,-161.98199462890625
+0252390,Napakiak,,,,Napakiak Corp. Tank Farm,6,106000,40000,60000,,,6000,t,f,f,,Crowley,,,,AEA,2024 Assessment,2023,2024,60.69341336,-161.97273852
 0252390,Napakiak,833,,,Napakiak Marina,,3200,,,,,,t,f,f,f,,,,212,AEA,,,,60.69610595703125,-161.97869873046875
 0252720,Napaskiak,840,,,Alaska Army National Guard,,1500,,,,,,t,f,f,f,,,,81,AEA,,,,60.707275390625,-161.763427734375
 0252720,Napaskiak,,,,Napaskiak Corporation Tank Farm,9,187653,10152,157301,,,20200,t,f,f,,Crowley/Vitus,,,,AEA,2024 Assessment,2023,2024,60.7055219755975,-161.764635743092
 0252720,Napaskiak,,ANC-N-019,,Napaskiak Tank Farm,4,89200,,89200,,,,t,f,f,t,,,,,DEC,,,,60.7056884765625,-161.764404296875
-0252720,Napaskiak,,ANC-N-067,,Napaskiak Tank Farm,4,45500,20200,25300,,,,f,f,t,t,,,,,DEC,,,,60.7056884765625,-161.764404296875
 0252720,Napaskiak,,,305-BF-01,Napaskiak Tank Farm,2,34300,,34300,,,,t,f,f,f,,,,,DEC,,,,60.7078857421875,-161.76080322265625
+0252720,Napaskiak,,ANC-N-067,,Napaskiak Tank Farm,4,45500,20200,25300,,,,f,f,t,t,,,,,DEC,,,,60.7056884765625,-161.764404296875
 0252845,Naukati Bay,,,297-BF-03,Alaska Power & Telephone,1,4000,,4000,,,,f,f,t,f,,,,,DEC,,,,55.86871337890625,-133.215576171875
 0252845,Naukati Bay,,,,Naukati Connection Store,3,2258,1694,564,,,,f,f,t,,Petro Marine,,,,AEA,2024 Assessment,2023,2024,55.871014657,-133.204415449
 0252845,Naukati Bay,,,305-BF-03,Southeast Island School District,1,2000,,2000,,,,f,f,t,f,,,,,DEC,,,,55.868896484375,-133.20257568359375
@@ -1352,19 +1352,19 @@ Secondary Containment:  No containment; Inadequate containm",,829,AEA,2015 Asses
 0252940,Nelson Lagoon,,,,Nelson Lagoon Enterprises Tank Farm,12,255000,58000,197000,,,,t,f,f,,Crowley,,,,AEA,2024 Assessment,2023,2024,56.0065943484817,-161.177271595374
 0253050,Nenana,,,,DOT&PF Nenana MS,2,4000,3000,1000,,,,f,f,t,f,,,,,DEC,,,,64.55908203125,-149.0853271484375
 0253050,Nenana,,,308-BF-06,Federal Aviation Administration,1,1000,,1000,,,,f,f,t,f,,,,,DEC,,,,64.590087890625,-149.07281494140625
-0253710,New Stuyahok,,,,AVEC Power Plant Tank Farm,8,216000,,216000,,,,t,f,f,,Vitus,,,,AEA,2024 Assessment,2023,2024,59.4483481828128,-157.324992274651
-0253710,New Stuyahok,,ANC-N-023,308-BF-03,Alaska Village Electric Cooperative,8,216000,,216000,,,,,,,t,,,,,DEC,,,,59.44830322265625,-157.3251953125
-0253710,New Stuyahok,973,,308-BF-01,Alaska Village Electric Cooperative,,84400,,,,,,t,f,f,f,,,,219,AEA,,,,59.44970703125,-157.314208984375
-0253710,New Stuyahok,,,,New Stuyahok Fuel Company,10,253000,81000,162000,,,10000,t,f,f,,Vitus,,,,AEA,2024 Assessment,2023,2024,59.4497956318194,-157.314560451519
-0253710,New Stuyahok,,ANC-N-025,308-BF-04,New Stuyahok Maintenance Station,2,2000,,2000,,,,t,f,f,t,,,,,DEC,,,,59.45709228515625,-159.37481689453125
-0253710,New Stuyahok,,,,New Stuyahok School,5,103604,,103604,,,,t,f,f,,Vitus,,,,AEA,2024 Assessment,2023,2024,59.4485328509951,-157.325387859189
-0253710,New Stuyahok,,ANC-N-026,308-BF-02,Southwest Region School District,6,111600,,111600,,,,t,f,f,t,,,,,DEC,,,,59.4500732421875,-157.32318115234375
-0253710,New Stuyahok,974,,308-BF-05,Stuyahok,,41000,,,,,,t,f,f,f,,,,220,AEA,,,,59.44952392578125,-157.31451416015625
 0253270,Newhalen,261,,,City of Newhalen,,191700,,,,,,t,t,f,f,,,,371,AEA,,,,59.719482421875,-154.89141845703125
 0253270,Newhalen,263,,,City of Newhalen,,3500,,,,,,t,t,f,f,,,,373,AEA,,,,59.720703125,-154.89678955078125
 0253270,Newhalen,,,,INN Electric Coop Tank Farm,4,108000,,108000,,,,f,f,t,,Iliamna Development Corporation & Everts Air Fuel,,,,AEA,2024 Assessment,2023,2024,59.7201695388325,-154.893808492965
 0253270,Newhalen,,,,Lake and Peninsula School District,1,5000,,5000,,,,f,f,t,f,,,,,DEC,,,,59.7200927734375,-154.89581298828125
 0253270,Newhalen,262,,,Nondalton Village Corp.,,165000,,,,,,t,t,f,f,,,,372,AEA,,,,59.72052001953125,-154.8955078125
+0253710,New Stuyahok,,ANC-N-023,308-BF-03,Alaska Village Electric Cooperative,8,216000,,216000,,,,,,,t,,,,,DEC,,,,59.44830322265625,-157.3251953125
+0253710,New Stuyahok,973,,308-BF-01,Alaska Village Electric Cooperative,,84400,,,,,,t,f,f,f,,,,219,AEA,,,,59.44970703125,-157.314208984375
+0253710,New Stuyahok,,,,AVEC Power Plant Tank Farm,8,216000,,216000,,,,t,f,f,,Vitus,,,,AEA,2024 Assessment,2023,2024,59.4483481828128,-157.324992274651
+0253710,New Stuyahok,,,,New Stuyahok Fuel Company,10,253000,81000,162000,,,10000,t,f,f,,Vitus,,,,AEA,2024 Assessment,2023,2024,59.4497956318194,-157.314560451519
+0253710,New Stuyahok,,ANC-N-025,308-BF-04,New Stuyahok Maintenance Station,2,2000,,2000,,,,t,f,f,t,,,,,DEC,,,,59.45709228515625,-159.37481689453125
+0253710,New Stuyahok,,,,New Stuyahok School,5,103604,,103604,,,,t,f,f,,Vitus,,,,AEA,2024 Assessment,2023,2024,59.4485328509951,-157.325387859189
+0253710,New Stuyahok,,ANC-N-026,308-BF-02,Southwest Region School District,6,111600,,111600,,,,t,f,f,t,,,,,DEC,,,,59.4500732421875,-157.32318115234375
+0253710,New Stuyahok,974,,308-BF-05,Stuyahok,,41000,,,,,,t,f,f,f,,,,220,AEA,,,,59.44952392578125,-157.31451416015625
 0253820,Newtok,,,,National Guard Armory,,,,,,,,t,f,f,f,,,,,USCG,2016 Letter Report,2016,2016,59.93408203125,-164.0382080078125
 0253820,Newtok,614,ANC-N-030,311-BF-03,Newtok Native Corporation,6,45900,21900,24000,,,,t,f,f,t,Delta Western Crowley Marine Vitus Marine,"Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well. 
 Secondary Containment:  No containment; Inadequate containment. 
@@ -1388,8 +1388,8 @@ Foundations:  Belly of tank more than 12i",50,225,AEA,2016 Letter Report & Best 
 0253930,Nightmute,710,ANC-C-028,436-BF-04,Lower Kuskokwim School District,,24700,,,,,,t,f,f,t,,,,515,AEA,,,,60.85687255859375,-162.2764892578125
 0253930,Nightmute,,,,Nightmute Airport Maintenance Station,2,2000,,2000,,,,f,f,t,f,,,,,DEC,,,,60.47271728515625,-164.6995849609375
 0253930,Nightmute,627,,314-BF-06,Nightmute Power Co.,,7000,,,,,,t,f,f,f,,,,240,AEA,,,,60.4794921875,-164.7255859375
-0253930,Nightmute,622,,314-BF-02,Nightmute Power Co. Plant,,42900,,,,,,t,f,f,f,,,,228,AEA,,,,60.4794921875,-164.72540283203125
 0253930,Nightmute,624,ANC-N-037,314-BF-01,Nightmute Power Company Plant,,40000,,,,,,t,f,f,t,,,,229,AEA,,,,60.47930908203125,-164.72552490234375
+0253930,Nightmute,622,,314-BF-02,Nightmute Power Co. Plant,,42900,,,,,,t,f,f,f,,,,228,AEA,,,,60.4794921875,-164.72540283203125
 0253930,Nightmute,,,,Nightmute Shared Tank Farm,7,158000,37000,111000,,,10000,t,f,f,,Crowley,,,,AEA,2024 Assessment,2023,2024,60.4787868427402,-164.720897755897
 0253930,Nightmute,626,,,Our Lady of Perpetual Help Church,,1650,,,,,,t,f,f,f,,,,600,AEA,,,,60.47930908203125,-164.72760009765625
 0253930,Nightmute,621,,314-BF-04,Unknown,,2700,,,,,,t,f,f,f,,,,641,AEA,,,,59.7554931640625,-154.902099609375
@@ -1404,11 +1404,11 @@ Foundations:  Belly of tank more than 12i",50,225,AEA,2016 Letter Report & Best 
 0254480,Ninilchik,,,319-BF-02,AK DOT&PF Ninilchik Maintenance Station,1,4000,,4000,,,,f,f,t,f,,,,,DEC,,,,60.04571533203125,-151.66839599609375
 0254480,Ninilchik,,,,Hilcorp,1,3800,,3800,,,,f,f,t,f,,,,,DEC,,,,59.98529052734375,-151.48760986328125
 0254480,Ninilchik,,,,Kenai Peninsula Borough,1,1000,,1000,,,,f,f,t,f,,,,,DEC,,,,60.04327392578125,-151.67510986328125
+0254700,Noatak,,,319-BF-01,Alaska Village Electric Cooperative,12,95100,,95100,,,,,,,f,,,,,DEC,,,,67.5706787109375,-162.96630859375
 0254700,Noatak,427,,,AVEC Power Plant,12,95300,,95300,,,,f,t,f,f,Everts Air Cargo,"Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well. 
 Secondary Containment:  No containment; Inadequate containment. 
 Foundations:  Belly of tank more than 12i",,233,AEA,2016 Letter Report,2016,2016,61.87847900390625,-162.084716796875
 0254700,Noatak,,,,AVEC Tank Farm,12,91513,,91513,,,,f,t,f,,Everts,,,,AEA,2024 Assessment,2023,2024,67.570711464708,-162.966107168642
-0254700,Noatak,,,319-BF-01,Alaska Village Electric Cooperative,12,95100,,95100,,,,,,,f,,,,,DEC,,,,67.5706787109375,-162.96630859375
 0254700,Noatak,,,,IRA Water Treatment Plant Tank Farm,2,20904,,20904,,,,f,t,f,,Everts,,,,AEA,2024 Assessment,2023,2024,67.5705948103467,-162.966401765327
 0254700,Noatak,,,,Native Retail Tank Farm,3,23550,11778,11772,,,,f,t,f,,Everts,,,,AEA,2024 Assessment,2023,2024,67.5701034311669,-162.966262862943
 0254700,Noatak,430,,322-BF-10,Noatak IRA Native Store,2,20000,10000,10000,,,,f,t,f,f,Everts Air Cargo,"Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well. 
@@ -1421,12 +1421,12 @@ Foundations:  Belly of tank more than 12i",,234,AEA,2016 Letter Report & Best Pr
 0254700,Noatak,,,,Noatak New School Tank Farm,1,12000,,12000,,,,f,t,f,,Everts,,,,AEA,2024 Assessment,2023,2024,67.5721078928329,-162.989950888232
 0254700,Noatak,,,,Noatak Old School Tank Farm,15,76140,,76140,,,,f,t,f,,Everts,,,,AEA,2024 Assessment,2023,2024,67.5682645528303,-162.970195967737
 0254700,Noatak,,,,Northwest Arctic Borough School District,16,99700,,99700,,,,t,f,f,f,,,,,DEC,,,,67.56829833984375,-162.97039794921875
-0254920,Nome,,,322-BF-08,AT&T,1,2000,,2000,,,,f,f,t,f,,,,,DEC,,,,64.49688720703125,-165.40399169921875
 0254920,Nome,,,,Alaska Airlines,2,2200,1000,1200,,,,f,f,t,f,,,,,DEC,,,,64.5076904296875,-165.44219970703125
 0254920,Nome,,,322-BF-05,Alaska Army National Guard,1,10000,,10000,,,,f,f,t,f,,,,,DEC,,,,64.52008056640625,-165.42999267578125
-0254920,Nome,,,322-BF-07,Alaska Army National Guard,1,1500,,1500,,,,f,f,t,f,,,,,DEC,,,,64.5001220703125,-165.4000244140625
 0254920,Nome,,,322-BF-09,Alaska Army National Guard,1,1500,,1500,,,,f,f,t,f,,,,,DEC,,,,64.5001220703125,-165.4000244140625
+0254920,Nome,,,322-BF-07,Alaska Army National Guard,1,1500,,1500,,,,f,f,t,f,,,,,DEC,,,,64.5001220703125,-165.4000244140625
 0254920,Nome,,,322-BF-04,Alaska Commercial Company,1,5000,,5000,,,,f,f,t,f,,,,,DEC,,,,64.50567626953125,-165.4053955078125
+0254920,Nome,,,322-BF-08,AT&T,1,2000,,2000,,,,f,f,t,f,,,,,DEC,,,,64.49688720703125,-165.40399169921875
 0254920,Nome,,,,Bering Straits Regional Housing Authority,1,1000,,1000,,,,f,f,t,f,,,,,DEC,,,,64.4945068359375,-165.38299560546875
 0254920,Nome,,,325-BF-02,City of Nome,7,7600,,7600,,,,f,f,t,f,,,,,DEC,,,,64.498291015625,-165.409912109375
 0254920,Nome,,,,DOT&PF Nome APT,3,11000,,11000,,,,t,f,f,f,,,,,DEC,,,,64.5120849609375,-165.43548583984375
@@ -1450,9 +1450,9 @@ Foundations:  Belly of tank more than 12i",,288,AEA,2015 Assessment,2015,2015,59
 0255030,Nondalton,272,,,School Teacher Housing Tank Farm,3,5400,,5400,,,,f,t,f,f,Everts Air Cargo,"Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well. 
 Secondary Containment:  No containment; Inadequate containment. 
 Foundations:  Belly of tank more than 12i",,290,AEA,2015 Assessment,2015,2015,59.9669189453125,-154.857421875
-0255140,Noorvik,,,,AVEC tank farm,8,216000,,216000,,,,t,f,f,,Crowley barge,,,,AEA,2024 Assessment,2023,2024,66.834074890017,-161.037310694018
 0255140,Noorvik,432,,332-BF-04,Alaska Village Electric Cooperative,,145700,,,,,,t,f,f,f,,,,236,AEA,,,,64.3228759765625,-158.7239990234375
 0255140,Noorvik,,ANC-N-049,332-BF-03,Alaska Village Electric Cooperative,8,216000,,216000,,,,,,,t,,,,,DEC,,,,66.83428955078125,-161.03839111328125
+0255140,Noorvik,,,,AVEC tank farm,8,216000,,216000,,,,t,f,f,,Crowley barge,,,,AEA,2024 Assessment,2023,2024,66.834074890017,-161.037310694018
 0255140,Noorvik,434,,,City of Noorvik,,30900,,,,,,t,f,f,f,,,,238,AEA,,,,66.83367919921875,-161.03900146484375
 0255140,Noorvik,436,,,Morris Trading Post,,59000,,,,,,t,f,f,f,,,,239,AEA,,,,66.83251953125,-161.04840087890625
 0255140,Noorvik,,,,Noorvik Co-located Tank Farm- Native store,22,376000,84600,251400,,,40000,t,f,f,,Crowley,,,,AEA,2024 Assessment,2023,2024,66.8335188240279,-161.0388985418
@@ -1508,13 +1508,13 @@ Foundations:  Belly of tank more than 12i",,939,AEA,2015 Assessment,2015,2015,70
 0256320,Nuiqsut,1087,,249-BF-10,North Slope Borough,1,2000,,2000,,,,t,f,f,f,Kaktovik Inupiat Corporation,"Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well. 
 Secondary Containment:  No containment; Inadequate containment. 
 Foundations:  Belly of tank more than 12i",,1050,AEA,2015 Assessment,2015,2015,70.48150634765625,-157.42510986328125
-0256320,Nuiqsut,,,345-BF-02,North Slope Borough School District,1,2500,,2500,,,,f,f,t,f,,,,,DEC,,,,70.21990966796875,-150.9949951171875
 0256320,Nuiqsut,449,,346-BF-02,North Slope BoroughNuiqsut Old Public Safety Building,,2000,,,,,,f,t,f,f,,,,950,AEA,2015 Assessment,2015,2015,70.21429443359375,-150.9990234375
+0256320,Nuiqsut,,,345-BF-02,North Slope Borough School District,1,2500,,2500,,,,f,f,t,f,,,,,DEC,,,,70.21990966796875,-150.9949951171875
 0256320,Nuiqsut,450,,346-BF-03,Nuiqsut Assembly of God Church,,1100,,,,,,f,t,f,f,,,,951,AEA,2015 Assessment,2015,2015,70.21490478515625,-150.99481201171875
 0256320,Nuiqsut,,,,Nuiqsut Bulk Fuel Tank Farm,6,468000,64000,404000,,,,f,t,t,,Colville,,,,AEA,2024 Assessment,2023,2024,70.2137526423288,-150.999003860046
 0256320,Nuiqsut,,,,Power Plant Tank Farm,4,160000,,160000,,,,f,f,t,,Colville,,,,AEA,2024 Assessment,2023,2024,70.22026947,-150.99668473
-0256350,Nulato,,,,ANDREW K. DEMOSKI SCHOOL FUEL STORAGE FACILITY,5,40000,,40000,,,,t,f,f,,Ruby Marine,,,,AEA,2024 Assessment,2023,2024,64.7175529448829,-158.110222012923
 0256350,Nulato,,ANC-N-055,346-BF-01,Alaska Village Electric Cooperative,14,109800,,109800,,,,,,,t,,,,,DEC,,,,64.72149658203125,-158.0977783203125
+0256350,Nulato,,,,ANDREW K. DEMOSKI SCHOOL FUEL STORAGE FACILITY,5,40000,,40000,,,,t,f,f,,Ruby Marine,,,,AEA,2024 Assessment,2023,2024,64.7175529448829,-158.110222012923
 0256350,Nulato,,,,City Fuel Depot,6,146995,65500,57700,,,23795,t,f,f,,Ruby Marine,,,,AEA,2024 Assessment,2023,2024,64.7215604232714,-158.101325750601
 0256350,Nulato,,ANC-N-057,,City of Nulato,5,88000,50000,38000,,,,t,f,f,t,,,,,DEC,,,,64.721923828125,-158.1011962890625
 0256350,Nulato,,,346-BF-06,DOT&PF Nulato APT,1,3000,,3000,,,,f,t,f,f,,,,,DEC,,,,64.7216796875,-158.105712890625
@@ -1541,8 +1541,8 @@ Foundations:  Belly of tank more than 12i",20,250,AEA,2015 Assessment & Best Pra
 0256680,Nunapitchuk,845,,350-BF-01,Teacher Housing & AVEC Backup Power,1,27000,,27000,,,,t,f,f,f,Delta Western Crowley Marine Vitus Marine,"Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well. 
 Secondary Containment:  No containment; Inadequate containment. 
 Foundations:  Belly of tank more than 12i",50,253,AEA,2015 Assessment,2015,2015,60.896484375,-162.460205078125
-0257340,Old Harbor,,,,AVEC Tank Farm,4,39563,,39563,,,,t,f,f,,Petro Marine,,,,AEA,2024 Assessment,2023,2024,57.2086330836933,-153.304136199958
 0257340,Old Harbor,,,350-BF-02,Alaska Village Electric Cooperative,4,39300,,39300,,,,,,,f,,,,,DEC,,,,57.20867919921875,-153.3040771484375
+0257340,Old Harbor,,,,AVEC Tank Farm,4,39563,,39563,,,,t,f,f,,Petro Marine,,,,AEA,2024 Assessment,2023,2024,57.2086330836933,-153.304136199958
 0257340,Old Harbor,,,,City of Old Harbor Tank Farm,5,108000,27000,66000,,,15000,t,f,f,,Petro Marine,,,,AEA,2024 Assessment,2023,2024,57.2083151543056,-153.303720253144
 0257340,Old Harbor,77,,351-BF-01,Old Harbor Fuel Company,,76400,,,,,,t,f,f,f,,,,646,AEA,,,,57.20428466796875,-153.305908203125
 0257340,Old Harbor,79,,351-BF-02,Old Harbor Native Corporation,,5300,,,,,,t,f,f,f,,,,648,AEA,,,,57.20428466796875,-153.305908203125
@@ -1557,8 +1557,8 @@ Foundations:  Belly of tank more than 12i",150,72,AEA,2015 Assessment,2015,2015,
 0258550,Ouzinkie,,,,Kodiak Island Borough School District,1,5500,,5500,,,,f,f,t,f,,,,,DEC,,,,57.9224853515625,-152.5078125
 0258550,Ouzinkie,80,,,Ouzinkie Native Corp. Fuel Facility,,71600,,,,,,t,f,f,f,,,,649,AEA,,,,57.92108154296875,-152.4871826171875
 0258550,Ouzinkie,,,353-BF-06,Ouzinkie State Airport SREB,2,3000,,3000,,,,f,f,t,f,,,,,DEC,,,,57.9412841796875,-152.472412109375
-0258550,Ouzinkie,,,353-BF-04,Spruce Island Fuel Tank Farm,4,80000,,80000,,,,t,f,f,f,,,,,DEC,,,,57.92071533203125,-152.502197265625
 0258550,Ouzinkie,,,,Spruce Island Fuels Tank Farm,4,80000,,80000,,,,t,f,f,,Petro Marine,,,,AEA,2024 Assessment,2023,2024,57.9209344114955,-152.501829764429
+0258550,Ouzinkie,,,353-BF-04,Spruce Island Fuel Tank Farm,4,80000,,80000,,,,t,f,f,f,,,,,DEC,,,,57.92071533203125,-152.502197265625
 0258660,Palmer,,,353-BF-05,AT&T,1,2000,,2000,,,,f,f,t,f,,,,,DEC,,,,61.619873046875,-149.256591796875
 0258660,Palmer,,,315-BF-04,AT&T,1,3000,,3000,,,,f,f,t,f,,,,,DEC,,,,61.7880859375,-147.67559814453125
 0258660,Palmer,,,353-BF-01,City of Palmer,2,8000,4000,4000,,,,f,f,t,f,,,,,DEC,,,,61.59027099609375,-149.113525390625
@@ -1598,8 +1598,8 @@ Foundations:  Belly of tank more than 12i",150,72,AEA,2015 Assessment,2015,2015,
 0260640,Pilot Point,,,,City of Pilot Point Dispensing,2,30000,,15000,,,15000,f,f,t,,Crowley,,,,AEA,2024 Assessment,2023,2024,57.5638678386914,-157.57537294234
 0260640,Pilot Point,,,,City of Pilot Point Tank Farm,6,178000,50000,128000,,,,t,f,f,,Crowley,,,,AEA,2024 Assessment,2023,2024,57.5737442449275,-157.584661245493
 0260640,Pilot Point,,,,Lake and Peninsula School District,2,6000,,6000,,,,f,f,t,f,,,,,DEC,,,,57.5640869140625,-157.57427978515625
-0260750,Pilot Station,630,,,ANCSA Village Corporation,,102800,,,,,,t,f,f,f,,,,258,AEA,Best Practice Assessment,,,61.93707275390625,-162.88360595703125
 0260750,Pilot Station,,ANC-P-006,,Alaska Village Electric Cooperative,7,189000,,189000,,,,,,,t,,,,,DEC,,,,61.93768310546875,-162.8909912109375
+0260750,Pilot Station,630,,,ANCSA Village Corporation,,102800,,,,,,t,f,f,f,,,,258,AEA,Best Practice Assessment,,,61.93707275390625,-162.88360595703125
 0260750,Pilot Station,632,ANC-P-007,,City of Pilot Station,,5260,,,,,,t,f,f,t,,,,260,AEA,Best Practice Assessment,,,61.9368896484375,-162.881103515625
 0260750,Pilot Station,,,,Lower Yukon School District,4,65000,3000,62000,,,,t,f,f,f,,,,,DEC,,,,61.9359130859375,-162.89068603515625
 0260750,Pilot Station,,,,Pilot Station AVEC Tank Farm,8,216000,,216000,,,,t,f,f,,Unknown,,,,AEA,2024 Assessment,2023,2024,61.9374968634931,-162.882528305011
@@ -1630,6 +1630,9 @@ Foundations:  Belly of tank more than 12i",0,104,AEA,2015 Assessment,2015,2015,5
 0261630,Point Hope,458,,363-BF-20,North Slope Borough,1,5000,,5000,,,,t,f,f,f,Tikigaq Corporation,"Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well. 
 Secondary Containment:  No containment; Inadequate containment. 
 Foundations:  Belly of tank more than 12i",,1073,AEA,2015 Assessment,2015,2015,68.35009765625,-166.71942138671875
+0261630,Point Hope,460,,363-BF-05,North Slope Borough,1,2500,,2500,,,,t,f,f,f,t,"Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well. 
+Secondary Containment:  No containment; Inadequate containment. 
+Foundations:  Belly of tank more than 12i",,1075,AEA,2015 Assessment,2015,2015,68.3463134765625,-166.746826171875
 0261630,Point Hope,451,ANC-P-012,363-BF-01,North Slope Borough,1,10000,,10000,,,,t,f,f,t,Tikigaq Corporation,"Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well. 
 Secondary Containment:  No containment; Inadequate containment. 
 Foundations:  Belly of tank more than 12i",,1069,AEA,2015 Assessment,2015,2015,68.3485107421875,-166.7373046875
@@ -1639,13 +1642,10 @@ Foundations:  Belly of tank more than 12i",,1076,AEA,2015 Assessment,2015,2015,6
 0261630,Point Hope,453,,,North Slope Borough,1,10000,,10000,,,,t,f,f,f,Tikigaq Corporation,"Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well. 
 Secondary Containment:  No containment; Inadequate containment. 
 Foundations:  Belly of tank more than 12i",,1070,AEA,2015 Assessment,2015,2015,68.34991455078125,-166.71771240234375
-0261630,Point Hope,460,,363-BF-05,North Slope Borough,1,2500,,2500,,,,t,f,f,f,t,"Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well. 
-Secondary Containment:  No containment; Inadequate containment. 
-Foundations:  Belly of tank more than 12i",,1075,AEA,2015 Assessment,2015,2015,68.3463134765625,-166.746826171875
+0261630,Point Hope,,,363-BF-22,North Slope Borough School District,1,5000,,5000,,,,f,f,t,f,,,,,DEC,,,,68.3494873046875,-166.73590087890625
 0261630,Point Hope,456,,363-BF-06,North Slope Borough School District,1,2000,,2000,,,,t,f,f,f,Tikigaq Corporation,"Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well. 
 Secondary Containment:  No containment; Inadequate containment. 
 Foundations:  Belly of tank more than 12i",,1071,AEA,2015 Assessment,2015,2015,68.34967041015625,-166.73590087890625
-0261630,Point Hope,,,363-BF-22,North Slope Borough School District,1,5000,,5000,,,,f,f,t,f,,,,,DEC,,,,68.3494873046875,-166.73590087890625
 0261630,Point Hope,457,,363-BF-02,North Slope Borough School District,1,2000,,2000,,,,t,f,f,f,Tikigaq Corporation,"Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well. 
 Secondary Containment:  No containment; Inadequate containment. 
 Foundations:  Belly of tank more than 12i",,1072,AEA,2015 Assessment,2015,2015,68.34967041015625,-166.735595703125
@@ -1660,27 +1660,28 @@ Foundations:  Belly of tank more than 12i",,1077,AEA,2015 Assessment,2015,2015,6
 0261700,Point Lay,1099,,363-BF-14,Cully Corporation,1,1900,,1900,,,,t,f,f,f,North Slope Borough,"Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well. 
 Secondary Containment:  No containment; Inadequate containment. 
 Foundations:  Belly of tank more than 12i",,1082,AEA,2015 Assessment,2015,2015,69.74127197265625,-163.01300048828125
-0261700,Point Lay,461,,363-BF-19,North Slope Borough,,548000,,,,,,t,f,f,f,,,,962,AEA,2015 Assessment,2015,2015,69.74072265625,-163.00408935546875
-0261700,Point Lay,463,,363-BF-07,North Slope Borough,1,7000,,7000,,,,t,f,f,f,Crowley,"Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well. 
-Secondary Containment:  No containment; Inadequate containment. 
-Foundations:  Belly of tank more than 12i",,1079,AEA,2015 Assessment,2015,2015,69.74188232421875,-163.01068115234375
-0261700,Point Lay,,,,North Slope Borough,,,,,,,,,,,f,,,,,,,,,69.74072265625,-163.00909423828125
-0261700,Point Lay,465,,363-BF-04,North Slope Borough,1,6000,,6000,,,,t,f,f,f,North Slope Borough,"Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well. 
-Secondary Containment:  No containment; Inadequate containment. 
-Foundations:  Belly of tank more than 12i",,1080,AEA,2015 Assessment,2015,2015,69.74090576171875,-163.01220703125
-0261700,Point Lay,1095,,344-BF-03,North Slope Borough,1,2000,,2000,,,,f,t,f,f,Colville,"Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well. 
-Secondary Containment:  No containment; Inadequate containment. 
-Foundations:  Belly of tank more than 12i",,1067,AEA,2015 Assessment,2015,2015,70.48248291015625,-157.42529296875
 0261700,Point Lay,397,ANC-K-001,249-BF-03,North Slope Borough,1,4000,,4000,,,,t,f,f,t,Kaktovik Inupiat Corporation,"Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well. 
 Secondary Containment:  No containment; Inadequate containment. 
 Foundations:  Belly of tank more than 12i",,928,AEA,2015 Assessment,2015,2015,69.7435302734375,-163.00189208984375
+0261700,Point Lay,1095,,344-BF-03,North Slope Borough,1,2000,,2000,,,,f,t,f,f,Colville,"Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well. 
+Secondary Containment:  No containment; Inadequate containment. 
+Foundations:  Belly of tank more than 12i",,1067,AEA,2015 Assessment,2015,2015,70.48248291015625,-157.42529296875
+0261700,Point Lay,461,,363-BF-19,North Slope Borough,,548000,,,,,,t,f,f,f,,,,962,AEA,2015 Assessment,2015,2015,69.74072265625,-163.00408935546875
+0261700,Point Lay,,,,North Slope Borough,,,,,,,,,,,f,,,,,,,,,69.74072265625,-163.00909423828125
+0261700,Point Lay,463,,363-BF-07,North Slope Borough,1,7000,,7000,,,,t,f,f,f,Crowley,"Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well. 
+Secondary Containment:  No containment; Inadequate containment. 
+Foundations:  Belly of tank more than 12i",,1079,AEA,2015 Assessment,2015,2015,69.74188232421875,-163.01068115234375
+0261700,Point Lay,465,,363-BF-04,North Slope Borough,1,6000,,6000,,,,t,f,f,f,North Slope Borough,"Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well. 
+Secondary Containment:  No containment; Inadequate containment. 
+Foundations:  Belly of tank more than 12i",,1080,AEA,2015 Assessment,2015,2015,69.74090576171875,-163.01220703125
+0261700,Point Lay,464,,,North Slope BoroughPoint Lay Maintenance Facility,,5000,,,,,,t,f,f,f,,,,965,AEA,2015 Assessment,2015,2015,69.7410888671875,-163.00579833984375
 0261700,Point Lay,466,,,North Slope Borough School District,1,6000,,6000,,,,t,f,f,f,North Slope Borough,"Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well. 
 Secondary Containment:  No containment; Inadequate containment. 
 Foundations:  Belly of tank more than 12i",,1081,AEA,2015 Assessment,2015,2015,69.742919921875,-163.00830078125
 0261700,Point Lay,,,363-BF-13,North Slope Borough School District,1,6000,,6000,,,,f,f,t,f,,,,,DEC,,,,69.742919921875,-163.0081787109375
-0261700,Point Lay,464,,,North Slope BoroughPoint Lay Maintenance Facility,,5000,,,,,,t,f,f,f,,,,965,AEA,2015 Assessment,2015,2015,69.7410888671875,-163.00579833984375
 0261700,Point Lay,,,,Point Lay Tank Farm,8,798000,34000,764000,,,,t,f,f,,Crowley,,,,AEA,2024 Assessment,2023,2024,69.7415504046436,-163.006189875456
 0261788,Point MacKenzie,,,,Goose Bay Airport Maintenance Station,1,1000,,1000,,,,f,f,t,f,,,,,DEC,,,,61.39752197265625,-149.84442138671875
+0262285,Portage Creek,,ANC-P-017,,SWRSD,,,,,,,,,,,t,,,,,,,,,58.9052734375,-157.71978759765625
 0262510,Port Alexander,1057,,363-BF-12,Main Street Electric Power,4,7100,,7100,,,,t,f,f,f,Cascade Towing - Petersburg,"Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well. 
 Secondary Containment:  No containment; Inadequate containment. 
 Foundations:  Belly of tank more than 12i",,876,AEA,2015 Assessment,2015,2015,56.24627685546875,-134.6475830078125
@@ -1692,15 +1693,15 @@ Foundations:  Belly of tank more than 12i",,875,AEA,2015 Assessment,2015,2015,56
 0262620,Port Alsworth,291,,364-BF-04,Alaska Lake Clark Air,,6000,,,,,,t,t,f,f,,,,379,AEA,,,,60.19989013671875,-154.30908203125
 0262620,Port Alsworth,290,,,Alaska Wilderness Lodge,,6000,,,,,,t,t,f,f,,,,378,AEA,,,,60.2056884765625,-154.30987548828125
 0262620,Port Alsworth,292,,365-BF-05,Fishing Unlimited,,4300,,,,,,t,t,f,f,,,,380,AEA,,,,60.20147705078125,-154.3145751953125
-0262620,Port Alsworth,288,,366-BF-03,Lake Clark Air,,8000,,,,,,t,t,f,f,,,,376,AEA,,,,60.19671630859375,-154.3319091796875
 0262620,Port Alsworth,293,,365-BF-03,Lake and Peninsula Air,,5500,,,,,,t,t,f,f,,,,381,AEA,,,,60.198486328125,-154.3170166015625
 0262620,Port Alsworth,,,365-BF-01,Lake and Peninsula School District,2,15300,,15300,,,,f,f,t,f,,,,,DEC,,,,60.1962890625,-154.3275146484375
+0262620,Port Alsworth,288,,366-BF-03,Lake Clark Air,,8000,,,,,,t,t,f,f,,,,376,AEA,,,,60.19671630859375,-154.3319091796875
 0262620,Port Alsworth,,,,National Park Service,9,13000,4000,9000,,,,f,t,f,f,,,,,DEC,,,,60.197509765625,-154.322509765625
 0262620,Port Alsworth,286,,,National Park ServiceLake Clark National Park and Preserve,,9355,,,,,,t,t,f,f,,,,374,AEA,,,,60.19732666015625,-154.31878662109375
 0262620,Port Alsworth,,,,Port Alsworth Power Plant Tank Farm,3,63000,,63000,,,,f,t,f,,Everts Air Fuel,,,,AEA,2024 Assessment,2023,2024,60.1967269834692,-154.332534615094
 0263280,Port Graham,83,,366-BF-01,Port Graham Corporation,,91200,,,,,,t,f,f,f,,,,57,AEA,,,,59.35028076171875,-151.82928466796875
-0263390,Port Heiden,,,366-BF-02,AK DOT&PF Port Heiden,1,2000,,2000,,,,,,,f,,,,,DEC,,,,56.9581298828125,-158.64080810546875
 0263390,Port Heiden,996,,366-BF-04,AK Department of Transportation,,5000,,,,,,t,f,f,f,,,,814,AEA,,,,56.95147705078125,-158.6353759765625
+0263390,Port Heiden,,,366-BF-02,AK DOT&PF Port Heiden,1,2000,,2000,,,,,,,f,,,,,DEC,,,,56.9581298828125,-158.64080810546875
 0263390,Port Heiden,992,ANC-P-015,368-BF-01,City of Port Heiden,,4500,,,,,,t,f,f,t,,,,266,AEA,Best Practice Assessment,,,56.92352294921875,-158.6630859375
 0263390,Port Heiden,,,,City of Port Heiden Tank Farm,7,204000,44000,160000,,,,t,f,f,,Vitus,,,,AEA,2024 Assessment,2023,2024,56.9230278907877,-158.665019413604
 0263390,Port Heiden,,,369-BF-02,Federal Aviation Administration,1,1000,,1000,,,,f,f,t,f,,,,,DEC,,,,56.9591064453125,-158.63330078125
@@ -1713,9 +1714,8 @@ Foundations:  Belly of tank more than 12i",,875,AEA,2015 Assessment,2015,2015,56
 0263610,Port Lions,,,,Kodiak Island Borough School District,1,2000,,2000,,,,f,f,t,f,,,,,DEC,,,,57.868896484375,-152.87908935546875
 0263610,Port Lions,84,,,Port Lions Tribal Council,,90600,,,,,,t,f,f,f,,,,834,AEA,,,,57.868896484375,-152.8804931640625
 0263870,Port Protection,57,,,Wooden Wheel Cove Trading Post,,24094,,,,,,t,f,f,f,,,,878,AEA,,,,56.32232666015625,-133.61248779296875
-0262285,Portage Creek,,ANC-P-017,,SWRSD,,,,,,,,,,,t,,,,,,,,,58.9052734375,-157.71978759765625
-0264380,Prudhoe Bay,,,,AT&T,3,3750,,3750,,,,f,t,f,f,,,,,DEC,,,,69.789306640625,-148.49249267578125
 0264380,Prudhoe Bay,,,,AT&T,1,1250,,1250,,,,f,f,t,f,,,,,DEC,,,,60.42730712890625,-150.65362548828125
+0264380,Prudhoe Bay,,,,AT&T,3,3750,,3750,,,,f,t,f,f,,,,,DEC,,,,69.789306640625,-148.49249267578125
 0264380,Prudhoe Bay,,,,CH2M North Slope Field Services,2,3000,,3000,,,,f,f,t,f,,,,,DEC,,,,70.22491455078125,-148.41412353515625
 0264380,Prudhoe Bay,,ANC-P-025,,Colville,6,60000,,10000,,50000,,f,f,t,t,,,,,DEC,,,,70.19952392578125,-148.4486083984375
 0264380,Prudhoe Bay,,,,DOT&PF Deadhorse MS,1,3000,3000,,,,,f,f,t,f,,,,,DEC,,,,70.197509765625,-148.470703125
@@ -1725,9 +1725,9 @@ Foundations:  Belly of tank more than 12i",,875,AEA,2015 Assessment,2015,2015,56
 0264380,Prudhoe Bay,,,,Peak Oilfield Service Co. LLC,3,52000,12000,40000,,,,f,f,t,f,,,,,DEC,,,,70.2310791015625,-148.37939453125
 0264380,Prudhoe Bay,,,,Prudhoe Bay Mud Plant,1,2000,,2000,,,,f,f,t,f,,,,,DEC,,,,70.22772216796875,-148.393310546875
 0264380,Prudhoe Bay,,,,Sag River Camp,3,21800,,21800,,,,f,f,t,f,,,,,DEC,,,,70.21392822265625,-148.40289306640625
-0264600,Quinhagak,,,,AVEC Tank Farm,17,179957,,179957,,,,t,f,f,,Crowley,,,,AEA,2024 Assessment,2023,2024,59.747575657679,-161.910770725354
 0264600,Quinhagak,,,375-BF-01,Alaska Army National Guard,1,1500,,1500,,,,f,f,t,f,,,,,DEC,,,,59.7532958984375,-161.89532470703125
 0264600,Quinhagak,,,,Alaska Village Electric Cooperative,17,179100,,179100,,,,,,,f,,,,,DEC,,,,59.74749755859375,-161.91082763671875
+0264600,Quinhagak,,,,AVEC Tank Farm,17,179957,,179957,,,,t,f,f,,Crowley,,,,AEA,2024 Assessment,2023,2024,59.747575657679,-161.910770725354
 0264600,Quinhagak,856,ANC-Q-002,375-BF-04,City & Native Village of Quinhagak,6,48700,7300,41400,,,,t,f,f,t,Vitus Marine,"Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well. 
 Secondary Containment:  No containment; Inadequate containment. 
 Foundations:  Belly of tank more than 12i",250,566,AEA,2015 Assessment,2015,2015,59.74530029296875,-161.91790771484375
@@ -1756,9 +1756,9 @@ Foundations:  Belly of tank more than 12i",,1006,AEA,2015 Assessment,2015,2015,6
 0264930,Red Devil,,,,Red Devil MKEC Tank Farm,5,48235,,18835,,,29400,t,f,f,,Crowley/Vitus,,,,AEA,2024 Assessment,2023,2024,61.782912224894,-157.339186289845
 0264930,Red Devil,,,,Red Devil School Tank Farm,1,12000,,12000,,,,t,f,f,,Vitus/crowley,,,,AEA,2024 Assessment,2023,2024,61.7830559323691,-157.335590741486
 0265590,Ruby,301,,,City of Ruby,,12000,,,,,,t,f,f,f,,,,319,AEA,,,,64.73931884765625,-155.48919677734375
-0265590,Ruby,,,,DOT&PF Ruby APT,1,2000,,2000,,,,f,t,f,f,,,,,DEC,,,,64.73431396484375,-155.46148681640625
 0265590,Ruby,302,ANC-R-006,,Dineega Fuel,,194800,,,,,,t,f,f,t,,,,320,AEA,,,,64.74072265625,-155.48919677734375
 0265590,Ruby,,,,Dineega Fuel Co Tank Farm,9,242000,58000,174000,,,10000,t,f,f,,Ruby Marine,,,,AEA,2024 Assessment,2023,2024,64.7406732272272,-155.489068635879
+0265590,Ruby,,,,DOT&PF Ruby APT,1,2000,,2000,,,,f,t,f,f,,,,,DEC,,,,64.73431396484375,-155.46148681640625
 0265590,Ruby,,,,Merriline A. Kangas School Tanks,3,13000,,13000,,,,f,f,t,,Dineega Fuel Co,,,,AEA,2024 Assessment,2023,2024,64.7416466227019,-155.467187001067
 0265590,Ruby,300,,380-BF-01,State of Alaska,,4000,,,,,,t,f,f,f,,,,318,AEA,,,,64.7376708984375,-155.4921875
 0265590,Ruby,,,380-BF-02,Yukon Koyukuk School District,3,13000,,13000,,,,f,f,t,f,,,,,DEC,,,,64.74127197265625,-155.46722412109375
@@ -1771,8 +1771,8 @@ Foundations:  Belly of tank more than 12i",50,326,AEA,2015 Assessment & Best Pra
 0265700,Russian Mission,638,,,Russian Mission Native Corp.,7,74750,44750,30000,,,,t,f,f,f,"Crowley Marine, Ruby Marine","Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well. 
 Secondary Containment:  No containment; Inadequate containment. 
 Foundations:  Belly of tank more than 12i",200,324,AEA,2015 Assessment & Best Practice Assessment,2015,2015,61.78448486328125,-161.3187255859375
-0265700,Russian Mission,,,,Russian Mission Native Corporation,7,78708,42708,36000,,,,t,f,f,,Crowley,,,,AEA,2024 Assessment,2023,2024,61.78421791183,-161.318810423986
 0265700,Russian Mission,,ANC-R-010,381-BF-06,Russian Mission Native Corporation,7,83000,53000,30000,,,,t,f,f,t,,,,,DEC,,,,61.7843017578125,-161.31878662109375
+0265700,Russian Mission,,,,Russian Mission Native Corporation,7,78708,42708,36000,,,,t,f,f,,Crowley,,,,AEA,2024 Assessment,2023,2024,61.78421791183,-161.318810423986
 0265700,Russian Mission,639,ANC-R-009,381-BF-02,Russian Mission Native Store,1,9000,,9000,,,,t,f,f,t,"Ruby Marine, Crowley Marine","Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well. 
 Secondary Containment:  No containment; Inadequate containment. 
 Foundations:  Belly of tank more than 12i",150,325,AEA,2015 Assessment & Best Practice Assessment,2015,2015,61.7843017578125,-161.322021484375
@@ -1780,22 +1780,21 @@ Foundations:  Belly of tank more than 12i",150,325,AEA,2015 Assessment & Best Pr
 0265800,Saint George,,,383-BF-02,AK DOT&PF St. George,1,1000,,1000,,,,,,,f,,,,,DEC,,,,56.5772705078125,-169.66351318359375
 0265800,Saint George,,,383-BF-03,City of Saint George,1,10000,,10000,,,,t,f,f,f,,,,,DEC,,,,56.6029052734375,-169.543212890625
 0265800,Saint George,1010,ANC-S-079,381-BF-01,City of St. George,,4000,,,,,,t,f,f,t,,,,607,AEA,,,,56.60272216796875,-169.54608154296875
-0265800,Saint George,,ANC-S-046,,Delta Western,,,,,,,,,,,t,,,,,,,,,56.60150146484375,-169.5452880859375
 0265800,Saint George,,ANC-S-047,,Delta Western,,,,,,,,,,,t,,,,,,,,,56.60150146484375,-169.5452880859375
+0265800,Saint George,,ANC-S-046,,Delta Western,,,,,,,,,,,t,,,,,,,,,56.60150146484375,-169.5452880859375
 0265800,Saint George,,,383-BF-04,Delta Western,8,132000,26000,81000,,25000,,t,f,f,f,,,,,DEC,,,,56.57232666015625,-169.67108154296875
 0265800,Saint George,1014,,,Peninsula Airways,,2000,,,,,,t,f,f,f,,,,990,AEA,,,,56.60247802734375,-169.54559326171875
 0265800,Saint George,1013,,,Pribilof School District,,1000,,,,,,t,f,f,f,,,,546,AEA,,,,56.6029052734375,-169.543212890625
 0265800,Saint George,1011,,,St. George Delta Fuel Co.,,1066200,,,,,,t,f,f,f,,,,481,AEA,Best Practice Assessment,,,56.60247802734375,-169.5457763671875
 0265800,Saint George,1012,,383-BF-01,St. George Tanaq Corporation,,5200,,,,,,t,f,f,f,,,,482,AEA,,,,56.603271484375,-169.54620361328125
-0266140,Saint Mary's,,,,AVEC Tank Farm,14,414000,,414000,,,,t,f,f,,Ruby Marine,,,,AEA,2024 Assessment,2023,2024,62.0518722147895,-163.171187232169
 0266140,Saint Mary's,,,,Alaska Village Electric Cooperative,18,385500,,385500,,,,,,,f,,,,,DEC,,,,62.0518798828125,-163.1724853515625
-0266140,Saint Mary's,,ANC-S-051,,CPD Alaska,,,,,,,,,,,t,,,,,,,,,62.051513671875,-163.17510986328125
-0266140,Saint Mary's,671,,,City of Saint Mary's,1,4000,,4000,,,,t,f,f,f,Crowley Marine,"Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well. 
-Secondary Containment:  No containment; Inadequate containment. 
-Foundations:  Belly of tank more than 12i",0,452,AEA,2015 Assessment & Best Practice Assessment,2015,2015,62.0565185546875,-163.17718505859375
+0266140,Saint Mary's,,,,AVEC Tank Farm,14,414000,,414000,,,,t,f,f,,Ruby Marine,,,,AEA,2024 Assessment,2023,2024,62.0518722147895,-163.171187232169
 0266140,Saint Mary's,672,,,City of Saint Mary's,4,6000,,6000,,,,t,f,f,f,"Ruby Marine, Crowley, Vitus Marine","Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well. 
 Secondary Containment:  No containment; Inadequate containment. 
 Foundations:  Belly of tank more than 12",0,453,AEA,2015 Assessment & Best Practice Assessment,2015,2015,62.051513671875,-163.17230224609375
+0266140,Saint Mary's,671,,,City of Saint Mary's,1,4000,,4000,,,,t,f,f,f,Crowley Marine,"Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well. 
+Secondary Containment:  No containment; Inadequate containment. 
+Foundations:  Belly of tank more than 12i",0,452,AEA,2015 Assessment & Best Practice Assessment,2015,2015,62.0565185546875,-163.17718505859375
 0266140,Saint Mary's,,,,City of Saint Marys,9,21500,,21500,,,,t,f,f,f,,,,,DEC,,,,62.051513671875,-163.17510986328125
 0266140,Saint Mary's,685,,386-BF-12,City of St. Mary's,1,3000,,3000,,,,t,f,f,f,Crowley Marine,"Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well. 
 Secondary Containment:  No containment; Inadequate containment. 
@@ -1803,16 +1802,17 @@ Foundations:  Belly of tank more than 12i",0,902,AEA,2015 Assessment & Best Prac
 0266140,Saint Mary's,673,,386-BF-03,City of St. Mary's,5,9500,500,9000,,,,t,f,f,f,"Ruby Marine, Crowley, Vitus Marine","Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well. 
 Secondary Containment:  No containment; Inadequate containment. 
 Foundations:  Belly of tank more than 12i",0,773,AEA,2015 Assessment & Best Practice Assessment,2015,2015,62.05169677734375,-163.171875
+0266140,Saint Mary's,,ANC-S-051,,CPD Alaska,,,,,,,,,,,t,,,,,,,,,62.051513671875,-163.17510986328125
 0266140,Saint Mary's,,,386-BF-01,DOT&PF Saint Mary's APT,2,8000,,8000,,,,f,t,f,f,,,,,DEC,,,,62.05767822265625,-163.2947998046875
 0266140,Saint Mary's,,,386-BF-02,Federal Aviation Administration,1,1000,,1000,,,,f,f,t,f,,,,,DEC,,,,62.0609130859375,-163.30181884765625
 0266140,Saint Mary's,,,,Saint Mary's City School District,10,121000,,121000,,,,t,f,f,f,,,,,DEC,,,,62.05291748046875,-163.18121337890625
 0266140,Saint Mary's,,,,St Mary’s School Tank Farm,4,76682,9964,66718,,,,t,f,f,,Crowley,,,,AEA,2024 Assessment,2023,2024,62.053306828765,-163.180530361713
-0266360,Saint Michael,,,,ARUC WTP Tanks and City Fleet Tank,3,25000,10000,15000,,,,t,f,f,,Crowley,,,,AEA,2024 Assessment,2023,2024,63.4783445989814,-162.040707702428
 0266360,Saint Michael,697,,386-BF-14,Alaska Army National Guard,,10000,,,,,,t,f,f,f,,,,74,AEA,,,,63.478271484375,-162.0413818359375
 0266360,Saint Michael,,,386-BF-07,Alaska Army National Guard,1,1500,,1500,,,,f,f,t,f,,,,,DEC,,,,63.478271484375,-162.0413818359375
 0266360,Saint Michael,696,,386-BF-15,Alaska Commercial Company,,10000,,,,,,t,f,f,f,,,,476,AEA,,,,63.47747802734375,-162.029296875
 0266360,Saint Michael,698,,387-BF-13,Alaska Department of TransportationAirport Heavy Equipment Storage,,3000,,,,,,t,f,f,f,,,,75,AEA,,,,63.4794921875,-162.03338623046875
 0266360,Saint Michael,691,,387-BF-12,Alaska Village electric Cooperative,,76000,,,,,,t,f,f,f,,,,472,AEA,,,,63.47808837890625,-162.0382080078125
+0266360,Saint Michael,,,,ARUC WTP Tanks and City Fleet Tank,3,25000,10000,15000,,,,t,f,f,,Crowley,,,,AEA,2024 Assessment,2023,2024,63.4783445989814,-162.040707702428
 0266360,Saint Michael,,,387-BF-05,Bering Strait School District,4,92000,,92000,,,,t,f,f,f,,,,,DEC,,,,63.48272705078125,-162.02947998046875
 0266360,Saint Michael,694,ANC-S-056,387-BF-06,Bering Straits School District,,52000,,,,,,t,f,f,t,,,,475,AEA,,,,65.3328857421875,-166.48638916015625
 0266360,Saint Michael,,ANC-S-109,387-BF-07,City of Saint Michael,9,71000,10000,61000,,,,t,f,f,t,,,,,DEC,,,,63.4788818359375,-162.03851318359375
@@ -1905,9 +1905,9 @@ Foundations:  Belly of tank more than 12i",,608,AEA,2017 Letter Report & Best Pr
 0268340,Seldovia,,,401-BF-01,Kenai Peninsula Borough,3,5000,,5000,,,,f,f,t,f,,,,,DEC,,,,59.44232177734375,-151.7139892578125
 0268340,Seldovia,,,401-BF-03,Seldovia Bulk Fuel,10,352500,148500,204000,,,,t,f,f,f,,,,,DEC,,,,59.44049072265625,-151.71612548828125
 0268340,Seldovia,,,401-BF-02,Seldovia Maintenance Station,2,3000,,3000,,,,t,f,f,f,,,,,DEC,,,,59.4415283203125,-151.7017822265625
-0268560,Seward,,,402-BF-01,AT&T,1,5000,,5000,,,,f,f,t,f,,,,,DEC,,,,60.1251220703125,-149.43231201171875
 0268560,Seward,,,,Alaska Railroad,1,1000,,1000,,,,f,f,t,f,,,,,DEC,,,,60.12127685546875,-149.43109130859375
 0268560,Seward,,,,Alaska Railroad,1,1250,,1250,,,,f,f,t,f,,,,,DEC,,,,60.130126953125,-149.4276123046875
+0268560,Seward,,,402-BF-01,AT&T,1,5000,,5000,,,,f,f,t,f,,,,,DEC,,,,60.1251220703125,-149.43231201171875
 0268560,Seward,,,403-BF-05,CGC Mustang Shore Facility,1,1000,,1000,,,,f,f,t,f,,,,,DEC,,,,60.12109375,-149.43280029296875
 0268560,Seward,,,403-BF-04,Icicle,9,35500,,35500,,,,f,f,t,f,,,,,DEC,,,,60.12127685546875,-149.435791015625
 0268560,Seward,,,403-BF-02,Kenai Peninsula Borough,1,12000,,12000,,,,f,f,t,f,,,,,DEC,,,,60.12969970703125,-149.44427490234375
@@ -1917,8 +1917,8 @@ Foundations:  Belly of tank more than 12i",,608,AEA,2017 Letter Report & Best Pr
 0268560,Seward,,,406-BF-03,Seward Highway Station,2,6000,,6000,,,,f,f,t,f,,,,,DEC,,,,60.1107177734375,-149.4384765625
 0268560,Seward,,,406-BF-01,State of Alaska Department of Corrections,4,14000,4000,10000,,,,f,f,t,f,,,,,DEC,,,,60.09368896484375,-149.331787109375
 0268560,Seward,,,406-BF-02,University of Alaska Fairbanks,3,6000,,6000,,,,f,f,t,f,,,,,DEC,,,,60.09912109375,-149.443603515625
-0268670,Shageluk,,,,AVEC Power Plant Tank Farm,6,51697,,51697,,,,t,f,f,,Ruby Marine,,,,AEA,2024 Assessment,2023,2024,62.6580002206033,-159.533204371258
 0268670,Shageluk,,,406-BF-04,Alaska Village Electric Cooperative,6,52700,,52700,,,,,,,f,,,,,DEC,,,,62.6580810546875,-159.53277587890625
+0268670,Shageluk,,,,AVEC Power Plant Tank Farm,6,51697,,51697,,,,t,f,f,,Ruby Marine,,,,AEA,2024 Assessment,2023,2024,62.6580002206033,-159.533204371258
 0268670,Shageluk,307,ANC-S-015,407-BF-07,City of Shageluk,2,12500,,12500,,,,t,f,f,t,"Crowley Marine, Ruby Marine","Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well. 
 Secondary Containment:  No containment; Inadequate containment. 
 Foundations:  Belly of tank more than 12i",50,344,AEA,2017 Letter Report & Best Practice Assessment,2017,2017,62.65771484375,-159.5341796875
@@ -1937,11 +1937,11 @@ Foundations:  Belly of tank more than 12i",,1100,AEA,2015 Assessment & Best Prac
 0268890,Shaktoolik,,,,Shaktoolik AVEC Tank Farm,11,98327,,98327,,,,t,f,f,,Crowley,,,,AEA,2024 Assessment,2023,2024,64.350220304974,-161.187824746744
 0268890,Shaktoolik,,,,Shaktoolik School Tank,3,53500,,53500,,,,t,f,f,,Crowley,,,,AEA,2024 Assessment,2023,2024,64.3535794783983,-161.193962646798
 0268890,Shaktoolik,,,,Shaktoolik Shared Tank Farm,7,178996,87000,87000,,,4996,t,f,f,,Crowley,,,,AEA,2024 Assessment,2023,2024,64.3502566239776,-161.187928245267
+0268890,Shaktoolik,,,408-BF-05,Shaktoolik Tank Farm,8,60100,,60100,,,,t,f,f,f,,,,,DEC,,,,64.34832763671875,-161.18408203125
 0268890,Shaktoolik,,ANC-S-021,408-BF-04,Shaktoolik Tank Farm,2,21600,,21600,,,,t,f,f,t,,,,,DEC,,,,64.34832763671875,-161.18408203125
 0268890,Shaktoolik,,,408-BF-01,Shaktoolik Tank Farm,11,106900,53000,53900,,,,t,f,f,f,,,,,DEC,,,,64.34832763671875,-161.18408203125
-0268890,Shaktoolik,,,408-BF-05,Shaktoolik Tank Farm,8,60100,,60100,,,,t,f,f,f,,,,,DEC,,,,64.34832763671875,-161.18408203125
-0269770,Shishmaref,,,,AVEC Power Plant Tank Farm,20,169960,,169960,,,,t,f,f,,Crowley,,,,AEA,2024 Assessment,2023,2024,66.2548950144504,-166.072522778714
 0269770,Shishmaref,,ANC-S-027,408-BF-03,Alaska Village Electric Cooperative,20,159800,,159800,,,,,,,t,,,,,DEC,,,,66.2548828125,-166.07269287109375
+0269770,Shishmaref,,,,AVEC Power Plant Tank Farm,20,169960,,169960,,,,t,f,f,,Crowley,,,,AEA,2024 Assessment,2023,2024,66.2548950144504,-166.072522778714
 0269770,Shishmaref,,,408-BF-02,Bering Strait School District,3,52600,,52600,,,,t,f,f,f,,,,,DEC,,,,66.255126953125,-166.07330322265625
 0269770,Shishmaref,481,ANC-S-028,,City of Shishmaref,,62100,,,,,,t,f,f,t,,,,278,AEA,Best Practice Assessment,,,66.25469970703125,-166.07318115234375
 0269770,Shishmaref,,,,City of Shishmaref,1,12000,,12000,,,,t,f,f,f,,,,,DEC,,,,66.2576904296875,-166.0609130859375
@@ -2018,9 +2018,9 @@ Foundations:  Belly of tank more than 12i",0,999,AEA,2015 Assessment & Best Prac
 Secondary Containment:  No containment; Inadequate containment. 
 Foundations:  Belly of tank more than 12i",0,637,AEA,2015 Assessment,2015,2015,58.7166748046875,-156.99859619140625
 0272960,Stebbins,706,,417-BF-02,ADOT,,3000,,,,,,t,f,f,f,,,,793,AEA,,,,63.51568603515625,-162.28558349609375
-0272960,Stebbins,,,,AVEC Power Plant Tank Farm,9,410000,,410000,,,,t,f,f,,Vitus,,,,AEA,2024 Assessment,2023,2024,63.5209699798237,-162.286354140363
 0272960,Stebbins,377,,120-BF-02,Alaska Army National Guard,,4750,,,,,,t,f,f,f,,,,537,AEA,,,,65.33270263671875,-166.49420166015625
 0272960,Stebbins,,ANC-S-059,418-BF-02,Alaska Village Electric Cooperative,9,410000,,410000,,,,,,,t,,,,,DEC,,,,63.5211181640625,-162.2864990234375
+0272960,Stebbins,,,,AVEC Power Plant Tank Farm,9,410000,,410000,,,,t,f,f,,Vitus,,,,AEA,2024 Assessment,2023,2024,63.5209699798237,-162.286354140363
 0272960,Stebbins,,,,Bering Strait School District,1,8000,,8000,,,,t,f,f,f,,,,,DEC,,,,63.5198974609375,-162.28887939453125
 0272960,Stebbins,705,,,Charlie Steves,,3000,,,,,,t,f,f,f,,,,792,AEA,,,,63.52032470703125,-162.28411865234375
 0272960,Stebbins,,,,City of Stebbins,1,4000,,4000,,,,t,f,f,f,,,,,DEC,,,,63.5167236328125,-162.28778076171875
@@ -2028,8 +2028,8 @@ Foundations:  Belly of tank more than 12i",0,637,AEA,2015 Assessment,2015,2015,5
 0272960,Stebbins,,ANC-S-105,,Stebbins Tank Farm,9,363000,103000,260000,,,,t,f,f,t,,,,,DEC,,,,63.51971435546875,-162.28558349609375
 0272960,Stebbins,,,,Tapraq Fuel Company Tank Farm,10,370000,100000,264000,,,6000,t,f,f,,Crowley,,,,AEA,2024 Assessment,2023,2024,63.5217464035749,-162.287768187916
 0273290,Stevens Village,316,,,Bureau of Indian AffairsFairbanks,,13500,,,,,,t,f,f,f,,,,864,AEA,,,,66.0142822265625,-149.05877685546875
-0273290,Stevens Village,,,418-BF-09,DOT&PF Stevens Village APT,1,1000,,1000,,,,f,t,f,f,,,,,DEC,,,,66.0142822265625,-149.05859375
 0273290,Stevens Village,315,,418-BF-07,Dinyee Corporation,,14200,,,,,,t,f,f,f,,,,863,AEA,,,,66.00872802734375,-149.09130859375
+0273290,Stevens Village,,,418-BF-09,DOT&PF Stevens Village APT,1,1000,,1000,,,,f,t,f,f,,,,,DEC,,,,66.0142822265625,-149.05859375
 0273290,Stevens Village,314,<Null>,418-BF-04,Yukon Flats School District,,47500,,,,,,t,f,f,f,,,,484,AEA,,,,68.12847900390625,-145.5355224609375
 0273400,Stony River,320,,,AK DOT,,1500,,,,,,t,f,f,f,,,,356,AEA,,,,61.78887939453125,-156.58880615234375
 0273400,Stony River,,,420-BF-01,Kuspuk School District,2,21000,,21000,,,,t,f,f,f,,,,,DEC,,,,61.787109375,-156.5885009765625
@@ -2039,11 +2039,11 @@ Foundations:  Belly of tank more than 12i",0,637,AEA,2015 Assessment,2015,2015,5
 0273400,Stony River,318,,,Village of Stony River,,24100,,,,,,t,f,f,f,,,,487,AEA,,,,61.789306640625,-156.5872802734375
 0274525,Sutton-Alpine,,,,State of Alaska Department of Corrections,8,33000,2000,31000,,,,,,,f,,,,,DEC,,,,61.69207763671875,-149.0081787109375
 0274610,Takotna,,,,Iditarod Area School District,1,20000,,20000,,,,f,f,t,f,,,,,DEC,,,,62.98809814453125,-156.06201171875
-0274610,Takotna,322,,,TCA,,127700,,,,,,t,f,f,f,,,,358,AEA,,,,62.988525390625,-156.07000732421875
 0274610,Takotna,,,,Takotna Airport Maintenance Station,2,2000,,2000,,,,f,f,t,f,,,,,DEC,,,,62.99432373046875,-156.03057861328125
 0274610,Takotna,,,,Takotna City Tank Farm,5,125000,50000,75000,,,,t,f,t,,Crowley,,,,AEA,2024 Assessment,2023,2024,62.86523494,-155.66738233
 0274610,Takotna,321,,,Takotna Community Association,,45700,,,,,,t,f,f,f,,,,357,AEA,,,,62.98870849609375,-156.07000732421875
 0274610,Takotna,,,,Takotna Community Association Tank Farm,5,82000,20000,62000,,,,f,f,t,,Crowley,,,,AEA,2024 Assessment,2023,2024,62.98801791,-156.05979341
+0274610,Takotna,322,,,TCA,,127700,,,,,,t,f,f,f,,,,358,AEA,,,,62.988525390625,-156.07000732421875
 0274830,Talkeetna,,,,Alaska Railroad,1,1000,,1000,,,,f,f,t,f,,,,,DEC,,,,62.32391357421875,-150.11187744140625
 0274830,Talkeetna,,,,Crowley,6,68000,21000,47000,,,,f,f,t,f,,,,,DEC,,,,62.27252197265625,-150.07159423828125
 0274830,Talkeetna,,,,Federal Aviation Administration,1,1000,,1000,,,,f,f,t,f,,,,,DEC,,,,62.32049560546875,-150.0936279296875
@@ -2062,12 +2062,12 @@ Foundations:  Belly of tank more than 12i",0,637,AEA,2015 Assessment,2015,2015,5
 0275380,Tatitlek,95,,423-BF-02,Native Village of Tatitlek,,10000,,,,,,t,f,f,f,,,,717,AEA,Best Practice Assessment,,,60.86328125,-146.6793212890625
 0275380,Tatitlek,97,,423-BF-01,State of Alaska,,3000,,,,,,t,f,f,f,,,,719,AEA,,,,60.87152099609375,-146.68719482421875
 0275480,Tazlina,,,,DOT&PF Tazlina MS,3,5500,2500,3000,,,,f,f,t,f,,,,,DEC,,,,62.04412841796875,-145.42620849609375
-0275930,Teller,,,,AVEC Power Plant Tank Farm,4,108000,,108000,,,,t,f,f,,Crowley,,,,AEA,2024 Assessment,2023,2024,65.2634103010551,-166.362809260411
 0275930,Teller,,ANC-T-005,,Alaska Village Electric Cooperative,4,108000,,108000,,,,,,,t,,,,,DEC,,,,65.2633056640625,-166.36260986328125
 0275930,Teller,495,,425-BF-08,Army National Guard Armory,,2300,,,,,,t,f,f,f,,,,735,AEA,,,,65.2642822265625,-166.36322021484375
+0275930,Teller,,,,AVEC Power Plant Tank Farm,4,108000,,108000,,,,t,f,f,,Crowley,,,,AEA,2024 Assessment,2023,2024,65.2634103010551,-166.362809260411
 0275930,Teller,,ANC-T-004,425-BF-06,Bering Strait School District,4,63000,,63000,,,,t,f,f,t,,,,,DEC,,,,65.263671875,-166.36688232421875
-0275930,Teller,694,ANC-S-056,387-BF-06,Bering Straits School District,,52000,,,,,,t,f,f,t,,,,475,AEA,,,,65.3328857421875,-166.48638916015625
 0275930,Teller,504,,425-BF-07,Bering Straits School District,,4800,,,,,,t,f,f,f,,,,732,AEA,,,,65.263916015625,-166.36602783203125
+0275930,Teller,694,ANC-S-056,387-BF-06,Bering Straits School District,,52000,,,,,,t,f,f,t,,,,475,AEA,,,,65.3328857421875,-166.48638916015625
 0275930,Teller,,,425-BF-01,City of Teller,1,5000,,5000,,,,f,f,t,f,,,,,DEC,,,,65.2626953125,-166.36651611328125
 0275930,Teller,502,,425-BF-02,City of Teller Clinic,,1000,,,,,,t,f,f,f,,,,730,AEA,,,,65.26348876953125,-166.3643798828125
 0275930,Teller,,,,DOT&PF Teller APT,2,3000,,3000,,,,f,t,f,f,,,,,DEC,,,,65.24212646484375,-166.33221435546875
@@ -2095,18 +2095,18 @@ Foundations:  Belly of tank more than 12i",,680,AEA,2015 Assessment,2015,2015,55
 0277140,Thorne Bay,61,,,Petro Alaska,,276000,,,,,,t,f,f,f,,,,677,AEA,2015 Assessment,2015,2015,55.6903076171875,-132.5416259765625
 0277140,Thorne Bay,,,,The Port,2,7707,5182,2525,,,,f,f,t,,Petro Marine,,,,AEA,2024 Assessment,2023,2024,55.6881155680001,-132.532573441
 0277140,Thorne Bay,63,,,U.S. Forest Service,,20455,,,,,,t,f,f,f,,,,679,AEA,2015 Assessment,2015,2015,55.6881103515625,-132.53228759765625
-0277690,Togiak,,,,AVEC Togiak Tank Farm,12,360000,,360000,,,,t,f,f,,Vitus,,,,AEA,2024 Assessment,2023,2024,59.0593928709361,-160.378681190558
 0277690,Togiak,,ANC-T-007,,Alaska Village Electric Cooperative,12,360000,,360000,,,,,,,t,,,,,DEC,,,,59.05950927734375,-160.37860107421875
-0277690,Togiak,868,ANC-T-008,,City of Togiak,4,26803,,26803,,,,t,f,f,t,"Vitus Marine, Crowley Marine, Delta Western  ","Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well. 
-Secondary Containment:  No containment; Inadequate containment. 
-Foundations:  Belly of tank more than 12i",80,494,AEA,2015 Assessment & Best Practice Assessment,2015,2015,59.05987548828125,-160.37939453125
+0277690,Togiak,,,,AVEC Togiak Tank Farm,12,360000,,360000,,,,t,f,f,,Vitus,,,,AEA,2024 Assessment,2023,2024,59.0593928709361,-160.378681190558
 0277690,Togiak,865,,,City of Togiak,3,4500,4500,0,,,,t,f,f,f,"Vitus Marine,Crowley Marine, Delta Western  ","Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well. 
 Secondary Containment:  No containment; Inadequate containment. 
 Foundations:  Belly of tank more than 12i",0,493,AEA,2015 Assessment & Best Practice Assessment,2015,2015,59.05987548828125,-160.37921142578125
+0277690,Togiak,868,ANC-T-008,,City of Togiak,4,26803,,26803,,,,t,f,f,t,"Vitus Marine, Crowley Marine, Delta Western  ","Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well. 
+Secondary Containment:  No containment; Inadequate containment. 
+Foundations:  Belly of tank more than 12i",80,494,AEA,2015 Assessment & Best Practice Assessment,2015,2015,59.05987548828125,-160.37939453125
 0277690,Togiak,,,,City of Togiak Fleet Dispensing Tank Farm,3,70000,10000,60000,,,,t,f,f,,Crowley,,,,AEA,2024 Assessment,2023,2024,59.0591673189158,-160.378345799307
 0277690,Togiak,,,,GCI Communication Corp.,2,9000,,9000,,,,f,t,f,f,,,,,DEC,,,,59.17010498046875,-160.6514892578125
-0277690,Togiak,870,,,SWRSD,6,43000,,43000,,,,t,f,f,f,"Vitus Marine, Crowley Marine, Delta Western  ",Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well. Secondary Containment:  No containment; Inadequate containment. Foundations:  Belly of tank more than 12in,80,496,AEA,2015 Assessment,2015,2015,59.0634765625,-160.36920166015625
 0277690,Togiak,,,,Southwest Region School District,2,60000,,60000,,,,t,f,f,f,,,,,DEC,,,,59.0562744140625,-160.42510986328125
+0277690,Togiak,870,,,SWRSD,6,43000,,43000,,,,t,f,f,f,"Vitus Marine, Crowley Marine, Delta Western  ",Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well. Secondary Containment:  No containment; Inadequate containment. Foundations:  Belly of tank more than 12in,80,496,AEA,2015 Assessment,2015,2015,59.0634765625,-160.36920166015625
 0277690,Togiak,1069,,,Togiak Natives Limited,1,2000,2000,0,,,,t,f,f,f,Tank Farm 5,"Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well. 
 Secondary Containment:  No containment; Inadequate containment. 
 Foundations:  Belly of tank more than 12i",0,1000,AEA,2015 Assessment & Best Practice Assessment,2015,2015,59.0634765625,-160.36871337890625
@@ -2205,11 +2205,11 @@ Foundations:  Belly of tank more than 12i",50,497,AEA,2015 Assessment & Best Pra
 0281920,Utqiagvik,,,,DOT&PF Barrow APT,1,2000,,2000,,,,f,f,t,f,,,,,DEC,,,,71.2833251953125,-156.7760009765625
 0281920,Utqiagvik,,,,North Slope Borough School District,1,4000,,4000,,,,f,f,t,f,,,,,DEC,,,,71.289306640625,-156.768310546875
 0281920,Utqiagvik,,,,Ukpeagvik Inupiat Corporation,3,5200,,5200,,,,f,f,t,f,,,,,DEC,,,,71.32928466796875,-156.66571044921875
-0282200,Valdez,,,,AT&T,1,1000,,1000,,,,f,f,t,f,,,,,DEC,,,,61.1317138671875,-146.33758544921875
-0282200,Valdez,,,451-BF-07,AT&T,4,5000,,5000,,,,f,t,f,f,,,,,DEC,,,,61.06451416015625,-145.8291015625
-0282200,Valdez,,,451-BF-06,AT&T,4,5000,,5000,,,,f,t,f,f,,,,,DEC,,,,61.20452880859375,-145.63031005859375
-0282200,Valdez,,,451-BF-01,AT&T,4,5000,,5000,,,,f,t,f,f,,,,,DEC,,,,61.3441162109375,-145.268310546875
 0282200,Valdez,,,451-BF-08,Alaska Army National Guard,1,1500,,1500,,,,f,f,t,f,,,,,DEC,,,,61.1279296875,-146.24749755859375
+0282200,Valdez,,,451-BF-01,AT&T,4,5000,,5000,,,,f,t,f,f,,,,,DEC,,,,61.3441162109375,-145.268310546875
+0282200,Valdez,,,451-BF-06,AT&T,4,5000,,5000,,,,f,t,f,f,,,,,DEC,,,,61.20452880859375,-145.63031005859375
+0282200,Valdez,,,451-BF-07,AT&T,4,5000,,5000,,,,f,t,f,f,,,,,DEC,,,,61.06451416015625,-145.8291015625
+0282200,Valdez,,,,AT&T,1,1000,,1000,,,,f,f,t,f,,,,,DEC,,,,61.1317138671875,-146.33758544921875
 0282200,Valdez,,,451-BF-09,City of Valdez,9,43000,,43000,,,,f,f,t,f,,,,,DEC,,,,61.13067626953125,-146.3668212890625
 0282200,Valdez,,,451-BF-04,Copper Valley Electric Association,1,1000,,,,1000,,f,f,t,f,,,,,DEC,,,,61.08428955078125,-146.2493896484375
 0282200,Valdez,,,452-BF-01,Copper Valley Electric Association,1,1000,,1000,,,,f,f,t,f,,,,,DEC,,,,61.08331298828125,-146.30291748046875
@@ -2249,11 +2249,11 @@ Foundations:  Belly of tank more than 12i",,1095,AEA,2015 Assessment,2015,2015,7
 0282750,Wainwright,403,,249-BF-02,SKW,,200000,,,,,,t,f,f,f,,,,934,AEA,2015 Assessment,2015,2015,70.12872314453125,-143.62200927734375
 0282750,Wainwright,,,,Wainwright Power Plant Tank Farm,2,500000,,500000,,,,t,f,f,,Crowley,,,,AEA,2024 Assessment,2023,2024,70.64223361852,-160.022432532612
 0282750,Wainwright,,,,Wainwright Tank Farm,6,908000,154000,754000,,,,t,f,f,,Crowley,,,,AEA,2024 Assessment,2023,2024,70.6397097797901,-160.01079013003
-0282860,Wales,,,,AVEC Power Plant,8,71375,,71375,,,,t,f,f,,Crowley,,,,AEA,2024 Assessment,2023,2024,65.6087015081342,-168.090406444921
 0282860,Wales,179,ANC-W-003,,Alaska Village Electric Cooperative,10,74530,,74530,,,,t,f,f,t,"Ruby Marine, Crowley Marine","Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well. 
 Secondary Containment:  No containment; Inadequate containment. 
 Foundations:  Belly of tank more than 12i",50,119,AEA,2016 Letter Report,2016,2016,67.08770751953125,-157.856689453125
 0282860,Wales,,,458-BF-07,Alaska Village Electric Cooperative,7,64800,,64800,,,,,,,f,,,,,DEC,,,,65.60870361328125,-168.09088134765625
+0282860,Wales,,,,AVEC Power Plant,8,71375,,71375,,,,t,f,f,,Crowley,,,,AEA,2024 Assessment,2023,2024,65.6087015081342,-168.090406444921
 0282860,Wales,,ANC-W-004,458-BF-04,Bering Strait School District,4,48400,,48400,,,,t,f,f,t,,,,,DEC,,,,65.60467529296875,-168.08612060546875
 0282860,Wales,520,,458-BF-06,City of Wales WTP,1,10700,,10700,,,,t,f,f,f,Crowley Marine,"Site Location: Tank farm in flood plain; Facility threatened by coastal erosion/avalanche/river erosion/other; Tank Farm within 100-feet of a well. 
 Secondary Containment:  No containment; Inadequate containment. 
@@ -2282,8 +2282,8 @@ Foundations:  Belly of tank more than 12i",400,282,AEA,2015 Assessment,2015,2015
 0284070,White Mountain,,,,White Mountain Tank Farm,12,276000,46000,230000,,,,t,f,f,,Crowley,,,,AEA,2024 Assessment,2023,2024,64.6839031220448,-163.41341166161
 0284070,White Mountain,,,463-BF-03,White Mountain Tank Farm,2,46000,,46000,,,,t,f,f,f,,,,,DEC,,,,64.68389892578125,-163.413818359375
 0284070,White Mountain,,,463-BF-04,White Mountain Tank Farm,4,92000,46000,46000,,,,t,f,f,f,,,,,DEC,,,,64.68389892578125,-163.413818359375
-0284510,Whittier,,ANC-W-013,,AMHS,,,,,,,,,,,t,,,,,,,,,60.77227783203125,-148.6859130859375
 0284510,Whittier,,ANC-W-011,,Alaska Railroad Dock,,,,,,,,,,,t,,,,,,,,,60.77227783203125,-148.6859130859375
+0284510,Whittier,,ANC-W-013,,AMHS,,,,,,,,,,,t,,,,,,,,,60.77227783203125,-148.6859130859375
 0284510,Whittier,,ANC-W-100,,Cliffside Marina,,,,,,,,,,,t,,,,,,,,,60.77227783203125,-148.6859130859375
 0284510,Whittier,,ANC-W-015,,Cruise Ship Terminal,,,,,,,,,,,t,,,,,,,,,60.77227783203125,-148.6859130859375
 0284510,Whittier,,ANC-W-010,,Petro 49,7,224000,80000,144000,,,,f,f,t,t,,,,,DEC,,,,60.77532958984375,-148.69000244140625
