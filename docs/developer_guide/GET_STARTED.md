@@ -24,6 +24,9 @@ git clone https://github.com/acep-aedg/aedg-etl-2024.git
 ```bash
 git clone https://github.com/acep-aedg/aedg-data-pond.git
 ```
+```bash
+git clone git@github.com:acep-aedg/aedg-metadata.git
+```
 
 ### 2. Configure Python Environment
 
