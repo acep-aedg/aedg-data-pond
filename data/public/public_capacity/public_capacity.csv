@@ -9,15 +9,15 @@ fips_code,name,service_area_capacity_mw,fuel_type,year
 0201420,Aleknagik,11.0,Distillate Fuel Oil,2021
 0201970,Ambler,1.1,Distillate Fuel Oil,2021
 0202080,Anaktuvuk Pass,2.7,Distillate Fuel Oil,2021
-0203110,Anchor Point,2.2,Distillate Fuel Oil,2021
-0203110,Anchor Point,46.5,Electricity used for Energy Storage,2021
-0203110,Anchor Point,126.0,Water at Hydroelectric Turbine,2021
-0203110,Anchor Point,278.6,Natural Gas,2021
 0203000,Anchorage,2.0,Distillate Fuel Oil,2021
 0203000,Anchorage,3.0,Electricity used for Energy Storage,2021
 0203000,Anchorage,18.0,Wind,2021
 0203000,Anchorage,19.4,Water at Hydroelectric Turbine,2021
 0203000,Anchorage,954.1,Natural Gas,2021
+0203110,Anchor Point,2.2,Distillate Fuel Oil,2021
+0203110,Anchor Point,46.5,Electricity used for Energy Storage,2021
+0203110,Anchor Point,126.0,Water at Hydroelectric Turbine,2021
+0203110,Anchor Point,278.6,Natural Gas,2021
 0203220,Anderson,0.6,Solar,2021
 0203220,Anderson,26.5,Wind,2021
 0203220,Anderson,40.0,Electricity used for Energy Storage,2021
@@ -199,16 +199,16 @@ fips_code,name,service_area_capacity_mw,fuel_type,year
 0224230,Fairbanks,60.0,Waste Oil,2021
 0224230,Fairbanks,174.8,Coal,2021
 0224230,Fairbanks,204.7,Distillate Fuel Oil,2021
-0225000,Farm Loop,1.3,Solar,2021
-0225000,Farm Loop,11.5,Landfill Gas,2021
-0225000,Farm Loop,45.6,Water at Hydroelectric Turbine,2021
-0225000,Farm Loop,171.0,Natural Gas,2021
 0224980,Farmers Loop,0.6,Solar,2021
 0224980,Farmers Loop,26.5,Wind,2021
 0224980,Farmers Loop,40.0,Electricity used for Energy Storage,2021
 0224980,Farmers Loop,60.0,Waste Oil,2021
 0224980,Farmers Loop,174.8,Coal,2021
 0224980,Farmers Loop,204.7,Distillate Fuel Oil,2021
+0225000,Farm Loop,1.3,Solar,2021
+0225000,Farm Loop,11.5,Landfill Gas,2021
+0225000,Farm Loop,45.6,Water at Hydroelectric Turbine,2021
+0225000,Farm Loop,171.0,Natural Gas,2021
 0225220,Ferry,0.6,Solar,2021
 0225220,Ferry,26.5,Wind,2021
 0225220,Ferry,40.0,Electricity used for Energy Storage,2021
@@ -373,14 +373,14 @@ fips_code,name,service_area_capacity_mw,fuel_type,year
 0240400,Klawock,6.5,Water at Hydroelectric Turbine,2021
 0240400,Klawock,11.3,Distillate Fuel Oil,2021
 0240510,Klukwan,0.6,Water at Hydroelectric Turbine,2021
-0240670,Knik River,1.3,Solar,2021
-0240670,Knik River,11.5,Landfill Gas,2021
-0240670,Knik River,45.6,Water at Hydroelectric Turbine,2021
-0240670,Knik River,171.0,Natural Gas,2021
 0240645,Knik-Fairview,1.3,Solar,2021
 0240645,Knik-Fairview,11.5,Landfill Gas,2021
 0240645,Knik-Fairview,45.6,Water at Hydroelectric Turbine,2021
 0240645,Knik-Fairview,171.0,Natural Gas,2021
+0240670,Knik River,1.3,Solar,2021
+0240670,Knik River,11.5,Landfill Gas,2021
+0240670,Knik River,45.6,Water at Hydroelectric Turbine,2021
+0240670,Knik River,171.0,Natural Gas,2021
 0240950,Kodiak,5.0,Electricity used for Energy Storage,2021
 0240950,Kodiak,9.0,Wind,2021
 0240950,Kodiak,33.6,Water at Hydroelectric Turbine,2021
@@ -474,9 +474,9 @@ fips_code,name,service_area_capacity_mw,fuel_type,year
 0253050,Nenana,60.0,Waste Oil,2021
 0253050,Nenana,174.8,Coal,2021
 0253050,Nenana,204.7,Distillate Fuel Oil,2021
-0253710,New Stuyahok,1.2,Distillate Fuel Oil,2021
 0253270,Newhalen,0.8,Water at Hydroelectric Turbine,2021
 0253270,Newhalen,0.9,Distillate Fuel Oil,2021
+0253710,New Stuyahok,1.2,Distillate Fuel Oil,2021
 0253820,Newtok,0.4,Distillate Fuel Oil,2021
 0253930,Nightmute,0.3,Distillate Fuel Oil,2021
 0254050,Nikiski,2.2,Distillate Fuel Oil,2021

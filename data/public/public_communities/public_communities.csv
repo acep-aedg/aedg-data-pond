@@ -12,8 +12,8 @@ fips_code,gnis_code,name,regional_corporation,borough,grid,puma,economic_region,
 0201860,2419352,Allakaket,Doyon Alaska Native Regional Corporation,Yukon-Koyukuk Census Area,Allakaket Grid,Subsistence Alaska PUMA,Interior Economic Region,t,66.56004842,-152.64948048
 0201970,2419353,Ambler,NANA Alaska Native Regional Corporation,Northwest Arctic Borough,Ambler Grid,Subsistence Alaska PUMA,Northern Economic Region,t,67.08647078,-157.85652784
 0202080,2419354,Anaktuvuk Pass,Arctic Slope Alaska Native Regional Corporation,North Slope Borough,Anaktuvuk Pass Grid,Subsistence Alaska PUMA,Northern Economic Region,t,68.14185077,-151.73586607
-0203110,2418770,Anchor Point,Cook Inlet Alaska Native Regional Corporation,Kenai Peninsula Borough,Railbelt Grid,Matanuska-Susitna & Kenai Peninsula Boroughs PUMA,Gulf Coast Economic Region,f,59.7764369,-151.83401493
 0203000,2419025,Anchorage,Cook Inlet Alaska Native Regional Corporation,Municipality of Anchorage,Railbelt Grid,Anchorage Municipality (North) PUMA,Anchorage/Mat-Su Economic Region,f,61.21627757,-149.89484742
+0203110,2418770,Anchor Point,Cook Inlet Alaska Native Regional Corporation,Kenai Peninsula Borough,Railbelt Grid,Matanuska-Susitna & Kenai Peninsula Boroughs PUMA,Gulf Coast Economic Region,f,59.7764369,-151.83401493
 0203220,2419355,Anderson,Doyon Alaska Native Regional Corporation,Denali Borough,Railbelt Grid,"Greater Fairbanks, Greater Juneau, Ketchikan Gateway Borough & Road-Connected Alaska PUMA",Interior Economic Region,f,64.34335795,-149.19078163
 0203440,2419356,Angoon,Sealaska Alaska Native Regional Corporation,Hoonah-Angoon Census Area,Angoon Grid,Subsistence Alaska PUMA,Southeast Economic Region,t,57.4995695,-134.58084625
 0203550,2419357,Aniak,Calista Alaska Native Regional Corporation,Bethel Census Area,Aniak Grid,Subsistence Alaska PUMA,Southwest Economic Region,t,61.57876388,-159.52759488
@@ -96,8 +96,8 @@ fips_code,gnis_code,name,regional_corporation,borough,grid,puma,economic_region,
 0223900,2418577,Excursion Inlet,Sealaska Alaska Native Regional Corporation,Haines Borough,,"Greater Fairbanks, Greater Juneau, Ketchikan Gateway Borough & Road-Connected Alaska PUMA",Southeast Economic Region,f,58.41682002,-135.44314779
 0224230,2419385,Fairbanks,Doyon Alaska Native Regional Corporation,Fairbanks North Star Borough,Railbelt Grid,"Greater Fairbanks, Greater Juneau, Ketchikan Gateway Borough & Road-Connected Alaska PUMA",Interior Economic Region,f,64.83969225,-147.72124822
 0224660,2419386,False Pass,Aleut Alaska Native Regional Corporation,Aleutians East Borough,False Pass Grid,Subsistence Alaska PUMA,Southwest Economic Region,t,54.85503086,-163.41473878
-0225000,2418580,Farm Loop,Cook Inlet Alaska Native Regional Corporation,Matanuska-Susitna Borough,Railbelt Grid,Matanuska-Susitna & Kenai Peninsula Boroughs PUMA,Anchorage/Mat-Su Economic Region,f,61.64000731,-149.14533535
 0224980,2582712,Farmers Loop,Doyon Alaska Native Regional Corporation,Fairbanks North Star Borough,Railbelt Grid,"Greater Fairbanks, Greater Juneau, Ketchikan Gateway Borough & Road-Connected Alaska PUMA",Interior Economic Region,f,64.88981073,-147.76059729
+0225000,2418580,Farm Loop,Cook Inlet Alaska Native Regional Corporation,Matanuska-Susitna Borough,Railbelt Grid,Matanuska-Susitna & Kenai Peninsula Boroughs PUMA,Anchorage/Mat-Su Economic Region,f,61.64000731,-149.14533535
 0225220,2418581,Ferry,Doyon Alaska Native Regional Corporation,Denali Borough,Railbelt Grid,"Greater Fairbanks, Greater Juneau, Ketchikan Gateway Borough & Road-Connected Alaska PUMA",Interior Economic Region,f,64.01708593,-149.11573078
 0225550,2418582,Fishhook,Cook Inlet Alaska Native Regional Corporation,Matanuska-Susitna Borough,Railbelt Grid,Matanuska-Susitna & Kenai Peninsula Boroughs PUMA,Anchorage/Mat-Su Economic Region,f,61.69322118,-149.24867697
 0225880,2418583,Flat,Doyon Alaska Native Regional Corporation,Yukon-Koyukuk Census Area,,Subsistence Alaska PUMA,Interior Economic Region,f,62.4536,-158.0075
@@ -162,8 +162,8 @@ fips_code,gnis_code,name,regional_corporation,borough,grid,puma,economic_region,
 0239960,2419411,Kivalina,NANA Alaska Native Regional Corporation,Northwest Arctic Borough,Kivalina Grid,Subsistence Alaska PUMA,Northern Economic Region,t,67.72738683,-164.5399655
 0240400,2419412,Klawock,Sealaska Alaska Native Regional Corporation,Prince of Wales-Hyder Census Area,Prince of Wales Island Grid,Subsistence Alaska PUMA,Southeast Economic Region,t,55.55450419,-133.09603454
 0240510,2418660,Klukwan,Sealaska Alaska Native Regional Corporation,Hoonah-Angoon Census Area,Upper Lynn Canal Grid,Subsistence Alaska PUMA,Southeast Economic Region,t,59.40043417,-135.89587576
-0240670,2418662,Knik River,Cook Inlet Alaska Native Regional Corporation,Matanuska-Susitna Borough,Railbelt Grid,Matanuska-Susitna & Kenai Peninsula Boroughs PUMA,Anchorage/Mat-Su Economic Region,f,61.49712115,-148.94092664
 0240645,2418663,Knik-Fairview,Cook Inlet Alaska Native Regional Corporation,Matanuska-Susitna Borough,Railbelt Grid,Matanuska-Susitna & Kenai Peninsula Boroughs PUMA,Anchorage/Mat-Su Economic Region,f,61.51685582,-149.62083067
+0240670,2418662,Knik River,Cook Inlet Alaska Native Regional Corporation,Matanuska-Susitna Borough,Railbelt Grid,Matanuska-Susitna & Kenai Peninsula Boroughs PUMA,Anchorage/Mat-Su Economic Region,f,61.49712115,-148.94092664
 0240840,2419413,Kobuk,NANA Alaska Native Regional Corporation,Northwest Arctic Borough,Shungnak Grid,Subsistence Alaska PUMA,Northern Economic Region,t,66.90770092,-156.88237275
 0240950,2419414,Kodiak,Koniag Alaska Native Regional Corporation,Kodiak Island Borough,Kodiak Grid,Subsistence Alaska PUMA,Gulf Coast Economic Region,f,57.79300136,-152.39748118
 0241210,2418665,Kodiak Station,Koniag Alaska Native Regional Corporation,Kodiak Island Borough,Kodiak Grid,Subsistence Alaska PUMA,Gulf Coast Economic Region,f,57.7381,-152.5037
@@ -215,8 +215,8 @@ fips_code,gnis_code,name,regional_corporation,borough,grid,puma,economic_region,
 0252915,2418731,Nelchina,Ahtna Alaska Native Regional Corporation,Copper River Census Area,Copper Valley Grid,"Greater Fairbanks, Greater Juneau, Ketchikan Gateway Borough & Road-Connected Alaska PUMA",Gulf Coast Economic Region,f,61.9898422,-146.77891647
 0252940,2418733,Nelson Lagoon,Aleut Alaska Native Regional Corporation,Aleutians East Borough,Nelson Lagoon Grid,Subsistence Alaska PUMA,Southwest Economic Region,t,56.00120604,-161.20184982
 0253050,2419430,Nenana,Doyon Alaska Native Regional Corporation,Yukon-Koyukuk Census Area,Railbelt Grid,Subsistence Alaska PUMA,Interior Economic Region,f,64.56270921,-149.09074136
-0253710,2419431,New Stuyahok,Bristol Bay Alaska Native Regional Corporation,Dillingham Census Area,New Stuyahok Grid,Subsistence Alaska PUMA,Southwest Economic Region,t,59.45155086,-157.31128856
 0253270,2419432,Newhalen,Bristol Bay Alaska Native Regional Corporation,Lake and Peninsula Borough,Newhalen Grid,Subsistence Alaska PUMA,Southwest Economic Region,t,59.72097095,-154.89480018
+0253710,2419431,New Stuyahok,Bristol Bay Alaska Native Regional Corporation,Dillingham Census Area,New Stuyahok Grid,Subsistence Alaska PUMA,Southwest Economic Region,t,59.45155086,-157.31128856
 0253820,2418740,Newtok,Calista Alaska Native Regional Corporation,Bethel Census Area,Newtok Grid,Subsistence Alaska PUMA,Southwest Economic Region,t,60.93686382,-164.62941623
 0253930,2419433,Nightmute,Calista Alaska Native Regional Corporation,Bethel Census Area,Toksook Bay Grid,Subsistence Alaska PUMA,Southwest Economic Region,t,60.4799803,-164.72996641
 0254050,2418742,Nikiski,Cook Inlet Alaska Native Regional Corporation,Kenai Peninsula Borough,Railbelt Grid,Matanuska-Susitna & Kenai Peninsula Boroughs PUMA,Gulf Coast Economic Region,f,60.73459723,-151.29692559
@@ -256,6 +256,7 @@ fips_code,gnis_code,name,regional_corporation,borough,grid,puma,economic_region,
 0261788,2419179,Point MacKenzie,Cook Inlet Alaska Native Regional Corporation,Matanuska-Susitna Borough,Railbelt Grid,Matanuska-Susitna & Kenai Peninsula Boroughs PUMA,Anchorage/Mat-Su Economic Region,f,61.35518649,-150.0108417
 0261825,2582716,Point Possession,Cook Inlet Alaska Native Regional Corporation,Kenai Peninsula Borough,,Matanuska-Susitna & Kenai Peninsula Boroughs PUMA,Gulf Coast Economic Region,f,61.0350394,-150.37835622
 0262125,2419181,Pope-Vannoy Landing,Bristol Bay Alaska Native Regional Corporation,Lake and Peninsula Borough,,Subsistence Alaska PUMA,Southwest Economic Region,f,59.55470038,-154.49827348
+0262285,2419190,Portage Creek,Bristol Bay Alaska Native Regional Corporation,Dillingham Census Area,,Subsistence Alaska PUMA,Southwest Economic Region,f,58.90519103,-157.71981375
 0262510,2419452,Port Alexander,Sealaska Alaska Native Regional Corporation,Prince of Wales-Hyder Census Area,,Subsistence Alaska PUMA,Southeast Economic Region,f,56.24923768,-134.64699558
 0262620,2419182,Port Alsworth,Cook Inlet Alaska Native Regional Corporation,Lake and Peninsula Borough,Port Alsworth Grid,Subsistence Alaska PUMA,Southwest Economic Region,t,60.19602229,-154.32808373
 0263170,2419183,Port Clarence,Bering Straits Alaska Native Regional Corporation,Nome Census Area,,Subsistence Alaska PUMA,Northern Economic Region,f,65.26185599,-166.84951599
@@ -263,7 +264,6 @@ fips_code,gnis_code,name,regional_corporation,borough,grid,puma,economic_region,
 0263390,2419453,Port Heiden,Bristol Bay Alaska Native Regional Corporation,Lake and Peninsula Borough,Port Heiden Grid,Subsistence Alaska PUMA,Southwest Economic Region,t,56.93007699,-158.61901559
 0263610,2419454,Port Lions,Koniag Alaska Native Regional Corporation,Kodiak Island Borough,Kodiak Grid,Subsistence Alaska PUMA,Gulf Coast Economic Region,f,57.86662239,-152.88344189
 0263870,2419188,Port Protection,Sealaska Alaska Native Regional Corporation,Prince of Wales-Hyder Census Area,,Subsistence Alaska PUMA,Southeast Economic Region,f,56.32235107,-133.60721671
-0262285,2419190,Portage Creek,Bristol Bay Alaska Native Regional Corporation,Dillingham Census Area,,Subsistence Alaska PUMA,Southwest Economic Region,f,58.90519103,-157.71981375
 0264240,2419191,Primrose,Cook Inlet Alaska Native Regional Corporation,Kenai Peninsula Borough,Railbelt Grid,Matanuska-Susitna & Kenai Peninsula Boroughs PUMA,Gulf Coast Economic Region,f,60.35763118,-149.35258984
 0264380,2419192,Prudhoe Bay,Arctic Slope Alaska Native Regional Corporation,North Slope Borough,Deadhorse Grid,Subsistence Alaska PUMA,Northern Economic Region,f,70.2553,-148.3372
 0264600,2419455,Quinhagak,Calista Alaska Native Regional Corporation,Bethel Census Area,Quinhagak Grid,Subsistence Alaska PUMA,Southwest Economic Region,t,59.75142674,-161.9006125

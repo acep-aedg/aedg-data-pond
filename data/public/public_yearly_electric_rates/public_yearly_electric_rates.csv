@@ -221,27 +221,6 @@ fips_code,name,reporting_entity_name,year,residential_rate,residential_rate_subs
 0202080,Anaktuvuk Pass,North Slope Borough Power & Light,2019,0.18,0.18,0.18,,,,,0.18,PCE
 0202080,Anaktuvuk Pass,North Slope Borough Power & Light,2020,0.18,0.18,0.18,,,,,0.18,PCE
 0202080,Anaktuvuk Pass,North Slope Borough Power & Light,2021,0.15,0.15,0.15,,,,,0.15,PCE
-0203110,Anchor Point,Homer Electric Assn Inc,2001,0.12,,0.09,0.05,0.12,,,0.09,EIA861
-0203110,Anchor Point,Homer Electric Assn Inc,2002,0.12,,0.10,0.04,,,0.13,0.09,EIA861M
-0203110,Anchor Point,Homer Electric Assn Inc,2003,0.11,,0.10,0.05,,,0.12,0.09,EIA861M
-0203110,Anchor Point,Homer Electric Assn Inc,2004,0.12,,0.10,0.05,,,,0.09,EIA861M
-0203110,Anchor Point,Homer Electric Assn Inc,2005,0.13,,0.11,0.06,,,,0.10,EIA861M
-0203110,Anchor Point,Homer Electric Assn Inc,2006,0.15,,0.13,0.07,,,,0.12,EIA861M
-0203110,Anchor Point,Homer Electric Assn Inc,2007,0.15,,0.13,0.07,,,,0.12,EIA861M
-0203110,Anchor Point,Homer Electric Assn Inc,2008,0.17,,0.15,0.08,,,,0.13,EIA861M
-0203110,Anchor Point,Homer Electric Assn Inc,2009,0.20,,0.18,0.10,,,,0.16,EIA861M
-0203110,Anchor Point,Homer Electric Assn Inc,2010,0.17,,0.15,0.08,,,,0.14,EIA861M
-0203110,Anchor Point,Homer Electric Assn Inc,2011,0.20,,0.18,0.08,,,,0.16,EIA861M
-0203110,Anchor Point,Homer Electric Assn Inc,2012,0.20,,0.18,0.09,,,,0.16,EIA861M
-0203110,Anchor Point,Homer Electric Assn Inc,2013,0.21,,0.18,0.08,,,,0.17,EIA861M
-0203110,Anchor Point,Homer Electric Assn Inc,2014,0.24,,0.21,0.10,,,,0.19,EIA861
-0203110,Anchor Point,Homer Electric Assn Inc,2015,0.25,,0.22,0.11,,,,0.20,EIA861M
-0203110,Anchor Point,Homer Electric Assn Inc,2016,0.26,,0.23,0.11,,,,0.21,EIA861M
-0203110,Anchor Point,Homer Electric Assn Inc,2017,0.26,,0.23,0.11,,,,0.21,EIA861M
-0203110,Anchor Point,Homer Electric Assn Inc,2018,0.27,,0.23,0.11,,,,0.21,EIA861M
-0203110,Anchor Point,Homer Electric Assn Inc,2019,0.27,,0.23,0.11,,,,0.21,EIA861
-0203110,Anchor Point,Homer Electric Assn Inc,2020,0.29,,0.26,0.12,,,,0.24,EIA861
-0203110,Anchor Point,Homer Electric Assn Inc,2021,0.28,,0.25,0.12,,,,0.23,EIA861
 0203000,Anchorage,Anchorage Municipal Light and Power,2001,0.10,,0.07,,0.13,,,0.08,EIA861
 0203000,Anchorage,Chugach Electric Assn Inc,2001,0.11,,0.09,0.08,0.28,,,0.10,EIA861
 0203000,Anchorage,Anchorage Municipal Light and Power,2002,0.10,,0.08,,0.09,,,0.08,EIA861
@@ -283,6 +262,27 @@ fips_code,name,reporting_entity_name,year,residential_rate,residential_rate_subs
 0203000,Anchorage,Anchorage Municipal Light and Power,2020,0.21,,0.16,,,,,0.17,EIA861
 0203000,Anchorage,Chugach Electric Assn Inc,2020,0.21,,0.17,0.15,,,,0.19,EIA861
 0203000,Anchorage,Chugach Electric Assn Inc,2021,0.21,,0.16,0.14,,,,0.18,EIA861
+0203110,Anchor Point,Homer Electric Assn Inc,2001,0.12,,0.09,0.05,0.12,,,0.09,EIA861
+0203110,Anchor Point,Homer Electric Assn Inc,2002,0.12,,0.10,0.04,,,0.13,0.09,EIA861M
+0203110,Anchor Point,Homer Electric Assn Inc,2003,0.11,,0.10,0.05,,,0.12,0.09,EIA861M
+0203110,Anchor Point,Homer Electric Assn Inc,2004,0.12,,0.10,0.05,,,,0.09,EIA861M
+0203110,Anchor Point,Homer Electric Assn Inc,2005,0.13,,0.11,0.06,,,,0.10,EIA861M
+0203110,Anchor Point,Homer Electric Assn Inc,2006,0.15,,0.13,0.07,,,,0.12,EIA861M
+0203110,Anchor Point,Homer Electric Assn Inc,2007,0.15,,0.13,0.07,,,,0.12,EIA861M
+0203110,Anchor Point,Homer Electric Assn Inc,2008,0.17,,0.15,0.08,,,,0.13,EIA861M
+0203110,Anchor Point,Homer Electric Assn Inc,2009,0.20,,0.18,0.10,,,,0.16,EIA861M
+0203110,Anchor Point,Homer Electric Assn Inc,2010,0.17,,0.15,0.08,,,,0.14,EIA861M
+0203110,Anchor Point,Homer Electric Assn Inc,2011,0.20,,0.18,0.08,,,,0.16,EIA861M
+0203110,Anchor Point,Homer Electric Assn Inc,2012,0.20,,0.18,0.09,,,,0.16,EIA861M
+0203110,Anchor Point,Homer Electric Assn Inc,2013,0.21,,0.18,0.08,,,,0.17,EIA861M
+0203110,Anchor Point,Homer Electric Assn Inc,2014,0.24,,0.21,0.10,,,,0.19,EIA861
+0203110,Anchor Point,Homer Electric Assn Inc,2015,0.25,,0.22,0.11,,,,0.20,EIA861M
+0203110,Anchor Point,Homer Electric Assn Inc,2016,0.26,,0.23,0.11,,,,0.21,EIA861M
+0203110,Anchor Point,Homer Electric Assn Inc,2017,0.26,,0.23,0.11,,,,0.21,EIA861M
+0203110,Anchor Point,Homer Electric Assn Inc,2018,0.27,,0.23,0.11,,,,0.21,EIA861M
+0203110,Anchor Point,Homer Electric Assn Inc,2019,0.27,,0.23,0.11,,,,0.21,EIA861
+0203110,Anchor Point,Homer Electric Assn Inc,2020,0.29,,0.26,0.12,,,,0.24,EIA861
+0203110,Anchor Point,Homer Electric Assn Inc,2021,0.28,,0.25,0.12,,,,0.23,EIA861
 0203220,Anderson,Golden Valley Elec Assn Inc,2001,0.10,,0.11,0.07,,,,0.08,EIA861M
 0203220,Anderson,Golden Valley Elec Assn Inc,2002,0.10,,0.10,0.07,,,,0.08,EIA861M
 0203220,Anderson,Golden Valley Elec Assn Inc,2003,0.10,,0.09,0.07,,,,0.08,EIA861M
@@ -1711,27 +1711,6 @@ fips_code,name,reporting_entity_name,year,residential_rate,residential_rate_subs
 0224660,False Pass,City of False Pass,2017,0.46,0.32,0.46,,,,,0.45,PCE
 0224660,False Pass,City of False Pass,2018,0.43,0.32,0.43,,,,,0.41,PCE
 0224660,False Pass,City of False Pass,2019,0.55,0.26,0.55,,,,,0.55,PCE
-0225000,Farm Loop,Matanuska Electric Assn Inc,2001,0.11,,0.09,,0.22,,,0.11,EIA861
-0225000,Farm Loop,Matanuska Electric Assn Inc,2002,0.11,,0.09,,0.22,,,0.10,EIA861
-0225000,Farm Loop,Matanuska Electric Assn Inc,2003,0.10,,0.08,,,,0.20,0.10,EIA861M
-0225000,Farm Loop,Matanuska Electric Assn Inc,2004,0.11,,0.09,,,,,0.10,EIA861M
-0225000,Farm Loop,Matanuska Electric Assn Inc,2005,0.11,,0.09,,,,,0.11,EIA861M
-0225000,Farm Loop,Matanuska Electric Assn Inc,2006,0.13,,0.11,,,,,0.12,EIA861M
-0225000,Farm Loop,Matanuska Electric Assn Inc,2007,0.13,,0.11,,,,,0.12,EIA861M
-0225000,Farm Loop,Matanuska Electric Assn Inc,2008,0.14,,0.12,,,,,0.13,EIA861M
-0225000,Farm Loop,Matanuska Electric Assn Inc,2009,0.16,,0.14,,,,,0.15,EIA861M
-0225000,Farm Loop,Matanuska Electric Assn Inc,2010,0.14,,0.11,,,,,0.13,EIA861M
-0225000,Farm Loop,Matanuska Electric Assn Inc,2011,0.15,,0.13,,,,,0.14,EIA861M
-0225000,Farm Loop,Matanuska Electric Assn Inc,2012,0.15,,0.13,,,,,0.14,EIA861M
-0225000,Farm Loop,Matanuska Electric Assn Inc,2013,0.15,,0.13,,,,,0.14,EIA861M
-0225000,Farm Loop,Matanuska Electric Assn Inc,2014,0.17,,0.14,,,,,0.16,EIA861M
-0225000,Farm Loop,Matanuska Electric Assn Inc,2015,0.20,,0.17,,,,,0.19,EIA861M
-0225000,Farm Loop,Matanuska Electric Assn Inc,2016,0.20,,0.17,,,,,0.19,EIA861M
-0225000,Farm Loop,Matanuska Electric Assn Inc,2017,0.21,,0.18,,,,,0.19,EIA861M
-0225000,Farm Loop,Matanuska Electric Assn Inc,2018,0.21,,0.18,,,,,0.20,EIA861M
-0225000,Farm Loop,Matanuska Electric Assn Inc,2019,0.22,,0.19,,,,,0.20,EIA861
-0225000,Farm Loop,Matanuska Electric Assn Inc,2020,0.22,,0.19,,,,,0.20,EIA861
-0225000,Farm Loop,Matanuska Electric Assn Inc,2021,0.21,,0.19,,,,,0.20,EIA861
 0224980,Farmers Loop,Golden Valley Elec Assn Inc,2001,0.10,,0.11,0.07,,,,0.08,EIA861M
 0224980,Farmers Loop,Golden Valley Elec Assn Inc,2002,0.10,,0.10,0.07,,,,0.08,EIA861M
 0224980,Farmers Loop,Golden Valley Elec Assn Inc,2003,0.10,,0.09,0.07,,,,0.08,EIA861M
@@ -1753,6 +1732,27 @@ fips_code,name,reporting_entity_name,year,residential_rate,residential_rate_subs
 0224980,Farmers Loop,Golden Valley Elec Assn Inc,2019,0.26,,0.25,0.18,,,,0.21,EIA861
 0224980,Farmers Loop,Golden Valley Elec Assn Inc,2020,0.25,,0.24,0.17,,,,0.19,EIA861
 0224980,Farmers Loop,Golden Valley Elec Assn Inc,2021,0.27,,0.26,0.18,,,,0.21,EIA861
+0225000,Farm Loop,Matanuska Electric Assn Inc,2001,0.11,,0.09,,0.22,,,0.11,EIA861
+0225000,Farm Loop,Matanuska Electric Assn Inc,2002,0.11,,0.09,,0.22,,,0.10,EIA861
+0225000,Farm Loop,Matanuska Electric Assn Inc,2003,0.10,,0.08,,,,0.20,0.10,EIA861M
+0225000,Farm Loop,Matanuska Electric Assn Inc,2004,0.11,,0.09,,,,,0.10,EIA861M
+0225000,Farm Loop,Matanuska Electric Assn Inc,2005,0.11,,0.09,,,,,0.11,EIA861M
+0225000,Farm Loop,Matanuska Electric Assn Inc,2006,0.13,,0.11,,,,,0.12,EIA861M
+0225000,Farm Loop,Matanuska Electric Assn Inc,2007,0.13,,0.11,,,,,0.12,EIA861M
+0225000,Farm Loop,Matanuska Electric Assn Inc,2008,0.14,,0.12,,,,,0.13,EIA861M
+0225000,Farm Loop,Matanuska Electric Assn Inc,2009,0.16,,0.14,,,,,0.15,EIA861M
+0225000,Farm Loop,Matanuska Electric Assn Inc,2010,0.14,,0.11,,,,,0.13,EIA861M
+0225000,Farm Loop,Matanuska Electric Assn Inc,2011,0.15,,0.13,,,,,0.14,EIA861M
+0225000,Farm Loop,Matanuska Electric Assn Inc,2012,0.15,,0.13,,,,,0.14,EIA861M
+0225000,Farm Loop,Matanuska Electric Assn Inc,2013,0.15,,0.13,,,,,0.14,EIA861M
+0225000,Farm Loop,Matanuska Electric Assn Inc,2014,0.17,,0.14,,,,,0.16,EIA861M
+0225000,Farm Loop,Matanuska Electric Assn Inc,2015,0.20,,0.17,,,,,0.19,EIA861M
+0225000,Farm Loop,Matanuska Electric Assn Inc,2016,0.20,,0.17,,,,,0.19,EIA861M
+0225000,Farm Loop,Matanuska Electric Assn Inc,2017,0.21,,0.18,,,,,0.19,EIA861M
+0225000,Farm Loop,Matanuska Electric Assn Inc,2018,0.21,,0.18,,,,,0.20,EIA861M
+0225000,Farm Loop,Matanuska Electric Assn Inc,2019,0.22,,0.19,,,,,0.20,EIA861
+0225000,Farm Loop,Matanuska Electric Assn Inc,2020,0.22,,0.19,,,,,0.20,EIA861
+0225000,Farm Loop,Matanuska Electric Assn Inc,2021,0.21,,0.19,,,,,0.20,EIA861
 0225220,Ferry,Golden Valley Elec Assn Inc,2001,0.10,,0.11,0.07,,,,0.08,EIA861M
 0225220,Ferry,Golden Valley Elec Assn Inc,2002,0.10,,0.10,0.07,,,,0.08,EIA861M
 0225220,Ferry,Golden Valley Elec Assn Inc,2003,0.10,,0.09,0.07,,,,0.08,EIA861M
@@ -2916,27 +2916,6 @@ fips_code,name,reporting_entity_name,year,residential_rate,residential_rate_subs
 0240510,Klukwan,Inside Passage Electric,2019,0.62,0.27,0.62,,,,,0.62,PCE
 0240510,Klukwan,Inside Passage Electric,2020,0.57,0.28,0.57,,,,,0.57,PCE
 0240510,Klukwan,Inside Passage Electric,2021,0.63,0.29,0.63,,,,,0.63,PCE
-0240670,Knik River,Matanuska Electric Assn Inc,2001,0.11,,0.09,,0.22,,,0.11,EIA861
-0240670,Knik River,Matanuska Electric Assn Inc,2002,0.11,,0.09,,0.22,,,0.10,EIA861
-0240670,Knik River,Matanuska Electric Assn Inc,2003,0.10,,0.08,,,,0.20,0.10,EIA861M
-0240670,Knik River,Matanuska Electric Assn Inc,2004,0.11,,0.09,,,,,0.10,EIA861M
-0240670,Knik River,Matanuska Electric Assn Inc,2005,0.11,,0.09,,,,,0.11,EIA861M
-0240670,Knik River,Matanuska Electric Assn Inc,2006,0.13,,0.11,,,,,0.12,EIA861M
-0240670,Knik River,Matanuska Electric Assn Inc,2007,0.13,,0.11,,,,,0.12,EIA861M
-0240670,Knik River,Matanuska Electric Assn Inc,2008,0.14,,0.12,,,,,0.13,EIA861M
-0240670,Knik River,Matanuska Electric Assn Inc,2009,0.16,,0.14,,,,,0.15,EIA861M
-0240670,Knik River,Matanuska Electric Assn Inc,2010,0.14,,0.11,,,,,0.13,EIA861M
-0240670,Knik River,Matanuska Electric Assn Inc,2011,0.15,,0.13,,,,,0.14,EIA861M
-0240670,Knik River,Matanuska Electric Assn Inc,2012,0.15,,0.13,,,,,0.14,EIA861M
-0240670,Knik River,Matanuska Electric Assn Inc,2013,0.15,,0.13,,,,,0.14,EIA861M
-0240670,Knik River,Matanuska Electric Assn Inc,2014,0.17,,0.14,,,,,0.16,EIA861M
-0240670,Knik River,Matanuska Electric Assn Inc,2015,0.20,,0.17,,,,,0.19,EIA861M
-0240670,Knik River,Matanuska Electric Assn Inc,2016,0.20,,0.17,,,,,0.19,EIA861M
-0240670,Knik River,Matanuska Electric Assn Inc,2017,0.21,,0.18,,,,,0.19,EIA861M
-0240670,Knik River,Matanuska Electric Assn Inc,2018,0.21,,0.18,,,,,0.20,EIA861M
-0240670,Knik River,Matanuska Electric Assn Inc,2019,0.22,,0.19,,,,,0.20,EIA861
-0240670,Knik River,Matanuska Electric Assn Inc,2020,0.22,,0.19,,,,,0.20,EIA861
-0240670,Knik River,Matanuska Electric Assn Inc,2021,0.21,,0.19,,,,,0.20,EIA861
 0240645,Knik-Fairview,Matanuska Electric Assn Inc,2001,0.11,,0.09,,0.22,,,0.11,EIA861
 0240645,Knik-Fairview,Matanuska Electric Assn Inc,2002,0.11,,0.09,,0.22,,,0.10,EIA861
 0240645,Knik-Fairview,Matanuska Electric Assn Inc,2003,0.10,,0.08,,,,0.20,0.10,EIA861M
@@ -2958,6 +2937,27 @@ fips_code,name,reporting_entity_name,year,residential_rate,residential_rate_subs
 0240645,Knik-Fairview,Matanuska Electric Assn Inc,2019,0.22,,0.19,,,,,0.20,EIA861
 0240645,Knik-Fairview,Matanuska Electric Assn Inc,2020,0.22,,0.19,,,,,0.20,EIA861
 0240645,Knik-Fairview,Matanuska Electric Assn Inc,2021,0.21,,0.19,,,,,0.20,EIA861
+0240670,Knik River,Matanuska Electric Assn Inc,2001,0.11,,0.09,,0.22,,,0.11,EIA861
+0240670,Knik River,Matanuska Electric Assn Inc,2002,0.11,,0.09,,0.22,,,0.10,EIA861
+0240670,Knik River,Matanuska Electric Assn Inc,2003,0.10,,0.08,,,,0.20,0.10,EIA861M
+0240670,Knik River,Matanuska Electric Assn Inc,2004,0.11,,0.09,,,,,0.10,EIA861M
+0240670,Knik River,Matanuska Electric Assn Inc,2005,0.11,,0.09,,,,,0.11,EIA861M
+0240670,Knik River,Matanuska Electric Assn Inc,2006,0.13,,0.11,,,,,0.12,EIA861M
+0240670,Knik River,Matanuska Electric Assn Inc,2007,0.13,,0.11,,,,,0.12,EIA861M
+0240670,Knik River,Matanuska Electric Assn Inc,2008,0.14,,0.12,,,,,0.13,EIA861M
+0240670,Knik River,Matanuska Electric Assn Inc,2009,0.16,,0.14,,,,,0.15,EIA861M
+0240670,Knik River,Matanuska Electric Assn Inc,2010,0.14,,0.11,,,,,0.13,EIA861M
+0240670,Knik River,Matanuska Electric Assn Inc,2011,0.15,,0.13,,,,,0.14,EIA861M
+0240670,Knik River,Matanuska Electric Assn Inc,2012,0.15,,0.13,,,,,0.14,EIA861M
+0240670,Knik River,Matanuska Electric Assn Inc,2013,0.15,,0.13,,,,,0.14,EIA861M
+0240670,Knik River,Matanuska Electric Assn Inc,2014,0.17,,0.14,,,,,0.16,EIA861M
+0240670,Knik River,Matanuska Electric Assn Inc,2015,0.20,,0.17,,,,,0.19,EIA861M
+0240670,Knik River,Matanuska Electric Assn Inc,2016,0.20,,0.17,,,,,0.19,EIA861M
+0240670,Knik River,Matanuska Electric Assn Inc,2017,0.21,,0.18,,,,,0.19,EIA861M
+0240670,Knik River,Matanuska Electric Assn Inc,2018,0.21,,0.18,,,,,0.20,EIA861M
+0240670,Knik River,Matanuska Electric Assn Inc,2019,0.22,,0.19,,,,,0.20,EIA861
+0240670,Knik River,Matanuska Electric Assn Inc,2020,0.22,,0.19,,,,,0.20,EIA861
+0240670,Knik River,Matanuska Electric Assn Inc,2021,0.21,,0.19,,,,,0.20,EIA861
 0240840,Kobuk,Alaska Village Electric Cooperative,2002,0.31,0.18,0.31,,,,,0.30,PCE
 0240840,Kobuk,Alaska Village Electric Cooperative,2003,0.53,0.29,0.53,,,,,0.53,PCE
 0240840,Kobuk,Alaska Village Electric Cooperative,2004,0.53,0.35,0.53,,,,,0.53,PCE
@@ -3818,26 +3818,6 @@ fips_code,name,reporting_entity_name,year,residential_rate,residential_rate_subs
 0253050,Nenana,Golden Valley Elec Assn Inc,2019,0.26,,0.25,0.18,,,,0.21,EIA861
 0253050,Nenana,Golden Valley Elec Assn Inc,2020,0.25,,0.24,0.17,,,,0.19,EIA861
 0253050,Nenana,Golden Valley Elec Assn Inc,2021,0.27,,0.26,0.18,,,,0.21,EIA861
-0253710,New Stuyahok,Alaska Village Electric Cooperative,2002,0.24,0.13,0.24,,,,,0.24,PCE
-0253710,New Stuyahok,Alaska Village Electric Cooperative,2003,0.41,0.21,0.41,,,,,0.41,PCE
-0253710,New Stuyahok,Alaska Village Electric Cooperative,2004,0.41,0.23,0.41,,,,,0.41,PCE
-0253710,New Stuyahok,Alaska Village Electric Cooperative,2005,0.46,0.27,0.46,,,,,0.46,PCE
-0253710,New Stuyahok,Alaska Village Electric Cooperative,2006,0.55,0.22,0.55,,,,,0.55,PCE
-0253710,New Stuyahok,Alaska Village Electric Cooperative,2007,0.52,0.19,0.52,,,,,0.52,PCE
-0253710,New Stuyahok,Alaska Village Electric Cooperative,2008,0.54,0.15,0.54,,,,,0.54,PCE
-0253710,New Stuyahok,Alaska Village Electric Cooperative,2009,0.62,0.19,0.62,,,,,0.62,PCE
-0253710,New Stuyahok,Alaska Village Electric Cooperative,2010,0.58,0.18,0.58,,,,,0.58,PCE
-0253710,New Stuyahok,Alaska Village Electric Cooperative,2011,0.62,0.21,0.62,,,,,0.62,PCE
-0253710,New Stuyahok,Alaska Village Electric Cooperative,2012,0.63,0.22,0.63,,,,,0.63,PCE
-0253710,New Stuyahok,Alaska Village Electric Cooperative,2013,0.65,0.21,0.65,,,,,0.64,PCE
-0253710,New Stuyahok,Alaska Village Electric Cooperative,2014,0.64,0.21,,,,,,,PCE
-0253710,New Stuyahok,Alaska Village Electric Cooperative,2015,0.64,0.22,0.64,,,,,0.64,PCE
-0253710,New Stuyahok,Alaska Village Electric Cooperative,2016,0.60,0.22,0.60,,,,,0.60,PCE
-0253710,New Stuyahok,Alaska Village Electric Cooperative,2017,0.57,0.22,0.57,,,,,0.57,PCE
-0253710,New Stuyahok,Alaska Village Electric Cooperative,2018,0.56,0.24,0.56,,,,,0.56,PCE
-0253710,New Stuyahok,Alaska Village Electric Cooperative,2019,0.59,0.24,0.59,,,,,0.59,PCE
-0253710,New Stuyahok,Alaska Village Electric Cooperative,2020,0.62,0.26,0.62,,,,,0.62,PCE
-0253710,New Stuyahok,Alaska Village Electric Cooperative,2021,0.54,0.26,0.54,,,,,0.54,PCE
 0253270,Newhalen,I-N-N Electric Coop Inc,2002,0.29,0.16,0.29,,,,,0.29,PCE
 0253270,Newhalen,I-N-N Electric Coop Inc,2003,0.49,0.24,,,,,,,PCE
 0253270,Newhalen,I-N-N Electric Coop Inc,2004,0.49,0.23,0.49,,,,,0.48,PCE
@@ -3858,6 +3838,26 @@ fips_code,name,reporting_entity_name,year,residential_rate,residential_rate_subs
 0253270,Newhalen,I-N-N Electric Coop Inc,2019,0.65,0.27,0.65,,,,,0.65,PCE
 0253270,Newhalen,I-N-N Electric Coop Inc,2020,0.64,0.27,0.64,,,,,0.64,PCE
 0253270,Newhalen,I-N-N Electric Coop Inc,2021,0.64,0.28,0.64,,,,,0.64,PCE
+0253710,New Stuyahok,Alaska Village Electric Cooperative,2002,0.24,0.13,0.24,,,,,0.24,PCE
+0253710,New Stuyahok,Alaska Village Electric Cooperative,2003,0.41,0.21,0.41,,,,,0.41,PCE
+0253710,New Stuyahok,Alaska Village Electric Cooperative,2004,0.41,0.23,0.41,,,,,0.41,PCE
+0253710,New Stuyahok,Alaska Village Electric Cooperative,2005,0.46,0.27,0.46,,,,,0.46,PCE
+0253710,New Stuyahok,Alaska Village Electric Cooperative,2006,0.55,0.22,0.55,,,,,0.55,PCE
+0253710,New Stuyahok,Alaska Village Electric Cooperative,2007,0.52,0.19,0.52,,,,,0.52,PCE
+0253710,New Stuyahok,Alaska Village Electric Cooperative,2008,0.54,0.15,0.54,,,,,0.54,PCE
+0253710,New Stuyahok,Alaska Village Electric Cooperative,2009,0.62,0.19,0.62,,,,,0.62,PCE
+0253710,New Stuyahok,Alaska Village Electric Cooperative,2010,0.58,0.18,0.58,,,,,0.58,PCE
+0253710,New Stuyahok,Alaska Village Electric Cooperative,2011,0.62,0.21,0.62,,,,,0.62,PCE
+0253710,New Stuyahok,Alaska Village Electric Cooperative,2012,0.63,0.22,0.63,,,,,0.63,PCE
+0253710,New Stuyahok,Alaska Village Electric Cooperative,2013,0.65,0.21,0.65,,,,,0.64,PCE
+0253710,New Stuyahok,Alaska Village Electric Cooperative,2014,0.64,0.21,,,,,,,PCE
+0253710,New Stuyahok,Alaska Village Electric Cooperative,2015,0.64,0.22,0.64,,,,,0.64,PCE
+0253710,New Stuyahok,Alaska Village Electric Cooperative,2016,0.60,0.22,0.60,,,,,0.60,PCE
+0253710,New Stuyahok,Alaska Village Electric Cooperative,2017,0.57,0.22,0.57,,,,,0.57,PCE
+0253710,New Stuyahok,Alaska Village Electric Cooperative,2018,0.56,0.24,0.56,,,,,0.56,PCE
+0253710,New Stuyahok,Alaska Village Electric Cooperative,2019,0.59,0.24,0.59,,,,,0.59,PCE
+0253710,New Stuyahok,Alaska Village Electric Cooperative,2020,0.62,0.26,0.62,,,,,0.62,PCE
+0253710,New Stuyahok,Alaska Village Electric Cooperative,2021,0.54,0.26,0.54,,,,,0.54,PCE
 0253820,Newtok,Ungusraq Power Company,2002,0.26,0.15,0.26,,,,,0.25,PCE
 0253820,Newtok,Ungusraq Power Company,2003,0.52,0.29,0.52,,,,,0.51,PCE
 0253820,Newtok,Ungusraq Power Company,2004,0.62,0.37,0.62,,,,,0.62,PCE

@@ -184,22 +184,6 @@ fips_code,name,residents_employed,unemployment_insurance_claimants,measurement_y
 0202080,Anaktuvuk Pass,166,53,2003
 0202080,Anaktuvuk Pass,163,52,2002
 0202080,Anaktuvuk Pass,166,42,2001
-0203110,Anchor Point,781,126,2016
-0203110,Anchor Point,781,126,2015
-0203110,Anchor Point,797,135,2014
-0203110,Anchor Point,813,175,2013
-0203110,Anchor Point,818,210,2012
-0203110,Anchor Point,800,201,2011
-0203110,Anchor Point,765,209,2010
-0203110,Anchor Point,761,204,2009
-0203110,Anchor Point,790,188,2008
-0203110,Anchor Point,795,161,2007
-0203110,Anchor Point,774,181,2006
-0203110,Anchor Point,768,165,2005
-0203110,Anchor Point,822,205,2004
-0203110,Anchor Point,788,213,2003
-0203110,Anchor Point,764,221,2002
-0203110,Anchor Point,795,182,2001
 0203000,Anchorage,131946,12303,2016
 0203000,Anchorage,131946,12303,2015
 0203000,Anchorage,131962,13734,2014
@@ -216,6 +200,22 @@ fips_code,name,residents_employed,unemployment_insurance_claimants,measurement_y
 0203000,Anchorage,121006,16422,2003
 0203000,Anchorage,119746,15513,2002
 0203000,Anchorage,118312,13758,2001
+0203110,Anchor Point,781,126,2016
+0203110,Anchor Point,781,126,2015
+0203110,Anchor Point,797,135,2014
+0203110,Anchor Point,813,175,2013
+0203110,Anchor Point,818,210,2012
+0203110,Anchor Point,800,201,2011
+0203110,Anchor Point,765,209,2010
+0203110,Anchor Point,761,204,2009
+0203110,Anchor Point,790,188,2008
+0203110,Anchor Point,795,161,2007
+0203110,Anchor Point,774,181,2006
+0203110,Anchor Point,768,165,2005
+0203110,Anchor Point,822,205,2004
+0203110,Anchor Point,788,213,2003
+0203110,Anchor Point,764,221,2002
+0203110,Anchor Point,795,182,2001
 0203220,Anderson,89,6,2016
 0203220,Anderson,89,6,2015
 0203220,Anderson,89,12,2014
@@ -1422,22 +1422,6 @@ fips_code,name,residents_employed,unemployment_insurance_claimants,measurement_y
 0224660,False Pass,34,6,2003
 0224660,False Pass,39,8,2002
 0224660,False Pass,36,6,2001
-0225000,Farm Loop,483,37,2016
-0225000,Farm Loop,483,37,2015
-0225000,Farm Loop,464,46,2014
-0225000,Farm Loop,481,65,2013
-0225000,Farm Loop,465,77,2012
-0225000,Farm Loop,468,76,2011
-0225000,Farm Loop,460,83,2010
-0225000,Farm Loop,543,81,2009
-0225000,Farm Loop,584,70,2008
-0225000,Farm Loop,548,50,2007
-0225000,Farm Loop,533,65,2006
-0225000,Farm Loop,494,47,2005
-0225000,Farm Loop,474,60,2004
-0225000,Farm Loop,468,67,2003
-0225000,Farm Loop,500,66,2002
-0225000,Farm Loop,456,46,2001
 0224980,Farmers Loop,2130,209,2016
 0224980,Farmers Loop,2130,209,2015
 0224980,Farmers Loop,2216,245,2014
@@ -1454,6 +1438,22 @@ fips_code,name,residents_employed,unemployment_insurance_claimants,measurement_y
 0224980,Farmers Loop,1667,194,2003
 0224980,Farmers Loop,1585,174,2002
 0224980,Farmers Loop,1649,158,2001
+0225000,Farm Loop,483,37,2016
+0225000,Farm Loop,483,37,2015
+0225000,Farm Loop,464,46,2014
+0225000,Farm Loop,481,65,2013
+0225000,Farm Loop,465,77,2012
+0225000,Farm Loop,468,76,2011
+0225000,Farm Loop,460,83,2010
+0225000,Farm Loop,543,81,2009
+0225000,Farm Loop,584,70,2008
+0225000,Farm Loop,548,50,2007
+0225000,Farm Loop,533,65,2006
+0225000,Farm Loop,494,47,2005
+0225000,Farm Loop,474,60,2004
+0225000,Farm Loop,468,67,2003
+0225000,Farm Loop,500,66,2002
+0225000,Farm Loop,456,46,2001
 0225220,Ferry,10,4,2016
 0225220,Ferry,10,4,2015
 0225220,Ferry,10,5,2014
@@ -2395,22 +2395,6 @@ fips_code,name,residents_employed,unemployment_insurance_claimants,measurement_y
 0240510,Klukwan,61,18,2003
 0240510,Klukwan,48,13,2002
 0240510,Klukwan,52,17,2001
-0240670,Knik River,311,38,2016
-0240670,Knik River,311,38,2015
-0240670,Knik River,313,39,2014
-0240670,Knik River,323,49,2013
-0240670,Knik River,299,60,2012
-0240670,Knik River,308,79,2011
-0240670,Knik River,294,82,2010
-0240670,Knik River,287,68,2009
-0240670,Knik River,308,65,2008
-0240670,Knik River,321,60,2007
-0240670,Knik River,305,64,2006
-0240670,Knik River,311,52,2005
-0240670,Knik River,278,62,2004
-0240670,Knik River,301,79,2003
-0240670,Knik River,296,68,2002
-0240670,Knik River,281,66,2001
 0240645,Knik-Fairview,6952,966,2016
 0240645,Knik-Fairview,6952,966,2015
 0240645,Knik-Fairview,6690,1057,2014
@@ -2427,6 +2411,22 @@ fips_code,name,residents_employed,unemployment_insurance_claimants,measurement_y
 0240645,Knik-Fairview,3524,772,2003
 0240645,Knik-Fairview,3415,738,2002
 0240645,Knik-Fairview,3284,632,2001
+0240670,Knik River,311,38,2016
+0240670,Knik River,311,38,2015
+0240670,Knik River,313,39,2014
+0240670,Knik River,323,49,2013
+0240670,Knik River,299,60,2012
+0240670,Knik River,308,79,2011
+0240670,Knik River,294,82,2010
+0240670,Knik River,287,68,2009
+0240670,Knik River,308,65,2008
+0240670,Knik River,321,60,2007
+0240670,Knik River,305,64,2006
+0240670,Knik River,311,52,2005
+0240670,Knik River,278,62,2004
+0240670,Knik River,301,79,2003
+0240670,Knik River,296,68,2002
+0240670,Knik River,281,66,2001
 0240840,Kobuk,71,15,2016
 0240840,Kobuk,71,15,2015
 0240840,Kobuk,62,20,2014
@@ -3170,22 +3170,6 @@ fips_code,name,residents_employed,unemployment_insurance_claimants,measurement_y
 0253050,Nenana,252,72,2003
 0253050,Nenana,283,89,2002
 0253050,Nenana,275,78,2001
-0253710,New Stuyahok,213,36,2016
-0253710,New Stuyahok,213,36,2015
-0253710,New Stuyahok,217,45,2014
-0253710,New Stuyahok,212,51,2013
-0253710,New Stuyahok,211,57,2012
-0253710,New Stuyahok,196,67,2011
-0253710,New Stuyahok,212,61,2010
-0253710,New Stuyahok,213,58,2009
-0253710,New Stuyahok,210,61,2008
-0253710,New Stuyahok,206,50,2007
-0253710,New Stuyahok,203,47,2006
-0253710,New Stuyahok,205,53,2005
-0253710,New Stuyahok,203,67,2004
-0253710,New Stuyahok,202,52,2003
-0253710,New Stuyahok,217,38,2002
-0253710,New Stuyahok,191,27,2001
 0253270,Newhalen,50,10,2016
 0253270,Newhalen,50,10,2015
 0253270,Newhalen,53,19,2014
@@ -3202,6 +3186,22 @@ fips_code,name,residents_employed,unemployment_insurance_claimants,measurement_y
 0253270,Newhalen,42,11,2003
 0253270,Newhalen,39,14,2002
 0253270,Newhalen,45,6,2001
+0253710,New Stuyahok,213,36,2016
+0253710,New Stuyahok,213,36,2015
+0253710,New Stuyahok,217,45,2014
+0253710,New Stuyahok,212,51,2013
+0253710,New Stuyahok,211,57,2012
+0253710,New Stuyahok,196,67,2011
+0253710,New Stuyahok,212,61,2010
+0253710,New Stuyahok,213,58,2009
+0253710,New Stuyahok,210,61,2008
+0253710,New Stuyahok,206,50,2007
+0253710,New Stuyahok,203,47,2006
+0253710,New Stuyahok,205,53,2005
+0253710,New Stuyahok,203,67,2004
+0253710,New Stuyahok,202,52,2003
+0253710,New Stuyahok,217,38,2002
+0253710,New Stuyahok,191,27,2001
 0253820,Newtok,172,23,2016
 0253820,Newtok,172,23,2015
 0253820,Newtok,151,33,2014
@@ -3764,6 +3764,11 @@ fips_code,name,residents_employed,unemployment_insurance_claimants,measurement_y
 0261788,Point MacKenzie,44,14,2003
 0261788,Point MacKenzie,41,15,2002
 0261788,Point MacKenzie,40,14,2001
+0262285,Portage Creek,9,1,2005
+0262285,Portage Creek,11,3,2004
+0262285,Portage Creek,10,1,2003
+0262285,Portage Creek,9,1,2002
+0262285,Portage Creek,8,0,2001
 0262510,Port Alexander,26,3,2016
 0262510,Port Alexander,26,3,2015
 0262510,Port Alexander,18,2,2014
@@ -3860,11 +3865,6 @@ fips_code,name,residents_employed,unemployment_insurance_claimants,measurement_y
 0263870,Port Protection,29,8,2003
 0263870,Port Protection,23,4,2002
 0263870,Port Protection,17,6,2001
-0262285,Portage Creek,9,1,2005
-0262285,Portage Creek,11,3,2004
-0262285,Portage Creek,10,1,2003
-0262285,Portage Creek,9,1,2002
-0262285,Portage Creek,8,0,2001
 0264240,Primrose,34,8,2016
 0264240,Primrose,34,8,2015
 0264240,Primrose,36,8,2014

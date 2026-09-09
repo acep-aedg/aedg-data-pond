@@ -1,12 +1,12 @@
 resource:
   name: public_service_areas
   title: Electric Service Areas of Alaska
-  summary: | 
+  summary: |
     Electric service areas and certificates
-  description: | 
-    Spatial file of electric service areas in Alaska, used in AEDG to associate communities with infrastructure and sales reporting. 
+  description: |
+    Spatial file of electric service areas in Alaska, used in AEDG to associate communities with infrastructure and sales reporting.
   path: "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/public/public_service_areas/public_service_areas.geojson"
-  keywords: 
+  keywords:
     - electricty
     - sales
     - grid
@@ -15,33 +15,33 @@ resource:
     - Geography
     - Infrastructure
   publisher: acep
-  sources:  
+  sources:
     - acep.electric_service_areas
-  licenses: 
+  licenses:
     - CC-BY-4.0
-  spatial: 
+  spatial:
     name: Alaska
     boundingBox: [-187.55, 51.21, -130.0, 71.35]
     crs: OGC:CRS84
   temporal:
     referenceDate: "2026-01-01"
-    timeseries:  
+    timeseries:
       - start: "2025-01"
         end: "2026-01"
         resolutionValue: null
         resolutionUnit: null
         alignment: null
         aggregationType: null
-  primaryKey: 
+  primaryKey:
     - cpcn_id
-  contributors: 
+  contributors:
     - title: Liam England
       organization: acep
       roles:
         - DataCurator
-      date: 2025 
+      date: 2025
       object: data
-      comment: | 
+      comment: |
         Shapefiles of individual electric service areas were collected from RCA, cleaned and validated, then combined into a singular geojson file.
     - organization: acep
       roles:
@@ -49,4 +49,3 @@ resource:
       date: now
       object: data via https://github.com/acep-aedg/aedg-etl-2024
       comment: |
-

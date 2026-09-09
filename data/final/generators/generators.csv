@@ -169,8 +169,8 @@ aea_plant_id,eia_plant_id,plant_generator_id,status,data_source_year,engine_make
 51,6314,4,RE,2021,,,Petroleum Liquids,IC,,S,0.3,,,0.3,0.3,,,,,f,12,1980,4,2005,f,Electric Utility,1,DFO,,,,,,f,,,,EIA860
 51,6314,4a,OP,2021,,,Petroleum Liquids,IC,,S,0.5,,0.9,0.5,0.5,0.1,f,,,f,4,2005,,,f,Electric Utility,1,DFO,,,,,10,f,,f,,EIA860
 51,6314,5,RE,2021,,,Petroleum Liquids,IC,,S,0.5,,,0.5,0.5,,,,,f,3,1988,4,2005,f,Electric Utility,1,DFO,,,,,,f,,f,,EIA860
-51,6314,5B,OP,2021,,,Petroleum Liquids,IC,,S,1.3,,0.9,1.3,1.3,0.3,f,,,f,6,2016,,,f,Electric Utility,1,DFO,,,,,10,f,,f,,EIA860
 51,6314,5a,RE,2021,,,Petroleum Liquids,IC,,S,0.5,,0.9,0.5,0.5,0.1,,,,f,4,2005,6,2016,f,Electric Utility,1,DFO,,,,,10,f,,f,,EIA860
+51,6314,5B,OP,2021,,,Petroleum Liquids,IC,,S,1.3,,0.9,1.3,1.3,0.3,f,,,f,6,2016,,,f,Electric Utility,1,DFO,,,,,10,f,,f,,EIA860
 51,6314,6,OP,2021,,,Petroleum Liquids,IC,,S,0.9,,0.9,0.9,0.9,0.2,f,,,f,4,1995,,,f,Electric Utility,1,DFO,,,,,10,f,,f,,EIA860
 51,6314,,OP,,,,Onshore Wind Turbine,WT,,,0.4,,,,,,,,,,10,2011,,,,Electric Utility,1,WND,,,,4,,,,,,AEA
 52,6315,1,OS,2021,Cummins,QSX15-G9,Internal Combustion Engine,IC,,,0.6,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
@@ -299,8 +299,8 @@ aea_plant_id,eia_plant_id,plant_generator_id,status,data_source_year,engine_make
 75,6348,3,OP,2021,Caterpillar ,3512,Internal Combustion Engine,IC,,,1.05,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
 75,6348,4,RE,2021,,,Petroleum Liquids,IC,,S,0.3,,0.9,0.3,0.3,0.1,,,,f,11,1986,4,2019,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
 75,6348,4,OP,2021,Caterpillar ,3456,Internal Combustion Engine,IC,,,0.528,,,,,,,,,,,,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment
-75,6348,4B,RE,2021,,,Petroleum Liquids,IC,,S,0.8,,0.9,0.8,0.8,0.2,,,,f,10,2002,4,2019,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
 75,6348,4a,RE,2021,,,Petroleum Liquids,IC,,S,0.5,,0.9,0.5,0.5,0.1,,,,f,9,2004,5,2014,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
+75,6348,4B,RE,2021,,,Petroleum Liquids,IC,,S,0.8,,0.9,0.8,0.8,0.2,,,,f,10,2002,4,2019,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
 75,6348,5,RE,2021,,,Petroleum Liquids,IC,,S,0.5,,,0.5,0.5,,,,,f,10,1986,9,2004,f,Electric Utility,1,DFO,,,,,,f,,,,EIA860
 75,6348,5A,RE,2021,,,Petroleum Liquids,IC,,S,0.8,,0.9,0.8,0.8,0.2,,,,f,5,2014,4,2019,f,Electric Utility,1,DFO,,,,,10,f,,,,EIA860
 76,6349,1,OP,2021,Cummins,QST30-G5,Internal Combustion Engine,IC,,,0.75,,,,,,,,,,10,2019,,,,Electric Utility,,DFO,,,,,,,,,,AEA PH Assessment

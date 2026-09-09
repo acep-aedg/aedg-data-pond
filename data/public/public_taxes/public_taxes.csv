@@ -777,15 +777,6 @@ fips_code,name,tax_year,total_tax_rev_usd,total_sales_tax_rev_usd,property_tax_r
 0253050,Nenana,2019,338295,94277,244018,0,t,f
 0253050,Nenana,2018,382958,179368,197356,6234,f,f
 0253050,Nenana,2017,382958,179368,197356,6234,t,f
-0253710,New Stuyahok,2025,0,0,0,0,t,t
-0253710,New Stuyahok,2024,0,0,0,0,t,f
-0253710,New Stuyahok,2023,0,0,0,0,t,f
-0253710,New Stuyahok,2022,0,0,0,0,f,f
-0253710,New Stuyahok,2021,0,0,0,0,f,f
-0253710,New Stuyahok,2020,0,0,0,0,f,f
-0253710,New Stuyahok,2019,0,0,0,0,f,f
-0253710,New Stuyahok,2018,0,0,0,0,f,f
-0253710,New Stuyahok,2017,0,0,0,0,f,f
 0253270,Newhalen,2025,0,0,0,0,t,t
 0253270,Newhalen,2024,0,0,0,0,t,f
 0253270,Newhalen,2023,0,0,0,0,t,f
@@ -795,6 +786,15 @@ fips_code,name,tax_year,total_tax_rev_usd,total_sales_tax_rev_usd,property_tax_r
 0253270,Newhalen,2019,0,0,0,0,f,f
 0253270,Newhalen,2018,0,0,0,0,f,f
 0253270,Newhalen,2017,0,0,0,0,f,f
+0253710,New Stuyahok,2025,0,0,0,0,t,t
+0253710,New Stuyahok,2024,0,0,0,0,t,f
+0253710,New Stuyahok,2023,0,0,0,0,t,f
+0253710,New Stuyahok,2022,0,0,0,0,f,f
+0253710,New Stuyahok,2021,0,0,0,0,f,f
+0253710,New Stuyahok,2020,0,0,0,0,f,f
+0253710,New Stuyahok,2019,0,0,0,0,f,f
+0253710,New Stuyahok,2018,0,0,0,0,f,f
+0253710,New Stuyahok,2017,0,0,0,0,f,f
 0253930,Nightmute,2025,4914,4914,0,0,t,t
 0253930,Nightmute,2024,4914,4914,0,0,t,f
 0253930,Nightmute,2023,2186,2186,0,0,t,f
