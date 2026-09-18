@@ -132,7 +132,11 @@ datasets:
     data_path: data/public/public_income_poverty/public_income_poverty.csv
     bbox: infer
     time: specify
-  public_service_area_geoms:
-    data_path: data/public/public_service_area_geoms/public_service_area_geoms.geojson
+  # public_service_area_geoms:
+  #   data_path: data/public/public_service_area_geoms/public_service_area_geoms.geojson
+  #   bbox: infer
+  #   time: specify
+  public_school_districts:
+    data_path: data/public/public_school_districts/public_school_districts.geojson
     bbox: infer
     time: specify

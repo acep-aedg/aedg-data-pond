@@ -1,0 +1,34 @@
+resource:
+  name: public_school_districts
+  title: School Districts
+  summary: | 
+      A statewide GeoJSON dataset defining spatial boundaries and administrative metadata for all public school districts in Alaska.
+  description: |
+      This dataset provides geographic boundary polygons and attribute data for Alaska's public school districts. It pairs spatial coordinates with key administrative metadata, including district names, unique record IDs, governance types (such as Borough or REAA), and operational status flags.
+  path: "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/public/public_school_districts/public_school_districts.geojson"
+  keywords:
+    - education
+  topics:
+    - Social
+  publisher: acep
+  sources: # list of directory names in https://github.com/acep-aedg/aedg-etl-2024/tree/main/data-sources to get source.yml
+    - deed.school_districts
+  licenses: # list of keys in the license.yml registry
+    - CC-BY-4.0
+  spatial:
+    name: Alaska
+    boundingBox: [-187.55, 51.21, -130.0, 71.35]
+    crs: OGC:CRS84
+  temporal:
+    referenceDate: "2022-11-03"  # equivalent to as_of_date
+    timeseries: null # is a list of possibly multiple time periods
+  primaryKey: # list of the fields that uniquely identifies each row in the table
+    - id
+  contributors:
+    - organization: acep
+      roles:
+        - DataCurator
+      date: 2025
+      object: data via https://github.com/acep-aedg/aedg-etl-2024
+      comment: |
+        Identified data source and integrated it into the data pipeline.
