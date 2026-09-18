@@ -28,6 +28,7 @@ export_to_geojson "public" "public_service_areas" "(SELECT * FROM public_service
 export_to_geojson "public" "public_service_area_geoms" "(SELECT * FROM public_service_area_geoms)"
 export_to_geojson "public" "public_senate_districts" "(SELECT * FROM public_senate_districts)"
 export_to_geojson "public" "public_school_districts" "(SELECT * FROM public_school_districts)"
+export_to_geojson "public" "public_regional_corporations" "(SELECT * FROM public_regional_corporations)"
 
 # Function to export Postgres table to CSV
 export_to_csv() {
