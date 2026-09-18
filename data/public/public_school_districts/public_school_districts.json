@@ -1,0 +1,153 @@
+{
+    "@context": "https://raw.githubusercontent.com/OpenEnergyPlatform/oemetadata/production/oemetadata/latest/context.json",
+    "name": "public_school_districts",
+    "title": "School Districts",
+    "description": "A statewide GeoJSON dataset defining spatial boundaries and administrative metadata for all public school districts in Alaska.\n",
+    "@id": "https://github.com/acep-aedg/aedg-data-pond",
+    "resources": [
+        {
+            "@id": "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/public/public_school_districts/public_school_districts.geojson",
+            "name": "public_school_districts",
+            "topics": [
+                "Social"
+            ],
+            "title": "School Districts",
+            "path": "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/public/public_school_districts/public_school_districts.geojson",
+            "description": "This dataset provides geographic boundary polygons and attribute data for Alaska's public school districts. It pairs spatial coordinates with key administrative metadata, including district names, unique record IDs, governance types (such as Borough or REAA), and operational status flags.\n",
+            "languages": [
+                "en-US"
+            ],
+            "keywords": [
+                "education"
+            ],
+            "publicationDate": "2026",
+            "context": {
+                "title": "Alaska Energy Data Gateway v3.0",
+                "homepage": "https://akenergygateway.alaska.edu/",
+                "publisher": "Alaska Center for Energy and Power (ACEP) at the University of Alaska Fairbanks (UAF)",
+                "fundingAgency": "State of Alaska"
+            },
+            "spatial": {
+                "extent": {
+                    "name": "Alaska",
+                    "boundingBox": [
+                        -187.55,
+                        51.21,
+                        -130.0,
+                        71.35
+                    ],
+                    "crs": "OGC:CRS84"
+                }
+            },
+            "temporal": {
+                "referenceDate": "2022-11-03",
+                "timeseries": []
+            },
+            "sources": [
+                {
+                    "title": "School Districts and REAAs",
+                    "authors": [
+                        "Alaska Department of Education & Early Development (DEED)"
+                    ],
+                    "description": "This dataset describes Alaska school district boundaries and addresses. Each school district boundary (geometry, not attributes) is derived from one of three sources. 1. Borough and Census Area Boundaries (as a proxy for school districts in the organized borough). 2. Regional Educational Attendance Area Boundaries (school districts in the unorganized borough). A Regional Educational Attendance Area (REAA) is an educational area that is established in an unorganized borough of the state established by AS 14.08.031(a). REAA elections administered by the Division of Elections. This dataset is revised for recasting of REAA sections using 2020 Census data. The 2020 version is the first time REAA boundaries were fully created using Geographic Information System (GIS) technology. 3. City Boundaries - Boundaries are based on the actual certificates issued by the Local Boundary Commission. For more information, see https://education.alaska.gov/DOE_Rolodex/SchoolCalendar/DistrictAndSchoolInfo/DistrictDetails\nAEDG includes information on school districts because in smaller communities, schools are often the dominant consumer of energy.\n",
+                    "publicationYear": "2022",
+                    "path": "https://maps.commerce.alaska.gov/server/rest/services/Education_Related/School_Districts_and_REAAs/MapServer/0",
+                    "sourceLicenses": []
+                }
+            ],
+            "licenses": [
+                {
+                    "name": "CC-BY-4.0",
+                    "title": "Creative Commons Attribution 4.0 International",
+                    "path": "https://creativecommons.org/licenses/by/4.0/",
+                    "instruction": "You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.\n",
+                    "attribution": "Alaska Center for Energy and Power, University of Alaska Fairbanks"
+                }
+            ],
+            "contributors": [
+                {
+                    "organization": "Alaska Center for Energy and Power (ACEP) at the University of Alaska Fairbanks (UAF)",
+                    "roles": [
+                        "DataCurator"
+                    ],
+                    "date": "2025",
+                    "object": "data via https://github.com/acep-aedg/aedg-etl-2024",
+                    "comment": "Identified data source and integrated it into the data pipeline.\n",
+                    "path": "https://www.uaf.edu/acep/"
+                },
+                {
+                    "organization": "Alaska Center for Energy and Power (ACEP) at the University of Alaska Fairbanks (UAF)",
+                    "roles": [
+                        "DataCurator"
+                    ],
+                    "date": "2026",
+                    "object": "metadata via https://github.com/acep-aedg/aedg-metadata",
+                    "comment": "Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.\n",
+                    "path": "https://www.uaf.edu/acep/"
+                }
+            ],
+            "type": "geospatial",
+            "format": "geojson",
+            "encoding": "",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "id",
+                        "long_name": "ID",
+                        "description": "School district ID",
+                        "type": "string",
+                        "nullable": false,
+                        "unit": null
+                    },
+                    {
+                        "name": "is_active",
+                        "long_name": "Is Active",
+                        "description": "If the district is active or not",
+                        "type": "boolean",
+                        "nullable": false,
+                        "unit": null
+                    },
+                    {
+                        "name": "name",
+                        "long_name": "Name",
+                        "description": "Official school district name",
+                        "type": "string",
+                        "nullable": false,
+                        "unit": null
+                    },
+                    {
+                        "name": "notes",
+                        "long_name": "Notes",
+                        "description": "Additional notes about the record",
+                        "type": "string",
+                        "nullable": true,
+                        "unit": null
+                    },
+                    {
+                        "name": "type",
+                        "long_name": "Type",
+                        "description": "Administrative governance type",
+                        "type": "string",
+                        "nullable": false,
+                        "unit": null
+                    }
+                ],
+                "primaryKey": [
+                    "id"
+                ]
+            },
+            "dialect": {
+                "delimiter": ",",
+                "decimalSeparator": "."
+            }
+        }
+    ],
+    "metaMetadata": {
+        "metadataVersion": "OEMetadata-2.0.4",
+        "metadataLicense": {
+            "name": "CC0-1.0",
+            "title": "Creative Commons Zero v1.0 Universal",
+            "path": "https://creativecommons.org/publicdomain/zero/1.0"
+        }
+    }
+}
