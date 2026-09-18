@@ -1,19 +1,20 @@
 resource:
-  name: public_school_districts
-  title: School Districts
+  name: public_senate_districts
+  title: Senate Districts
   summary: | 
-      A statewide GeoJSON dataset defining spatial boundaries and administrative metadata for all public school districts in Alaska.
+      A statewide GeoJSON dataset defining spatial boundaries for Senate districts in Alaska.
   description: |
-      This dataset provides geographic boundary polygons and attribute data for Alaska's public school districts. It pairs spatial coordinates with key administrative metadata, including district names, unique record IDs, governance types (such as Borough or REAA), and operational status flags.
-  path: "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/public/public_school_districts/public_school_districts.geojson"
+      This dataset provides geographic boundary polygons and attribute data for Alaska's Senate districts.
+  path: "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/public/public_senate_districts/public_senate_districts.geojson"
   keywords:
-    - education
+    - government 
+    - census
   topics:
     - Social
-    - Geography
+    - Geography 
   publisher: acep
   sources: # list of directory names in https://github.com/acep-aedg/aedg-etl-2024/tree/main/data-sources to get source.yml
-    - deed.school_districts
+    - dcra.senate_districts
   licenses: # list of keys in the license.yml registry
     - CC-BY-4.0
   spatial:
@@ -21,10 +22,10 @@ resource:
     boundingBox: [-187.55, 51.21, -130.0, 71.35]
     crs: OGC:CRS84
   temporal:
-    referenceDate: "2022-11-03"  # equivalent to as_of_date
+    referenceDate: "2022-05-24"  # equivalent to as_of_date
     timeseries: null # is a list of possibly multiple time periods
   primaryKey: # list of the fields that uniquely identifies each row in the table
-    - id
+    - district
   contributors:
     - organization: acep
       roles:
