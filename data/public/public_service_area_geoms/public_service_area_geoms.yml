@@ -1,11 +1,10 @@
 resource:
-  name: public_service_area_geoms  # Changed from public_service_areas
-  title: Electric Service Areas of Alaska
+  name: public_service_area_geoms
+  title: Electric Service Areas of Alaska (Individual Geometries)
   summary: |
-    Electric service areas and certificates
+    Electric service area boundaries broken into individual polygon features per physical territory.
   description: |
-    Spatial file of electric service areas in Alaska, used in AEDG to associate communities with infrastructure and sales reporting.
-  # Changed the folder and file name in the URL path below:
+    Spatial file of electric service area polygons in Alaska, used in AEDG (Alaska Energy Data Gateway) to associate communities with infrastructure and sales reporting. Non-contiguous service boundaries assigned to a single utility CPCN are split into separate feature records.
   path: "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/public/public_service_area_geoms/public_service_area_geoms.geojson"
   keywords:
     - electricty
@@ -17,8 +16,7 @@ resource:
     - Infrastructure
   publisher: acep
   sources:
-    # TODO: how are the data sources created in aedg-etl-2024??
-    - acep.electric_service_area_geoms
+    - acep.electric_service_areas
   licenses:
     - CC-BY-4.0
   spatial:
@@ -27,13 +25,7 @@ resource:
     crs: OGC:CRS84
   temporal:
     referenceDate: "2026-01-01"
-    timeseries:
-      - start: "2025-01"
-        end: "2026-01"
-        resolutionValue: null
-        resolutionUnit: null
-        alignment: null
-        aggregationType: null
+    timeseries: null
   primaryKey:
     - service_area_geom_id
   contributors:
@@ -48,6 +40,8 @@ resource:
     - organization: acep
       roles:
         - DataCurator
-      date: now
+      date: 2025
       object: data via https://github.com/acep-aedg/aedg-etl-2024
       comment: |
+          Identified data source and integrated it into the data pipeline.
+          

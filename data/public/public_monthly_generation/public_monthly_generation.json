@@ -177,9 +177,9 @@
                     {
                         "name": "service_area_geom_id",
                         "long_name": "Service Area Geometry ID",
-                        "description": "Unique identifier of service area polygon",
+                        "description": "Unique composite identifier for each individual spatial polygon. Formatted as '{cpcn_id}_{geom_index}' (e.g., '169_1').",
                         "type": "string",
-                        "nullable": true,
+                        "nullable": false,
                         "unit": null
                     },
                     {

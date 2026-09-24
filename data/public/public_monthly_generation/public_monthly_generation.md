@@ -38,7 +38,7 @@ AEDG uses this dataset as the best available compilation of electrical generatio
 | FIPS Code | string | None | 5-digit Federal Information Processing Series (FIPS) code identifier for places and boroughs (counties), assigned and maintained by the Census Bureau |
 | Community Name | string | None | Name of the community |
 | Alaska Energy Authority Plant ID | number | None |  |
-| Service Area Geometry ID | string | None | Unique identifier of service area polygon |
+| Service Area Geometry ID | string | None | Unique composite identifier for each individual spatial polygon. Formatted as '{cpcn_id}_{geom_index}' (e.g., '169_1'). |
 | Year | integer | None | Four digit year as Common Era (CE) |
 | Month | integer | None | Month as 1-12 for the reported observation |
 | Fuel Type | string | None | Generation fuel as defined by the U.S. Energy Information Administration (EIA) |
