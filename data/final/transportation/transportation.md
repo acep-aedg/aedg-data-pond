@@ -36,7 +36,7 @@ AEDG used to use the ANSI codes in this dataset as an identifier of communities 
 | Coastal | boolean | None | Answers the question: Is the Community located on the coast? ("t" for yes, and "f" for no) |
 | Road or Ferry | boolean | None | Answers the question: Is the Community served by a state ferry or a road? ("t" for yes, and "f" for no) |
 | Description | string | None | Narrative description |
-| As of Date | string | None | When the transportation dataset last updated |
+| As of Date | string | None | When the dataset was last updated |
 
 ### Comments
 > **2025**: 1. Identified data source and integrated it into the data pipeline.

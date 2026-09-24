@@ -140,3 +140,7 @@ datasets:
     data_path: data/public/public_school_districts/public_school_districts.geojson
     bbox: infer
     time: specify
+  public_senate_districts:
+    data_path: data/public/public_senate_districts/public_senate_districts.geojson
+    bbox: infer
+    time: specify

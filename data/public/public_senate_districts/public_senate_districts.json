@@ -1,25 +1,26 @@
 {
     "@context": "https://raw.githubusercontent.com/OpenEnergyPlatform/oemetadata/production/oemetadata/latest/context.json",
-    "name": "public_school_districts",
-    "title": "School Districts",
-    "description": "A statewide GeoJSON dataset defining spatial boundaries and administrative metadata for all public school districts in Alaska.\n",
+    "name": "public_senate_districts",
+    "title": "Senate Districts",
+    "description": "A statewide GeoJSON dataset defining spatial boundaries for Senate districts in Alaska.\n",
     "@id": "https://github.com/acep-aedg/aedg-data-pond",
     "resources": [
         {
-            "@id": "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/public/public_school_districts/public_school_districts.geojson",
-            "name": "public_school_districts",
+            "@id": "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/public/public_senate_districts/public_senate_districts.geojson",
+            "name": "public_senate_districts",
             "topics": [
                 "Social",
                 "Geography"
             ],
-            "title": "School Districts",
-            "path": "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/public/public_school_districts/public_school_districts.geojson",
-            "description": "This dataset provides geographic boundary polygons and attribute data for Alaska's public school districts. It pairs spatial coordinates with key administrative metadata, including district names, unique record IDs, governance types (such as Borough or REAA), and operational status flags.\n",
+            "title": "Senate Districts",
+            "path": "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/public/public_senate_districts/public_senate_districts.geojson",
+            "description": "This dataset provides geographic boundary polygons and attribute data for Alaska's Senate districts.\n",
             "languages": [
                 "en-US"
             ],
             "keywords": [
-                "education"
+                "government",
+                "census"
             ],
             "publicationDate": "2026",
             "context": {
@@ -41,18 +42,19 @@
                 }
             },
             "temporal": {
-                "referenceDate": "2022-11-03",
+                "referenceDate": "2022-05-24",
                 "timeseries": []
             },
             "sources": [
                 {
-                    "title": "School Districts and REAAs",
+                    "title": "Alaska State House Districts",
                     "authors": [
-                        "Alaska Department of Education & Early Development (DEED)"
+                        "Alaska Division of Elections",
+                        "Alaska Division of Community and Regional Affairs (DCRA)"
                     ],
-                    "description": "This dataset describes Alaska school district boundaries and addresses. Each school district boundary (geometry, not attributes) is derived from one of three sources. 1. Borough and Census Area Boundaries (as a proxy for school districts in the organized borough). 2. Regional Educational Attendance Area Boundaries (school districts in the unorganized borough). A Regional Educational Attendance Area (REAA) is an educational area that is established in an unorganized borough of the state established by AS 14.08.031(a). REAA elections administered by the Division of Elections. This dataset is revised for recasting of REAA sections using 2020 Census data. The 2020 version is the first time REAA boundaries were fully created using Geographic Information System (GIS) technology. 3. City Boundaries - Boundaries are based on the actual certificates issued by the Local Boundary Commission. For more information, see https://education.alaska.gov/DOE_Rolodex/SchoolCalendar/DistrictAndSchoolInfo/DistrictDetails\nAEDG includes information on school districts because in smaller communities, schools are often the dominant consumer of energy.\n",
+                    "description": "The Alaska State Senate is the upper house in the Alaska State Legislature. Its districts are composed of two contiguous house districts, if possible. This data has been visualized in a Geographic Information Systems (GIS) format and is provided as a service in the DCRA Information Portal by the Alaska Department of Commerce, Community, and Economic Development Division of Community and Regional Affairs (SOA DCCED DCRA), Research and Analysis section. SOA DCCED DCRA Research and Analysis is not the authoritative source for this data.\nAEDG includes house and senate districts as community attributes to identify governing entities.\n",
                     "publicationYear": "2022",
-                    "path": "https://maps.commerce.alaska.gov/server/rest/services/Education_Related/School_Districts_and_REAAs/MapServer/0",
+                    "path": "https://maps.commerce.alaska.gov/server/rest/services/Govt_Related/Govt_House_and_Senate_Districts/MapServer/1",
                     "sourceLicenses": []
                 }
             ],
@@ -93,48 +95,24 @@
             "schema": {
                 "fields": [
                     {
-                        "name": "id",
-                        "long_name": "ID",
-                        "description": "School district ID",
-                        "type": "string",
-                        "nullable": false,
-                        "unit": null
-                    },
-                    {
-                        "name": "is_active",
-                        "long_name": "Is Active",
-                        "description": "If the district is active or not",
-                        "type": "boolean",
-                        "nullable": false,
-                        "unit": null
-                    },
-                    {
-                        "name": "name",
-                        "long_name": "Name",
-                        "description": "Official school district name",
-                        "type": "string",
-                        "nullable": false,
-                        "unit": null
-                    },
-                    {
-                        "name": "notes",
-                        "long_name": "Notes",
-                        "description": "Additional notes about the record",
+                        "name": "as_of_date",
+                        "long_name": "As of Date",
+                        "description": "When the dataset was last updated",
                         "type": "string",
                         "nullable": true,
                         "unit": null
                     },
                     {
-                        "name": "type",
-                        "long_name": "Type",
-                        "description": "Administrative governance type",
+                        "name": "district",
+                        "long_name": "District",
+                        "description": "Name of the district",
                         "type": "string",
                         "nullable": false,
                         "unit": null
                     }
                 ],
                 "primaryKey": [
-                    "id"
+                    "district"
                 ]
             },
             "dialect": {

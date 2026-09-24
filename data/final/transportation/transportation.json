@@ -191,7 +191,7 @@
                     {
                         "name": "as_of_date",
                         "long_name": "As of Date",
-                        "description": "When the transportation dataset last updated",
+                        "description": "When the dataset was last updated",
                         "type": "string",
                         "nullable": true,
                         "unit": null
