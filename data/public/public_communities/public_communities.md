@@ -75,7 +75,7 @@ Heating degree days (HDD), defined in the U.S. as degrees F below 65 multiplied 
 ### Data Dictionary
 | Column Name | Type | Unit | Description |
 | :--- | :--- | :--- | :--- |
-| FIPS Code | string | None | 5-digit Federal Information Processing Series (FIPS) code identifier for places and boroughs (counties), assigned and maintained by the Census Bureau |
+| FIPS Code | string | None | 5-digit Federal Information Processing Standards (FIPS) code identifier for geographic entities, assigned and maintained by the Census Bureau |
 | GNIS Code | integer | None | The GNIS contains information about physical geographic features of many types in the United States, associated areas, and Antarctica, current and historical, but not including roads and highways or cultural features. The database holds the Federally recognized name of each feature and defines the feature location by state, county, USGS topographic map, and geographic coordinates. |
 | Community Name | string | None | Name of the community |
 | Alaska Native Regional Corporation | string | None | Alaska Native regional corporations were created by the Alaska Native Claims Settlement Act (ANCSA) |

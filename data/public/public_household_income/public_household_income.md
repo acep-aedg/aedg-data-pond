@@ -31,7 +31,7 @@ AEDG uses this list to define canonical community locations to use in spatial jo
 ### Data Dictionary
 | Column Name | Type | Unit | Description |
 | :--- | :--- | :--- | :--- |
-| FIPS Code | string | None | 5-digit Federal Information Processing Series (FIPS) code identifier for places and boroughs (counties), assigned and maintained by the Census Bureau |
+| FIPS Code | string | None | 5-digit Federal Information Processing Standards (FIPS) code identifier for geographic entities, assigned and maintained by the Census Bureau |
 | Community Name | string | None | Name of the community |
 | Total Households | integer | households | Estimated total number of households |
 | Median Household Income | integer | USD | Estimated median household income (including benefits, adjusted for inflation to survey end year) |

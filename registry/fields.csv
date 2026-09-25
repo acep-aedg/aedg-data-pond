@@ -1,5 +1,4 @@
 name,long_name,description,type,nullable,unit,file
-
 aea_id,Alaska Energy Authority ID,Identification number given by Alaska Energy Authority,string,TRUE,NULL,default
 aea_plant_id,Alaska Energy Authority Plant ID,,number,FALSE,null,default
 aea_plant_ids,Alaska Energy Authority Plant ID,,number,FALSE,null,default
@@ -74,7 +73,7 @@ estimated_pop_male,Estimated Male Population,Estimated male population,number,TR
 estimated_pop_total,Estimated Population All Ages,Estimated population of all ages,number,TRUE,null,default
 estimated_population_below_poverty,Population Below Poverty Level,"Estimated population with income below the federal poverty level",integer,true,persons,public_income_poverty.csv
 estimated_population_poverty_determined,Population Evaluated for Poverty Status,"Estimated total population for whom poverty status is determined",integer,true,persons,public_income_poverty.csv
-fips_code,FIPS Code,"5-digit Federal Information Processing Series (FIPS) code identifier for places and boroughs (counties), assigned and maintained by the Census Bureau",string,FALSE,null,default
+fips_code,FIPS Code,"5-digit Federal Information Processing Standards (FIPS) code identifier for geographic entities, assigned and maintained by the Census Bureau",string,FALSE,null,default
 fuel_supplier,Fuel Supplier,,string,TRUE,NULL,default
 fuel_type,Fuel Type,"Name of fuel type reported, either heating fuel or gasoline",string,TRUE,null,public_fuel_prices.csv
 fuel_type,Fuel Type,Generation fuel as defined by the U.S. Energy Information Administration (EIA),string,TRUE,null,default
@@ -102,6 +101,7 @@ is_active,Is Active,If the district is active or not,boolean,FALSE,NULL,public_s
 is_most_recent,Most Recent Population,"Answers the question: Is this the most recent population estimate? (""1"" for yes, and ""0"" for no)",integer,TRUE,null,public_populations_ages_sexes.csv
 is_most_recent,Most Recent Taxes,"Answers the question: Are these the most recent values for these taxes?  (""t"" for yes, and ""f"" for no)",boolean,TRUE,USD,public_taxes.csv
 jet_fuel_capacity,Jet Fuel Capacity,Capacity of jet fuel in gallons,number,TRUE,gallons,default
+land_area,Land Area,Total land area,number,FALSE,sq m,default
 latitude,Latitude,Latitude,number,TRUE,degrees N,default
 longitude,Longitude,Longitude,number,TRUE,degrees E,default
 margin_error_per_capita_income,Per Capita Income Margin of Error,"Margin of error for estimated per capita income",integer,true,USD,public_income_poverty.csv
@@ -111,6 +111,7 @@ measurement_year,Year,Four digit year as Common Era (CE),integer,FALSE,null,publ
 month,Month,Month as 1-12 for the reported observation,integer,FALSE,null,default
 months_of_data,Months of Data,Number of months represented by the utilities annual reporting,number,TRUE,null,default
 name,Community Name,Name of the community,string,FALSE,null,default
+name,Name,Name of the regional corporation,string,FALSE,NULL,public_regional_corporations.geojson
 name,Name,Official school district name,string,FALSE,NULL,public_school_districts.geojson
 nameplate_capacity_mw,Nameplate Capacity (MW),Nameplate Capacity of the powerplant in Megawatts,number,TRUE,MW,default
 net_generation_mwh,Net Generation (MWh),Net electrical generation,number,TRUE,MWh,default
@@ -184,6 +185,7 @@ unbilled_sales_mwh,Unbilled Sales,Sales of electricity to unbilled customers,num
 unemployment_insurance_claimants,Unemployment Insurance Claimants,Number of people who claimed unimployment insurance,integer,TRUE,null,default
 url,Uniform Resource Locator,Internet address of resource,string,TRUE,NULL,default
 uscg_id,USCG ID,Identification number given by United States Coast Guard,string,TRUE,NULL,default
+water_area,Water Area,Total water area,number,FALSE,sq m,default
 year,Year,Four digit year as Common Era (CE) for which generation capacity was summarized,integer,FALSE,null,capacity.csv
 year,Year,Four digit year as Common Era (CE) for which generation capacity was summarized,integer,FALSE,null,public_capacity.csv
 year,Year,Four digit year as Common Era (CE) for which monthly reported generation was summed,integer,FALSE,null,public_yearly_generation.csv

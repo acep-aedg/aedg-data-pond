@@ -144,3 +144,7 @@ datasets:
     data_path: data/public/public_senate_districts/public_senate_districts.geojson
     bbox: infer
     time: specify
+  public_regional_corporations:
+    data_path: data/public/public_regional_corporations/public_regional_corporations.geojson
+    bbox: infer
+    time: specify

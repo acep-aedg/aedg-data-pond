@@ -32,7 +32,7 @@ AEDG uses this dataset to provide employment figures for communities. However, t
 ### Data Dictionary
 | Column Name | Type | Unit | Description |
 | :--- | :--- | :--- | :--- |
-| FIPS Code | string | None | 5-digit Federal Information Processing Series (FIPS) code identifier for places and boroughs (counties), assigned and maintained by the Census Bureau |
+| FIPS Code | string | None | 5-digit Federal Information Processing Standards (FIPS) code identifier for geographic entities, assigned and maintained by the Census Bureau |
 | Community Name | string | None | Name of the community |
 | Residents Employed | integer | None | Number of residents  |
 | Unemployment Insurance Claimants | integer | None | Number of people who claimed unimployment insurance |

@@ -35,7 +35,7 @@ AEDG uses this dataset as the best available compilation of electricity sales, i
 ### Data Dictionary
 | Column Name | Type | Unit | Description |
 | :--- | :--- | :--- | :--- |
-| FIPS Code | string | None | 5-digit Federal Information Processing Series (FIPS) code identifier for places and boroughs (counties), assigned and maintained by the Census Bureau |
+| FIPS Code | string | None | 5-digit Federal Information Processing Standards (FIPS) code identifier for geographic entities, assigned and maintained by the Census Bureau |
 | Community Name | string | None | Name of the community |
 | Reporting Entity | string | None | The name of the electric service area providing electricity to the community |
 | Year | integer | None | Four digit year as Common Era (CE) |

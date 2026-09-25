@@ -262,7 +262,7 @@
                     {
                         "name": "fips_code",
                         "long_name": "FIPS Code",
-                        "description": "5-digit Federal Information Processing Series (FIPS) code identifier for places and boroughs (counties), assigned and maintained by the Census Bureau",
+                        "description": "5-digit Federal Information Processing Standards (FIPS) code identifier for geographic entities, assigned and maintained by the Census Bureau",
                         "type": "string",
                         "nullable": false,
                         "unit": null
