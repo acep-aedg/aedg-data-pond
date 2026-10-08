@@ -1,0 +1,154 @@
+{
+    "@context": "https://raw.githubusercontent.com/OpenEnergyPlatform/oemetadata/production/oemetadata/latest/context.json",
+    "name": "public_regional_corporations",
+    "title": "Alaska Native Regional Corporations",
+    "description": "Statewide geographic boundaries and land/water area attributes for Alaska Native Regional Corporations (ANRCs).\n",
+    "@id": "https://github.com/acep-aedg/aedg-data-pond",
+    "resources": [
+        {
+            "@id": "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/public/public_regional_corporations/public_regional_corporations.geojson",
+            "name": "public_regional_corporations",
+            "topics": [
+                "Geography",
+                "Social"
+            ],
+            "title": "Alaska Native Regional Corporations",
+            "path": "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/public/public_regional_corporations/public_regional_corporations.geojson",
+            "description": "This dataset provides spatial boundary polygons, FIPS codes, and area measurements (land and water) for Alaska Native Regional Corporations.\n",
+            "languages": [
+                "en-US"
+            ],
+            "keywords": [
+                "native corporation",
+                "census"
+            ],
+            "publicationDate": "2026",
+            "context": {
+                "title": "Alaska Energy Data Gateway v3.0",
+                "homepage": "https://akenergygateway.alaska.edu/",
+                "publisher": "Alaska Center for Energy and Power (ACEP) at the University of Alaska Fairbanks (UAF)",
+                "fundingAgency": "State of Alaska"
+            },
+            "spatial": {
+                "extent": {
+                    "name": "Alaska",
+                    "boundingBox": [
+                        -187.55,
+                        51.21,
+                        -130.0,
+                        71.35
+                    ],
+                    "crs": "OGC:CRS84"
+                }
+            },
+            "temporal": {
+                "referenceDate": "2026-09-18",
+                "timeseries": []
+            },
+            "sources": [
+                {
+                    "title": "Alaska Native Regional Corporations",
+                    "authors": [
+                        "United States Census Bureau"
+                    ],
+                    "description": "This feature layer, utilizing National Geospatial Data Asset (NGDA) data from the U.S. Census Bureau (USCB), displays the twelve territories that make up the Alaska Native Regional Corporations (ANRC). Per the Bureau, each ANRC is defined \"as a \u2019Regional Corporation\u2019 organized under the laws of the State of Alaska to conduct both the for-profit and non-profit affairs of Alaska Natives within a defined region of Alaska. Twelve Regional Corporations cover the entire state of Alaska except for the area within the Annette Island Reserve (a federally recognized American Indian reservation under the governmental authority of the Metlakatla Indian Community). A thirteenth represents Alaska Natives who do not live in Alaska and do not identify with any of the twelve corporations.\u201d\nRegional Corporations were created by the Alaska Native Claims Settlement Act (ANCSA) and are organized around geographic areas defined by the common heritage and shared interests of the indigenous peoples. The boundaries of these areas do not directly represent land ownership, but instead define the areas in which each regional corporation could select lands to be conveyed under the provisions of ANCSA.\nAEDG includes Regional Corporations in the description of communities.\n",
+                    "publicationYear": "2024",
+                    "path": "https://www.arcgis.com/home/item.html?id=c78df0004ab845a9a32697d9c20d09e0",
+                    "sourceLicenses": [
+                        {
+                            "name": "public-domain",
+                            "title": "U.S. Public Domain",
+                            "path": "http://www.usa.gov/publicdomain/label/1.0/",
+                            "instruction": "Data and content created by government employees within the scope of their employment are not subject\nto domestic copyright protection under 17 U.S.C. \u00a7 105. Government works are by default in the U.S.\nPublic Domain. You cannot use government materials in a way that implies endorsement by a government agency, official, or employee. You also cannot use federal government trademarks or federal government agency logos without permission - https://resources.data.gov/open-licenses/.\n"
+                        }
+                    ]
+                }
+            ],
+            "licenses": [
+                {
+                    "name": "CC-BY-4.0",
+                    "title": "Creative Commons Attribution 4.0 International",
+                    "path": "https://creativecommons.org/licenses/by/4.0/",
+                    "instruction": "You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.\n",
+                    "attribution": "Alaska Center for Energy and Power, University of Alaska Fairbanks"
+                }
+            ],
+            "contributors": [
+                {
+                    "organization": "Alaska Center for Energy and Power (ACEP) at the University of Alaska Fairbanks (UAF)",
+                    "roles": [
+                        "DataCurator"
+                    ],
+                    "date": "2025",
+                    "object": "data via https://github.com/acep-aedg/aedg-etl-2024",
+                    "comment": "Identified data source and integrated it into the data pipeline.\n",
+                    "path": "https://www.uaf.edu/acep/"
+                },
+                {
+                    "organization": "Alaska Center for Energy and Power (ACEP) at the University of Alaska Fairbanks (UAF)",
+                    "roles": [
+                        "DataCurator"
+                    ],
+                    "date": "2026",
+                    "object": "metadata via https://github.com/acep-aedg/aedg-metadata",
+                    "comment": "Documented sources and defined the data dictionary using OEMetadata (Frictionless) formatted metadata https://doi.org/10.5281/zenodo.15019561.\n",
+                    "path": "https://www.uaf.edu/acep/"
+                }
+            ],
+            "type": "geospatial",
+            "format": "geojson",
+            "encoding": "",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "fips_code",
+                        "long_name": "FIPS Code",
+                        "description": "5-digit Federal Information Processing Standards (FIPS) code identifier for geographic entities, assigned and maintained by the Census Bureau",
+                        "type": "string",
+                        "nullable": false,
+                        "unit": null
+                    },
+                    {
+                        "name": "land_area",
+                        "long_name": "Land Area",
+                        "description": "Total land area",
+                        "type": "number",
+                        "nullable": false,
+                        "unit": "sq m"
+                    },
+                    {
+                        "name": "name",
+                        "long_name": "Name",
+                        "description": "Name of the regional corporation",
+                        "type": "string",
+                        "nullable": false,
+                        "unit": null
+                    },
+                    {
+                        "name": "water_area",
+                        "long_name": "Water Area",
+                        "description": "Total water area",
+                        "type": "number",
+                        "nullable": false,
+                        "unit": "sq m"
+                    }
+                ],
+                "primaryKey": [
+                    "fips_code"
+                ]
+            },
+            "dialect": {
+                "delimiter": ",",
+                "decimalSeparator": "."
+            }
+        }
+    ],
+    "metaMetadata": {
+        "metadataVersion": "OEMetadata-2.0.4",
+        "metadataLicense": {
+            "name": "CC0-1.0",
+            "title": "Creative Commons Zero v1.0 Universal",
+            "path": "https://creativecommons.org/publicdomain/zero/1.0"
+        }
+    }
+}

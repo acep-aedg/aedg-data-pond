@@ -47,7 +47,7 @@ AEDG uses this dataset to add the economic region spatial polygon to Anchorage g
 ### Data Dictionary
 | Column Name | Type | Unit | Description |
 | :--- | :--- | :--- | :--- |
-| FIPS Code | string | None | 5-digit Federal Information Processing Series (FIPS) code identifier for places and boroughs (counties), assigned and maintained by the Census Bureau |
+| FIPS Code | string | None | 5-digit Federal Information Processing Standards (FIPS) code identifier for geographic entities, assigned and maintained by the Census Bureau |
 | Community Name | string | None | Name of the community |
 | Fuel Price USD | number | USD/gal | Retail price of fuel, expressed as U. S. Dollars (USD) per gallon. Prices are "point in time" as reported by local vendors and contacts. |
 | Fuel Type | string | None | Name of fuel type reported, either heating fuel or gasoline |

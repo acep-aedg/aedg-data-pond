@@ -39,7 +39,7 @@ AEDG uses this list to define canonical community names since, as free text, the
 ### Data Dictionary
 | Column Name | Type | Unit | Description |
 | :--- | :--- | :--- | :--- |
-| FIPS Code | string | None | 5-digit Federal Information Processing Series (FIPS) code identifier for places and boroughs (counties), assigned and maintained by the Census Bureau |
+| FIPS Code | string | None | 5-digit Federal Information Processing Standards (FIPS) code identifier for geographic entities, assigned and maintained by the Census Bureau |
 | Community Name | string | None | Name of the community |
 | Tank Farm ID | string | None |  |
 | USCG ID | string | None | Identification number given by United States Coast Guard |

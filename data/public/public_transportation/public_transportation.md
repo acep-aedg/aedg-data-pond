@@ -32,7 +32,7 @@ AEDG uses these data to display transportation options because these greatly inf
 ### Data Dictionary
 | Column Name | Type | Unit | Description |
 | :--- | :--- | :--- | :--- |
-| FIPS Code | string | None | 5-digit Federal Information Processing Series (FIPS) code identifier for places and boroughs (counties), assigned and maintained by the Census Bureau |
+| FIPS Code | string | None | 5-digit Federal Information Processing Standards (FIPS) code identifier for geographic entities, assigned and maintained by the Census Bureau |
 | Community Name | string | None | Name of the community |
 | Airport | boolean | None | Answers the question: Does the Community have an airport? ("t" for yes, and "f" for no) |
 | Harbor Dock | boolean | None | Answers the question: Does the Community have a harbor with a dock? ("t" for yes, and "f" for no) |

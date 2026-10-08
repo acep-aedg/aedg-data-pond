@@ -32,7 +32,7 @@ AEDG includes tax data as a measure of economic activity. From our analysis, thi
 ### Data Dictionary
 | Column Name | Type | Unit | Description |
 | :--- | :--- | :--- | :--- |
-| FIPS Code | string | None | 5-digit Federal Information Processing Series (FIPS) code identifier for places and boroughs (counties), assigned and maintained by the Census Bureau |
+| FIPS Code | string | None | 5-digit Federal Information Processing Standards (FIPS) code identifier for geographic entities, assigned and maintained by the Census Bureau |
 | Community Name | string | None | Name of the community |
 | Tax Year | integer | None | Four digit tax year as Common Era (CE) |
 | Total Tax Revenue | integer | USD | Total tax revenue in U.S. Dollars (USD) for either the community or the borough |

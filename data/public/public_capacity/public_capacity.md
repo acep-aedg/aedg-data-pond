@@ -35,7 +35,7 @@ AEDG uses this dataset as the best available compilation of electrical generatio
 ### Data Dictionary
 | Column Name | Type | Unit | Description |
 | :--- | :--- | :--- | :--- |
-| FIPS Code | string | None | 5-digit Federal Information Processing Series (FIPS) code identifier for places and boroughs (counties), assigned and maintained by the Census Bureau |
+| FIPS Code | string | None | 5-digit Federal Information Processing Standards (FIPS) code identifier for geographic entities, assigned and maintained by the Census Bureau |
 | Community Name | string | None | Name of the community |
 | Service Area Capacity (MW) | number | MW | Sum of nameplace capacities of all generation plants within the service area |
 | Fuel Type | string | None | Generation fuel as defined by the U.S. Energy Information Administration (EIA) |

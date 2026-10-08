@@ -1,0 +1,36 @@
+resource:
+  name: public_regional_corporations
+  title: Alaska Native Regional Corporations
+  summary: | 
+      Statewide geographic boundaries and land/water area attributes for Alaska Native Regional Corporations (ANRCs).
+  description: |
+      This dataset provides spatial boundary polygons, FIPS codes, and area measurements (land and water) for Alaska Native Regional Corporations.
+  path: "https://raw.githubusercontent.com/acep-aedg/aedg-data-pond/refs/heads/main/data/public/public_regional_corporations/public_regional_corporations.geojson"
+  keywords:
+    - native corporation
+    - census
+  topics:
+    - Geography
+    - Social
+  publisher: acep
+  sources: # list of directory names in https://github.com/acep-aedg/aedg-etl-2024/tree/main/data-sources to get source.yml
+    - census.regional_corporations
+  licenses: # list of keys in the license.yml registry
+    - CC-BY-4.0
+  spatial:
+    name: Alaska
+    boundingBox: [-187.55, 51.21, -130.0, 71.35]
+    crs: OGC:CRS84
+  temporal:
+    referenceDate: "2026-09-18"
+    timeseries: null # is a list of possibly multiple time periods
+  primaryKey: # list of the fields that uniquely identifies each row in the table
+    - fips_code
+  contributors:
+    - organization: acep
+      roles:
+        - DataCurator
+      date: 2025
+      object: data via https://github.com/acep-aedg/aedg-etl-2024
+      comment: |
+        Identified data source and integrated it into the data pipeline.
