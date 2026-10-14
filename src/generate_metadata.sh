@@ -1,6 +1,14 @@
 #!/bin/bash
 
-SOURCE_DIR_PATH=~/repos/aedg-etl-2024/data-sources
+if [ -f .env ]; then
+  source .env
+fi
+
+if [ -z "$SOURCE_DIR_PATH" ]; then
+  echo "Error: SOURCE_DIR_PATH is not defined in .env" >&2
+  exit 1
+fi
+
 CONFIG=src/generate_metadata.yml
 
 DATASETS=$(yq ".datasets | keys | .[]" $CONFIG)
